@@ -1,0 +1,203 @@
+{
+    "CurrentJobIsManagement": true,
+    "HighestManagementScore": {
+        "Value": 55
+    },
+    "ManagementLevel": "Mid",
+    "ExecutiveType": "NONE",
+    "MinimumYears": {
+        "Value": 3
+    },
+    "RequiredDegree": "bachelors",
+    "JobTitles": {
+        "MainJobTitle": "Media Partner Development Manager",
+        "JobTitle": [
+            "Partner Development Manager"
+        ]
+    },
+    "EmployerNames": {
+        "MainEmployerName": "Sports Teams across EMEA",
+        "EmployerName": []
+    },
+    "Degrees": [
+        {
+            "Name": "BA",
+            "Type": "bachelors"
+        }
+    ],
+    "LanguageCodes": [
+        "en",
+        "it",
+        "fr",
+        "ar"
+    ],
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 40,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "590",
+                            "SubTaxonomyName": "Channel, Partner & Ecosystem Marketing",
+                            "PercentOfOverall": 10,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "1400103",
+                                    "Name": "Ecosystem",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "586",
+                            "SubTaxonomyName": "Technical Product Marketing",
+                            "PercentOfOverall": 10,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "1400035",
+                                    "Name": "Product Expertise",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "585",
+                            "SubTaxonomyName": "Product",
+                            "PercentOfOverall": 10,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "1400018",
+                                    "Name": "Product Roadmap",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 10,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 40,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 30,
+                            "PercentOfParent": 75,
+                            "Skills": [
+                                {
+                                    "Id": "011365",
+                                    "Name": "Best Practices",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "021737",
+                                    "Name": "Metrics",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "025224",
+                                    "Name": "Account Management",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "436",
+                            "SubTaxonomyName": "Management Activities or Functions",
+                            "PercentOfOverall": 10,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "003875",
+                                    "Name": "Operations",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "7",
+                    "Name": "Finance",
+                    "PercentOfOverall": 10,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "703",
+                            "SubTaxonomyName": "Corporate Development",
+                            "PercentOfOverall": 10,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "7000025",
+                                    "Name": "Monetization",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "4",
+                    "Name": "CAD\/CAM",
+                    "PercentOfOverall": 10,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "358",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 10,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "023866",
+                                    "Name": "Cadence",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "JobMetadata": {
+        "PlainText": " JobTitle: Media Partner Development Manager - Sports Description:\r\nMedia Partner Development Manager (Sports)\r\n\r\n\r\nFacebook is seeking to grow its Media Community Development team with a Partner Development Manager (Sports) to help support an ecosystem of media partners. The Media Community Development team sits within Media & Community Partnerships and engages partners at scale to drive meaningful audience and monetization growth, optimized for efficiency and agility, while maintaining a high quality partner experience.\r\n\r\n\r\nPassion for the intersection of sports business, media and technology is essential. The successful candidate will own relationships with a group of Sports Teams across EMEA. They will be tasked with optimizing the use of Facebook and all of its platforms as a content distribution, fan engagement, and business platform - in a way that benefits publishers, sports fans, and Facebook. The role will be based in London.\r\n\r\n\r\nThrough operational rigor and knowledge of their vertical and partner set, this person will also work cross-functionally across Marketing, Operations, Analytics, and Product teams to help shape our products, inform strategy on approaches to new partnerships opportunities, and optimize new experiences and processes to ensure our partners are successful. The role is a 12 month contractor role covering for maternity leave.\r\n\r\n\r\nMedia Partner Development Manager Responsibilities\r\n\r\n\r\n\u2022 Develop scalable solutions to build, manage, and grow a large set of partners;\r\n\r\n\u2022 Account management: become the primary point of contact for Facebook\u2019s partners, helping them solve problems and achieve their business goals\r\n\r\n\u2022 Manage day-to-day relationships, including establishing an ongoing cadence of partner communication and outreach, and addressing business and operational issues\r\n\r\n\u2022 Hold webinars, workshops, and trainings to onboard partners to new products and help them succeed\r\n\r\n\u2022 Work with marketing and communications teams to develop and maintain vertical specific best practices and collateral\r\n\r\n\u2022 Track, analyse, and communicate key quantitative metrics to develop and execute against partnership goals\r\n\r\n\u2022 Work cross functionally with a variety of teams, including product, marketing, and analytics teams to advocate for partner needs\r\n\r\n\u2022 Develop new partner opportunities by researching and identifying potential partnerships;\r\n\r\n\u2022 Be a trusted consultant to high value partners and help them adopt our products to maximize their audience on Facebook\r\n\r\n\u2022 Develop deep product expertise with an ability to collect and synthesize meaningful feedback to drive product roadmap\r\n\r\n\u2022 Identify and share outstanding partner best practices and case studies to support all of our sports partners\r\n\r\n\u2022 Adapt quickly to product changes and limitations, and communicate these strategically to stakeholders\r\n\r\n\r\nMinimum Qualifications\r\n\r\n\r\n\u2022 Proven track record of developing relationships and managing partnerships\r\n\r\n\u2022 3+ years of experience, including partner or product experience\r\n\r\n\u2022 Experience with process or product adoption, education and\/or onboarding\r\n\r\n\u2022 3+ years experience within the Sports ecosystem\r\n\r\n\u2022 Experience using data to make decisions\r\n\r\n\u2022 Experience communicating and presenting to internal and external partners\r\n\r\n\u2022 Experience working cross-functionally with all levels of management, both internally and externally\r\n\r\n\u2022 Proven track record of driving partnership strategy at a consumer internet or sports-focused company\r\n\r\n\u2022 BA\/BS degree or higher\r\n\r\n\u2022 Rapid learner who thrives in a fast-paced environment\r\n\r\n\r\nPreferred Qualifications\r\n\r\n\u2022 Proven track record of driving partnership strategy at a consumer internet or sports-focused company\r\n\r\n\u2022 Fluent in one or more of the following languages (on top of English): Italian, French or Arabic\r\n\r\n\u2022 Track record of developing relationships and winning business over the phone\r\n\r\n\u2022 Experience working cross-functionally with all levels of management, both internally and externally\r\n Skills: Sports ecosystem",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = Invariant Language (Invariant Country); Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2021-06-02",
+        "SovrenSignature": [
+            "YsYBAAAAAAA="
+        ]
+    }
+}

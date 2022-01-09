@@ -1,0 +1,540 @@
+{
+    "CurrentJobIsManagement": false,
+    "HighestManagementScore": {
+        "Value": 0
+    },
+    "ManagementLevel": "None",
+    "ExecutiveType": "NONE",
+    "MinimumYears": {
+        "Value": 3
+    },
+    "RequiredDegree": "bachelors",
+    "JobTitles": {
+        "MainJobTitle": "Program Analyst",
+        "JobTitle": [
+            "Program Analyst"
+        ]
+    },
+    "EmployerNames": {
+        "MainEmployerName": "Agency Investment",
+        "EmployerName": []
+    },
+    "Degrees": [
+        {
+            "Name": "BA\/BSc",
+            "Type": "bachelors"
+        }
+    ],
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 23,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "193",
+                            "SubTaxonomyName": "Database",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 27,
+                            "Skills": [
+                                {
+                                    "Id": "008481",
+                                    "Name": "SQL",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "014961",
+                                    "Name": "Data Analysis",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "204",
+                            "SubTaxonomyName": "Programming",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 24,
+                            "Skills": [
+                                {
+                                    "Id": "1004764",
+                                    "Name": "Drivers",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "198",
+                            "SubTaxonomyName": "Network",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 24,
+                            "Skills": [
+                                {
+                                    "Id": "019800",
+                                    "Name": "Infrastructure Management",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "553",
+                            "SubTaxonomyName": "Big Data",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "5530941",
+                                    "Name": "Data Architecture",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "201",
+                            "SubTaxonomyName": "Architecture",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "014963",
+                                    "Name": "Data Architecture",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "7",
+                    "Name": "Finance",
+                    "PercentOfOverall": 22,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "710",
+                            "SubTaxonomyName": "Real Estate & Facilities",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "7000113",
+                                    "Name": "Financial Project Management",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "7000114",
+                                            "Name": "Program Management",
+                                            "ExistsInText": false,
+                                            "Required": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "247",
+                            "SubTaxonomyName": "Collections",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "024640",
+                                    "Name": "Closer",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "243",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "023147",
+                                    "Name": "Finance",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "245",
+                            "SubTaxonomyName": "Compliance",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "007211",
+                                    "Name": "ROI",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "023164",
+                                    "Name": "Forecasting",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "705",
+                            "SubTaxonomyName": "Accounting",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "7000318",
+                                    "Name": "Forecasting",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "246",
+                            "SubTaxonomyName": "Treasury",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "012194",
+                                    "Name": "Business Analysis",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 16,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "528",
+                            "SubTaxonomyName": "Attitude",
+                            "PercentOfOverall": 11,
+                            "PercentOfParent": 67,
+                            "Skills": [
+                                {
+                                    "Id": "005483",
+                                    "Name": "Problem-Solving",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "026353",
+                                    "Name": "Self-Starter",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "532",
+                            "SubTaxonomyName": "Aptitudes",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "031025",
+                                    "Name": "Articulate",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 14,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 39,
+                            "Skills": [
+                                {
+                                    "Id": "1400261",
+                                    "Name": "Digital Media",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 19,
+                            "Skills": [
+                                {
+                                    "Id": "007212",
+                                    "Name": "ROI",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "588",
+                            "SubTaxonomyName": "Data & Analytics",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 13,
+                            "Skills": [
+                                {
+                                    "Id": "1400068",
+                                    "Name": "Marketing Analysis",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400327",
+                                            "Name": "Data Analysis",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "590",
+                            "SubTaxonomyName": "Channel, Partner & Ecosystem Marketing",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "1400106",
+                                    "Name": "Competitive Analysis",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "585",
+                            "SubTaxonomyName": "Product",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "1400015",
+                                    "Name": "Competitive Analysis",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "223",
+                            "SubTaxonomyName": "Market Research",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "024807",
+                                    "Name": "Competitive Analysis",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 12,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "436",
+                            "SubTaxonomyName": "Management Activities or Functions",
+                            "PercentOfOverall": 11,
+                            "PercentOfParent": 92,
+                            "Skills": [
+                                {
+                                    "Id": "003875",
+                                    "Name": "Operations",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "004542",
+                                    "Name": "Performance Analysis",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "017857",
+                                    "Name": "Forecasting",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 8,
+                            "Skills": [
+                                {
+                                    "Id": "014960",
+                                    "Name": "Data Analysis",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "024808",
+                                    "Name": "Competitive Analysis",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "030775",
+                                    "Name": "Sales Operations",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "71",
+                    "Name": "Strategy and Planning",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "876",
+                            "SubTaxonomyName": "Workflow and Processes",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 89,
+                            "Skills": [
+                                {
+                                    "Id": "024469",
+                                    "Name": "Business Analysis",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "502",
+                            "SubTaxonomyName": "Planning and Estimating",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 11,
+                            "Skills": [
+                                {
+                                    "Id": "017858",
+                                    "Name": "Forecasting",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "13",
+                    "Name": "Manufacturing",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "365",
+                            "SubTaxonomyName": "Printing",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022179",
+                                    "Name": "Welding",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "009683",
+                                            "Name": "Tooling",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "27",
+                    "Name": "Light Technical\/Trades\/Skilled Labor",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "287",
+                            "SubTaxonomyName": "Machine Shop",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "081083",
+                                    "Name": "Welding",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "009682",
+                                            "Name": "Tooling",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "JobMetadata": {
+        "PlainText": " JobTitle: Business Analyst Description:\r\nFacebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.\r\n\r\n\r\nFacebook is seeking an experienced Program Analyst to join our Agency Investment team which manages Facebooks partnership programmes with our global media agencies. You will partner closely with cross functional groups such as Data Engineering and Finance, to drive the reporting and analysis of our global investment programs on every dimension. A core part of the role will involve data insights, business analysis and performance reporting. You will use your ability to derive insight from complex data to support the evolution of partnership programmes and aid decision making. You will provide business critical insights, ensure cross-functional alignment across partnership programme goals, execution and tracking, and help teams activate strategic partnerships and new initiatives. Additionally, you will have an active role in the development and roll-out of processes, policies and reporting for performance tracking and best practice sharing. As well having a proven track record in program management, business analysis and performance management, the candidate will need to demonstrate strong team working and influencing skills, as this is a highly cross-functional role.\r\n\r\n\r\nWhat you will do\r\n\r\n\r\nProgram management\r\n\r\n\u2022 Work closely with the Investment team and cross-functionally with our internal partners to manage our programs.\r\n\r\n\u2022 Drive strategic and operational alignment with other business and commercial programs focused on agency development.\r\n\r\n\u2022 Identify tooling and process opportunities that can streamline the programme operations and improve efficiency and return of the programme.\r\n\r\n\r\nPerformance and data analysis\r\n\r\n\u2022 Responsible for monthly, quarterly, and periodic tracking reports associated to specific investment programs which inform key stakeholders (executive and operational) on performance. This might include strategic modelling, quarterly business reviews, competitive analysis, performance reviews, forecasting etc\r\n\r\n\u2022 Conduct specific analytical projects using internal and external data (e.g. revenue, product, market, industry) to derive insights that will drive programme development and decision making\r\n\r\n\u2022 Generate business performance analysis capabilities that drive deep understanding of the performance drivers, demonstrate programme ROI and effectiveness and maximise operational automation.\r\n\r\n\r\nData and Tooling infrastructure management\r\n\r\n\u2022 Work with Data Engineering, and Finance teams to understand the data architecture needed to manage our reporting and analytical insights and deploy our programs. Partner with Data Engineering team to execute on this architecture.\r\n\r\n\u2022 Drive in depth analysis on projects across our larger investment teams to ensure consistency and synergies across our investment areas\r\n\r\n\r\nWhat you will bring\r\n\r\n\u2022 BA\/BSc required in an analytical or business field from a leading university\r\n\r\n\u2022 3+ years of work experience required in Consulting, Sales Operations, Sales Finance, Analytics\r\n\r\n\u2022 Experience in program management across functions, geographies, and seniority levels\r\n\r\n\u2022 Advanced excel skills are essential\r\n\r\n\u2022 Excellent knowledge of SQL required and experience navigating data systems and tool\r\n\r\n\u2022 Quantitative\/analytical skills. Ability to show data and analysis in an interesting and compelling way.\r\n\r\n\u2022 Creative thinker with strong problem-solving skills - ability to think outside the box and demonstrate a \u201ccan do\u201d attitude is critical\r\n\r\n\u2022 Articulate, adaptable and assertive communicator\r\n\r\n\u2022 Strong team working and people skills, as this is a highly cross-functional role\r\n\r\n\u2022 Intelligent, motivated self-starter with strong interpersonal skills and work ethic\r\n\r\n\u2022 Above all else, humility is something that will make the candidate fit in well with our team and ethos\r\n\r\n\r\nPreferred Qualifications\r\n\r\n\u2022 Proven experience in the media or technology industries (specifically digital media) is preferable.\r\n\r\n\u2022 Experience managing virtual \/ remote project teams\r\n Skills: Data & Analytics, Business Analysis",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = Invariant Language (Invariant Country); Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2021-01-22",
+        "SovrenSignature": [
+            "mhr\/\/\/\/\/\/\/8="
+        ]
+    }
+}

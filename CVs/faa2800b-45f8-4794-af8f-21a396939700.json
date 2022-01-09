@@ -1,0 +1,3121 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "CountryCode": "UK",
+            "Municipality": "London",
+            "GeoCoordinates": {
+                "Latitude": 51.50735092163086,
+                "Longitude": -0.1277579963207245
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "MBA",
+                "Normalized": "MBA"
+            },
+            "Type": "masters"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-2",
+                "Text": "MBA in Technology Management, 2002",
+                "SchoolType": "UNSPECIFIED",
+                "Degree": {
+                    "Name": {
+                        "Raw": "MBA",
+                        "Normalized": "MBA"
+                    },
+                    "Type": "masters"
+                },
+                "Majors": [
+                    "Technology Management"
+                ],
+                "LastEducationDate": {
+                    "Date": "2002-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Id": "DEG-3",
+                "Text": "University of Bombay, India\tMSc Degree in Zoology, 1994\n\nProfessional Accreditation & Courses\nAXELOS Best Global Practice\tCertified PRINCE2 Practitioner, Expires - 2021\n\nProfessional Awards\nKauffman Entrepreneurial Scholarship Award\tAward Recipient\nXerox, India\tWinner of two Excellence in Sales Awards",
+                "SchoolName": {
+                    "Raw": "University of Bombay",
+                    "Normalized": "University of Bombay"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "MSc degree",
+                        "Normalized": "MSc"
+                    },
+                    "Type": "masters"
+                },
+                "Majors": [
+                    "Zoology"
+                ],
+                "LastEducationDate": {
+                    "Date": "1994-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Id": "DEG-1",
+                "Text": "Thunderbird School of Global Management, USA\tMasters in International Business Management",
+                "SchoolName": {
+                    "Raw": "Thunderbird School of Global Management",
+                    "Normalized": "Thunderbird School of Global Management"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "Masters in International Business Management",
+                        "Normalized": "masters"
+                    },
+                    "Type": "masters"
+                },
+                "Majors": [
+                    "International Business Management"
+                ]
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~~~~   is experienced in the management of:  Information Technology (Project Management); and Marketing.    ~~~~~~~~~   has 23 years of work experience, with 22 years of management experience, including a high-level position.",
+            "MonthsOfWorkExperience": 279,
+            "MonthsOfManagementExperience": 260,
+            "ExecutiveType": "MARKETING",
+            "AverageMonthsPerEmployer": 27,
+            "FulltimeDirectHirePredictiveIndex": 30,
+            "ManagementStory": "Starting on 9\/1\/2018, the candidate held the following mid-level management position for 9 months:\n\tTitle: Programme Director for Polymax\nStarting on 6\/1\/2017, the candidate held the following low-level management position for 15 months:\n\tTitle: SaaS Marketing Strategy Lead for simpleshow GmbH\nStarting on 9\/1\/2009, the candidate held the following low-level management position for 6 years and 5 months:\n\tTitle: Associate Director - Global Programme Management Office \/ Relationship Management for ReSources Business Services (Publicis Groupe), UK & USA, Publicis Groupe\nStarting on 4\/1\/2007, the candidate held the following low-level management position for 2 years and 3 months:\n\tTitle: Supervisor for ReSources Business Services (Publicis Groupe), UK & USA, Relay Worldwide (Publicis Groupe)\nStarting on 1\/1\/2004, the candidate held the following mid-level management position for 3 years and 3 months:\n\tTitle: Marketing Services Manager for Ad-Fax Inc\nStarting on 10\/1\/2002, the candidate held the following mid-level management position for 15 months:\n\tTitle: Business Development Manager for Polymax UK\nStarting on 7\/1\/1998, the candidate held the following mid-level management position for 2 years and 5 months:\n\tTitle: Director & Founder for Shopons Direct Marketing\nStarting on 12\/1\/1996, the candidate held the following mid-level management position for 19 months:\n\tTitle: Senior Marketing & Sales Manager for Xerox & Compaq\nStarting on 5\/1\/1994, the candidate held the following executive-level management position for 2 years and 7 months:\n\tTitle: Senior Marking Executive for Trigyn Technologies",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 100,
+            "AttentionNeeded": "ATTENTION: The candidate appears to have been in management in a past role (Programme Director for Polymax), but was not in management in the most recent role as Programme Consultant for 3RDi."
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "3RDi",
+                        "Normalized": "3RDi"
+                    }
+                },
+                "IsSelfEmployed": true,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Programme Consultant",
+                    "Normalized": "Programme Consultant",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2020-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2021-05-12",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "contract",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Project Management",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Responsible for complete organisational PMO project controls setup and new software delivery\nmanagement, closely aligning with the core operational strategy. Scope of work includes, growth & business\ndevelopment planning, Agile project management practice setup, communications and data management\ntool selection & deployment and supervision of regulatory compliance across all operations."
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Ericsson",
+                        "Normalized": "Ericsson"
+                    },
+                    "Location": {
+                        "CountryCode": "SE"
+                    }
+                },
+                "IsSelfEmployed": true,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Programme Consultant",
+                    "Normalized": "Programme Consultant",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2019-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-05-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "contract",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Project Management",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Responsible for providing consultancy services on an RPA democratisation & P2P automation programme.\nOversaw project deploying a Citizen Developer RPA platform across Ericsson globally, directly accountable for\nall gamification and digital marketing aspects. Led organisational change management strategy and activities.\nKey contributions and successes:\n\u2022   Top-level engagement with global heads at up to C-Suite level on programme progress and delivery\n\u2022   Introduced & embedded daily Agile project management practices, transitioning away from Waterfall\n\u2022   Led end-to-end development and launch of digital interfaces for platform, enhancing platform reach\n\u2022   Managed internal shared budget of \u20ac1.5m, with programme reaching global employee base of 70k+\n\u2022   Oversaw team of SharePoint Portal developers and UX designers for website and Botstore delivery\n\u2022   Ensured project adherence to legal & ethical parameters, as well as global data & storage regulation\n\u2022   Collaborated with HR team to develop a change plan to mitigate the impact of work culture changes\n\u2022   Consulted on project overseeing Finance Procure-to-Pay process automation with Cognitive Agents\n\u2022   Delivered 20+ training sessions to re-train European Automations team staff on Agile methodology\n\n\n1"
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "Polymax",
+                        "Normalized": "Polymax"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Programme Director",
+                    "Normalized": "Programme Director",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2018-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2019-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "temp",
+                "TaxonomyName": "Sales",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Responsible for all aspects of programme leadership and delivery, spearheading the transformation strategy and ERP implementation for Polymax UK. Engaged collaboratively with senior-level business stakeholders.\nLed an organisational restructuring project through the deployment of an eCommerce platform (cloud ERP and CRM solutions), further enhancing with a CRM tool to increase sales and operational sync capabilities across three global locations. Achieved targeted annual efficiencies of in excess of \u00a31.5m, realising benefits."
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "simpleshow GmbH",
+                        "Normalized": "simpleshow"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "SaaS Marketing Strategy Lead",
+                    "Normalized": "SaaS Marketing Strategy Lead",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2017-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2018-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Product",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Responsible for developing business and providing global marketing expertise across multiple clients.\nLaunched \u20ac15m B2B SaaS platform offering, collaborating with the global marketing strategy team to conduct customer lifecycle management analysis.\nKey contributions and successes:\n\u2022   Led competitive landscape analysis, provided design updates and service improvement insights\n\u2022   Directed digital marketing initiatives through channels including social, programmatic & analytics\n\u2022   Supported promotional activities of core business offering including direct sales efforts to clients\n\u2022   Instrumental in product roadmap development, collaborating with sales and development teams\n\u2022   Defined technology strategy & contributed to product innovation processes, leveraging feedback"
+            },
+            {
+                "Id": "POS-5",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Publicis Groupe",
+                        "Normalized": "Publicis Groupe"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Associate Director - Global Programme Management Office \/ Relationship Management",
+                    "Normalized": "Associate Director Global Programme Management Office Relationship Management",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Associate Director"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2009-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2016-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Project Management",
+                "JobLevel": "Senior Manager (more than 5 years management experience)",
+                "TaxonomyPercentage": 0,
+                "Description": "Sep 2009 to Jan 2016\nAssociate Director - Global Programme Management Office \/ Relationship Management\nResponsible for engaging on a portfolio of business-critical transformation programmes for clients, effectively\nmanaging PMO and relationship management activities.\nOversaw execution of $200m global organisation restructuring project and integrated process transformation,\nincluding implementing a data-driven technology strategy and delivering multiple digital platform upgrades.\nKey contributions and successes:\n\u2022   Delivered on a $20m initiative to convert operating platform of 17k+ users onto a unified SSO stack\n\u2022   Reduced staff attrition rates by 30% via use of a new $400k smart applicant profiling system solution\n\u2022   Integrated IT services of 8 newly-acquired businesses onto group TOM, cumulative impact of $12m+\n\u2022   Led migration of enterprise app stacks to digital platforms, including key tools such as CLM & CRM\n\u2022   Deployed    ~~   cloud platform and Adobe Cloud for 10+ agency brands with user base of 15,000\n\u2022   Oversaw RFP, vendor selection and contract negotiations to implement a robust $2m RPA solution\n\u2022   Ensured agency adherence to regulations such as SOX, CSR and Safe Harbour, supporting audits\n\u2022   Assessed operational compliance & established HIPAA compliant private cloud data hosting solution\n\u2022   Designed and implemented communications framework to deliver dashboards reaching 65k+ users\n\u2022   Managed delivery of digital assets for client campaign, designing and deploying eCommerce website"
+            },
+            {
+                "Id": "POS-6",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Relay Worldwide (Publicis Groupe)",
+                        "Normalized": "Relay Worldwide Publicis Groupe"
+                    },
+                    "Location": {
+                        "CountryCode": "US"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Supervisor",
+                    "Normalized": "Supervisor",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2007-04-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2009-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Events",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "Responsible for end-to-end management of research project lifecycles, implementing innovative solutions.\nEngaged on a $1m programme to upgrade and digitise the data collection platform, enabling higher security and connectivity.\nKey contributions and successes:\n\u2022   Realised annual savings of $300k+ via digital initiatives within field operations, migrating to the cloud\n\u2022   Migrated field force technology platform from Lotus Notes to Google, achieving 5% cost reduction\n\u2022   Replaced a legacy communications tech platform, saving 40% in costs and improving performance\n\u2022   Managed complete project cycle from survey development, programming, analysis and reporting\n\u2022   Provided leadership to a regional team of marketing, innovation, IT and field services employees\n\u2022   Led acquisition, contracting and development of market-leading innovate marketing technologies\n\n\n2\n\u2022   Oversaw an experiential marketing campaigns, defining success criteria & analysing post-execution"
+            },
+            {
+                "Id": "POS-7",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Ad-Fax Inc",
+                        "Normalized": "Ad Fax"
+                    },
+                    "Location": {
+                        "CountryCode": "US"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Marketing Services Manager",
+                    "Normalized": "Marketing Services Manager",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2004-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2007-04-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Channel, Partner & Ecosystem Marketing",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Responsible for developing marketing campaigns based on demographic & market segmentation research.\nAdvised local government on a $25m Muni-WiFi initiative, impacting 4 major towns across Northern Iowa,\nsupervising research, project planning and community canvassing campaigns to secure stakeholder buy-in.\n\n\nKey contributions and successes:\n\u2022   Designed & implemented a national branding & pricing strategy for McKenna ProPhoto Image Labs\n\u2022   Managed team of media buyers, creatives & research analysts to develop robust marketing strategy\n\u2022   Developed strategy for Midwest US business houses, generating new business revenue of $750k\n\u2022   Built strategic partnerships with outsourced web designers & vendors, increasing project profitability"
+            },
+            {
+                "Id": "POS-8",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Polymax UK",
+                        "Normalized": "Polymax UK"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "AZ"
+                        ],
+                        "Municipality": "Phoenix"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Business Development Manager",
+                    "Normalized": "Business Development Manager",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2002-10-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2004-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Sales",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Responsible for developing an innovative new market entry plan and establishing sales operations for the US region, consulting on global online strategies and spearheading strategic business development activity.\n\n\nEarly Career"
+            },
+            {
+                "Id": "POS-9",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "Shopons Direct Marketing",
+                        "Normalized": "Shopons Direct Marketing"
+                    },
+                    "Location": {
+                        "CountryCode": "IN"
+                    }
+                },
+                "IsSelfEmployed": true,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Director & Founder",
+                    "Normalized": "Director AND Founder",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "1998-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2000-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "India"
+            },
+            {
+                "Id": "POS-10",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Xerox & Compaq",
+                        "Normalized": "Xerox AND Compaq"
+                    },
+                    "Location": {
+                        "CountryCode": "IN"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Senior Marketing & Sales Manager",
+                    "Normalized": "Senior Marketing AND Sales Manager",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Marketing & Sales Manager"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "1996-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "1998-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "India"
+            },
+            {
+                "Id": "POS-11",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Trigyn Technologies",
+                        "Normalized": "Trigyn Technologies"
+                    },
+                    "Location": {
+                        "CountryCode": "IN"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Senior Marking Executive",
+                    "Normalized": "Senior Marking Executive",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Marking Executive"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "1994-05-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "1996-11-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Senior Executive (President, C-level)",
+                "TaxonomyPercentage": 0,
+                "Description": "India"
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 38,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "199",
+                            "SubTaxonomyName": "Project Management",
+                            "PercentOfOverall": 12,
+                            "PercentOfParent": 30,
+                            "Skills": [
+                                {
+                                    "Id": "555154520",
+                                    "Name": "Agile",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "555154521",
+                                            "Name": "Agile Methodology",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 11
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-05-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-05-12"
+                                    }
+                                },
+                                {
+                                    "Id": "005052",
+                                    "Name": "PMO",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 84
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-05-12"
+                                    }
+                                },
+                                {
+                                    "Id": "0216663",
+                                    "Name": "PRINCE2",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "1994-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "005820",
+                                    "Name": "Project Planning",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 39
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2007-04-01"
+                                    }
+                                },
+                                {
+                                    "Id": "007058",
+                                    "Name": "RFP",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 76
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "009276",
+                                    "Name": "Technology Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "2002-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "736",
+                            "SubTaxonomyName": "Robotic Process Automation",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 16,
+                            "Skills": [
+                                {
+                                    "Id": "555121645",
+                                    "Name": "Robotic Process Automation",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555121646",
+                                            "Name": "RPA",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-5"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 87
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-05-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 87
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-05-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "550",
+                            "SubTaxonomyName": "Cloud Computing",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 8,
+                            "Skills": [
+                                {
+                                    "Id": "5500316",
+                                    "Name": "BOX.NET",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 76
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "338",
+                            "SubTaxonomyName": "Security",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 8,
+                            "Skills": [
+                                {
+                                    "Id": "008513",
+                                    "Name": "SSO",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 76
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "196",
+                            "SubTaxonomyName": "Internet",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "1004743",
+                                    "Name": "SAAS",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 15
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-08-31"
+                                    }
+                                },
+                                {
+                                    "Id": "022195",
+                                    "Name": "Sharepoint",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "007863",
+                                            "Name": "Sharepoint Portal",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 11
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-05-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-05-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "556",
+                            "SubTaxonomyName": "Privacy and Data Security",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "5551253",
+                                    "Name": "Hipaa",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 76
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5551251",
+                                    "Name": "Sarbanes Oxley",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5551252",
+                                            "Name": "SOX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-5"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 76
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2016-01-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 76
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "251",
+                            "SubTaxonomyName": "Config Deploy Upgrade Migrate",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "022159",
+                                    "Name": "Change Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-05-01"
+                                    }
+                                },
+                                {
+                                    "Id": "023631",
+                                    "Name": "Deployment",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-05-12"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "553",
+                            "SubTaxonomyName": "Big Data",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "5530944",
+                                    "Name": "Data Collection",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2009-07-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5530951",
+                                    "Name": "Data Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 8
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-05-12"
+                                    }
+                                },
+                                {
+                                    "Id": "5530983",
+                                    "Name": "Enterprise Resource Planning",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5530984",
+                                            "Name": "ERP",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 9
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2019-06-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 9
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5531064",
+                                    "Name": "Software as a Service",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5531065",
+                                            "Name": "SAAS",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 15
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2018-08-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 15
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-08-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "195",
+                            "SubTaxonomyName": "ERP and CRM",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "014101",
+                                    "Name": "CRM",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 85
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                },
+                                {
+                                    "Id": "016891",
+                                    "Name": "ERP",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 9
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                },
+                                {
+                                    "Id": "007436",
+                                    "Name": "SAP",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "349",
+                            "SubTaxonomyName": "Operations, Monitoring and Software Management",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "3490062",
+                                    "Name": "Hipaa",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 76
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "353",
+                            "SubTaxonomyName": "Medical",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "019001",
+                                    "Name": "Hipaa",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 76
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "555",
+                            "SubTaxonomyName": "Enterprise Storage",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "5551150",
+                                    "Name": "HP-UX",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555115001",
+                                            "Name": "UX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 11
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-05-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-05-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "554",
+                            "SubTaxonomyName": "Business Intelligence",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "5540951",
+                                    "Name": "Microsoft Sharepoint",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "554095101",
+                                            "Name": "Sharepoint",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 11
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-05-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-05-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "203",
+                            "SubTaxonomyName": "UNIX and LINUX",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "01026309",
+                                    "Name": "UNIX",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "010377",
+                                            "Name": "UX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 11
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-05-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-05-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 19,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 39,
+                            "Skills": [
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-10"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 111
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-05-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "585",
+                            "SubTaxonomyName": "Product",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 18,
+                            "Skills": [
+                                {
+                                    "Id": "1400003",
+                                    "Name": "Marketing Strategy",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 54
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-08-31"
+                                    }
+                                },
+                                {
+                                    "Id": "1400018",
+                                    "Name": "Product Roadmap",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 15
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-08-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "595",
+                            "SubTaxonomyName": "Advertising",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 11,
+                            "Skills": [
+                                {
+                                    "Id": "1400202",
+                                    "Name": "B2B",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 15
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-08-31"
+                                    }
+                                },
+                                {
+                                    "Id": "1400380",
+                                    "Name": "Digital Campaign",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400381",
+                                            "Name": "Digital Marketing",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 26
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-05-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-05-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1400208",
+                                    "Name": "Direct Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "223",
+                            "SubTaxonomyName": "Market Research",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "1400064",
+                                    "Name": "Market Segmentation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 39
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2007-04-01"
+                                    }
+                                },
+                                {
+                                    "Id": "021254",
+                                    "Name": "Marketing Strategy",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 54
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-08-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "592",
+                            "SubTaxonomyName": "Marketing Communications",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "1400141",
+                                    "Name": "Marketing Strategy",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 54
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-08-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "1400390",
+                                    "Name": "Digital Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-05-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "590",
+                            "SubTaxonomyName": "Channel, Partner & Ecosystem Marketing",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "1400117",
+                                    "Name": "B2B",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 15
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-08-31"
+                                    }
+                                },
+                                {
+                                    "Id": "1400105",
+                                    "Name": "Segmentation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 39
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2007-04-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "227",
+                            "SubTaxonomyName": "Brand Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "011888",
+                                    "Name": "Branding",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 39
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2007-04-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "589",
+                            "SubTaxonomyName": "Business Planning",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "1400092",
+                                    "Name": "Business Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "250",
+                            "SubTaxonomyName": "Events",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "1400229",
+                                    "Name": "Experiential Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2009-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "226",
+                            "SubTaxonomyName": "Channel Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "1400223",
+                                    "Name": "Direct Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "222",
+                            "SubTaxonomyName": "Direct",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "015465",
+                                    "Name": "Direct Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "591",
+                            "SubTaxonomyName": "Audience",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "1400126",
+                                    "Name": "Audience Segmentation",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400346",
+                                            "Name": "Market Segmentation",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-7"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 39
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2007-04-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 39
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2007-04-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 13,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 68,
+                            "Skills": [
+                                {
+                                    "Id": "023757",
+                                    "Name": "Business Development",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-8"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 15
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2004-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "030689",
+                                    "Name": "Sales Awards",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "1994-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "030760",
+                                    "Name": "Sales Manager",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-10"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "1998-06-30"
+                                    }
+                                },
+                                {
+                                    "Id": "030775",
+                                    "Name": "Sales Operations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-8"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 15
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2004-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "104",
+                            "SubTaxonomyName": "Account Management",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 32,
+                            "Skills": [
+                                {
+                                    "Id": "006721",
+                                    "Name": "Relationship Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 76
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-01-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 6,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "436",
+                            "SubTaxonomyName": "Management Activities or Functions",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 85,
+                            "Skills": [
+                                {
+                                    "Id": "012977",
+                                    "Name": "Change Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-05-01"
+                                    }
+                                },
+                                {
+                                    "Id": "003875",
+                                    "Name": "Operations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-8"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 50
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-05-12"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 15,
+                            "Skills": [
+                                {
+                                    "Id": "012233",
+                                    "Name": "Business Services",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "007056",
+                                    "Name": "RFP",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 76
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-01-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "9",
+                    "Name": "Human Resources",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "583",
+                            "SubTaxonomyName": "Talent Sourcing",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 58,
+                            "Skills": [
+                                {
+                                    "Id": "9000267",
+                                    "Name": "Customer Relationship Management",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "9000268",
+                                            "Name": "CRM",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-5"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 85
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2019-06-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 85
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "262",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 23,
+                            "Skills": [
+                                {
+                                    "Id": "019094",
+                                    "Name": "HR",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-05-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "581",
+                            "SubTaxonomyName": "Organization Development",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "9000213",
+                                    "Name": "Change Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-05-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "579",
+                            "SubTaxonomyName": "HR Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "9000169",
+                                    "Name": "Change Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-05-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "574",
+                            "SubTaxonomyName": "Diversity & Inclusion",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "9000074",
+                                    "Name": "Employee Resource Group",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "9000075",
+                                            "Name": "ERP",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 9
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2019-06-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 9
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "183",
+                            "SubTaxonomyName": "Benefits",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "022748",
+                                    "Name": "Benefits",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "32",
+                    "Name": "Degreed Accounting",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "942",
+                            "SubTaxonomyName": "Auditing",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 59,
+                            "Skills": [
+                                {
+                                    "Id": "005584",
+                                    "Name": "Audit",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "005789",
+                                            "Name": "Audits",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-5"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 76
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2016-01-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 76
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "960",
+                            "SubTaxonomyName": "Management",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 29,
+                            "Skills": [
+                                {
+                                    "Id": "006892",
+                                    "Name": "Restructuring",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 85
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "962",
+                            "SubTaxonomyName": "Reporting",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "022891",
+                                    "Name": "Budget",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-05-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "256",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "014508",
+                                    "Name": "Cost Reduction",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2009-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "12",
+                    "Name": "Legal",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "721",
+                            "SubTaxonomyName": "Mergers & Acquisitions",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 80,
+                            "Skills": [
+                                {
+                                    "Id": "7210010",
+                                    "Name": "Contract Negotiations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 76
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "7210003",
+                                    "Name": "Restructuring",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 85
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "397",
+                            "SubTaxonomyName": "Clerical & Paralegal",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 20,
+                            "Skills": [
+                                {
+                                    "Id": "3970012",
+                                    "Name": "Contract Negotiations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 76
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-01-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "97",
+                    "Name": "Supply Chain and Logistics",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "458",
+                            "SubTaxonomyName": "Purchasing",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 98,
+                            "Skills": [
+                                {
+                                    "Id": "010478",
+                                    "Name": "Vendor Selection",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 76
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "460",
+                            "SubTaxonomyName": "Logistics",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "016892",
+                                    "Name": "ERP",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 9
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "735",
+                            "SubTaxonomyName": "Robotics and Automation",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 98,
+                            "Skills": [
+                                {
+                                    "Id": "555121651",
+                                    "Name": "Process Automation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-05-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "307",
+                            "SubTaxonomyName": "General Engineering",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "023143",
+                                    "Name": "Cost Reduction",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2009-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "7",
+                    "Name": "Finance",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "243",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "023147",
+                                    "Name": "Finance",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-05-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "235",
+                            "SubTaxonomyName": "Financial Planning & Analysis",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "013778",
+                                    "Name": "Collection",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2009-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "46",
+                    "Name": "Call Center or Help Desk or Customer Service",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "130",
+                            "SubTaxonomyName": "Customer Facing",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "014703",
+                                    "Name": "CSR",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 76
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-01-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "86",
+                    "Name": "Government",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "524",
+                            "SubTaxonomyName": "Regulatory",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "006698",
+                                    "Name": "Regulatory Compliance",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 8
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-05-12"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "98",
+                    "Name": "Security",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "466",
+                            "SubTaxonomyName": "Financial, Accounting and Processes",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "026004",
+                                    "Name": "Sarbanes-Oxley (Sox)",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "007443",
+                                            "Name": "SOX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-5"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 76
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2016-01-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 76
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-01-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "80",
+                    "Name": "General Management",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "516",
+                            "SubTaxonomyName": "Budget Related",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 93,
+                            "Skills": [
+                                {
+                                    "Id": "014306",
+                                    "Name": "Contract Negotiations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 76
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "005394",
+                                    "Name": "Pricing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 39
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2007-04-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "519",
+                            "SubTaxonomyName": "Management and Management Tasks",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "012212",
+                                    "Name": "Business Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "89",
+                    "Name": "Bookkeeping, Office Management",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "533",
+                            "SubTaxonomyName": "Bookeeping Tasks",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "012120",
+                                    "Name": "Budget",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-05-01"
+                                    }
+                                },
+                                {
+                                    "Id": "013779",
+                                    "Name": "Collection",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2009-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "6",
+                    "Name": "Environmental",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "333",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 90,
+                            "Skills": [
+                                {
+                                    "Id": "017405",
+                                    "Name": "Field Operations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2009-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "328",
+                            "SubTaxonomyName": "Testing, Assessments, and Monitoring",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "014976",
+                                    "Name": "Data Collection",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2009-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "27",
+                    "Name": "Light Technical\/Trades\/Skilled Labor",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "293",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "017413",
+                                    "Name": "Field Services",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2009-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "1",
+                    "Name": "Administrative or Clerical",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "113",
+                            "SubTaxonomyName": "Admin",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 62,
+                            "Skills": [
+                                {
+                                    "Id": "011461",
+                                    "Name": "Xerox",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "1994-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "110",
+                            "SubTaxonomyName": "Billing and Collections",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 38,
+                            "Skills": [
+                                {
+                                    "Id": "013780",
+                                    "Name": "Collection",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2009-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "28",
+                    "Name": "Clinical",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "269",
+                            "SubTaxonomyName": "Claims and Billing",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 83,
+                            "Skills": [
+                                {
+                                    "Id": "011256",
+                                    "Name": "Benefits",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "276",
+                            "SubTaxonomyName": "Tests and Functions",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 17,
+                            "Skills": [
+                                {
+                                    "Id": "014975",
+                                    "Name": "Data Collection",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2009-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "15",
+                    "Name": "Scientific",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "374",
+                            "SubTaxonomyName": "Animal",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "011527",
+                                    "Name": "Zoology",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "1994-01-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "020928",
+                                    "Name": "Lotus Notes",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2009-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Certifications": [
+        {
+            "Name": "Certified PRINCE2 Practitioner, Expires",
+            "MatchedFromList": false,
+            "IsVariation": false
+        },
+        {
+            "Name": "HIPAA",
+            "MatchedFromList": true,
+            "IsVariation": false
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "Achievements": [
+        "Kauffman Entrepreneurial Scholarship Award\tAward Recipient",
+        "Xerox, India\tWinner of two Excellence in Sales Awards",
+        "UK Citizen\tExcellent references available\tFlexible on location for the right opportunity"
+    ],
+    "QualificationsSummary": "Areas of Expertise\nE2E Programme Delivery\tTransformation Programmes\tStrategic Partnerships\nStakeholder Engagement\tModern Workplace Design\tCustomer Relationships\nBusiness Benefits Realisation\tDigital Solutions, EUC\tContract Negotiations\nChange Management\tCRM, SAP, ERP, SharePoint\tCommunications Planning\nAgile, Waterfall, Prince2\tSaaS \/ Cloud Implementation\tTeam Leadership & Motivation",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 18,
+                "LastLineNumber": 24,
+                "SectionType": "SKILLS",
+                "HeaderTextFound": "Areas of Expertise"
+            },
+            {
+                "FirstLineNumber": 25,
+                "LastLineNumber": 130,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "Professional Experience"
+            },
+            {
+                "FirstLineNumber": 131,
+                "LastLineNumber": 142,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "Education & Qualifications"
+            },
+            {
+                "FirstLineNumber": 143,
+                "LastLineNumber": 144,
+                "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+                "HeaderTextFound": "Additional Information"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    },
+                    {
+                        "QualityCode": "232",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "DEG-2"
+                            }
+                        ],
+                        "Message": "Every degree in a resume should be associated with a school."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "112",
+                        "Message": "The following section was identified as a skills section type: 'Areas of Expertise'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~~~~~~~  \nLondon, UK |    ~~~~~~~~~~~~~~   |    ~~~~~~~~~~~~~~~~~~   |\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \/\n\n\nSenior Programme Manager \/ Programme Director\nExtensive enterprise marketing, business development & programme delivery experience\nEnterprising, innovative and commercially-astute, with 20+ years of experience in leading the delivery of\ninnovative technology solutions across B2B, marketing, technology, consulting and global corporate sectors.\nPRINCE2, Agile & Waterfall-trained, able to pragmatically apply structured methodologies & best practice.\nCollaborative approach to transformational leadership, engaging with key stakeholders at up to C-level,\nleading marketing initiatives, business development and programme delivery, aligned to business needs.\nExpertise in transformative technology implementation, including delivery of AI, ML and Cloud solutions.\nGlobal team leadership experience, managing teams across Asia, North America and European marketing\nwith a 'hands-on' approach to client engagement. Leverages an 'open' leadership and management style.\nChampions business change, end-to-end programme delivery, organisational transformation, digital\ninnovation, ERP and CRM solutions, P2P processes, eCommerce and the realisation of business benefits.\n\nAreas of Expertise\nE2E Programme Delivery\tTransformation Programmes\tStrategic Partnerships\nStakeholder Engagement\tModern Workplace Design\tCustomer Relationships\nBusiness Benefits Realisation\tDigital Solutions, EUC\tContract Negotiations\nChange Management\tCRM, SAP, ERP, SharePoint\tCommunications Planning\nAgile, Waterfall, Prince2\tSaaS \/ Cloud Implementation\tTeam Leadership & Motivation\n\nProfessional Experience\n3RDi, UK\nProgramme Consultant (Contract)\tSep 2020 to Ongoing\nResponsible for complete organisational PMO project controls setup and new software delivery\nmanagement, closely aligning with the core operational strategy. Scope of work includes, growth & business\ndevelopment planning, Agile project management practice setup, communications and data management\ntool selection & deployment and supervision of regulatory compliance across all operations.\n\n\nEricsson, Sweden\nProgramme Consultant (Contract)\tJun 2019 to May 2020\nResponsible for providing consultancy services on an RPA democratisation & P2P automation programme.\nOversaw project deploying a Citizen Developer RPA platform across Ericsson globally, directly accountable for\nall gamification and digital marketing aspects. Led organisational change management strategy and activities.\nKey contributions and successes:\n\u2022   Top-level engagement with global heads at up to C-Suite level on programme progress and delivery\n\u2022   Introduced & embedded daily Agile project management practices, transitioning away from Waterfall\n\u2022   Led end-to-end development and launch of digital interfaces for platform, enhancing platform reach\n\u2022   Managed internal shared budget of \u20ac1.5m, with programme reaching global employee base of 70k+\n\u2022   Oversaw team of SharePoint Portal developers and UX designers for website and Botstore delivery\n\u2022   Ensured project adherence to legal & ethical parameters, as well as global data & storage regulation\n\u2022   Collaborated with HR team to develop a change plan to mitigate the impact of work culture changes\n\u2022   Consulted on project overseeing Finance Procure-to-Pay process automation with Cognitive Agents\n\u2022   Delivered 20+ training sessions to re-train European Automations team staff on Agile methodology\n\n\n1\nPolymax, UK\nProgramme Director (Contract)\tSep 2018 to Jun 2019\nResponsible for all aspects of programme leadership and delivery, spearheading the transformation strategy\nand ERP implementation for Polymax UK. Engaged collaboratively with senior-level business stakeholders.\nLed an organisational restructuring project through the deployment of an eCommerce platform (cloud ERP\nand CRM solutions), further enhancing with a CRM tool to increase sales and operational sync capabilities\nacross three global locations. Achieved targeted annual efficiencies of in excess of \u00a31.5m, realising benefits.\n\nsimpleshow GmbH, UK\nSaaS Marketing Strategy Lead\tJun 2017 to Aug 2018\nResponsible for developing business and providing global marketing expertise across multiple clients.\nLaunched \u20ac15m B2B SaaS platform offering, collaborating with the global marketing strategy team to\nconduct customer lifecycle management analysis.\nKey contributions and successes:\n\u2022   Led competitive landscape analysis, provided design updates and service improvement insights\n\u2022   Directed digital marketing initiatives through channels including social, programmatic & analytics\n\u2022   Supported promotional activities of core business offering including direct sales efforts to clients\n\u2022   Instrumental in product roadmap development, collaborating with sales and development teams\n\u2022   Defined technology strategy & contributed to product innovation processes, leveraging feedback\n\nReSources Business Services (Publicis Groupe), UK & USA\tSep 2009 to Jan 2016\nAssociate Director - Global Programme Management Office \/ Relationship Management\nResponsible for engaging on a portfolio of business-critical transformation programmes for clients, effectively\nmanaging PMO and relationship management activities.\nOversaw execution of $200m global organisation restructuring project and integrated process transformation,\nincluding implementing a data-driven technology strategy and delivering multiple digital platform upgrades.\nKey contributions and successes:\n\u2022   Delivered on a $20m initiative to convert operating platform of 17k+ users onto a unified SSO stack\n\u2022   Reduced staff attrition rates by 30% via use of a new $400k smart applicant profiling system solution\n\u2022   Integrated IT services of 8 newly-acquired businesses onto group TOM, cumulative impact of $12m+\n\u2022   Led migration of enterprise app stacks to digital platforms, including key tools such as CLM & CRM\n\u2022   Deployed    ~~   cloud platform and Adobe Cloud for 10+ agency brands with user base of 15,000\n\u2022   Oversaw RFP, vendor selection and contract negotiations to implement a robust $2m RPA solution\n\u2022   Ensured agency adherence to regulations such as SOX, CSR and Safe Harbour, supporting audits\n\u2022   Assessed operational compliance & established HIPAA compliant private cloud data hosting solution\n\u2022   Designed and implemented communications framework to deliver dashboards reaching 65k+ users\n\u2022   Managed delivery of digital assets for client campaign, designing and deploying eCommerce website\n\nRelay Worldwide (Publicis Groupe), USA\nSupervisor - Innovations Strategy\tApril 2007 to Jul 2009\nResponsible for end-to-end management of research project lifecycles, implementing innovative solutions.\nEngaged on a $1m programme to upgrade and digitise the data collection platform, enabling higher security\nand connectivity.\nKey contributions and successes:\n\u2022   Realised annual savings of $300k+ via digital initiatives within field operations, migrating to the cloud\n\u2022   Migrated field force technology platform from Lotus Notes to Google, achieving 5% cost reduction\n\u2022   Replaced a legacy communications tech platform, saving 40% in costs and improving performance\n\u2022   Managed complete project cycle from survey development, programming, analysis and reporting\n\u2022   Provided leadership to a regional team of marketing, innovation, IT and field services employees\n\u2022   Led acquisition, contracting and development of market-leading innovate marketing technologies\n\n\n2\n\u2022   Oversaw an experiential marketing campaigns, defining success criteria & analysing post-execution\n\nAd-Fax Inc., USA\nMarketing Services Manager\tJan 2004 to Apr 2007\nResponsible for developing marketing campaigns based on demographic & market segmentation research.\nAdvised local government on a $25m Muni-WiFi initiative, impacting 4 major towns across Northern Iowa,\nsupervising research, project planning and community canvassing campaigns to secure stakeholder buy-in.\n\n\nKey contributions and successes:\n\u2022   Designed & implemented a national branding & pricing strategy for McKenna ProPhoto Image Labs\n\u2022   Managed team of media buyers, creatives & research analysts to develop robust marketing strategy\n\u2022   Developed strategy for Midwest US business houses, generating new business revenue of $750k\n\u2022   Built strategic partnerships with outsourced web designers & vendors, increasing project profitability\n\nPolymax UK - Phoenix, USA\nBusiness Development Manager\tOct 2002 to Jan 2004\nResponsible for developing an innovative new market entry plan and establishing sales operations for the\nUS region, consulting on global online strategies and spearheading strategic business development activity.\n\n\nEarly Career\nJul 1998 to Dec 2000\tDirector & Founder\tShopons Direct Marketing, India\nDec 1996 to Jun 1998\tSenior Marketing & Sales Manager\tXerox & Compaq, India\nMay 1994 to Nov 1996\tSenior Marking Executive\tTrigyn Technologies, India\n\nEducation & Qualifications\nThunderbird School of Global Management, USA\tMasters in International Business Management\nMBA in Technology Management, 2002\nUniversity of Bombay, India\tMSc Degree in Zoology, 1994\n\nProfessional Accreditation & Courses\nAXELOS Best Global Practice\tCertified PRINCE2 Practitioner, Expires - 2021\n\nProfessional Awards\nKauffman Entrepreneurial Scholarship Award\tAward Recipient\nXerox, India\tWinner of two Excellence in Sales Awards\n\nAdditional Information\nUK Citizen\tExcellent references available\tFlexible on location for the right opportunity\n\n\n3",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-GB",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = UK; Culture.DefaultCultureIsUK = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2021-05-12",
+        "SovrenSignature": [
+            "sYwFAAAAAAA="
+        ]
+    }
+}

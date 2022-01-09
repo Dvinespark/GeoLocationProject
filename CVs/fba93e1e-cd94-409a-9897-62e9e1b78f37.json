@@ -1,0 +1,1302 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "GeoCoordinates": {
+                "Latitude": 51.28689956665039,
+                "Longitude": -0.7526149749755859
+            }
+        }
+    },
+    "ProfessionalSummary": "================\nI spend my time outside of\nwork with my family; I have\ntwo young daughters who\nkeep me busy.\n\nI enjoy running and going\nto the gym when I can and\nam always planning a\nholiday or weekend away -\npreferably somewhere\nsunny!",
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~~   is experienced in the management of:  Marketing (Digital); and Business Operations and General Business (Management Activities or Functions).    ~~~~~~~   has 12 years of work experience, with 11 years of management experience, including a mid-level position.",
+            "MonthsOfWorkExperience": 143,
+            "MonthsOfManagementExperience": 127,
+            "ExecutiveType": "OPERATIONS",
+            "AverageMonthsPerEmployer": 23,
+            "FulltimeDirectHirePredictiveIndex": 21,
+            "ManagementStory": "The following management-related items were found:\n220 employees in the UK.\n\nStarting on 7\/1\/2019, the candidate held the following low-level management position for 6 months:\n\tTitle: Global Operations Project & Change Manager for Dentsu Aegis Network\nStarting on 7\/1\/2018, the candidate held the following low-level management position for 12 months:\n\tTitle: Operations Project Director for Dentsu Aegis Network, Dentsu Aegis Network UK\nStarting on 1\/1\/2010, the candidate held the following low-level management position for 4 years:\n\tTitle: Digital Associate Director for Dentsu Aegis Network, Carat\nStarting on 6\/1\/2017, the candidate held the following mid-level management position for 13 months:\n\tTitle: Operations Director for Amplifi\nStarting on 1\/1\/2014, the candidate held the following mid-level management position for 2 years:\n\tTitle: Group Media Director (Digital) for Parental Leave\nStarting on 1\/1\/2008, the candidate held the following low-level management position for 3 years:\n\tTitle: Digital Account Manager for MEC",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 55,
+            "AttentionNeeded": "ATTENTION: The candidate appears to have been in management in a past role (Global Operations Project & Change Manager for Dentsu Aegis Network), but was not in management in the most recent role as Freelance Digital Marketing Consultant."
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "IsSelfEmployed": true,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Freelance Digital Marketing Consultant",
+                    "Normalized": "Freelance Digital Marketing Consultant",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Freelance",
+                        "Digital Marketing Consultant"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2020-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2021-05-12",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "contract",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Guiding clients with setting their marketing and comms strategy, prioritising and focusing their digital marketing efforts with roadmaps and actionable plans.\nSupporting and project managing the implementation.\n\n-   Business development, sales & marketing - identifying opportunities to grow my\n\nbusiness and maintain a pipeline of clients\n-   Collaborating with a network of expert freelancers to deliver a variety of specialist\nmarketing services for my clients\n-   Managing all the operational aspects of running my own business!"
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "Dentsu Aegis Network",
+                        "Normalized": "Dentsu Aegis Network"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Global Operations Project & Change Manager",
+                    "Normalized": "Global Operations Project AND Change Manager",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2019-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Human Resources",
+                "SubTaxonomyName": "Talent Management",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Part of a brand-new function within the business of project & change specialists to deliver\nproject-based work for internal improvements as well as Client deliverables.\n\nSome examples of my projects; 1) the creation of a model office for data, tech and ad ops\nservices for new clients, 2) the consolidation of programmatic capabilities & solutions\nacross agency brands, 3) leading the onboarding of a new global client account and\n\ntransitioning seamlessly from incumbent agency group."
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "Dentsu Aegis Network UK",
+                        "Normalized": "Dentsu Aegis Network UK"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Operations Project Director",
+                    "Normalized": "Operations Project Director",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2018-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2019-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Digital",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Part of the management team involved in the transformation of DAN UK to become more\nconnected and easier to navigate; for both our people and our clients.\n\n-   Enabling change & improvement to process and ways of working in order to\n\ndeliver the transformation.\n\n-   Focusing on the use of tech & data, our people & resource, reducing cost & business growth opportunities\n-   Developing target operating models for new functions, capabilities and service\nlines; including ways of working and interactions inside & outside of the network, core processes and measures of success.\n\n\nMARKETING & COMMS AND BUSINESS OPERATIONS\n\nEXPERIENCE CONTINUED\nApproachable, knowledgeable, highly-organised and efficient. A solid and in-depth\nunderstanding of the business and our clients to be a positive force for change.\n\nAn example of a project delivered during the transformation: An improved approach to\nreporting of digital media campaigns for clients. This involved the design of a suite of\nproduct solutions to align with client needs and our internal resource to deliver. In order to do this, we delivered an element of standardization of output, automated the data\ncollection and engaged with technology partners to redesign our use cases."
+            },
+            {
+                "Id": "POS-7",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Carat",
+                        "Normalized": "Carat"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Digital Associate Director",
+                    "Normalized": "Digital Associate Director",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2010-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2013-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Amplifi",
+                        "Normalized": "Amplifi"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Operations Director",
+                    "Normalized": "Operations Director",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2017-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2018-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "NumberEmployeesSupervised": {
+                    "Value": 220
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Digital",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "- part of Dentsu Aegis Network\n\n2015-2017\nAmplifi is the media investment division of DAN with approx. 220 employees in the UK. I\nwas responsible for driving operational excellence and best practice for the agency,\n\nreporting to the COO. Ensuring structure, process and systems & tech are fit for purpose\n\nwithin the ever-changing digital media market:\n\nAd Tech & systems: ensuring we are getting the most out of our preferred technology\npartners and embedding new solutions\nClient focus: enabling medias team to deliver best in market media & technology solutions\nfor clients. Identifying client requirements & key questions to ensure we are best placed to deliver\nResource management: to ensure we are working to the optimum capacity across London\n& Stafford offices and establish new approach to measuring effectiveness as we moved to agile and flexible working practices"
+            },
+            {
+                "Id": "POS-5",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Parental Leave",
+                        "Normalized": "Parental Leave"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Group Media Director (Digital)",
+                    "Normalized": "Group Media Director Digital",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Group Media Director"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2014-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2015-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Amplifi (part of Dentsu Aegis Network)"
+            },
+            {
+                "Id": "POS-6",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "BMW, Burberry, Fox Entertainment and Microsoft",
+                        "Normalized": "BMW Burberry Fox Entertainment and Microsoft"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "management and senior clients",
+                    "Normalized": "management and senior clients",
+                    "Probability": "Probable"
+                },
+                "StartDate": {
+                    "Date": "2013-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2014-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "NumberEmployeesSupervised": {
+                    "Value": 12
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Administrative or Clerical",
+                "SubTaxonomyName": "Special Events",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "2013-2014\n\nI was the lead for a team of 12 planner\/buyers responsible for delivery of all digital\ncampaigns (display, programmatic, search & social) on behalf of Vizeum's clients - including\nBMW, Burberry, Fox Entertainment and Microsoft.\n\n- Ensuring progressive planning across display, programmatic, search & social.\n- Responsible for client budgets and internal forecasts for income & revenue\n- Accountable to Vizeum management and senior clients for best practice delivery\nand client servicing from the team"
+            },
+            {
+                "Id": "POS-8",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "MEC",
+                        "Normalized": "MEC"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Digital Account Manager",
+                    "Normalized": "Digital Account Manager",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2008-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2010-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 51,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 28,
+                            "PercentOfParent": 55,
+                            "Skills": [
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "PROFESSIONAL AFFILIATIONS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 28
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-05-12"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 20,
+                            "PercentOfParent": 39,
+                            "Skills": [
+                                {
+                                    "Id": "1400390",
+                                    "Name": "Digital Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 16
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-05-12"
+                                    }
+                                },
+                                {
+                                    "Id": "1400261",
+                                    "Name": "Digital Media",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "595",
+                            "SubTaxonomyName": "Advertising",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "1400380",
+                                    "Name": "Digital Campaign",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400381",
+                                            "Name": "Digital Marketing",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "CERTIFICATIONS"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 16
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2021-05-12"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 16
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-05-12"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "594",
+                            "SubTaxonomyName": "Media",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "1400182",
+                                    "Name": "Media Planning",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 23,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "436",
+                            "SubTaxonomyName": "Management Activities or Functions",
+                            "PercentOfOverall": 23,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "012214",
+                                    "Name": "Business Operations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-30"
+                                    }
+                                },
+                                {
+                                    "Id": "003875",
+                                    "Name": "Operations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 31
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-01-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 6,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 96,
+                            "Skills": [
+                                {
+                                    "Id": "023757",
+                                    "Name": "Business Development",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 16
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-05-12"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "104",
+                            "SubTaxonomyName": "Account Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "030183",
+                                    "Name": "Account Manager",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-8"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2010-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "45",
+                    "Name": "Transmission & Distribution",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "326",
+                            "SubTaxonomyName": "Transmission",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "004805",
+                                    "Name": "Pipeline",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 16
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-05-12"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 4,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "201",
+                            "SubTaxonomyName": "Architecture",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 89,
+                            "Skills": [
+                                {
+                                    "Id": "010312",
+                                    "Name": "USE Cases",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "196",
+                            "SubTaxonomyName": "Internet",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 11,
+                            "Skills": [
+                                {
+                                    "Id": "013075",
+                                    "Name": "CIM",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "9",
+                    "Name": "Human Resources",
+                    "PercentOfOverall": 4,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "584",
+                            "SubTaxonomyName": "Talent Management",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "9000284",
+                                    "Name": "Onboarding",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 6
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-01-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "1",
+                    "Name": "Administrative or Clerical",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "110",
+                            "SubTaxonomyName": "Billing and Collections",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 45,
+                            "Skills": [
+                                {
+                                    "Id": "013780",
+                                    "Name": "Collection",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "119",
+                            "SubTaxonomyName": "Special Events",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 41,
+                            "Skills": [
+                                {
+                                    "Id": "017861",
+                                    "Name": "Forecasts",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 24
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "111",
+                            "SubTaxonomyName": "Recordkeeping and Supplies",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 14,
+                            "Skills": [
+                                {
+                                    "Id": "012256",
+                                    "Name": "Buying",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "532",
+                            "SubTaxonomyName": "Aptitudes",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 67,
+                            "Skills": [
+                                {
+                                    "Id": "031014",
+                                    "Name": "Detail Oriented",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "003205",
+                                    "Name": "Multi-Tasker",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "528",
+                            "SubTaxonomyName": "Attitude",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "026353",
+                                    "Name": "Self-Starter",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "7",
+                    "Name": "Finance",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "235",
+                            "SubTaxonomyName": "Financial Planning & Analysis",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 45,
+                            "Skills": [
+                                {
+                                    "Id": "013778",
+                                    "Name": "Collection",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "243",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 41,
+                            "Skills": [
+                                {
+                                    "Id": "023147",
+                                    "Name": "Finance",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "246",
+                            "SubTaxonomyName": "Treasury",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 14,
+                            "Skills": [
+                                {
+                                    "Id": "026948",
+                                    "Name": "Budgets",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 24
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "89",
+                    "Name": "Bookkeeping, Office Management",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "533",
+                            "SubTaxonomyName": "Bookeeping Tasks",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "026950",
+                                    "Name": "Budgets",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 24
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "013779",
+                                    "Name": "Collection",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-30"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "80",
+                    "Name": "General Management",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "517",
+                            "SubTaxonomyName": "People Oriented",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 75,
+                            "Skills": [
+                                {
+                                    "Id": "021625",
+                                    "Name": "Mentor",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PROFESSIONAL AFFILIATIONS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "516",
+                            "SubTaxonomyName": "Budget Related",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "026949",
+                                    "Name": "Budgets",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 24
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "27",
+                    "Name": "Light Technical\/Trades\/Skilled Labor",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "293",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "021419",
+                                    "Name": "MEC",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "71",
+                    "Name": "Strategy and Planning",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "876",
+                            "SubTaxonomyName": "Workflow and Processes",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "005521",
+                                    "Name": "Process Improvement",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Certifications": [
+        {
+            "Name": "EXPERIENCED IN DIGITAL MEDIA",
+            "MatchedFromList": false,
+            "IsVariation": false
+        },
+        {
+            "Name": "Google Garage Fundamentals",
+            "MatchedFromList": false,
+            "IsVariation": false
+        },
+        {
+            "Name": "CIM Level 4 certificate in",
+            "MatchedFromList": false,
+            "IsVariation": false
+        },
+        {
+            "Name": "HubSpot Academy Social",
+            "MatchedFromList": false,
+            "IsVariation": false
+        },
+        {
+            "Name": "of Digital Marketing",
+            "MatchedFromList": false,
+            "IsVariation": false
+        },
+        {
+            "Name": "digital marketing",
+            "MatchedFromList": false,
+            "IsVariation": true
+        },
+        {
+            "Name": "Media Certified",
+            "MatchedFromList": false,
+            "IsVariation": false
+        },
+        {
+            "Name": "~~~~~~~",
+            "MatchedFromList": false,
+            "IsVariation": false
+        }
+    ],
+    "Associations": [
+        {
+            "Organization": "Part of the Bloom UK network",
+            "Role": ""
+        },
+        {
+            "Organization": "women in communications",
+            "Role": ""
+        },
+        {
+            "Organization": "volunteer mentor for junior",
+            "Role": ""
+        },
+        {
+            "Organization": "women in the industry and",
+            "Role": ""
+        },
+        {
+            "Organization": "marketing support for the",
+            "Role": ""
+        },
+        {
+            "Organization": "organisation",
+            "Role": ""
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "Achievements": [
+        "Invited onto The Marketing",
+        "Academy Virtual Campus",
+        "Program 2021",
+        "Selected for 2019 cohort",
+        "and completed Dentsu's",
+        "Women and Leadership"
+    ],
+    "QualificationsSummary": "SKILLS\n\n\nSelf-starter\nStrategic thinker\n\nAnalytical\nSolutions focused\nDetail oriented\nResponsible\nAdaptable\nPersonable\nMulti-tasker\n\n\nMedia planning & buying\nDigital media\nAd Tech\nProgrammatic tech\nBusiness operations\nProcess improvement\n\nBusiness finance",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 4,
+                "LastLineNumber": 4,
+                "SectionType": "SUMMARY",
+                "HeaderTextFound": "PROFILE"
+            },
+            {
+                "FirstLineNumber": 5,
+                "LastLineNumber": 13,
+                "SectionType": "CONTACT INFO",
+                "HeaderTextFound": "CONTACT"
+            },
+            {
+                "FirstLineNumber": 14,
+                "LastLineNumber": 38,
+                "SectionType": "SKILLS",
+                "HeaderTextFound": "SKILLS"
+            },
+            {
+                "FirstLineNumber": 39,
+                "LastLineNumber": 54,
+                "SectionType": "CERTIFICATIONS",
+                "HeaderTextFound": "CERTIFICATION"
+            },
+            {
+                "FirstLineNumber": 55,
+                "LastLineNumber": 67,
+                "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+                "HeaderTextFound": "RECENT ACHEIVEMENTS"
+            },
+            {
+                "FirstLineNumber": 68,
+                "LastLineNumber": 79,
+                "SectionType": "PROFESSIONAL AFFILIATIONS",
+                "HeaderTextFound": "VOLUNTEERING"
+            },
+            {
+                "FirstLineNumber": 80,
+                "LastLineNumber": 95,
+                "SectionType": "SUMMARY",
+                "HeaderTextFound": "ABOUT ME"
+            },
+            {
+                "FirstLineNumber": 96,
+                "LastLineNumber": 188,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "EXPERIENCE"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Fatal Problems Found",
+                "Findings": [
+                    {
+                        "QualityCode": "414",
+                        "Message": "We found no EDUCATION HISTORY for the candidate. A resume should always include an education history section."
+                    },
+                    {
+                        "QualityCode": "433",
+                        "Message": "We detected that this document contained at least some data that was laid out as columns or tables. We rearranged that data to make it more usable. NEVER use columns or tables in a resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    },
+                    {
+                        "QualityCode": "311",
+                        "Message": "The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume."
+                    },
+                    {
+                        "QualityCode": "323",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "SUMMARY"
+                            }
+                        ],
+                        "Message": "Each section type should only appear once in a resume."
+                    },
+                    {
+                        "QualityCode": "324",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "SUMMARY",
+                                "Id": "0"
+                            }
+                        ],
+                        "Message": "Every section should have text associated with it. This usually indicates an error with the section headers or format used in the resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    },
+                    {
+                        "QualityCode": "222",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-1"
+                            }
+                        ],
+                        "Message": "Every position in a resume should have an employer name."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "112",
+                        "Message": "The following section was identified as a skills section type: 'SKILLS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+                    },
+                    {
+                        "QualityCode": "151",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "CONTACT INFO",
+                                "Id": "1"
+                            }
+                        ],
+                        "Message": "Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~  \nEXPERIENCED IN DIGITAL MEDIA, MARKETING & COMMS AND BUSINESS OPERATIONS\n\n\nPROFILE\nCONTACT\tStrategic: Ability to see the big picture and focus on long term vision\nDelivering Results: Achieving key operational targets across multiple projects\n   ~~~~~~  \tCommercial: Ability to apply commercial expertise and judgement for better business outcomes\nSelf-awareness: A tailored approach to working with others at all levels\n   ~~~~~~~~~~~~~~~~~~~~~~~  \nA solid foundation in media: Over 15 years' experience in media agencies with a deep-rooted\n   ~~~~~~~~~~~~~~~~~~~  \tunderstanding of marketing & comms from a wide spectrum of clients\n\n\nSKILLS\n\n\nSelf-starter\nStrategic thinker\n\nAnalytical\nSolutions focused\nDetail oriented\nResponsible\nAdaptable\nPersonable\nMulti-tasker\n\n\nMedia planning & buying\nDigital media\nAd Tech\nProgrammatic tech\nBusiness operations\nProcess improvement\n\nBusiness finance\n\n\nCERTIFICATION\n\n\nGoogle Garage Fundamentals\n\nof Digital Marketing\n\nHubSpot Academy Social\nMedia Certified\n\nCIM Level 4 certificate in\ndigital marketing\n   ~~~~~~~  \nEXPERIENCED IN DIGITAL MEDIA,\n\n\nRECENT\nACHEIVEMENTS\n\nInvited onto The Marketing\nAcademy Virtual Campus\nProgram 2021\n\nSelected for 2019 cohort\nand completed Dentsu's\nWomen and Leadership\nprogramme\n\n\nVOLUNTEERING\n\n\nPart of the Bloom UK network\nfor women in communications -\n\nvolunteer mentor for junior\nwomen in the industry and\nmarketing support for the\norganisation\n\n\nABOUT ME\n\n\nI spend my time outside of\nwork with my family; I have\ntwo young daughters who\nkeep me busy.\n\nI enjoy running and going\nto the gym when I can and\nam always planning a\nholiday or weekend away -\npreferably somewhere\nsunny!\n\n\nEXPERIENCE\nFreelance Digital Marketing Consultant: Jan 2020 - Present\nGuiding clients with setting their marketing and comms strategy, prioritising and\nfocusing their digital marketing efforts with roadmaps and actionable plans.\nSupporting and project managing the implementation.\n\n-   Business development, sales & marketing - identifying opportunities to grow my\n\nbusiness and maintain a pipeline of clients\n-   Collaborating with a network of expert freelancers to deliver a variety of specialist\nmarketing services for my clients\n-   Managing all the operational aspects of running my own business!\n\nGlobal Operations Project & Change Manager: Dentsu Aegis Network July 2019 -\nJanuary 2020\nPart of a brand-new function within the business of project & change specialists to deliver\nproject-based work for internal improvements as well as Client deliverables.\n\nSome examples of my projects; 1) the creation of a model office for data, tech and ad ops\nservices for new clients, 2) the consolidation of programmatic capabilities & solutions\nacross agency brands, 3) leading the onboarding of a new global client account and\n\ntransitioning seamlessly from incumbent agency group.\n\n\nOperations Project Director: Dentsu Aegis Network UK. July 2018 - June 2019\nPart of the management team involved in the transformation of DAN UK to become more\nconnected and easier to navigate; for both our people and our clients.\n\n-   Enabling change & improvement to process and ways of working in order to\n\ndeliver the transformation.\n\n-   Focusing on the use of tech & data, our people & resource, reducing cost &\nbusiness growth opportunities\n-   Developing target operating models for new functions, capabilities and service\nlines; including ways of working and interactions inside & outside of the\nnetwork, core processes and measures of success.\n\n\nMARKETING & COMMS AND BUSINESS OPERATIONS\n\n\nEXPERIENCE CONTINUED\nApproachable, knowledgeable, highly-organised and efficient. A solid and in-depth\nunderstanding of the business and our clients to be a positive force for change.\n\nAn example of a project delivered during the transformation: An improved approach to\nreporting of digital media campaigns for clients. This involved the design of a suite of\nproduct solutions to align with client needs and our internal resource to deliver. In order to\ndo this, we delivered an element of standardization of output, automated the data\ncollection and engaged with technology partners to redesign our use cases.\n\n\nParental leave: June 2017-July 2018\n\nOperations Director: Amplifi - part of Dentsu Aegis Network\n\n2015-2017\n\nAmplifi is the media investment division of DAN with approx. 220 employees in the UK. I\nwas responsible for driving operational excellence and best practice for the agency,\n\nreporting to the COO. Ensuring structure, process and systems & tech are fit for purpose\n\nwithin the ever-changing digital media market:\n\nAd Tech & systems: ensuring we are getting the most out of our preferred technology\npartners and embedding new solutions\nClient focus: enabling medias team to deliver best in market media & technology solutions\nfor clients. Identifying client requirements & key questions to ensure we are best placed to\ndeliver\nResource management: to ensure we are working to the optimum capacity across London\n& Stafford offices and establish new approach to measuring effectiveness as we moved to\nagile and flexible working practices\n\n\nParental Leave: 2014-2015\n\nGroup Media Director (Digital): Amplifi (part of Dentsu Aegis Network)\n2013-2014\n\nI was the lead for a team of 12 planner\/buyers responsible for delivery of all digital\ncampaigns (display, programmatic, search & social) on behalf of Vizeum's clients - including\nBMW, Burberry, Fox Entertainment and Microsoft.\n\n- Ensuring progressive planning across display, programmatic, search & social.\n- Responsible for client budgets and internal forecasts for income & revenue\n- Accountable to Vizeum management and senior clients for best practice delivery\nand client servicing from the team\n\nDigital Associate Director: Carat (part of Dentsu Aegis Network) 2010-2013\nDigital Account Manager: MEC (now WaveMaker, part of Group M) 2008-2010",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2021-05-12",
+        "SovrenSignature": [
+            "WKQBAAAAAAA="
+        ]
+    }
+}

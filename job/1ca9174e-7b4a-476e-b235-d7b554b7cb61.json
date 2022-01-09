@@ -1,0 +1,260 @@
+{
+    "CurrentJobIsManagement": true,
+    "HighestManagementScore": {
+        "Value": 55
+    },
+    "ManagementLevel": "Mid",
+    "ExecutiveType": "NONE",
+    "MinimumYears": {
+        "Value": 5
+    },
+    "MaximumYears": {
+        "Value": 7
+    },
+    "RequiredDegree": "bachelors",
+    "JobTitles": {
+        "MainJobTitle": "Program Manager",
+        "JobTitle": []
+    },
+    "EmployerNames": {
+        "MainEmployerName": "Jobs",
+        "EmployerName": []
+    },
+    "Degrees": [
+        {
+            "Name": "BA",
+            "Type": "bachelors"
+        },
+        {
+            "Name": "BS",
+            "Type": "bachelors"
+        },
+        {
+            "Name": "MBA",
+            "Type": "masters"
+        }
+    ],
+    "LanguageCodes": [
+        "en"
+    ],
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 50,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 17,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "006273",
+                                    "Name": "Quantitative Analysis",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 17,
+                            "Skills": [
+                                {
+                                    "Id": "1400241",
+                                    "Name": "User Experience",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "590",
+                            "SubTaxonomyName": "Channel, Partner & Ecosystem Marketing",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 17,
+                            "Skills": [
+                                {
+                                    "Id": "1400103",
+                                    "Name": "Ecosystem",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "588",
+                            "SubTaxonomyName": "Data & Analytics",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 17,
+                            "Skills": [
+                                {
+                                    "Id": "1400070",
+                                    "Name": "Program Manager",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "224",
+                            "SubTaxonomyName": "Public Relations",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 17,
+                            "Skills": [
+                                {
+                                    "Id": "023378",
+                                    "Name": "Public Relations",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "005288",
+                                            "Name": "PR",
+                                            "ExistsInText": false,
+                                            "Required": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 17,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "532",
+                            "SubTaxonomyName": "Aptitudes",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "031015",
+                                    "Name": "Strong Communication Skills",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "528",
+                            "SubTaxonomyName": "Attitude",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "026353",
+                                    "Name": "Self-Starter",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 17,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "021737",
+                                    "Name": "Metrics",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "436",
+                            "SubTaxonomyName": "Management Activities or Functions",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "003875",
+                                    "Name": "Operations",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "91",
+                    "Name": "Translations and Language Work",
+                    "PercentOfOverall": 8,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "901",
+                            "SubTaxonomyName": "Translation",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "200002",
+                                    "Name": "Translate",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 8,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "023757",
+                                    "Name": "Business Development",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "JobMetadata": {
+        "PlainText": " JobTitle: Program Manager, Jobs Partnership Description:\r\n6 Month Contract\r\n\r\n\r\nMust be eligible to work and reside in the UK\r\n\r\n\r\nFacebook is seeking an experienced leader to expand our strategic partnerships for Jobs on Facebook to better connect employers and job seekers. In 2017 we launched Jobs on Facebook to pursue our mission to Help People Get Jobs. This person will be responsible for establishing and managing strategic relationships with key business stakeholders and will work with with our world-class Jobs product and engineering teams to ship the best and most innovative products. The person will also work cross-functionally with the policy, legal, marketing, PR and operations to optimize new capabilities, improve user experience, and ensure our partners are successful.\r\n\r\n\r\nThe successful candidate will be a self-starter with experience in product collaboration and loves to drive unique partner\/product solutions. She\/he will be responsible for understanding partner needs, identifying opportunities, and driving measurable results. The ideal candidate will have an analytical mindset, relationship-focused approach, and strong communication skills.\r\n\r\n\r\nRESPONSIBILITIES:\r\n\r\n\r\n\u2022 Help drive product strategy through strategic partnerships with leading Applicant Tracking Systems (ATS) and other job ecosystem players.\r\n\r\n\u2022 Define partner success requirements, produce qualitative and quantitative analysis of partner and product impact, aggregate and translate feedback, explore new strategic opportunities, inform the product road map with enhanced or new functionality.\r\n\r\n\u2022 Set, track, analyze and communicate key partner performance metrics and business trends.\r\n\r\n\u2022 Represent Facebook in external meetings with senior executives from other companies.\r\n\r\n\u2022 Maintain direct and active relationships with partners, including proactively resolving business, technical, and policy issues.\r\n\r\n\u2022 Work cross-functionally with product, engineering, business development, partnerships, policy, legal, marketing, and PR to launch products and partnerships.\r\n\r\n\r\nMINIMUM QUALIFICATIONS:\r\n\r\n\r\n\u2022 BA or BS Degree\r\n\r\n\u2022 5-7 years of relevant work experience with product, consulting, business development, partnership, or technical experience in consumer technology.\r\n\r\n\u2022 Experience with partnerships, tackling challenges and driving recommendations and action plans.\r\n\r\n\u2022 Familiar and comfortable with technical integrations and supporting partners\r\n\r\n\u2022 Willingness and ability to travel 25% of the time\r\n\r\n\u2022 MBA Preferred\r\n\r\n\u2022 Language - Strong written\/spoken English\r\n\r\n\r\nPREFERRED QUALIFICATIONS:\r\n\r\n\r\n\u2022 Experience working with employment marketplaces and\/or recruitment platforms\r\n\r\n\u2022 Ability to define, develop and lead complex projects in a fast-paced, changing environment\r\n\r\n\u2022 Collaboration and relationship-building skills \u2014 with the ability to develop working relationships at all levels of management, both inside and outside Facebook\r\n\r\n\u2022 Understanding of Facebook Business Platform and their strategic and competitive positions\r\n\r\n\u2022 Passion for innovative social products and their potential for transforming businesses and industries\r\n Skills: Operations, Management, Business Strategy",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = Invariant Language (Invariant Country); Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2021-08-11",
+        "SovrenSignature": [
+            "cJ8AAAAAAAA="
+        ]
+    }
+}

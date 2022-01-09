@@ -1,0 +1,1712 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "GeoCoordinates": {
+                "Latitude": 51.50735092163086,
+                "Longitude": -0.1277579963207245
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "MBA",
+                "Normalized": "MBA"
+            },
+            "Type": "masters"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "2018\nUser Experience Design\nCareerFoundry\n\u2022 UX Fundamentals, UX Immersion, UX Specialization\n\u2022 User-Centered Thinking, Usability Analysis and User Personas\n\u2022 Information Architecture\n\u2022 Wireframing and Prototyping\n\u2022 User Flows and A\/B Testing\n\u2022 Google Analytics, Semantics, SEO\nMBA: Business Administration\n2016-08 - 2018-01\nUniversity of Twente - The Netherlands\n\u2022 Graduated cum laude\n\u2022 Dissertation: Business Models and Value Creation in the German Product\nDesign Industry\n\u2022 Majored in Innovation, Entrepreneurship and Strategy\n\u2022 Continuing education in Digital Marketing, AI, Research",
+                "SchoolName": {
+                    "Raw": "University of Twente",
+                    "Normalized": "University of Twente"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "MBA",
+                        "Normalized": "MBA"
+                    },
+                    "Type": "masters"
+                },
+                "Majors": [
+                    "Innovation, Entrepreneurship and Strategy"
+                ],
+                "Minors": [
+                    "education"
+                ],
+                "LastEducationDate": {
+                    "Date": "2018-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "Graduated": {
+                    "Value": true
+                }
+            },
+            {
+                "Id": "DEG-2",
+                "Text": "2015-10 - 2016-07   MSc: Innovation Management and Entrepreneurship\nTechnical University Berlin - Germany\n\u2022 Project work in Business Planning, User Experience, Strategy\n\u2022 Coursework in Sustainable Innovation, Intellectual Property and Entrepreneurship\n\u2022 Professional development completed in qualitative and quantitative\nresearch",
+                "SchoolName": {
+                    "Raw": "Technical University Berlin",
+                    "Normalized": "Technical University Berlin"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "MSc",
+                        "Normalized": "MSc"
+                    },
+                    "Type": "masters"
+                },
+                "Majors": [
+                    "Innovation Management and Entrepreneurship"
+                ],
+                "Minors": [
+                    "Business Planning"
+                ],
+                "LastEducationDate": {
+                    "Date": "2016-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "Graduated": {
+                    "Value": true
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~~~~~~~~~~   is experienced in the management of:  Marketing (Digital); and Information Technology (Protocols and Standards).    ~~~~~~~~~~~~~~~   appears to be an entry-level candidate, with 21 months of experience, with 2 years of management experience, including a mid-level position.",
+            "MonthsOfWorkExperience": 21,
+            "MonthsOfManagementExperience": 21,
+            "ExecutiveType": "GENERAL",
+            "AverageMonthsPerEmployer": 21,
+            "FulltimeDirectHirePredictiveIndex": 50,
+            "ManagementStory": "Current position is a mid-level management role: Regional Manager UK\nStarting on 10\/1\/2019, the candidate held the following mid-level management position for 21 months:\n\tTitle: Regional Manager UK for    ~~~~~~~  ",
+            "CurrentManagementLevel": "mid-level",
+            "ManagementScore": 55
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "   ~~~~~~~  ",
+                        "Normalized": "   ~~~~~~~  "
+                    },
+                    "Location": {
+                        "CountryCode": "UK",
+                        "Municipality": "Earl's Court"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Regional Manager UK",
+                    "Normalized": "Regional Manager UK",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2019-10-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2021-07-01",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Protocols and Standards",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Project based\tLocation\nEarl's Court\n   ~~~~~~~   (London, United Kingdom)\nSW5 London\n\u2022   Collected data using various research methods to broaden results and tailor regional strategy.\tPhone\n\u2022   Created and presented real-time reports on current market conditions to\t   ~~~~~~~~~~~  \nCEO.\nE-mail\n\u2022   Developed go-to-market plans and facilitated internal organizational    ~~~~~~~~~~~~~~~~~~~~~~~  \nreadiness.\n\u2022   Created positioning and key messages to differentiate business solution\nand product in market."
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 41,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 23,
+                            "PercentOfParent": 56,
+                            "Skills": [
+                                {
+                                    "Id": "1400390",
+                                    "Name": "Digital Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "555154300",
+                                    "Name": "Google Analytics",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1400246",
+                                    "Name": "Information Architecture",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1400234",
+                                    "Name": "Search Engine Optimization",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400235",
+                                            "Name": "SEO",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "EDUCATION",
+                                                    "Id": "DEG-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 17
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2018-01-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1400241",
+                                    "Name": "User Experience",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 21
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1400248",
+                                    "Name": "Wireframes",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 17,
+                            "Skills": [
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "003440",
+                                    "Name": "NEW Product Development",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "589",
+                            "SubTaxonomyName": "Business Planning",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 9,
+                            "Skills": [
+                                {
+                                    "Id": "1400329",
+                                    "Name": "Business Planning",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 9
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "595",
+                            "SubTaxonomyName": "Advertising",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "1400380",
+                                    "Name": "Digital Campaign",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400381",
+                                            "Name": "Digital Marketing",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "EDUCATION",
+                                                    "Id": "DEG-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 17
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2018-01-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1400198",
+                                    "Name": "Market Share",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "590",
+                            "SubTaxonomyName": "Channel, Partner & Ecosystem Marketing",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "1400106",
+                                    "Name": "Competitive Analysis",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "1400339",
+                                    "Name": "Product Awareness",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400340",
+                                            "Name": "Brand Awareness",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "1400113",
+                                    "Name": "Relationship Building",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "1400105",
+                                    "Name": "Segmentation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "223",
+                            "SubTaxonomyName": "Market Research",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "024807",
+                                    "Name": "Competitive Analysis",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "1400066",
+                                    "Name": "Market Share",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "585",
+                            "SubTaxonomyName": "Product",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "1400015",
+                                    "Name": "Competitive Analysis",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "1400022",
+                                    "Name": "Product Development",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "226",
+                            "SubTaxonomyName": "Channel Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "1400215",
+                                    "Name": "Retail Marketing",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400216",
+                                            "Name": "Retail",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "591",
+                            "SubTaxonomyName": "Audience",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "1400124",
+                                    "Name": "Relationship Building",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "227",
+                            "SubTaxonomyName": "Brand Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "005612",
+                                    "Name": "Product Development",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 36,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "253",
+                            "SubTaxonomyName": "Protocols and Standards",
+                            "PercentOfOverall": 13,
+                            "PercentOfParent": 37,
+                            "Skills": [
+                                {
+                                    "Id": "081190",
+                                    "Name": "Real-Time",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 21
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "200",
+                            "SubTaxonomyName": "QA and QC",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 18,
+                            "Skills": [
+                                {
+                                    "Id": "010313",
+                                    "Name": "Usability",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "351",
+                            "SubTaxonomyName": "Multimedia",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 16,
+                            "Skills": [
+                                {
+                                    "Id": "022137",
+                                    "Name": "MS Office",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "011200",
+                                    "Name": "Wireframing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "555",
+                            "SubTaxonomyName": "Enterprise Storage",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "5551150",
+                                    "Name": "HP-UX",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555115001",
+                                            "Name": "UX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                },
+                                                {
+                                                    "SectionType": "EDUCATION",
+                                                    "Id": "DEG-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 17
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2018-01-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "203",
+                            "SubTaxonomyName": "UNIX and LINUX",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "01026309",
+                                    "Name": "UNIX",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "010377",
+                                            "Name": "UX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                },
+                                                {
+                                                    "SectionType": "EDUCATION",
+                                                    "Id": "DEG-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 17
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2018-01-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "553",
+                            "SubTaxonomyName": "Big Data",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "555154354",
+                                    "Name": "Big Data",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "5530944",
+                                    "Name": "Data Collection",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "731",
+                            "SubTaxonomyName": "User Interface",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "7310035",
+                                    "Name": "Information Architecture",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "201",
+                            "SubTaxonomyName": "Architecture",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "019774",
+                                    "Name": "Information Architecture",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "195",
+                            "SubTaxonomyName": "ERP and CRM",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "026613",
+                                    "Name": "Clarify",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "014101",
+                                    "Name": "CRM",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "552",
+                            "SubTaxonomyName": "Mobile Applications",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "5520613",
+                                    "Name": "User Experience Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-01-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 7,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "558",
+                            "SubTaxonomyName": "User Research",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 21,
+                            "Skills": [
+                                {
+                                    "Id": "5570211",
+                                    "Name": "User Research",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "5570208",
+                                    "Name": "User Testing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "573",
+                            "SubTaxonomyName": "Product Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 15,
+                            "Skills": [
+                                {
+                                    "Id": "5570161",
+                                    "Name": "User Experience Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "565",
+                            "SubTaxonomyName": "Visual Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 15,
+                            "Skills": [
+                                {
+                                    "Id": "5570075",
+                                    "Name": "User Experience Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 15,
+                            "Skills": [
+                                {
+                                    "Id": "5570060",
+                                    "Name": "User Experience Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "560",
+                            "SubTaxonomyName": "UX Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 15,
+                            "Skills": [
+                                {
+                                    "Id": "5570017",
+                                    "Name": "User Experience Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "563",
+                            "SubTaxonomyName": "Usability Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "5570056",
+                                    "Name": "EYE Tracking",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "571",
+                            "SubTaxonomyName": "Web Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "5570152848",
+                                    "Name": "Wireframe",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570152849",
+                                            "Name": "Wireframes",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "561",
+                            "SubTaxonomyName": "Human Computer Interaction",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "5570029",
+                                    "Name": "Information Architecture",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-01-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "134",
+                            "SubTaxonomyName": "Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "080932",
+                                    "Name": "Prototyping",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "144",
+                            "SubTaxonomyName": "Computer Hardware",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "080751",
+                                    "Name": "Prototyping",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "307",
+                            "SubTaxonomyName": "General Engineering",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "080476",
+                                    "Name": "Prototyping",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-01-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "030018",
+                                    "Name": "Retail",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "92",
+                    "Name": "Knowledge and Learning Management",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "903",
+                            "SubTaxonomyName": "General Knowledge and Learning Management",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "200052",
+                                    "Name": "Mentor",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "200051",
+                                    "Name": "Mentoring",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "12",
+                    "Name": "Legal",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "395",
+                            "SubTaxonomyName": "Intellectual Property",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "019955",
+                                    "Name": "Intellectual Property",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 9
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "528",
+                            "SubTaxonomyName": "Attitude",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "007739",
+                                    "Name": "Self Motivated",
+                                    "ExistsInText": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "532",
+                            "SubTaxonomyName": "Aptitudes",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "005353",
+                                    "Name": "Presentation Skills",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "1",
+                    "Name": "Administrative or Clerical",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "109",
+                            "SubTaxonomyName": "Document-centric",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 67,
+                            "Skills": [
+                                {
+                                    "Id": "008387",
+                                    "Name": "Sorting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "110",
+                            "SubTaxonomyName": "Billing and Collections",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "013780",
+                                    "Name": "Collection",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 81,
+                            "Skills": [
+                                {
+                                    "Id": "024808",
+                                    "Name": "Competitive Analysis",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "005482",
+                                    "Name": "Problem Solving",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "436",
+                            "SubTaxonomyName": "Management Activities or Functions",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 19,
+                            "Skills": [
+                                {
+                                    "Id": "026084",
+                                    "Name": "Business Plans",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "33",
+                    "Name": "Graphic Design",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "432",
+                            "SubTaxonomyName": "Software",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "555154489",
+                                    "Name": "InVision",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "37",
+                    "Name": "Recruiting",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "492",
+                            "SubTaxonomyName": "Recruiting Tasks and Activities",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "006646",
+                                    "Name": "Recruitment",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "71",
+                    "Name": "Strategy and Planning",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "876",
+                            "SubTaxonomyName": "Workflow and Processes",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "005521",
+                                    "Name": "Process Improvement",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "7",
+                    "Name": "Finance",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "246",
+                            "SubTaxonomyName": "Treasury",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 67,
+                            "Skills": [
+                                {
+                                    "Id": "026085",
+                                    "Name": "Business Plans",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "235",
+                            "SubTaxonomyName": "Financial Planning & Analysis",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "013778",
+                                    "Name": "Collection",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "9",
+                    "Name": "Human Resources",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "583",
+                            "SubTaxonomyName": "Talent Sourcing",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "9000267",
+                                    "Name": "Customer Relationship Management",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "9000268",
+                                            "Name": "CRM",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "024467",
+                                    "Name": "Microsoft Office",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "022136",
+                                            "Name": "MS Office",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Certifications": [
+        {
+            "Name": "Big Data Foundations & Watson Analytics Course - IBM",
+            "MatchedFromList": false,
+            "IsVariation": false
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "German",
+            "LanguageCode": "de",
+            "FoundInContext": "German, English"
+        },
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "German, English"
+        },
+        {
+            "Language": "Spanish",
+            "LanguageCode": "es",
+            "FoundInContext": "Spanish, French"
+        },
+        {
+            "Language": "French",
+            "LanguageCode": "fr",
+            "FoundInContext": "Spanish, French"
+        }
+    ],
+    "Achievements": [
+        "Graduated cum laude",
+        "MENTOR @MentorMe",
+        "FOUNDER @Fashion & Style blog \"LOOKTOINSPIRE\"",
+        "Participant KMPG x Microsoft @FASHIONSUSTAIN Thinkathon"
+    ],
+    "QualificationsSummary": "Skills\n\u2022   Conducted field visits and met +150 corporate customers for business\ndevelopment.\tProblem solving\n\u2022   Closed partnerships with leading luxury and boutique hotels.\n\nExcellent\n2019-08 - Current\tVisiting Lecturer - Int. Fashion & Media Mgmt (BA, MA)\tCommunication skills\n\nEuropean College of Business and Management\n\u2022   Proactive learning facilitation.\tExcellent\n\n\u2022   Lead inspired discussions and encouraged students to learn new skills\tStakeholder relations\n\n(e.g. user research, customer experience, product and idea\ndevelopment).\tExcellent\n\n\u2022   Developed and modernized course materials for on-and offline lectures,\tTraining and mentoring\n\nincluding syllabi and in-class activities.\nExcellent\n\u2022   Utilized innovative methods of instruction, including video, interactive\nclass activities, field trips and discussions to present course material.\tAnalytical skills\n\n\u2022   Evaluated student analyses, research and market feasibility.\nExcellent\nResearch design, Data collection\n2014-09 - Current\tFreelance Consultant (CX, Strategy)\nand User testing\nClient Excerpt: #SHOWROOMING, Zalando, Decoded Fashion, AVMM\n\u2022   Helped clients improve their usability and increase user engagement\tExcellent\nbased on data and complimentary research.\nStrategic development\n\u2022   Derived actionable recommendations for corporate clients in the field of\nUX and CX.\tVery Good\n\u2022   Regularly reported main findings and implications to corporate clients\tPresentation skills\n\u2022   Design and running of interactive workshops.\n\u2022   Successfully acquired new industry knowledge and understanding of\tVery Good\ndifferent business models.\n\u2022   Continuously developed experiential ideas based on current and future\ntrends.\n\u2022   Offered user- and data-driven recommendations aligned with overall\ncompany strategies and prioritized process improvement initiatives for a\nvariety of clients and stakeholders.\n\u2022   Conducted research on the impact of COVID on business models and\nchanges in consumer behaviour.\n\u2022   Authored a white paper on post-pandemic retail.\n\u2022   Identified appropriate channels and target customer segmentation for\nbusinesses in different industries.\nSoftware\n\u2022   Studied demographic data to determine optimal targets, competitor\nofferings and tactics for differentiation.\tMacOSX\n\n\u2022   Analyzed and wrote business plans, identified inefficiencies in existing\nExcellent\nprocesses, and tracked performance improvement.\nMS Office and Google Suite\n\n2015-10 - 2018-10   Corporate Innovation Projects - UX and CX\nExcellent\nTU Berlin, University of Twente, CareerFoundry, (Germany, Netherlands)\nUX Research: SurveyMonkey,\nProjects for Deutsche Bahn, Brown-Forman, Schindler Digital Business Ltd.,\nGoogleForms, Usability Hub,\nOne For All, CareerFoundry\n\u2022   Planned and conducted hands-own user research (e.g. interviews,\tExcellent\nsurveys, card-sorting, in-person and remote usability testings).\tCRM Tools: Mailchimp, Omnisend,\n\u2022   Recruitment of suitable users for testings.\tvtiger, Highrise, Salesforce\n\u2022   Collected requirements from end-customers and business partners for\nproduct upgrades, added features and new product development.\tVery Good\n\u2022   Gathered and analyzed relevant user needs for different projects across\tProject Mgmt Tools: Miro, Streak,\nindustries.\tAsana, Slack, Trello,\n\u2022   Used holistic insights and gathered data to develop user personas and\nrespective customer journeys.\tVery Good\n\u2022   Worked with leading-edge technologies (e.g. eye tracking) to conduct\tGoogle Analytics, Website\nA\/B testings.\tOptimisation\n\u2022   Conducted market, trend, and competitor analysis to compare product\nofferings to market standards.\tVery Good\n\u2022   Resolved conflicts and negotiated agreements between cross-\tInVision, UXPin\nfunctional team members in order to reach win-win solutions to\ndisagreements and clarify misunderstandings.\tGood\n\u2022   Designed wireframes and prototypes as well as respective ideations.\n\n\n2012-09 - 2014-08   Assistant Marketing Manager (Beauty & Fashion)\nDepartment Store Quartier 206 (Berlin, Germany)\n\u2022   Developed insights on marketing campaigns to assess performance\nagainst goals.\n\u2022   Leveraged industry trends and competitive analysis to improve customer\nrelationship building and customer experience.\n\u2022   Built and strengthened strategic relationships with brands, customers,\ncreative agencies and leading media partners.\n\u2022   Orchestrated new product launches to expand market share and\nincrease brand awareness.\n\u2022   Planned and directed promotional events to attract customers and\nincrease sales.\n\u2022   Oversaw preparation of marketing copy, images, videos, emails and\nother collateral.",
+    "Publications": "Publications\n\nWhitepaper on \"Post-Pandemic Retail\", 2020\n\nCase study contributions in the following books:\n\"Global Marketing Strategy: An Executive Digest\", 2016\n\"Ethics in Marketing: International Cases and Perspectives\", Routledge, 2012",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 8,
+                "LastLineNumber": 24,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "Work History"
+            },
+            {
+                "FirstLineNumber": 25,
+                "LastLineNumber": 121,
+                "SectionType": "SKILLS",
+                "HeaderTextFound": "Skills"
+            },
+            {
+                "FirstLineNumber": 122,
+                "LastLineNumber": 151,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "Education"
+            },
+            {
+                "FirstLineNumber": 152,
+                "LastLineNumber": 163,
+                "SectionType": "LANGUAGES",
+                "HeaderTextFound": "Languages"
+            },
+            {
+                "FirstLineNumber": 164,
+                "LastLineNumber": 168,
+                "SectionType": "CERTIFICATIONS",
+                "HeaderTextFound": "Certifications"
+            },
+            {
+                "FirstLineNumber": 169,
+                "LastLineNumber": 175,
+                "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+                "HeaderTextFound": "Additional Activities"
+            },
+            {
+                "FirstLineNumber": 176,
+                "LastLineNumber": 182,
+                "SectionType": "OTHER_PUBLICATIONS",
+                "HeaderTextFound": "Publications"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    },
+                    {
+                        "QualityCode": "303",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "SKILLS",
+                                "Id": "1"
+                            }
+                        ],
+                        "Message": "These sections are longer than the work history and education sections combined. This may indicate a problem with section headers, formatting, or content."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "112",
+                        "Message": "The following section was identified as a skills section type: 'Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+                    },
+                    {
+                        "QualityCode": "113",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "OTHER_PUBLICATIONS",
+                                "Id": "6"
+                            }
+                        ],
+                        "Message": "Publications should not be included in a resume."
+                    },
+                    {
+                        "QualityCode": "151",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "0"
+                            }
+                        ],
+                        "Message": "Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~~~~~~~~~  \nHigh-achieving and agile business, CX, and communications consultant offering over 10+ years of experience in diverse industries - well-\nexperienced in the luxury and lifestyle industry. Always striving to achieve the best results, build strong relationships, and inspire other team\nmembers. Well-versed in user and market research, business analysis, and developing strategic action plans for companies. A gifted\ncommunicator with excellent relationship-building and problem-solving abilities. Passionate about research, learning, knowledge sharing, and\nco-creating with interdisciplinary teams.\n\n\nWork History\tContact\n\n2019-10 - Current\nRegional Manager UK - Project based\tLocation\nEarl's Court\n   ~~~~~~~   (London, United Kingdom)\nSW5 London\n\u2022   Collected data using various research methods to broaden results and\ntailor regional strategy.\tPhone\n\u2022   Created and presented real-time reports on current market conditions to\t   ~~~~~~~~~~~  \nCEO.\nE-mail\n\u2022   Developed go-to-market plans and facilitated internal organizational\n   ~~~~~~~~~~~~~~~~~~~~~~~  \nreadiness.\n\u2022   Created positioning and key messages to differentiate business solution\nand product in market.\nSkills\n\u2022   Conducted field visits and met +150 corporate customers for business\ndevelopment.\tProblem solving\n\u2022   Closed partnerships with leading luxury and boutique hotels.\n\nExcellent\n2019-08 - Current\tVisiting Lecturer - Int. Fashion & Media Mgmt (BA, MA)\tCommunication skills\n\nEuropean College of Business and Management\n\u2022   Proactive learning facilitation.\tExcellent\n\n\u2022   Lead inspired discussions and encouraged students to learn new skills\tStakeholder relations\n\n(e.g. user research, customer experience, product and idea\ndevelopment).\tExcellent\n\n\u2022   Developed and modernized course materials for on-and offline lectures,\tTraining and mentoring\n\nincluding syllabi and in-class activities.\nExcellent\n\u2022   Utilized innovative methods of instruction, including video, interactive\nclass activities, field trips and discussions to present course material.\tAnalytical skills\n\n\u2022   Evaluated student analyses, research and market feasibility.\nExcellent\nResearch design, Data collection\n2014-09 - Current\tFreelance Consultant (CX, Strategy)\nand User testing\nClient Excerpt: #SHOWROOMING, Zalando, Decoded Fashion, AVMM\n\u2022   Helped clients improve their usability and increase user engagement\tExcellent\nbased on data and complimentary research.\nStrategic development\n\u2022   Derived actionable recommendations for corporate clients in the field of\nUX and CX.\tVery Good\n\u2022   Regularly reported main findings and implications to corporate clients\tPresentation skills\n\u2022   Design and running of interactive workshops.\n\u2022   Successfully acquired new industry knowledge and understanding of\tVery Good\ndifferent business models.\n\u2022   Continuously developed experiential ideas based on current and future\ntrends.\n\u2022   Offered user- and data-driven recommendations aligned with overall\ncompany strategies and prioritized process improvement initiatives for a\nvariety of clients and stakeholders.\n\u2022   Conducted research on the impact of COVID on business models and\nchanges in consumer behaviour.\n\u2022   Authored a white paper on post-pandemic retail.\n\u2022   Identified appropriate channels and target customer segmentation for\nbusinesses in different industries.\nSoftware\n\u2022   Studied demographic data to determine optimal targets, competitor\nofferings and tactics for differentiation.\tMacOSX\n\n\u2022   Analyzed and wrote business plans, identified inefficiencies in existing\nExcellent\nprocesses, and tracked performance improvement.\nMS Office and Google Suite\n\n2015-10 - 2018-10   Corporate Innovation Projects - UX and CX\nExcellent\nTU Berlin, University of Twente, CareerFoundry, (Germany, Netherlands)\nUX Research: SurveyMonkey,\nProjects for Deutsche Bahn, Brown-Forman, Schindler Digital Business Ltd.,\nGoogleForms, Usability Hub,\nOne For All, CareerFoundry\n\u2022   Planned and conducted hands-own user research (e.g. interviews,\tExcellent\nsurveys, card-sorting, in-person and remote usability testings).\tCRM Tools: Mailchimp, Omnisend,\n\u2022   Recruitment of suitable users for testings.\tvtiger, Highrise, Salesforce\n\u2022   Collected requirements from end-customers and business partners for\nproduct upgrades, added features and new product development.\tVery Good\n\u2022   Gathered and analyzed relevant user needs for different projects across\tProject Mgmt Tools: Miro, Streak,\nindustries.\tAsana, Slack, Trello,\n\u2022   Used holistic insights and gathered data to develop user personas and\nrespective customer journeys.\tVery Good\n\u2022   Worked with leading-edge technologies (e.g. eye tracking) to conduct\tGoogle Analytics, Website\nA\/B testings.\tOptimisation\n\u2022   Conducted market, trend, and competitor analysis to compare product\nofferings to market standards.\tVery Good\n\u2022   Resolved conflicts and negotiated agreements between cross-\tInVision, UXPin\nfunctional team members in order to reach win-win solutions to\ndisagreements and clarify misunderstandings.\tGood\n\u2022   Designed wireframes and prototypes as well as respective ideations.\n\n\n2012-09 - 2014-08   Assistant Marketing Manager (Beauty & Fashion)\nDepartment Store Quartier 206 (Berlin, Germany)\n\u2022   Developed insights on marketing campaigns to assess performance\nagainst goals.\n\u2022   Leveraged industry trends and competitive analysis to improve customer\nrelationship building and customer experience.\n\u2022   Built and strengthened strategic relationships with brands, customers,\ncreative agencies and leading media partners.\n\u2022   Orchestrated new product launches to expand market share and\nincrease brand awareness.\n\u2022   Planned and directed promotional events to attract customers and\nincrease sales.\n\u2022   Oversaw preparation of marketing copy, images, videos, emails and\nother collateral.\nEducation\n\n2018\nUser Experience Design\nCareerFoundry\n\u2022 UX Fundamentals, UX Immersion, UX Specialization\n\u2022 User-Centered Thinking, Usability Analysis and User Personas\n\u2022 Information Architecture\n\u2022 Wireframing and Prototyping\n\u2022 User Flows and A\/B Testing\n\u2022 Google Analytics, Semantics, SEO\nMBA: Business Administration\n2016-08 - 2018-01\nUniversity of Twente - The Netherlands\n\u2022 Graduated cum laude\n\u2022 Dissertation: Business Models and Value Creation in the German Product\nDesign Industry\n\u2022 Majored in Innovation, Entrepreneurship and Strategy\n\u2022 Continuing education in Digital Marketing, AI, Research\n\n\n2015-10 - 2016-07   MSc: Innovation Management and Entrepreneurship\nTechnical University Berlin - Germany\n\u2022 Project work in Business Planning, User Experience, Strategy\n\u2022 Coursework in Sustainable Innovation, Intellectual Property and\nEntrepreneurship\n\u2022 Professional development completed in qualitative and quantitative\nresearch\n\n\nLanguages\n\nGerman, English\n\n\nNative\nSpanish, French\n\n\nAdvanced\n\n\nCertifications\n\nBig Data Foundations & Watson Analytics Course - IBM\n\n\nAdditional Activities\n\n\u2022   MENTOR @MentorMe\n\u2022   FOUNDER @Fashion & Style blog \"LOOKTOINSPIRE\"\n\u2022   Participant KMPG x Microsoft @FASHIONSUSTAIN Thinkathon\n\n\nPublications\n\nWhitepaper on \"Post-Pandemic Retail\", 2020\n\nCase study contributions in the following books:\n\"Global Marketing Strategy: An Executive Digest\", 2016\n\"Ethics in Marketing: International Cases and Perspectives\", Routledge, 2012",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-GB",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = UK; Culture.DefaultCultureIsUK = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2021-07-01",
+        "SovrenSignature": [
+            "DyYAAAAAAAA="
+        ]
+    }
+}

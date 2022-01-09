@@ -1,0 +1,3184 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "GeoCoordinates": {
+                "Latitude": 50.82252883911133,
+                "Longitude": -0.13716299831867218
+            }
+        }
+    },
+    "ProfessionalSummary": "Skilled and flexible Telecoms Engineer with over 30 years experience having exposure in a diverse variety of dynamic roles (Implementation \/Operations & Support) including I&C, OAM, NMC, design (network, sync, SOC) & Field Project Management. Comprehensive knowledge of fixed network technologies: SDH\/SONET\/PDH\/DWDM;\n\nExperienced Operation and Maintenance Support of Level(3) Goswell ,Braham ,Leman St and Level(3) Pops  for 5 years .Extensive knowledge of the electrical and mechanical infrastructure and under standing of the  Level(3) ethos",
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "HNC in Electronic Engineering",
+                "Normalized": "hndhncorequivalent"
+            },
+            "Type": "HND_HNC_OrEquivalent"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-2",
+                "Text": "Jan '95 - May '95\tCollege of North London\nData Communications Module Level 3.",
+                "SchoolName": {
+                    "Raw": "College of North London",
+                    "Normalized": "College of North London"
+                },
+                "SchoolType": "college",
+                "Degree": [],
+                "Majors": [
+                    "Data Communications"
+                ],
+                "LastEducationDate": {
+                    "Date": "1995-05-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Id": "DEG-3",
+                "Text": "Sept '93   June '94\tUniversity of Westminster, Harrow, Middlesex\nCompleted the 2 year HNC in Electronic Engineering.",
+                "SchoolName": {
+                    "Raw": "University of Westminster",
+                    "Normalized": "University of Westminster"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "HNC in Electronic Engineering",
+                        "Normalized": "hndhncorequivalent"
+                    },
+                    "Type": "HND_HNC_OrEquivalent"
+                },
+                "Majors": [
+                    "Electronic Engineering"
+                ],
+                "LastEducationDate": {
+                    "Date": "1994-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "Graduated": {
+                    "Value": true
+                }
+            },
+            {
+                "Id": "DEG-4",
+                "Text": "June '87   Oct '88\tNo.1 Radio School, Weston Super Mare, Avon",
+                "SchoolName": {
+                    "Raw": "No.1 Radio School",
+                    "Normalized": "No.1 Radio School"
+                },
+                "SchoolType": "UNSPECIFIED",
+                "Degree": [],
+                "LastEducationDate": {
+                    "Date": "1988-10-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Id": "DEG-1",
+                "Text": "Sept '82   June '85\tBlyth Tynedale High School, Blyth, Northumberland\n'O' Levels\tCSE's Mathematics\tEnglish Language\nPhysics\tEnglish Literature\nBiology\tHistory\nApplied Science\nGeography",
+                "SchoolName": {
+                    "Raw": "Blyth Tynedale High School",
+                    "Normalized": "Blyth Tynedale High School"
+                },
+                "SchoolType": "highschool",
+                "Degree": {
+                    "Name": {
+                        "Raw": "'O' Levels",
+                        "Normalized": "highSchoolOrEquivalent"
+                    },
+                    "Type": "highSchoolOrEquivalent"
+                },
+                "Majors": [
+                    "CSE's Mathematics"
+                ],
+                "LastEducationDate": {
+                    "Date": "1985-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Id": "DEG-5",
+                "Text": "BTEC(M) Electronics (ONC equivalent) and City & Guilds\tElectronic Workshop Practices.",
+                "SchoolName": {
+                    "Raw": "City & Guilds",
+                    "Normalized": "City AND Guilds"
+                },
+                "SchoolType": "secondary",
+                "Degree": {
+                    "Name": {
+                        "Raw": "BTEC",
+                        "Normalized": "BTEC"
+                    },
+                    "Type": "HND_HNC_OrEquivalent"
+                },
+                "Majors": [
+                    "Electronics"
+                ]
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~~~   is experienced in:  Information Technology (Network); and Engineering.    ~~~~~~~~   has 22 years of work experience, with 11 years of management experience, including a mid-level position.",
+            "MonthsOfWorkExperience": 263,
+            "MonthsOfManagementExperience": 130,
+            "ExecutiveType": "GENERAL",
+            "AverageMonthsPerEmployer": 43,
+            "FulltimeDirectHirePredictiveIndex": 85,
+            "ManagementStory": "Current position is a low-level management role: ISP Project Manager\/Engineer\nStarting on 8\/1\/2018, the candidate held the following low-level management position for 2 years and 7 months:\n\tTitle: ISP Project Manager\/Engineer\nStarting on 12\/1\/2012, the candidate held the following low-level management position for 2 years and 6 months:\n\tTitle: Technical Project Manager Google EMEA\nStarting on 3\/1\/2000, the candidate held the following low-level management position for 5 years and 10 months:\n\tTitle: Goswell Rd City Engineer\/Data Centre Manager for Level(3) Communications",
+            "CurrentManagementLevel": "low-level",
+            "ManagementScore": 30
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "IsSelfEmployed": false,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "ISP Project Manager\/Engineer",
+                    "Normalized": "ISP Project Manager\/Engineer",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "ISP Project Manager",
+                        "Engineer"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2018-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2021-02-25",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "General Management",
+                "SubTaxonomyName": "Budget Related",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "Manage Space and Power builds for Zayo throughout Europe.\nCreate Budgets and POs\nNegotiate with Data Centre for pricing on racks, ducting ,power, Installations\nWriting processes and MOPS for vendors\nManaging third party contractors to undertake installations\nSign off of installations\nUsing Salesforce to manage budgets\/projects\nUsing inventory tool M^ to manage the Zayo onsite rack and power inventory"
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "Optical\/IP Networks.Ciena",
+                        "Normalized": "Optical\/IP Networks.Ciena"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Senior Field Engineer Zayo",
+                    "Normalized": "Senior Field Engineer Zayo",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Field Engineer Zayo"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2015-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2018-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Telecommunications",
+                "SubTaxonomyName": "Cabling and Related",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "Installation and commissioning of Optical\/IP Networks.Ciena 6500s, Adva, Accedian,Juniper.\nRFC\/Bert testing of Optical ccts.\nSupervision of contractors both in the UK and Europe\nLiaison with all parts of the business to co-ordinate installations\nOn call to cover fault escalations contractors are unable to deal with.\nInstall of DC Rectifiers and Dc Cabling\nTravel throughout Europe installing all of the equipment above\nUsing Data Access procedures for deliveries etc\nWriting technical MOPS a for installations and installation guides"
+            },
+            {
+                "Id": "POS-3",
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Technical Project Manager Google EMEA",
+                    "Normalized": "Technical Project Manager Google EMEA",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2012-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2015-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Project Management",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "Responsible design both optical and physical including power,rack and over-head infrastructure for Pop builds\nProject lead for all the new and existing Pop builds in the EMEA\nLed a team 3 project managers to design all of Google Pop builds in the EMEA from design to build\nReported to the lead Project Manager for Operations in the EMEA .Presented reports on status and dates\nCreated standards and templates to streamline build processes. Create SOWs and design documents for network infrastructure and optical cabling for both ISP and OSP\nResponsible for the ordering of all Materials for Pop Builds\nLiaise across several organizations across Google\nExtensive travel throughout the EMEA to accept new Pop Builds\nWorked under pressure and important to get the details correct first time\nManaged vendors in all EMEA countries. Responsible to get them to build what we wanted not what they thought we wanted .Overcome culture barriers Identified risks and escalated as required"
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "UK Engineering Abovenet Communications Ltd\/Zayo",
+                        "Normalized": "UK Engineering Abovenet Communications Zayo"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Senior Transmission Engineer",
+                    "Normalized": "Senior Transmission Engineer",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Transmission Engineer"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2009-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2012-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Network",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "Responsible for Abovenet's UK Transmission Metro Network both IP layer 2 and Transmission equipment\nInstallation and commissioning of Ciena 4200 micro and classis chassis\nInstallation and commissioning of Nortel 5100 ,5200 and 6500 equipment\nInstallation and commission of Avda FSP150 metro equipment\nInstallation and commission of Juniper EX4200's\nInstallation and commission of Accedian\nConfiguration of the layer 2 Cisco\/Juniper network\n1st\/2nd line support on the UK metro network.\nMaintaining all documentation and engineering standards\nInterfacing with clients and customers during both installation and faults\nWorking under pressure\nProject managing Data Centre private suite fit out and Undertaking surveys of both power and cooling of data centre to improve efficiency and cut costs.\nUndertake and Project the Power Upgrade in Abovenet C8.Involved installed all DCX plant and UPS systems\n\n\nTraining Courses\nNortel 5200 and 6500\nCiena4200"
+            },
+            {
+                "Id": "POS-5",
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Senior Project Engineer",
+                    "Normalized": "Senior Project Engineer",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Project Engineer"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2005-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2009-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Engineering",
+                "SubTaxonomyName": "Optical",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "overseeing the installation and operation integration of both Optical and Copper infrastructure in BT Exchanges for the BT21CN roll out\nLiaising with customer representatives to make sure the telecoms project run to time and budget.\nProduce daily and weekly reports\nLeadership and motivation of small teams of telecommunications engineers.\nResolving any day to day issues\n\nTraining Courses\nHuawei Msan Installation and Maintenance\nHuawei Optical DWDM Installation, Commissioning  and Maintenance"
+            },
+            {
+                "Id": "POS-6",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Level(3) Communications",
+                        "Normalized": "Level 3 Communications"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Goswell Rd City Engineer\/Data Centre Manager",
+                    "Normalized": "Goswell Rd City Engineer\/Data Centre Manager",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Rd City Engineer\/Data Centre Manager",
+                        "Rd City Engineer",
+                        "Data Centre Manager"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2000-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2005-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Network",
+                "JobLevel": "Senior Manager (more than 5 years management experience)",
+                "TaxonomyPercentage": 0,
+                "Description": "Providing management, supervision ,guidance ,leadership to Technicians and allocation of work day to day in orderb to meet the needs of the business and customers.\nProviding 1st \/2nd line tech support for Technicians ,Customer care and RMC (NoC)\nResponsibility for over seeing all installations in the gateway (Data Centre) and all on-site of Level(3) \/Vendor provided equipment\nMaintaining the standard of engineering practices amongst the technicians\nContact for all building issues power ,security and air conditioning\nDealing with customer problems within the Level(3)gateway and customer Pops\nManaging the Quality Assurance of any third party installations with the Level(3) facility\nProducing reports of work installed etc to the Operations manager and Director\nUse of various Level(3) Fault ,provisioning ,management and alarm databases.\nMonitoring JCI BMS and understanding  the alarms and the actions required to resolve issue\n1st Line fault finding on both Electrical and Mechanical infrastructure.\nManagement of complicated electrical switching at Goswell Rd when required\nApproving method  statements and risk assessments and assessing their impact on the building\n\nCourses attended:\nNortel Optera LH\/DX\/DWDM equipment\nAlacatel 5200 Packet Engine\nNortel CS3K VoIP equipment\nAlacatel ADM commissioning    ~~~~~~~~~  \nW&G OTDR Course\/Power Meters\nCurrently Studying for CCNA certificate\nPillar & Eaton UPS Training\nEltek DC O&M Training\nNEBOSH Certified"
+            },
+            {
+                "Id": "POS-7",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Level (3) Communications",
+                        "Normalized": "Level 3 Communications"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Aldgate Field Operations Technician",
+                    "Normalized": "Aldgate Field Operations Technician",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Field Operations Technician"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "1999-04-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2000-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Network",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Installation ,maintenance and fault  diagnostics of  SDH ccts STM 1 through to STM64 (DWDM) nationally and international\nInstallation of DIA (Direct Internet Access) and managed routers for customers. Involved the use of CSUs and Cisco 1601s .Plus basic IP configuration and trouble shooting\nUsing WWG Ant20 SDH  testers ,PFA testers to test PDH E1 & X21 ccts .Also using Fibre test equipment to check for appropriate power levels\nMaintenance of all the DSX ,OSX and Equipment in the gateway\nInstallation and Commissioning Alcatel ADMs 1641,1651and 1664"
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 33,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "198",
+                            "SubTaxonomyName": "Network",
+                            "PercentOfOverall": 13,
+                            "PercentOfParent": 41,
+                            "Skills": [
+                                {
+                                    "Id": "1980029",
+                                    "Name": "BERT",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 38
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "026808",
+                                    "Name": "CCNA",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 69
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2005-12-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1980018",
+                                    "Name": "Cisco",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 58
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-12-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1980030",
+                                    "Name": "DWDM",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "TRAINING"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 117
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2009-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1007292",
+                                    "Name": "E-Carrier",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "100729202",
+                                            "Name": "E1",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "TRAINING"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-7"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 11
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2000-03-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2000-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1980017",
+                                    "Name": "Juniper",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 85
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1980037",
+                                    "Name": "Layer 2",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 47
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-12-01"
+                                    }
+                                },
+                                {
+                                    "Id": "024870",
+                                    "Name": "Modem",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "004126",
+                                    "Name": "OSP",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 30
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-06-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1980025",
+                                    "Name": "OTDR",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 69
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2005-12-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1007290",
+                                    "Name": "SDH",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2000-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1007289",
+                                    "Name": "Sonet",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "1980041",
+                                    "Name": "Switching",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 69
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2005-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "199",
+                            "SubTaxonomyName": "Project Management",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 27,
+                            "Skills": [
+                                {
+                                    "Id": "022909",
+                                    "Name": "Project Manager",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 61
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-02-25"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "556",
+                            "SubTaxonomyName": "Privacy and Data Security",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 14,
+                            "Skills": [
+                                {
+                                    "Id": "5551296",
+                                    "Name": "CCNA",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 69
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2005-12-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5551273",
+                                    "Name": "Juniper",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 85
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "196",
+                            "SubTaxonomyName": "Internet",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 14,
+                            "Skills": [
+                                {
+                                    "Id": "020200",
+                                    "Name": "ISP",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 61
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-02-25"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "349",
+                            "SubTaxonomyName": "Operations, Monitoring and Software Management",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "3490004",
+                                    "Name": "CCNA",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 69
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2005-12-01"
+                                    }
+                                },
+                                {
+                                    "Id": "3490003",
+                                    "Name": "Cisco",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 58
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-12-01"
+                                    }
+                                },
+                                {
+                                    "Id": "003470",
+                                    "Name": "NOC",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 69
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2005-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "718",
+                            "SubTaxonomyName": "Distributed Systems",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "7180109",
+                                    "Name": "Provisioning",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 69
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2005-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "343",
+                            "SubTaxonomyName": "Mail",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "023861",
+                                    "Name": "Domino",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "253",
+                            "SubTaxonomyName": "Protocols and Standards",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "020170",
+                                    "Name": "ISDN",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "552",
+                            "SubTaxonomyName": "Mobile Applications",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "5520617",
+                                    "Name": "VOIP",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 69
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2005-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "347",
+                            "SubTaxonomyName": "Telephony",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "027110",
+                                    "Name": "VOIP",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 69
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2005-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "351",
+                            "SubTaxonomyName": "Multimedia",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "025290",
+                                    "Name": "Video Conferencing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "251",
+                            "SubTaxonomyName": "Config Deploy Upgrade Migrate",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "023085",
+                                    "Name": "Operations Manager",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 69
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2005-12-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 13,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "307",
+                            "SubTaxonomyName": "General Engineering",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 34,
+                            "Skills": [
+                                {
+                                    "Id": "022132",
+                                    "Name": "Chassis",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 47
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-12-01"
+                                    }
+                                },
+                                {
+                                    "Id": "015101",
+                                    "Name": "DCX",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 47
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-12-01"
+                                    }
+                                },
+                                {
+                                    "Id": "025524",
+                                    "Name": "Generators",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "080533",
+                                    "Name": "Optical",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 105
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "141",
+                            "SubTaxonomyName": "Optical",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 18,
+                            "Skills": [
+                                {
+                                    "Id": "080827",
+                                    "Name": "DWDM",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "TRAINING"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 117
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2009-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "080832",
+                                    "Name": "Optical",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 75
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "080828",
+                                    "Name": "Optics",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "311",
+                            "SubTaxonomyName": "Air and Aerospace",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 18,
+                            "Skills": [
+                                {
+                                    "Id": "080269",
+                                    "Name": "Optical",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 105
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "263",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "026111",
+                                    "Name": "Field Engineer",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 38
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "022592",
+                                    "Name": "Project Engineer",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 37
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2009-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "308",
+                            "SubTaxonomyName": "Power Engineering",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 11,
+                            "Skills": [
+                                {
+                                    "Id": "010276",
+                                    "Name": "UPS",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 116
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "144",
+                            "SubTaxonomyName": "Computer Hardware",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "080777",
+                                    "Name": "Assembly",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "080767",
+                                    "Name": "Circuits",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "080668",
+                                    "Name": "DWDM",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "TRAINING"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 117
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2009-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "008188",
+                                    "Name": "SOC",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "008378",
+                                    "Name": "Sonet",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "268",
+                            "SubTaxonomyName": "RF",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "018903",
+                                    "Name": "HF",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "010523",
+                                    "Name": "VHF",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "146",
+                            "SubTaxonomyName": "Telecom",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "022168",
+                                    "Name": "Telecommunications",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 37
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2009-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "022299",
+                                    "Name": "Telecommunications Engineer",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "134",
+                            "SubTaxonomyName": "Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "024871",
+                                    "Name": "Modem",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "266",
+                            "SubTaxonomyName": "Circuits",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "080617",
+                                    "Name": "Circuits",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 10,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 56,
+                            "Skills": [
+                                {
+                                    "Id": "020733",
+                                    "Name": "Liaison",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 38
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "436",
+                            "SubTaxonomyName": "Management Activities or Functions",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 44,
+                            "Skills": [
+                                {
+                                    "Id": "003875",
+                                    "Name": "Operations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 110
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-06-01"
+                                    }
+                                },
+                                {
+                                    "Id": "023086",
+                                    "Name": "Operations Manager",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 69
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2005-12-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "16",
+                    "Name": "Telecommunications",
+                    "PercentOfOverall": 10,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "318",
+                            "SubTaxonomyName": "Network",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 42,
+                            "Skills": [
+                                {
+                                    "Id": "013071",
+                                    "Name": "Ciena",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 47
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-12-01"
+                                    }
+                                },
+                                {
+                                    "Id": "020199",
+                                    "Name": "ISP",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 61
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-02-25"
+                                    }
+                                },
+                                {
+                                    "Id": "003471",
+                                    "Name": "NOC",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 69
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2005-12-01"
+                                    }
+                                },
+                                {
+                                    "Id": "004125",
+                                    "Name": "OSP",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 30
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-06-01"
+                                    }
+                                },
+                                {
+                                    "Id": "007575",
+                                    "Name": "SDH",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2000-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "025291",
+                                    "Name": "Video Conferencing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "010702",
+                                    "Name": "Voice Services",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "315",
+                            "SubTaxonomyName": "Cabling and Related",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 31,
+                            "Skills": [
+                                {
+                                    "Id": "024364",
+                                    "Name": "Cabling",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 68
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "024777",
+                                    "Name": "Optics",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "004131",
+                                    "Name": "OTDR",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 69
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2005-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "319",
+                            "SubTaxonomyName": "Hardware",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 18,
+                            "Skills": [
+                                {
+                                    "Id": "025587",
+                                    "Name": "Alcatel",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "003444",
+                                            "Name": "Newbridge",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "TRAINING"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2000-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "026665",
+                                    "Name": "Nortel",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 116
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-12-01"
+                                    }
+                                },
+                                {
+                                    "Id": "003895",
+                                    "Name": "Optera",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 69
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2005-12-01"
+                                    }
+                                },
+                                {
+                                    "Id": "025952",
+                                    "Name": "Sonet",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "317",
+                            "SubTaxonomyName": "Standards, Protocols, Technologies",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 9,
+                            "Skills": [
+                                {
+                                    "Id": "026809",
+                                    "Name": "CCNA",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 69
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2005-12-01"
+                                    }
+                                },
+                                {
+                                    "Id": "026173",
+                                    "Name": "Cryptographic",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "015733",
+                                    "Name": "DSX",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2000-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "015753",
+                                    "Name": "DWDM",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "TRAINING"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 117
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2009-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "022172",
+                                    "Name": "Optical",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 105
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "022166",
+                                    "Name": "Telecommunications",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 37
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2009-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "010524",
+                                    "Name": "VHF",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "027111",
+                                    "Name": "VOIP",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 69
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2005-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "323",
+                            "SubTaxonomyName": "Skilled",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "022298",
+                                    "Name": "Telecommunications Engineer",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 7,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "226",
+                            "SubTaxonomyName": "Channel Management",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "1400217",
+                                    "Name": "Point of Purchase",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400218",
+                                            "Name": "POP",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 30
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2015-06-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 30
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-06-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1400219",
+                                    "Name": "Point of Sale",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400220",
+                                            "Name": "POS",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 31
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2021-02-25"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 31
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-02-25"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "97",
+                    "Name": "Supply Chain and Logistics",
+                    "PercentOfOverall": 7,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "459",
+                            "SubTaxonomyName": "Inventory",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 67,
+                            "Skills": [
+                                {
+                                    "Id": "020086",
+                                    "Name": "Inventory",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 31
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-02-25"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "458",
+                            "SubTaxonomyName": "Purchasing",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "024878",
+                                    "Name": "Ordering",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 30
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-06-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "31",
+                    "Name": "Written Communications",
+                    "PercentOfOverall": 7,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "430",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 84,
+                            "Skills": [
+                                {
+                                    "Id": "022776",
+                                    "Name": "Writing Technical",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 38
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "429",
+                            "SubTaxonomyName": "Specs and Documentation",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 16,
+                            "Skills": [
+                                {
+                                    "Id": "022620",
+                                    "Name": "Documentation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 47
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-12-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "80",
+                    "Name": "General Management",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "516",
+                            "SubTaxonomyName": "Budget Related",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 99,
+                            "Skills": [
+                                {
+                                    "Id": "026949",
+                                    "Name": "Budgets",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 31
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-02-25"
+                                    }
+                                },
+                                {
+                                    "Id": "005394",
+                                    "Name": "Pricing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 31
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-02-25"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "518",
+                            "SubTaxonomyName": "Operations and Admin",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "023087",
+                                    "Name": "Operations Manager",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 69
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2005-12-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "6",
+                    "Name": "Environmental",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "328",
+                            "SubTaxonomyName": "Testing, Assessments, and Monitoring",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 93,
+                            "Skills": [
+                                {
+                                    "Id": "026112",
+                                    "Name": "Field Engineer",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 38
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "022805",
+                                    "Name": "Risk Assessments",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 69
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2005-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "333",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "017405",
+                                    "Name": "Field Operations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2000-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "017406",
+                                    "Name": "Field Project Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "89",
+                    "Name": "Bookkeeping, Office Management",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "533",
+                            "SubTaxonomyName": "Bookeeping Tasks",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "012120",
+                                    "Name": "Budget",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 37
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2009-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "026950",
+                                    "Name": "Budgets",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 31
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-02-25"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "72",
+                    "Name": "Installation, Maintenance, Repair",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "451",
+                            "SubTaxonomyName": "General Installation",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 93,
+                            "Skills": [
+                                {
+                                    "Id": "012354",
+                                    "Name": "Cabling",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 68
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "452",
+                            "SubTaxonomyName": "General Repair",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "022117",
+                                    "Name": "Maintenance",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "TRAINING"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 48
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2009-01-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "11",
+                    "Name": "General Non-Skilled Labor",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "303",
+                            "SubTaxonomyName": "Construction Labor",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 98,
+                            "Skills": [
+                                {
+                                    "Id": "012353",
+                                    "Name": "Cabling",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 68
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "304",
+                            "SubTaxonomyName": "Non-Construction Labor",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "022441",
+                                    "Name": "Assembly",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "32",
+                    "Name": "Degreed Accounting",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "962",
+                            "SubTaxonomyName": "Reporting",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022891",
+                                    "Name": "Budget",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 37
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2009-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "026947",
+                                    "Name": "Budgets",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 31
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-02-25"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "13",
+                    "Name": "Manufacturing",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "206",
+                            "SubTaxonomyName": "Machining, Metalworking, Tool and Die",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 88,
+                            "Skills": [
+                                {
+                                    "Id": "023959",
+                                    "Name": "Milling",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "002517",
+                                    "Name": "Milling Machines",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "364",
+                            "SubTaxonomyName": "Equipment",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "022116",
+                                    "Name": "Maintenance",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "TRAINING"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 48
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2009-01-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "27",
+                    "Name": "Light Technical\/Trades\/Skilled Labor",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "285",
+                            "SubTaxonomyName": "Hvac and Refrig",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 65,
+                            "Skills": [
+                                {
+                                    "Id": "015378",
+                                    "Name": "AIR Conditioning",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 69
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2005-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "287",
+                            "SubTaxonomyName": "Machine Shop",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 16,
+                            "Skills": [
+                                {
+                                    "Id": "002512",
+                                    "Name": "Milling",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "379",
+                            "SubTaxonomyName": "Assembly",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "022442",
+                                    "Name": "Assembly",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "294",
+                            "SubTaxonomyName": "Electronic",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "013141",
+                                    "Name": "Circuits",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "291",
+                            "SubTaxonomyName": "Electrical",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "018326",
+                                    "Name": "Generators",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "99",
+                    "Name": "Nursing",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "369",
+                            "SubTaxonomyName": "Oncology",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "014938",
+                                    "Name": "ONC",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "91",
+                    "Name": "Translations and Language Work",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "901",
+                            "SubTaxonomyName": "Translation",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "200003",
+                                    "Name": "Translations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "69",
+                    "Name": "QA and QC",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "941",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022250",
+                                    "Name": "Quality Assurance",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 69
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2005-12-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "26",
+                    "Name": "Power Engineering",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "924",
+                            "SubTaxonomyName": "Non-Nuclear Power Misc",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "081109",
+                                    "Name": "Generators",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "925",
+                            "SubTaxonomyName": "General Power Related",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "081103",
+                                    "Name": "Generators",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "004390",
+                                    "Name": "PBX",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Certifications": [
+        {
+            "Name": "NEBOSH Certified",
+            "MatchedFromList": false,
+            "IsVariation": false
+        },
+        {
+            "Name": "Licence",
+            "MatchedFromList": true,
+            "IsVariation": false
+        },
+        {
+            "Name": "CCNA",
+            "MatchedFromList": true,
+            "IsVariation": false
+        },
+        {
+            "Name": "ONC",
+            "MatchedFromList": true,
+            "IsVariation": false
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "Mathematics\tEnglish Language"
+        }
+    ],
+    "Training": {
+        "Text": "",
+        "Trainings": [
+            {
+                "Text": "Ciena K2\nEricsson  AXD 4\/4-2 and 4\/1-2 FLM\/SLM and Commissioning course\nAlcatel 1630 Daccs\nAlcatel Operation & Maintenance    ~~~~~~~~~   Course\nAlacatel 1686 Long Distance and DWDM equipment\nCisco ICRC\nANT20 & Domino Course"
+            },
+            {
+                "Text": "July '96 - April '99\nIXnet, City of London - Employed as DMS100 Switch Engineer responsible for",
+                "Entity": "IXnet",
+                "StartDate": {
+                    "Date": "1996-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "1999-04-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Text": "Daily operational and maintenance of the DMS100 which involves datafill and installation of switched services.\nTesting and fault diagnostics of switch services involving the use of protocol analyser, DACCS and other test equipment.\nUnderstanding of CCS7, DPNSS, DASS, CAS and EURO ISDN PRI protocol.\nTesting E1's, fractional E1's, data ccts using W&G and Sunrise test equipment.\nOperational and maintenance of WAN (Newbridge Network).\nUse of Aculab Groomer.\nLiaising with customers and third party engineers for the installation\/commissioning of switch\/voice services.\nInvolved in the day to day running of the Nortel 61C PBX",
+                "Qualifications": [
+                    "ccts"
+                ]
+            },
+            {
+                "Text": "Courses attended:- Introduction to DMS100, Level 1 and Level 2 operation and maintenance.\nUniversal translations.\nPRSM.\nOperational Measurements.\nNewbridge 3600 O&M and 46020"
+            },
+            {
+                "Text": "April '87   July '96\nRoyal Air Force, various locations in the UK and Overseas.Pindar   Ministry of Defence, Whitehall, London",
+                "Entity": "Royal Air Force",
+                "StartDate": {
+                    "Date": "1987-04-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "1996-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Text": "Posted as a Telecommunications Shift Engineer responsible for:\n\u2022\tEngineering secure, insecure data and voice systems on a national and international basis.\n\u2022\tSupervising a Phillips digital telephone exchange which involves fault finding to board level and extensive exchange peripheral testing.\n\u2022\tMaintaining and repairing cryptographic equipment, multiplexers and modem equipment involving the use of various types of test equipment.\n\u2022\tEnsuring the continuity of all copper and fibre optic circuits within my area of responsibility and occasionally installing new circuits.\n\u2022\tCarrying out camera duties on a video conferencing system.\n\u2022\tTesting military and civilian data trunks using CODEC and AUX test equipment.\n\u2022\tThe co ordination and maintenance of all section Air Publication technical and servicing manuals"
+            },
+            {
+                "Text": "Courses attended:-\n\u2022 Modems\n\u2022 Phillips Digital Exchange\t\t\u2022 First Aid\n\u2022 International Reporting System\t\u2022 Fibre Optics",
+                "Entity": "Phillips Digital Exchange"
+            },
+            {
+                "Text": "Tactical Communications Wing Detachment, Tabuk, Saudi Arabia",
+                "Entity": "Tactical Communications Wing Detachment, Tabuk, Saudi Arabia"
+            },
+            {
+                "Text": "Posted as a Mobile Telecommunications Engineer responsible for establishing and maintaining a secure data communications circuit back to the UK via satellite. Engineering an insecure telegraphy circuit used to establish secure data and voice circuits"
+            },
+            {
+                "Text": "Tactical Communications Wing, Royal Air Force, Brize Norton, Oxfordshire",
+                "Entity": "Tactical Communications Wing, Royal Air Force"
+            },
+            {
+                "Text": "Posted as a Mobile Telecommunications Engineer responsible for:\nMobilizing as part of a Telecommunications Team to any part of the world at short notice to establish secure and insecure telecommunications circuits back to the United Kingdom.\nMaintaining HF, UVF and VHF radio equipment and when required, erecting aerials and generators"
+            },
+            {
+                "Text": "Sept 86   April 87\tTyneTEC, Blyth, Northumberland",
+                "StartDate": {
+                    "Date": "1986-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "1987-04-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Text": "Employed as an Apprentice Technician responsible for basic circuit assembly, fault finding and the assembly of door entry systems"
+            },
+            {
+                "Text": "Sept 85   Sept 86\tBritish Gas, Cramlington, Northumberland",
+                "Entity": "British Gas",
+                "StartDate": {
+                    "Date": "1985-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "1986-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Text": "Employed on a Youth Training Scheme at the British Gas Online Inspection Centre where I gained experience in:\n\u2022\tBasic circuit assembly and fault finding using milling machines, lathes and electrical installation and some basic computer knowledge",
+                "Entity": "British Gas Online Inspection Centre"
+            }
+        ]
+    },
+    "Hobbies": "In my spare time I enjoy relaxing with a round of golf and currently play off' a handicap of 13 and enjoy a spot of DIY.",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 1,
+                "LastLineNumber": 6,
+                "SectionType": "CONTACT INFO",
+                "HeaderTextFound": "Personal Details"
+            },
+            {
+                "FirstLineNumber": 7,
+                "LastLineNumber": 12,
+                "SectionType": "SUMMARY",
+                "HeaderTextFound": "Profile"
+            },
+            {
+                "FirstLineNumber": 13,
+                "LastLineNumber": 24,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "Education"
+            },
+            {
+                "FirstLineNumber": 25,
+                "LastLineNumber": 36,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "Further Education"
+            },
+            {
+                "FirstLineNumber": 37,
+                "LastLineNumber": 151,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "Career History"
+            },
+            {
+                "FirstLineNumber": 152,
+                "LastLineNumber": 216,
+                "SectionType": "TRAINING",
+                "HeaderTextFound": "Courses Attended"
+            },
+            {
+                "FirstLineNumber": 217,
+                "LastLineNumber": 219,
+                "SectionType": "HOBBIES",
+                "HeaderTextFound": "Interests"
+            },
+            {
+                "FirstLineNumber": 220,
+                "LastLineNumber": 222,
+                "SectionType": "REFERENCES",
+                "HeaderTextFound": "References"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "323",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "EDUCATION"
+                            }
+                        ],
+                        "Message": "Each section type should only appear once in a resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "211",
+                        "Message": "An email address was not found in the contact information. A resume should always include an email address."
+                    },
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    },
+                    {
+                        "QualityCode": "222",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-1"
+                            },
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-3"
+                            },
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-5"
+                            }
+                        ],
+                        "Message": "Every position in a resume should have an employer name."
+                    },
+                    {
+                        "QualityCode": "231",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "DEG-2"
+                            },
+                            {
+                                "SectionType": "DEG-4"
+                            }
+                        ],
+                        "Message": "Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "161",
+                        "Message": "High school (or lower) education should not be included on resumes that contain higher-level education."
+                    },
+                    {
+                        "QualityCode": "111",
+                        "Message": "Your resume includes a References section. References should NEVER be included in a resume."
+                    },
+                    {
+                        "QualityCode": "121",
+                        "Message": "Driving license information should usually not be included in a resume (for most cultures)."
+                    },
+                    {
+                        "QualityCode": "124",
+                        "Message": "Date of birth information should not be included in a resume (for most cultures)."
+                    },
+                    {
+                        "QualityCode": "151",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "TRAINING",
+                                "Id": "5"
+                            }
+                        ],
+                        "Message": "Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~~  \nPersonal Details\nTelephone    ~~~~~~~~~~~~~~~~  \n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~  \nMarital Status\t\t\tLiving with Partner\n   ~~~~~~~~~~~~~~~~  \n   ~~~~~~~~~~~~~~~~  \nProfile:\n\nSkilled and flexible Telecoms Engineer with over 30 years experience having exposure in a diverse variety of dynamic roles (Implementation \/Operations & Support) including I&C, OAM, NMC, design (network, sync, SOC) & Field Project Management. Comprehensive knowledge of fixed network technologies: SDH\/SONET\/PDH\/DWDM;\n\nExperienced Operation and Maintenance Support of Level(3) Goswell ,Braham ,Leman St and Level(3) Pops  for 5 years .Extensive knowledge of the electrical and mechanical infrastructure and under standing of the  Level(3) ethos\n\nEducation\n\nSept '82   June '85\tBlyth Tynedale High School, Blyth, Northumberland\n\n'O' Levels\tCSE's\n\nMathematics\tEnglish Language\nPhysics\tEnglish Literature\nBiology\tHistory\nApplied Science\nGeography\n\nFurther Education\n\nJan '95 - May '95\tCollege of North London\nData Communications Module Level 3.\n\nSept '93   June '94\tUniversity of Westminster, Harrow, Middlesex\nCompleted the 2 year HNC in Electronic Engineering.\n\nJune '87   Oct '88\tNo.1 Radio School, Weston Super Mare, Avon\nBTEC(M) Electronics (ONC equivalent) and City & Guilds\tElectronic Workshop Practices.\n\n\nCareer History\nAugust 2018 -Current\nISP Project Manager\/Engineer\nManage Space and Power builds for Zayo throughout Europe.\nCreate Budgets and POs\nNegotiate with Data Centre for pricing on racks, ducting ,power, Installations\nWriting processes and MOPS for vendors\nManaging third party contractors to undertake installations\nSign off of installations\nUsing Salesforce to manage budgets\/projects\nUsing inventory tool M^ to manage the Zayo onsite rack and power inventory\n\n\nJune 2015-August 2018\nSenior Field Engineer Zayo\nInstallation and commissioning of Optical\/IP Networks.Ciena 6500s, Adva, Accedian,Juniper.\nRFC\/Bert testing of Optical ccts.\nSupervision of contractors both in the UK and Europe\nLiaison with all parts of the business to co-ordinate installations\nOn call to cover fault escalations contractors are unable to deal with.\nInstall of DC Rectifiers and Dc Cabling\nTravel throughout Europe installing all of the equipment above\nUsing Data Access procedures for deliveries etc\nWriting technical MOPS a for installations and installation guides\n\n\nDec 2012-June 2015\nTechnical Project Manager Google EMEA\n\nResponsible design both optical and physical including power,rack and over-head infrastructure for Pop builds\nProject lead for all the new and existing Pop builds in the EMEA\nLed a team 3 project managers to design all of Google Pop builds in the EMEA from design to build\nReported to the lead Project Manager for Operations in the EMEA .Presented reports on status and dates\nCreated standards and templates to streamline build processes. Create SOWs and design documents for network infrastructure and optical cabling for both ISP and OSP\nResponsible for the ordering of all Materials for Pop Builds\nLiaise across several organizations across Google\nExtensive travel throughout the EMEA to accept new Pop Builds\nWorked under pressure and important to get the details correct first time\nManaged vendors in all EMEA countries. Responsible to get them to build what we wanted not what they thought we wanted .Overcome culture barriers Identified risks and escalated as required\n\n\nJan 2009-Dec 2012\nSenior Transmission Engineer, UK Engineering Abovenet Communications Ltd\/Zayo\n\nResponsible for Abovenet's UK Transmission Metro Network both IP layer 2 and Transmission equipment\nInstallation and commissioning of Ciena 4200 micro and classis chassis\nInstallation and commissioning of Nortel 5100 ,5200 and 6500 equipment\nInstallation and commission of Avda FSP150 metro equipment\nInstallation and commission of Juniper EX4200's\nInstallation and commission of Accedian\nConfiguration of the layer 2 Cisco\/Juniper network\n1st\/2nd line support on the UK metro network.\nMaintaining all documentation and engineering standards\nInterfacing with clients and customers during both installation and faults\nWorking under pressure\nProject managing Data Centre private suite fit out and\nUndertaking surveys of both power and cooling of data centre to improve efficiency and cut costs.\nUndertake and Project the Power Upgrade in Abovenet C8.Involved installed all DCX plant and UPS systems\n\n\nTraining Courses\nNortel 5200 and 6500\nCiena4200\n\n\nDecember 2005-Jan 2009\nModular Solutions Ltd Senior Optical Commissioner and Tech Support for other engineers.\n\nSenior Project Engineer overseeing the installation and operation integration of both Optical and Copper infrastructure in BT Exchanges for the BT21CN roll out\nLiaising with customer representatives to make sure the telecoms project run to time and budget.\nProduce daily and weekly reports\nLeadership and motivation of small teams of telecommunications engineers.\nResolving any day to day issues\n\nTraining Courses\nHuawei Msan Installation and Maintenance\nHuawei Optical DWDM Installation, Commissioning  and Maintenance\n\nMarch '00 - December 2005\nLevel(3) Communications ,Goswell Rd City Engineer\/Data Centre Manager\n\nProviding management, supervision ,guidance ,leadership to Technicians and allocation of work day to day in orderb to meet the needs of the business and customers.\nProviding 1st \/2nd line tech support for Technicians ,Customer care and RMC (NoC)\nResponsibility for over seeing all installations in the gateway (Data Centre) and all on-site of Level(3) \/Vendor provided equipment\nMaintaining the standard of engineering practices amongst the technicians\nContact for all building issues power ,security and air conditioning\nDealing with customer problems within the Level(3)gateway and customer Pops\nManaging the Quality Assurance of any third party installations with the Level(3) facility\nProducing reports of work installed etc to the Operations manager and Director\nUse of various Level(3) Fault ,provisioning ,management and alarm databases.\nMonitoring JCI BMS and understanding  the alarms and the actions required to resolve issue\n1st Line fault finding on both Electrical and Mechanical infrastructure.\nManagement of complicated electrical switching at Goswell Rd when required\nApproving method  statements and risk assessments and assessing their impact on the building\n\nCourses attended:\nNortel Optera LH\/DX\/DWDM equipment\nAlacatel 5200 Packet Engine\nNortel CS3K VoIP equipment\nAlacatel ADM commissioning    ~~~~~~~~~  \nW&G OTDR Course\/Power Meters\nCurrently Studying for CCNA certificate\nPillar & Eaton UPS Training\nEltek DC O&M Training\nNEBOSH Certified\n\nApril '99 - March '00\nLevel (3) Communications ,Aldgate Field Operations Technician\n\nInstallation ,maintenance and fault  diagnostics of  SDH ccts STM 1 through to STM64 (DWDM) nationally and international\nInstallation of DIA (Direct Internet Access) and managed routers for customers. Involved the use of CSUs and Cisco 1601s .Plus basic IP configuration and trouble shooting\nUsing WWG Ant20 SDH  testers ,PFA testers to test PDH E1 & X21 ccts .Also using Fibre test equipment to check for appropriate power levels\nMaintenance of all the DSX ,OSX and Equipment in the gateway\nInstallation and Commissioning Alcatel ADMs 1641,1651and 1664\n\nCourses Attended: -\nCiena K2\nEricsson  AXD 4\/4-2 and 4\/1-2 FLM\/SLM and Commissioning course\nAlcatel 1630 Daccs\nAlcatel Operation & Maintenance    ~~~~~~~~~   Course\nAlacatel 1686 Long Distance and DWDM equipment\nCisco ICRC\nANT20 & Domino Course\n\n\nJuly '96 - April '99\nIXnet, City of London - Employed as DMS100 Switch Engineer responsible for:\n\nDaily operational and maintenance of the DMS100 which involves datafill and installation of switched services.\nTesting and fault diagnostics of switch services involving the use of protocol analyser, DACCS and other test equipment.\nUnderstanding of CCS7, DPNSS, DASS, CAS and EURO ISDN PRI protocol.\nTesting E1's, fractional E1's, data ccts using W&G and Sunrise test equipment.\nOperational and maintenance of WAN (Newbridge Network).\nUse of Aculab Groomer.\nLiaising with customers and third party engineers for the installation\/commissioning of switch\/voice services.\nInvolved in the day to day running of the Nortel 61C PBX.\n\nCourses attended:-\nIntroduction to DMS100, Level 1 and Level 2 operation and maintenance.\nUniversal translations.\nPRSM.\nOperational Measurements.\nNewbridge 3600 O&M and 46020.\n\nApril '87   July '96\nRoyal Air Force, various locations in the UK and Overseas.Pindar   Ministry of Defence, Whitehall, London.\n\nPosted as a Telecommunications Shift Engineer responsible for:\n\u2022\tEngineering secure, insecure data and voice systems on a national and international basis.\n\u2022\tSupervising a Phillips digital telephone exchange which involves fault finding to board level and extensive exchange peripheral testing.\n\u2022\tMaintaining and repairing cryptographic equipment, multiplexers and modem equipment involving the use of various types of test equipment.\n\u2022\tEnsuring the continuity of all copper and fibre optic circuits within my area of responsibility and occasionally installing new circuits.\n\u2022\tCarrying out camera duties on a video conferencing system.\n\u2022\tTesting military and civilian data trunks using CODEC and AUX test equipment.\n\u2022\tThe co ordination and maintenance of all section Air Publication technical and servicing manuals.\n\nCourses attended:-\n\u2022 Modems\n\u2022 Phillips Digital Exchange\t\t\u2022 First Aid\n\u2022 International Reporting System\t\u2022 Fibre Optics\n\n\nTactical Communications Wing Detachment, Tabuk, Saudi Arabia.\n\nPosted as a Mobile Telecommunications Engineer responsible for establishing and maintaining a secure data communications circuit back to the UK via satellite. Engineering an insecure telegraphy circuit used to establish secure data and voice circuits.\n\nTactical Communications Wing, Royal Air Force, Brize Norton, Oxfordshire.\n\nPosted as a Mobile Telecommunications Engineer responsible for:\nMobilizing as part of a Telecommunications Team to any part of the world at short notice to establish secure and insecure telecommunications circuits back to the United Kingdom.\nMaintaining HF, UVF and VHF radio equipment and when required, erecting aerials and generators.\n\nSept 86   April 87\tTyneTEC, Blyth, Northumberland\n\nEmployed as an Apprentice Technician responsible for basic circuit assembly, fault finding and the assembly of door entry systems.\n\nSept 85   Sept 86\tBritish Gas, Cramlington, Northumberland\n\nEmployed on a Youth Training Scheme at the British Gas Online Inspection Centre where I gained experience in:\n\u2022\tBasic circuit assembly and fault finding using milling machines, lathes and electrical installation and some basic computer knowledge.\nInterests\nIn my spare time I enjoy relaxing with a round of golf and currently play off' a handicap of 13 and enjoy a spot of DIY.\n\n          \n\n                                    ",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-GB",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = UK; Culture.DefaultCultureIsUK = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2021-02-25",
+        "SovrenSignature": [
+            "+NoDAAAAAAA="
+        ]
+    }
+}

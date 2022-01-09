@@ -1,0 +1,304 @@
+{
+    "CurrentJobIsManagement": true,
+    "HighestManagementScore": {
+        "Value": 55
+    },
+    "ManagementLevel": "Mid",
+    "ExecutiveType": "NONE",
+    "MinimumYears": {
+        "Value": 6
+    },
+    "JobTitles": {
+        "MainJobTitle": "Regional Program Manager",
+        "JobTitle": [
+            "Program Manager"
+        ]
+    },
+    "EmployerNames": {
+        "MainEmployerName": "Must",
+        "EmployerName": []
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 18,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "436",
+                            "SubTaxonomyName": "Management Activities or Functions",
+                            "PercentOfOverall": 10,
+                            "PercentOfParent": 56,
+                            "Skills": [
+                                {
+                                    "Id": "003875",
+                                    "Name": "Operations",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "024199",
+                                    "Name": "Continuous Improvement",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 44,
+                            "Skills": [
+                                {
+                                    "Id": "021737",
+                                    "Name": "Metrics",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "7",
+                    "Name": "Finance",
+                    "PercentOfOverall": 16,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "710",
+                            "SubTaxonomyName": "Real Estate & Facilities",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "7000113",
+                                    "Name": "Financial Project Management",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "7000114",
+                                            "Name": "Program Management",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "703",
+                            "SubTaxonomyName": "Corporate Development",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "7000022",
+                                    "Name": "Management Consulting",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 16,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "588",
+                            "SubTaxonomyName": "Data & Analytics",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "1400070",
+                                    "Name": "Program Manager",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 16,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "349",
+                            "SubTaxonomyName": "Operations, Monitoring and Software Management",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "081178",
+                                    "Name": "SMS",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "338",
+                            "SubTaxonomyName": "Security",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "005912",
+                                    "Name": "Authentication",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 16,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "532",
+                            "SubTaxonomyName": "Aptitudes",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "031015",
+                                    "Name": "Strong Communication Skills",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "528",
+                            "SubTaxonomyName": "Attitude",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "005483",
+                                    "Name": "Problem-Solving",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 12,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "136",
+                            "SubTaxonomyName": "Environmental",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 67,
+                            "Skills": [
+                                {
+                                    "Id": "002580",
+                                    "Name": "Mitigation",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "307",
+                            "SubTaxonomyName": "General Engineering",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "024200",
+                                    "Name": "Continuous Improvement",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 8,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "023757",
+                                    "Name": "Business Development",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "022841",
+                                    "Name": "Excel",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "JobMetadata": {
+        "PlainText": " JobTitle: Regional Program Manager - Mobile Identity Description:\r\n\r\n\r\n12 Month Contract\r\n\r\n\r\nMust be eligible to work and reside in the UK\r\n\r\n\r\nFacebook is looking for a Regional Program manager to support our regional SMS, mobile identity and authentication deals. As a regional program manager, this person will lead the strategy, operations and communications for the mobile identity program. This role requires the proven ability to lead and influence, unparalleled attention to detail, and strong communication skills.\r\n\r\n\r\nAs a Program Manager at Facebook, you\u2019ll lead complex, multi-disciplinary projects from start to finish \u2014 working with stakeholders to plan requirements, manage program schedules, identify risks, and communicate clearly with cross-functional partners across the company. You will play a key role in defining and driving impactful client partnerships, solving complex product problems and building programs and infrastructure that power Facebook family of app products and drive growth across the platform.\r\n\r\n Your projects will often span offices, time zones, and hemispheres. It's your job to coordinate the players and keep them up to date on progress and deadlines.\r\n\r\n\r\nThe candidate will possess superior analytical skills and the ability to effectively influence and communicate cross-functionally with all levels of management. The candidate will thrive in a team-oriented environment, working cross-functionally with the Product, Business Development, Marketing, Operations and Engineering teams to develop new ways we can improve the Facebook mobile identity experiences.\r\n\r\n\r\n Responsibilities:\r\n\r\n\r\n\u2022 Understand and manage cross functional program inter-dependencies to achieve program objectives\r\n\r\n\u2022 Measure and report program metrics \/ KPIs and lead continuous improvement.\r\n\r\n\u2022 Program manage operational and deal reviews, quickly understanding context, issues, risks and bring to resolution in ambiguous situations\r\n\r\n\u2022 Keep regional and product stakeholders regularly informed of program progress, risk identification \/ mitigation and issue identification \/ resolution\r\n\r\n\u2022 Use data to optimize processes and create playbooks for teams to execute. Identify infrastructure\/system improvements to improve internal efficiency\r\n\r\n\u2022 Collaborate with regional partnership leads to maximize new business opportunities towards creating more efficient deal and delivery processes\r\n\r\n\r\n Qualifications:\r\n\r\n\r\n\u2022 6+ years of experience in an operations, business development, strategy & operations, management consulting, general manager role\r\n\r\n\u2022 Exceptional problem-solving, strategic, and analytical skills\r\n\r\n\u2022 Comfortable analyzing data to make decisions and highly proficient in Excel\r\n\r\n\u2022 Experience driving both short and long-term initiatives to completion within specified timelines and cross-functional teams\r\n\r\n\u2022 Ability to create effective relationships, influence, and collaborate at all organizational levels and with cross-functional partners\r\n\r\n\u2022 Communicate findings to leadership by preparing polished presentations and identifying key takeaways\r\n Skills: Business Development, management consulting, Program Management",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = Invariant Language (Invariant Country); Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2021-07-13",
+        "SovrenSignature": [
+            "nd7+\/\/\/\/\/\/8="
+        ]
+    }
+}

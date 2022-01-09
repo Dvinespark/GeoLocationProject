@@ -1,0 +1,1040 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "GeoCoordinates": {
+                "Latitude": 51.50735092163086,
+                "Longitude": -0.1277579963207245
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "Master of Science in Development Studies",
+                "Normalized": "MSc"
+            },
+            "Type": "masters"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "School of Oriental and African Studies, University of London\tSept 2019\nMaster of Science in Development Studies, merit--fourth in 2019 global QS World rankings--focused on the practice of\ninternational development with coursework in foreign aid, digital campaigning, gender equity, social justice, and political\neconomy. Undertaken alongside a part-time consultancy role at Justice Defenders.",
+                "SchoolName": {
+                    "Raw": "School of Oriental and African Studies, University of London",
+                    "Normalized": "School of Oriental and African Studies University of London"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "Master of Science in Development Studies",
+                        "Normalized": "MSc"
+                    },
+                    "Type": "masters"
+                },
+                "Majors": [
+                    "political economy"
+                ],
+                "LastEducationDate": {
+                    "Date": "2019-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Id": "DEG-3",
+                "Text": "Asian Institute of Management, Philippines\tMay 2015\nBusiness Management programme with coursework in accounting, finance, and economics",
+                "SchoolName": {
+                    "Raw": "Asian Institute of Management",
+                    "Normalized": "Asian Institute of Management"
+                },
+                "SchoolType": "UNSPECIFIED",
+                "Degree": [],
+                "Majors": [
+                    "Business Management"
+                ],
+                "LastEducationDate": {
+                    "Date": "2015-05-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Id": "DEG-2",
+                "Text": "Ateneo de Manila University, Philippines\tMar 2015\nBachelor of Arts in Communication, cum laude (top 5% of class)--coursework in development communication, digital\nmarketing, public relations, and features\/news writing. Vice President of 1,000-member organisation working to end child sexual\nabuse in the Philippines. Marketing and Communications Intern at the Philippine Red Cross.",
+                "SchoolName": {
+                    "Raw": "Ateneo de Manila University",
+                    "Normalized": "Ateneo de Manila University"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "Bachelor of Arts in Communication",
+                        "Normalized": "bachelors"
+                    },
+                    "Type": "bachelors"
+                },
+                "Majors": [
+                    "Communication"
+                ],
+                "LastEducationDate": {
+                    "Date": "2015-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "Graduated": {
+                    "Value": false
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~~~   is experienced in the management of:  Marketing; and Sales.    ~~~~~~~~   has 5 years of work experience, with 3 years of management experience, including a mid-level position.",
+            "MonthsOfWorkExperience": 62,
+            "MonthsOfManagementExperience": 37,
+            "ExecutiveType": "EXECUTIVE",
+            "AverageMonthsPerEmployer": 20,
+            "FulltimeDirectHirePredictiveIndex": 50,
+            "ManagementStory": "Current position is a mid-level management role: Partnerships Manager\nStarting on 3\/1\/2019, the candidate held the following mid-level management position for 2 years and 4 months:\n\tTitle: Partnerships Manager for Justice Defenders\nStarting on 7\/1\/2015, the candidate held the following low-level management position for 9 months:\n\tTitle: Account Executive",
+            "CurrentManagementLevel": "mid-level",
+            "ManagementScore": 55
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "Justice Defenders",
+                        "Normalized": "Justice Defenders"
+                    },
+                    "Location": {
+                        "CountryCode": "UK",
+                        "Municipality": "London"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Partnerships Manager",
+                    "Normalized": "Partnerships Manager",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2019-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2021-07-13",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Administrative or Clerical",
+                "SubTaxonomyName": "Messages and Contact",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "a nonprofit that bridges the justice gap for vulnerable communities in Africa through\nlegal education and practice.\nPartnerships Manager, London\tMarch 2019-Present\nLed execution of the organisation-wide fundraising strategy across income streams (i.e. individual, institutional, and corporate);\ndeveloped cultivation and stewardship strategies for all prospects and funders that led to a revenue increase of 80% - from \u00a31M to \u00a31.8M in 2019. This allowed the expansion of the fundraising and comms team, resulting in further donations and achieving\nimpact targets (e.g. enabling 15,000 fair trials in East Africa)\nLed the organisation's Covid-19 fundraising campaign in 2020, securing \u00a3230,000 worth of grants from new institutional funders, which kept programmes running and expanding amidst the pandemic\nIn charge of digital outreach, grant writing, report writing, and fundraising tactics; secured $250,000 from Google among others\nSpearheaded major donor visit to East Africa in 2019 resulting in a $1.5M donation and oversaw the planning and execution of communication and fundraising events\nLed the organisation's online giving campaign (e.g. Big Give UK - raised \u00a325K beyond \u00a320K target in 2019)\nWorked on the organisation's rebrand as Justice Defenders, which better positioned the organisation for growth and resulted in increased media engagements and donations\nSupported the social media response to the organisation's recent feature on 60 Minutes with Anderson Cooper, engaging 1,000\nnew donors in the first hour"
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Smarter Good Inc",
+                        "Normalized": "Smarter Good"
+                    },
+                    "Location": {
+                        "CountryCode": "PH",
+                        "Municipality": "Manila"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Senior Development Associate",
+                    "Normalized": "Senior Development Associate",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Development Associate"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2016-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2018-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Public Relations",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "a global social enterprise based in San Francisco and Manila that provides strategic\norganisational development services to leading nonprofits spanning 30 countries.\nSenior Development Associate, Manila\tAug 2016-Sep 2018\nServed as nonprofit clients' strategic partner for organisational development, fundraising, marketing, and communications --\nJustice Defenders, my current company, was one of the my clients\nThought partner for nonprofit leaders operating in Europe, the Middle East, Africa, Asia, and the US across various issue areas\ne.g. STEM education for girls, agriculture, criminal justice, global\/maternal health, renewable energy, climate change\nLed a team to create and implement fundraising and communication strategies, translating client needs into smart workflows,\nmanaging solutions from planning to execution and evaluation, reaching annual funding targets worth up to $4M\nDesigned and executed social media campaigns for global health and justice clients, resulting in increased online donors and audience reach\nExpanded funder pipelines, diversified income streams, developed strategic content (e.g. social media posts, theory of change\nmodels, business plans, newsletters, donor reports, concept notes, and proposals to large family foundations, corporations, and major individual donors)\nCompetencies include strategy development, grant writing and reporting, team management, digital fundraising, research,\nprospecting, and marketing\n\nEON, Stakeholder Relations Group -- a public affairs and government relations consultancy designed to move campaigns and advocacies forward."
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Location": {
+                        "CountryCode": "PH",
+                        "Municipality": "Manila"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Account Executive",
+                    "Normalized": "Account Executive",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2015-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2016-04-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Healthcare Non-physician Non-nurse",
+                "SubTaxonomyName": "Allied Health",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Developed and implemented corporate social responsibility strategies for fortune 500 companies operating in highly-regulated\nindustries in the Philippines (e.g. agriculture, public health, energy, and transportation)\nCompetencies include campaign planning and roll-out, project management, brand development, and event management"
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 29,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 12,
+                            "PercentOfParent": 41,
+                            "Skills": [
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PROFESSIONAL AFFILIATIONS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-09-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "250",
+                            "SubTaxonomyName": "Events",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 30,
+                            "Skills": [
+                                {
+                                    "Id": "026546",
+                                    "Name": "Fundraising",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 53
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-07-13"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "224",
+                            "SubTaxonomyName": "Public Relations",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 28,
+                            "Skills": [
+                                {
+                                    "Id": "1400171",
+                                    "Name": "Public Affairs",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-09-01"
+                                    }
+                                },
+                                {
+                                    "Id": "023378",
+                                    "Name": "Public Relations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "2015-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "589",
+                            "SubTaxonomyName": "Business Planning",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "1400092",
+                                    "Name": "Business Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "2015-05-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 19,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 17,
+                            "PercentOfParent": 89,
+                            "Skills": [
+                                {
+                                    "Id": "025531",
+                                    "Name": "Prospecting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-09-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "104",
+                            "SubTaxonomyName": "Account Management",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 11,
+                            "Skills": [
+                                {
+                                    "Id": "030175",
+                                    "Name": "Account Executive",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 9
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-04-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "31",
+                    "Name": "Written Communications",
+                    "PercentOfOverall": 18,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "430",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 53,
+                            "Skills": [
+                                {
+                                    "Id": "006821",
+                                    "Name": "Report Writing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 28
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-07-13"
+                                    }
+                                },
+                                {
+                                    "Id": "009845",
+                                    "Name": "Translating",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-09-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "431",
+                            "SubTaxonomyName": "Proposals and Related",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 47,
+                            "Skills": [
+                                {
+                                    "Id": "005891",
+                                    "Name": "Proposals",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-09-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "80",
+                    "Name": "General Management",
+                    "PercentOfOverall": 8,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "517",
+                            "SubTaxonomyName": "People Oriented",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 98,
+                            "Skills": [
+                                {
+                                    "Id": "025955",
+                                    "Name": "Team Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-09-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "519",
+                            "SubTaxonomyName": "Management and Management Tasks",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "012212",
+                                    "Name": "Business Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "2015-05-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "1",
+                    "Name": "Administrative or Clerical",
+                    "PercentOfOverall": 7,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "112",
+                            "SubTaxonomyName": "Messages and Contact",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 59,
+                            "Skills": [
+                                {
+                                    "Id": "026545",
+                                    "Name": "Fundraising",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 53
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-07-13"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "115",
+                            "SubTaxonomyName": "Computer Related",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 41,
+                            "Skills": [
+                                {
+                                    "Id": "006822",
+                                    "Name": "Report Writing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 28
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-07-13"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "7",
+                    "Name": "Finance",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "246",
+                            "SubTaxonomyName": "Treasury",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 84,
+                            "Skills": [
+                                {
+                                    "Id": "026085",
+                                    "Name": "Business Plans",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-09-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "243",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "023147",
+                                    "Name": "Finance",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "2015-05-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "704",
+                            "SubTaxonomyName": "Investor Relations",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "7000027",
+                                    "Name": "Public Relations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "2015-03-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "297",
+                            "SubTaxonomyName": "Transportation",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "025692",
+                                    "Name": "Bridges",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 28
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-07-13"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "436",
+                            "SubTaxonomyName": "Management Activities or Functions",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 65,
+                            "Skills": [
+                                {
+                                    "Id": "026084",
+                                    "Name": "Business Plans",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-09-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 35,
+                            "Skills": [
+                                {
+                                    "Id": "006010",
+                                    "Name": "Public Relations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "2015-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "006820",
+                                    "Name": "Report Writing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 28
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-07-13"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "22",
+                    "Name": "Construction Non-Laborer",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "388",
+                            "SubTaxonomyName": "Transportation",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "011916",
+                                    "Name": "Bridges",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 28
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-07-13"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "95",
+                    "Name": "Healthcare Non-physician Non-nurse",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "158",
+                            "SubTaxonomyName": "Allied Health",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "006007",
+                                    "Name": "Public Health",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 9
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-04-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "99",
+                    "Name": "Nursing",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "418",
+                            "SubTaxonomyName": "CPR, EMT and First Aid",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022917",
+                                    "Name": "RED Cross",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PROFESSIONAL AFFILIATIONS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "2015-03-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "32",
+                    "Name": "Degreed Accounting",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "950",
+                            "SubTaxonomyName": "CPA",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "7000058",
+                                    "Name": "Accounting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "2015-05-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "944",
+                            "SubTaxonomyName": "Bookkeeping",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "022499",
+                                    "Name": "Accounting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "2015-05-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Associations": [
+        {
+            "Organization": "Ateneo de Manila University, Philippines",
+            "Role": ""
+        },
+        {
+            "Organization": "Bachelor of Arts in Communication, cum laude (top 5% of class)--coursework in development communication, digital",
+            "Role": ""
+        },
+        {
+            "Organization": "1,000-member organisation working to end child sexual",
+            "Role": "Vice President"
+        },
+        {
+            "Organization": "abuse in the Philippines. Marketing and Communications Intern at the Philippine Red Cross",
+            "Role": ""
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "Achievements": [
+        "Bachelor of Arts in Communication, cum laude (top 5% of class)--coursework in development communication, digital"
+    ],
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 7,
+                "LastLineNumber": 50,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "WORK EXPERIENCE"
+            },
+            {
+                "FirstLineNumber": 51,
+                "LastLineNumber": 63,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "EDUCATION"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    },
+                    {
+                        "QualityCode": "222",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-3"
+                            }
+                        ],
+                        "Message": "Every position in a resume should have an employer name."
+                    },
+                    {
+                        "QualityCode": "231",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "DEG-3"
+                            }
+                        ],
+                        "Message": "Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "161",
+                        "Message": "High school (or lower) education should not be included on resumes that contain higher-level education."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~~  \n   ~~~~~~~~~~~~~~~~~~~~   |    ~~~~~~~~~~  \nI have a strong track record of working with nonprofit partners to deliver high impact programmes supporting disadvantaged\ncommunities across the globe. My experience in fundraising, communications, and account management, specifically for social\nsector organisations, enables me to provide strategic partnership and deliver high-quality assets in the nonprofit space.\n\n\nWORK EXPERIENCE\nJustice Defenders -- a nonprofit that bridges the justice gap for vulnerable communities in Africa through\nlegal education and practice.\nPartnerships Manager, London\tMarch 2019-Present\nLed execution of the organisation-wide fundraising strategy across income streams (i.e. individual, institutional, and corporate);\ndeveloped cultivation and stewardship strategies for all prospects and funders that led to a revenue increase of 80% - from \u00a31M\nto \u00a31.8M in 2019. This allowed the expansion of the fundraising and comms team, resulting in further donations and achieving\nimpact targets (e.g. enabling 15,000 fair trials in East Africa)\nLed the organisation's Covid-19 fundraising campaign in 2020, securing \u00a3230,000 worth of grants from new institutional funders,\nwhich kept programmes running and expanding amidst the pandemic\nIn charge of digital outreach, grant writing, report writing, and fundraising tactics; secured $250,000 from Google among others\nSpearheaded major donor visit to East Africa in 2019 resulting in a $1.5M donation and oversaw the planning and execution of\ncommunication and fundraising events\nLed the organisation's online giving campaign (e.g. Big Give UK - raised \u00a325K beyond \u00a320K target in 2019)\nWorked on the organisation's rebrand as Justice Defenders, which better positioned the organisation for growth and resulted in\nincreased media engagements and donations\nSupported the social media response to the organisation's recent feature on 60 Minutes with Anderson Cooper, engaging 1,000\nnew donors in the first hour\n\nSmarter Good Inc. -- a global social enterprise based in San Francisco and Manila that provides strategic\norganisational development services to leading nonprofits spanning 30 countries.\nSenior Development Associate, Manila\tAug 2016-Sep 2018\nServed as nonprofit clients' strategic partner for organisational development, fundraising, marketing, and communications --\nJustice Defenders, my current company, was one of the my clients\nThought partner for nonprofit leaders operating in Europe, the Middle East, Africa, Asia, and the US across various issue areas\ne.g. STEM education for girls, agriculture, criminal justice, global\/maternal health, renewable energy, climate change\nLed a team to create and implement fundraising and communication strategies, translating client needs into smart workflows,\nmanaging solutions from planning to execution and evaluation, reaching annual funding targets worth up to $4M\nDesigned and executed social media campaigns for global health and justice clients, resulting in increased online donors and\naudience reach\nExpanded funder pipelines, diversified income streams, developed strategic content (e.g. social media posts, theory of change\nmodels, business plans, newsletters, donor reports, concept notes, and proposals to large family foundations, corporations, and\nmajor individual donors)\nCompetencies include strategy development, grant writing and reporting, team management, digital fundraising, research,\nprospecting, and marketing\n\nEON, Stakeholder Relations Group -- a public affairs and government relations consultancy designed to\nmove campaigns and advocacies forward.\nAccount Executive, Manila\tJul 2015 - Apr 2016\nDeveloped and implemented corporate social responsibility strategies for fortune 500 companies operating in highly-regulated\nindustries in the Philippines (e.g. agriculture, public health, energy, and transportation)\nCompetencies include campaign planning and roll-out, project management, brand development, and event management\n\n\nEDUCATION\nSchool of Oriental and African Studies, University of London\tSept 2019\nMaster of Science in Development Studies, merit--fourth in 2019 global QS World rankings--focused on the practice of\ninternational development with coursework in foreign aid, digital campaigning, gender equity, social justice, and political\neconomy. Undertaken alongside a part-time consultancy role at Justice Defenders.\n\nAteneo de Manila University, Philippines\tMar 2015\nBachelor of Arts in Communication, cum laude (top 5% of class)--coursework in development communication, digital\nmarketing, public relations, and features\/news writing. Vice President of 1,000-member organisation working to end child sexual\nabuse in the Philippines. Marketing and Communications Intern at the Philippine Red Cross.\n\nAsian Institute of Management, Philippines\tMay 2015\nBusiness Management programme with coursework in accounting, finance, and economics",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-GB",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = UK; Culture.DefaultCultureIsUK = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2021-07-13",
+        "SovrenSignature": [
+            "Nub\/\/\/\/\/\/\/8="
+        ]
+    }
+}

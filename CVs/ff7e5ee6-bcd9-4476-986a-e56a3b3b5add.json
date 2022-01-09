@@ -1,0 +1,1400 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "GeoCoordinates": {
+                "Latitude": 51.50735092163086,
+                "Longitude": -0.1277579963207245
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "MSc",
+                "Normalized": "MSc"
+            },
+            "Type": "masters"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "MSc Terrorism, Policing and Security, Liverpool John Mores University.\t2017 - Present",
+                "SchoolName": {
+                    "Raw": "Liverpool John Mores University",
+                    "Normalized": "Liverpool John Mores University"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "MSc",
+                        "Normalized": "MSc"
+                    },
+                    "Type": "masters"
+                },
+                "LastEducationDate": {
+                    "Date": "2021-07-14",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "Graduated": {
+                    "Value": false
+                }
+            },
+            {
+                "Id": "DEG-3",
+                "Text": "\u2022 ICP-BAF - ICAgile Business Agility Foundations\t2019",
+                "SchoolName": {
+                    "Raw": "ICP",
+                    "Normalized": "ICP"
+                },
+                "SchoolType": "UNSPECIFIED",
+                "Degree": [],
+                "Majors": [
+                    "ICAgile Business Agility Foundations"
+                ],
+                "LastEducationDate": {
+                    "Date": "2019-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Id": "DEG-4",
+                "Text": "\u2022 CMI Level 8 Strategic Direction and Leadership Certificate, Manchester Business School\t2017",
+                "SchoolName": {
+                    "Raw": "Manchester Business School",
+                    "Normalized": "Manchester Business School"
+                },
+                "SchoolType": "trade",
+                "Degree": {
+                    "Name": {
+                        "Raw": "Certificate",
+                        "Normalized": "certification"
+                    },
+                    "Type": "certification"
+                },
+                "LastEducationDate": {
+                    "Date": "2017-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Id": "DEG-5",
+                "Text": "\u2022 Initial Officer Training, RAF College Cranwell, Professional Trade Training, RAF Boulmer\t2008 - 2011",
+                "SchoolName": {
+                    "Raw": "RAF College Cranwell",
+                    "Normalized": "RAF College Cranwell"
+                },
+                "SchoolType": "college",
+                "Degree": [],
+                "LastEducationDate": {
+                    "Date": "2011-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Id": "DEG-2",
+                "Text": "MSc (Hons) Chemistry, University of Nottingham.\t2004 - 2008",
+                "SchoolName": {
+                    "Raw": "University of Nottingham",
+                    "Normalized": "University of Nottingham"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "MSc (Hons)",
+                        "Normalized": "MSc"
+                    },
+                    "Type": "masters"
+                },
+                "Majors": [
+                    "Chemistry"
+                ],
+                "LastEducationDate": {
+                    "Date": "2008-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~~~~~~~~~~   is experienced in the management of:  Information Technology (Config Deploy Upgrade Migrate); and Business Operations and General Business (General Skills and Activities).    ~~~~~~~~~~~~~~~   has 14 years of work experience, with 8 years of management experience, including a mid-level position.",
+            "MonthsOfWorkExperience": 163,
+            "MonthsOfManagementExperience": 97,
+            "ExecutiveType": "GENERAL",
+            "AverageMonthsPerEmployer": 16,
+            "FulltimeDirectHirePredictiveIndex": 20,
+            "ManagementStory": "Starting on 5\/1\/2018, the candidate held the following mid-level management position for 8 months:\n\tTitle: Campaign Manager for InCoStrat, Erbil, Iraq\nStarting on 8\/1\/2017, the candidate held the following low-level management position for 9 months:\n\tTitle: Project Manager for The Royal Air Force\nStarting on 1\/1\/2016, the candidate held the following low-level management position for 2 years:\n\tTitle: Intelligence Advise and Assist Deputy Head and Cultural Advisor, Iraq \/ UK for The Royal Air Force\nStarting on 4\/1\/2017, the candidate held the following low-level management position for 4 months:\n\tTitle: Middle East & North Africa Cultural Advisor for Ministry of Defence\nStarting on 1\/1\/2014, the candidate held the following low-level management position for 3 years:\n\tTitle: Middle East and North Africa Cultural Advisor - Gender Trainer for Women Peace and Security\nStarting on 1\/1\/2013, the candidate held the following mid-level management position for 2 years:\n\tTitle: Aerospace Battle Manager, Airspace Coordinator for National Air Defence Operation Centre\nStarting on 1\/1\/2011, the candidate held the following low-level management position for 2 years:\n\tTitle: Identification Officer (Operations), Team Leader, RAF Scampton and Falkland Islands for The Royal Air Force",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 55,
+            "AttentionNeeded": "ATTENTION: The candidate appears to have been in management in a past role (Campaign Manager for InCoStrat), but was not in management in the most recent role as Consultant Analyst for PA Consulting."
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "PA Consulting",
+                        "Normalized": "PA Consulting"
+                    },
+                    "Location": {
+                        "CountryCode": "UK",
+                        "Municipality": "Bristol"
+                    }
+                },
+                "IsSelfEmployed": true,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Consultant Analyst",
+                    "Normalized": "Consultant Analyst",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2020-02-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2021-07-14",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "NumberEmployeesSupervised": {
+                    "Value": 158
+                },
+                "JobType": "contract",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Project Management",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Clients: Women in Defence UK, Ministry of Defence, Home Office and a National Security Client\nKEY ACHIEVEMENTS\n\u2022   Operation model design of adaptive ways of working for a National Security Client using Agile methods.\n\u2022   Developed the 2020 Communications Plan for Women in Defence UK, including COVID-related updates.\n\u2022   Managed a team of 158 contractors in the provision of effective client-side support as part of a satellite integration project.\n\u2022   Planned and integrated communications and training campaign for the department-wide integration of two new software systems.\n\nRESPONSIBILITIES\n\u2022 Operation model design with 14 sub-teams, integrating hybrid working resulting in cost savings of \u00a33 m per year.\n\u2022 Developing weekly communications plans and hosting key stakeholder meetings to update on Awards 2020 progress.\n\u2022 Devised communications strategy, created content and training material as part of a change management project supporting the implementation of two new data management case working systems within three directorates of the UK Home Office."
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "PCubed",
+                        "Normalized": "PCubed"
+                    },
+                    "Location": {
+                        "CountryCode": "UK",
+                        "Municipality": "Bristol"
+                    }
+                },
+                "IsSelfEmployed": true,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Senior Consultant",
+                    "Normalized": "Senior Consultant",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Consultant"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2019-05-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2019-11-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "contract",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "Defence Equipment and Support\nKEY ACHIEVEMENTS\n\u2022 Identifying opportunities for the acceleration of the implementation of a capability for UK defence platforms within a \u00a3300 m project.\n\u2022 Leading a newly formed training cell, coordinating training for the company's defence team."
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "Erbil, Iraq",
+                        "Normalized": "Erbil Iraq"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Campaign Manager",
+                    "Normalized": "Campaign Manager",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2018-05-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2019-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "NumberEmployeesSupervised": {
+                    "Value": 24
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Market Research",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "KEY ACHIEVEMENTS\n\u2022 Development, analysis and evaluation of strategic communication influence and behavioural change social media campaigns.\n\u2022 Created and implemented editorial guidelines, a new HR reporting system, and campaign delivery and planning procedures.\n\nRESPONSIBILITIES\n\u2022 Leading a team of 24 staff, providing strategic direction and project campaign development and coordination in addition to welfare\nsupport of a multi-year Countering Violent Extremism project valued at \u00a312 m.\n\u2022 Regular Subject Matter Expert, partner, and international client liaison, informing strategy development and campaign direction.\n\u2022 Use of audience insights and analytics to inform strategy development and communication planning on a daily basis."
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "The Royal Air Force",
+                        "Normalized": "The Royal Air Force"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "StartDate": {
+                    "Date": "2008-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2018-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "UNSPECIFIED",
+                "TaxonomyPercentage": 0
+            },
+            {
+                "Id": "POS-5",
+                "Employer": {
+                    "Name": {
+                        "Probability": "VeryUnlikely",
+                        "Raw": "The Royal Air Force",
+                        "Normalized": "The Royal Air Force"
+                    },
+                    "Location": {
+                        "CountryCode": "UK",
+                        "Municipality": "Shawbury"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Project Manager",
+                    "Normalized": "Project Manager",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2017-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2018-05-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Sales",
+                "SubTaxonomyName": "Account Management",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Spearheading the merger of first level training for three aerospace career streams and seven sub-specialisations to streamline\nprocesses, realise cost-savings and reduce training times.\n\nRESPONSIBILITIES\n\u2022 Managing four aerospace control subject matter experts to develop transformative integrated training systems, utilising current\ntraining processes and materials to improve and optimise the standard of training and to centralise training location.\n\u2022 Accountable for managing all daily queries, providing status updates to key stakeholders and resolving arising issues."
+            },
+            {
+                "Id": "POS-7",
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Intelligence Advise and Assist Deputy Head and Cultural Advisor, Iraq \/ UK",
+                    "Normalized": "Intelligence Advise and Assist Deputy Head and Cultural Advisor Iraq UK",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Intelligence Advise and Assist Deputy Head and Cultural Advisor",
+                        "Intelligence Advise and Assist Deputy Head and Cultural Advisor, Iraq"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2016-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2017-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Config Deploy Upgrade Migrate",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "KEY ACHIEVEMENTS\n\u2022 Significantly improved communication and information sharing, resulting in substantial time and cost savings through conceptualising\nand implementing new air operating procedures, negotiating with key stakeholders and training personnel.\n\u2022 Advanced cultural understanding and improved collaboration between partners by effectively advising US-led multinational\nheadquarters on communication strategy and contributing to the planning process.\n\u2022 Identified the necessity for improved cultural training for UK personnel working with Iraqi-Kurdish partners, devised and delivered a\nresearch project where results were adopted for best practice pre-deployment training and planning.\n\nRESPONSIBILITIES\n\u2022 Successfully increased Iraqi military intelligence capacity and delivered behavioural change through effectively collaborating with Iraqi\nIntelligence representatives, in an advisory role, with daily leadership engagement and managing an international team.\n\u2022 Delivered comprehensive briefing updates at board level as a liaison officer and effectively disseminated regular reports, supporting\nUK decision-making at Parliamentary level."
+            },
+            {
+                "Id": "POS-6",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Ministry of Defence",
+                        "Normalized": "Ministry of Defence"
+                    },
+                    "Location": {
+                        "CountryCode": "UK",
+                        "Municipality": "London"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Middle East & North Africa Cultural Advisor",
+                    "Normalized": "Middle East AND North Africa Cultural Advisor",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2017-04-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2017-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Business Operations and General Business",
+                "SubTaxonomyName": "General Skills and Activities",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Strategy Alignment Project, Monitoring & Evaluation\nKEY ACHIEVEMENTS\n\u2022 Successfully leveraged field expertise to develop an area-specific strategy and coordination structure, through liaison with key\nstakeholders, resulting in reduced decision-making timelines, cost-savings and increased team engagement and collaboration.\n\u2022 Conceptualised and delivered a proposal, later used as a template for projects conducted in areas outside the Middle East and North\nAfrica, aimed at quantifying the effect of influence, stabilisation and training projects valued at \u00a317 million.\n\nRESPONSIBILITIES\n\u2022 Ensured UK MOD strategy aligned to objectives by regularly engaging with key stakeholders and conducting cross-Whitehall liaison."
+            },
+            {
+                "Id": "POS-8",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Women Peace and Security",
+                        "Normalized": "Women Peace and Security"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Middle East and North Africa Cultural Advisor - Gender Trainer",
+                    "Normalized": "Middle East and North Africa Cultural Advisor Gender Trainer",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Middle East and North Africa Cultural Advisor",
+                        "Gender Trainer"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2014-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2016-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Translations and Language Work",
+                "SubTaxonomyName": "Semantics",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "KEY ACHIEVEMENTS\n\u2022 Significantly improved gender awareness skillset of staff within an operational environment through delivering informative gender\ntraining aligned to UN Resolution 1325 (Women Peace and Security) whilst ensuring training aligned with MOD policy.\n\nRESPONSIBILITIES\n\u2022 Provided cultural advice and linguistic support to exercise headquarters and comprehensive leadership lessons to local soldiers.\n\u2022 Led gender training workshops and delivered tailored pre-deployment training to deploying staff."
+            },
+            {
+                "Id": "POS-9",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "National Air Defence Operation Centre",
+                        "Normalized": "National Air Defence Operation Centre"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Aerospace Battle Manager, Airspace Coordinator",
+                    "Normalized": "Aerospace Battle Manager Airspace Coordinator",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Aerospace Battle Manager",
+                        "Airspace Coordinator"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2013-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2014-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "No dominant taxonomy",
+                "SubTaxonomyName": "Not enough data",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "KEY ACHIEVEMENTS AND RESPONSIBILITIES\n\u2022 Instrumental in developing the airspace control plan for the Glasgow Commonwealth Games 2014 and 2014 NATO Summit.\n\u2022 Coordinated operational airspace and liaised with Government, police and NATO elements whilst mitigating potential risks."
+            },
+            {
+                "Id": "POS-10",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "Al-Dhafra Airbase, UAE",
+                        "Normalized": "Al Dhafra Airbase UAE"
+                    },
+                    "Location": {
+                        "CountryCode": "AE"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Surveillance Crew Commander",
+                    "Normalized": "Surveillance Crew Commander",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2013-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2013-05-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0
+            },
+            {
+                "Id": "POS-11",
+                "Employer": {
+                    "Location": {
+                        "CountryCode": "FK"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Identification Officer (Operations), Team Leader, RAF Scampton and Falkland Islands",
+                    "Normalized": "Identification Officer Operations Team Leader RAF Scampton and Falkland Islands",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Identification Officer (Operations), Team Leader",
+                        "Identification Officer",
+                        "Identification Officer (Operations)",
+                        "Team Leader",
+                        "Team Leader, RAF Scampton and Falkland Islands"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2011-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2012-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 30,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "251",
+                            "SubTaxonomyName": "Config Deploy Upgrade Migrate",
+                            "PercentOfOverall": 11,
+                            "PercentOfParent": 36,
+                            "Skills": [
+                                {
+                                    "Id": "022159",
+                                    "Name": "Change Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-07-14"
+                                    }
+                                },
+                                {
+                                    "Id": "023631",
+                                    "Name": "Deployment",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-8"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 48
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "199",
+                            "SubTaxonomyName": "Project Management",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 29,
+                            "Skills": [
+                                {
+                                    "Id": "555154520",
+                                    "Name": "Agile",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-07-14"
+                                    }
+                                },
+                                {
+                                    "Id": "022909",
+                                    "Name": "Project Manager",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 9
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-05-01"
+                                    }
+                                },
+                                {
+                                    "Id": "555121751",
+                                    "Name": "Scrum",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "553",
+                            "SubTaxonomyName": "Big Data",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 20,
+                            "Skills": [
+                                {
+                                    "Id": "5530951",
+                                    "Name": "Data Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-07-14"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "253",
+                            "SubTaxonomyName": "Protocols and Standards",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 14,
+                            "Skills": [
+                                {
+                                    "Id": "019471",
+                                    "Name": "ICP",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "2019-01-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 19,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 17,
+                            "PercentOfParent": 90,
+                            "Skills": [
+                                {
+                                    "Id": "020733",
+                                    "Name": "Liaison",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 32
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "436",
+                            "SubTaxonomyName": "Management Activities or Functions",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "012977",
+                                    "Name": "Change Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-07-14"
+                                    }
+                                },
+                                {
+                                    "Id": "024199",
+                                    "Name": "Continuous Improvement",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "003875",
+                                    "Name": "Operations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-11"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 24
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 13,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "134",
+                            "SubTaxonomyName": "Design",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 48,
+                            "Skills": [
+                                {
+                                    "Id": "002636",
+                                    "Name": "Model Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-07-14"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "311",
+                            "SubTaxonomyName": "Air and Aerospace",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 47,
+                            "Skills": [
+                                {
+                                    "Id": "022223",
+                                    "Name": "Aerospace",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-9"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 33
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-05-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "132",
+                            "SubTaxonomyName": "Chemical",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "013028",
+                                    "Name": "Chemistry",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 48
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2008-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "307",
+                            "SubTaxonomyName": "General Engineering",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "024200",
+                                    "Name": "Continuous Improvement",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 9,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "223",
+                            "SubTaxonomyName": "Market Research",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "1400046",
+                                    "Name": "Audience Insights",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 8
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "586",
+                            "SubTaxonomyName": "Technical Product Marketing",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "1400032",
+                                    "Name": "Subject Matter Expert",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 8
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-01-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "9",
+                    "Name": "Human Resources",
+                    "PercentOfOverall": 7,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "262",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 59,
+                            "Skills": [
+                                {
+                                    "Id": "019094",
+                                    "Name": "HR",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 8
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "579",
+                            "SubTaxonomyName": "HR Management",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 21,
+                            "Skills": [
+                                {
+                                    "Id": "9000169",
+                                    "Name": "Change Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-07-14"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "581",
+                            "SubTaxonomyName": "Organization Development",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 21,
+                            "Skills": [
+                                {
+                                    "Id": "9000213",
+                                    "Name": "Change Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-07-14"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "91",
+                    "Name": "Translations and Language Work",
+                    "PercentOfOverall": 7,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "902",
+                            "SubTaxonomyName": "Semantics",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "200010",
+                                    "Name": "Linguistic",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-8"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "71",
+                    "Name": "Strategy and Planning",
+                    "PercentOfOverall": 6,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "502",
+                            "SubTaxonomyName": "Planning and Estimating",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "008683",
+                                    "Name": "Strategic Direction",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-4"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 8
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-01-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "12",
+                    "Name": "Legal",
+                    "PercentOfOverall": 6,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "400",
+                            "SubTaxonomyName": "Litigation",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "200081",
+                                    "Name": "Clients",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-07-14"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "104",
+                            "SubTaxonomyName": "Account Management",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 100
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "532",
+                            "SubTaxonomyName": "Aptitudes",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "031022",
+                                    "Name": "Confident",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "528",
+                            "SubTaxonomyName": "Attitude",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "005483",
+                                    "Name": "Problem-Solving",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "232",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "025832",
+                                    "Name": "Games",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-9"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 24
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Certifications": [
+        {
+            "Name": "CMI Level 8 Strategic Direction and Leadership Certificate, Manchester Business School",
+            "MatchedFromList": false,
+            "IsVariation": false
+        },
+        {
+            "Name": "Leadership Certificate",
+            "MatchedFromList": true,
+            "IsVariation": true
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "English\tArabic"
+        },
+        {
+            "Language": "Arabic",
+            "LanguageCode": "ar",
+            "FoundInContext": "English\tArabic"
+        }
+    ],
+    "Achievements": [
+        "Developing weekly communications plans and hosting key stakeholder meetings to update on Awards 2020 progress",
+        "KEY ACHIEVEMENTS AND RESPONSIBILITIES",
+        "MSc (Hons) Chemistry, University of Nottingham.\t2004 - 2008",
+        "Winner of Women in Defence UK Awards 2017 - Most Collaborative (Iraq 2016).\t2017"
+    ],
+    "Hobbies": "\u2022 Skydiving to national level, qualified coach.\t\u2022 SCUBA diving, PADI Divemaster\n\u2022 Property development\t\u2022 Crossfit",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 7,
+                "LastLineNumber": 101,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "Professional Profile"
+            },
+            {
+                "FirstLineNumber": 102,
+                "LastLineNumber": 115,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "Education & Awards"
+            },
+            {
+                "FirstLineNumber": 116,
+                "LastLineNumber": 117,
+                "SectionType": "LANGUAGES",
+                "HeaderTextFound": "Languages"
+            },
+            {
+                "FirstLineNumber": 118,
+                "LastLineNumber": 120,
+                "SectionType": "HOBBIES",
+                "HeaderTextFound": "Interests"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    },
+                    {
+                        "QualityCode": "221",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-4"
+                            }
+                        ],
+                        "Message": "Every position in a resume should have a job title."
+                    },
+                    {
+                        "QualityCode": "222",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-7"
+                            },
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-11"
+                            }
+                        ],
+                        "Message": "Every position in a resume should have an employer name."
+                    },
+                    {
+                        "QualityCode": "231",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "DEG-3"
+                            },
+                            {
+                                "SectionType": "DEG-5"
+                            }
+                        ],
+                        "Message": "Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "161",
+                        "Message": "High school (or lower) education should not be included on resumes that contain higher-level education."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~~~~~~~~~~~~~~~~  \n   ~~~~~~~~~~~~~~~  \nCommunication   Change Management   Project\tin\/   ~~~~~~~  \/\nManagement\n   ~~~~~~~~  \n\n\nProfessional Profile\nA versatile and highly regarded professional, with experience in communications, change and project management. Skilled at defining\nand implementing effective strategies in collaboration with key stakeholders, to satisfy organisational objectives. Leverages expertise\nto design and deliver innovative solutions whilst ensuring integrity and consistency. Successfully drives, manages and coordinates\nresources and processes to ensure delivery is aligned to strategy and communications objectives. Ensures operational efficiency and\nproductivity through defining and implementing continuous improvement processes. Influences key business decisions through\nproviding comprehensive and informative insights and guidance. An analytical thinker with critical problem-solving abilities, skilled at\ndisseminating appropriate information and effecting behavioural change. A confident negotiator and networker with the ability to\nmaintain and cultivate sustainable working relationships who thrives in challenging and collaborative environments. Holds UK SC.\n\nKEY ACHIEVEMENTS\nPA Consulting, Bristol, UK\tFeb 20 - Present\nConsultant Analyst   Clients: Women in Defence UK, Ministry of Defence, Home Office and a National Security Client\nKEY ACHIEVEMENTS\n\u2022   Operation model design of adaptive ways of working for a National Security Client using Agile methods.\n\u2022   Developed the 2020 Communications Plan for Women in Defence UK, including COVID-related updates.\n\u2022   Managed a team of 158 contractors in the provision of effective client-side support as part of a satellite integration project.\n\u2022   Planned and integrated communications and training campaign for the department-wide integration of two new software systems.\n\nRESPONSIBILITIES\n\u2022 Operation model design with 14 sub-teams, integrating hybrid working resulting in cost savings of \u00a33 m per year.\n\u2022 Developing weekly communications plans and hosting key stakeholder meetings to update on Awards 2020 progress.\n\u2022 Devised communications strategy, created content and training material as part of a change management project supporting the\nimplementation of two new data management case working systems within three directorates of the UK Home Office.\n\nPCubed, Bristol, UK\tMay - Nov 2019\nSenior Consultant   Defence Equipment and Support\nKEY ACHIEVEMENTS\n\u2022 Identifying opportunities for the acceleration of the implementation of a capability for UK defence platforms within a \u00a3300 m project.\n\u2022 Leading a newly formed training cell, coordinating training for the company's defence team.\n\nInnovative Communications and Strategies (InCoStrat), Erbil, Iraq\tMay 2018 - Jan 2019\nCampaign Manager\nKEY ACHIEVEMENTS\n\u2022 Development, analysis and evaluation of strategic communication influence and behavioural change social media campaigns.\n\u2022 Created and implemented editorial guidelines, a new HR reporting system, and campaign delivery and planning procedures.\n\nRESPONSIBILITIES\n\u2022 Leading a team of 24 staff, providing strategic direction and project campaign development and coordination in addition to welfare\nsupport of a multi-year Countering Violent Extremism project valued at \u00a312 m.\n\u2022 Regular Subject Matter Expert, partner, and international client liaison, informing strategy development and campaign direction.\n\u2022 Use of audience insights and analytics to inform strategy development and communication planning on a daily basis.\n\nThe Royal Air Force\t2008 - 2018\nProject Manager   Career Stream Manager, Shawbury, UK\tAug 2017 - May 2018\n\u2022 Spearheading the merger of first level training for three aerospace career streams and seven sub-specialisations to streamline\nprocesses, realise cost-savings and reduce training times.\n\nRESPONSIBILITIES\n\u2022 Managing four aerospace control subject matter experts to develop transformative integrated training systems, utilising current\ntraining processes and materials to improve and optimise the standard of training and to centralise training location.\n\u2022 Accountable for managing all daily queries, providing status updates to key stakeholders and resolving arising issues.\nInternational Policy and Planning, Ministry of Defence, London\tApr - Aug 2017\nMiddle East & North Africa Cultural Advisor   Strategy Alignment Project, Monitoring & Evaluation\nKEY ACHIEVEMENTS\n\u2022 Successfully leveraged field expertise to develop an area-specific strategy and coordination structure, through liaison with key\nstakeholders, resulting in reduced decision-making timelines, cost-savings and increased team engagement and collaboration.\n\u2022 Conceptualised and delivered a proposal, later used as a template for projects conducted in areas outside the Middle East and North\nAfrica, aimed at quantifying the effect of influence, stabilisation and training projects valued at \u00a317 million.\n\nRESPONSIBILITIES\n\u2022 Ensured UK MOD strategy aligned to objectives by regularly engaging with key stakeholders and conducting cross-Whitehall liaison.\n\nIntelligence Advise and Assist Deputy Head and Cultural Advisor, Iraq \/ UK\t2016 - 2017\nKEY ACHIEVEMENTS\n\u2022 Significantly improved communication and information sharing, resulting in substantial time and cost savings through conceptualising\nand implementing new air operating procedures, negotiating with key stakeholders and training personnel.\n\u2022 Advanced cultural understanding and improved collaboration between partners by effectively advising US-led multinational\nheadquarters on communication strategy and contributing to the planning process.\n\u2022 Identified the necessity for improved cultural training for UK personnel working with Iraqi-Kurdish partners, devised and delivered a\nresearch project where results were adopted for best practice pre-deployment training and planning.\n\nRESPONSIBILITIES\n\u2022 Successfully increased Iraqi military intelligence capacity and delivered behavioural change through effectively collaborating with Iraqi\nIntelligence representatives, in an advisory role, with daily leadership engagement and managing an international team.\n\u2022 Delivered comprehensive briefing updates at board level as a liaison officer and effectively disseminated regular reports, supporting\nUK decision-making at Parliamentary level.\n\nMiddle East and North Africa Cultural Advisor - Gender Trainer, UK & Middle East\t2014 - 2016\nKEY ACHIEVEMENTS\n\u2022 Significantly improved gender awareness skillset of staff within an operational environment through delivering informative gender\ntraining aligned to UN Resolution 1325 (Women Peace and Security) whilst ensuring training aligned with MOD policy.\n\nRESPONSIBILITIES\n\u2022 Provided cultural advice and linguistic support to exercise headquarters and comprehensive leadership lessons to local soldiers.\n\u2022 Led gender training workshops and delivered tailored pre-deployment training to deploying staff.\n\nAerospace Battle Manager, Airspace Coordinator, National Air Defence Operation Centre, RAF High Wycombe\t2013 - 2014\nKEY ACHIEVEMENTS AND RESPONSIBILITIES\n\u2022 Instrumental in developing the airspace control plan for the Glasgow Commonwealth Games 2014 and 2014 NATO Summit.\n\u2022 Coordinated operational airspace and liaised with Government, police and NATO elements whilst mitigating potential risks.\n\nSurveillance Crew Commander, Al-Dhafra Airbase, UAE\tJan - May 2013\nIdentification Officer (Operations), Team Leader, RAF Scampton and Falkland Islands\t2011 - 2012\n\nEducation & Awards\nMSc Terrorism, Policing and Security, Liverpool John Mores University.\t2017 - Present\nMSc (Hons) Chemistry, University of Nottingham.\t2004 - 2008\nWinner of Women in Defence UK Awards 2017 - Most Collaborative (Iraq 2016).\t2017\n\nTraining & Professional Development\n\u2022 Managing Successful Programmes(TM), Axelos\t2020\n\u2022 ICP-BAF - ICAgile Business Agility Foundations\t2019\n\u2022 SAFe 4 Scrum Master, Scaled Agile, ID 77649669-\t2019\n0361\n\n\u2022 CMI Level 8 Strategic Direction and Leadership Certificate, Manchester Business School\t2017\n\u2022 Initial Officer Training, RAF College Cranwell, Professional Trade Training, RAF Boulmer\t2008 - 2011\n\nLanguages\nEnglish\tArabic\nInterests\n\u2022 Skydiving to national level, qualified coach.\t\u2022 SCUBA diving, PADI Divemaster\n\u2022 Property development\t\u2022 Crossfit",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-GB",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = UK; Culture.DefaultCultureIsUK = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2021-07-14",
+        "SovrenSignature": [
+            "3xIBAAAAAAA="
+        ]
+    }
+}

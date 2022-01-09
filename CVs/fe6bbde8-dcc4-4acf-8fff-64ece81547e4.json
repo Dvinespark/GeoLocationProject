@@ -1,0 +1,1246 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "GeoCoordinates": {
+                "Latitude": 51.50735092163086,
+                "Longitude": -0.1277579963207245
+            }
+        }
+    },
+    "ProfessionalSummary": "I'm a product designer and UX Writer\nthat focuses on creating usable and\nbeautiful user experiences and interfaces\nthat solve user's problems and meets\nbusiness goals. I am passionate about\ninclusive design for all categories of\nusers and I take delight in using design\nto\tsolve\tproblems\tand\tcreate\nexceptional experiences.",
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "BSc",
+                "Normalized": "BSc"
+            },
+            "Type": "bachelors"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "Designlab - UX Academy 2020",
+                "SchoolName": {
+                    "Raw": "UX Academy",
+                    "Normalized": "UX Academy"
+                },
+                "SchoolType": "UNSPECIFIED",
+                "Degree": [],
+                "LastEducationDate": {
+                    "Date": "2020-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Id": "DEG-2",
+                "Text": "Osun State University, Nigeria - BSc\n(Hons) Industrial Chemistry (Second Class Upper) 2011-2015",
+                "SchoolName": {
+                    "Raw": "Osun State University",
+                    "Normalized": "Osun State"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "BSc",
+                        "Normalized": "BSc"
+                    },
+                    "Type": "bachelors"
+                },
+                "Majors": [
+                    "Industrial Chemistry"
+                ],
+                "LastEducationDate": {
+                    "Date": "2015-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "The candidate is experienced in:  Information Technology (Programming; User Interface); and User Experience. The candidate appears to be an entry-level candidate, with 9 months of experience.",
+            "MonthsOfWorkExperience": 9,
+            "MonthsOfManagementExperience": 0,
+            "ExecutiveType": "NONE",
+            "AverageMonthsPerEmployer": 2,
+            "FulltimeDirectHirePredictiveIndex": 1,
+            "ManagementStory": "",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 0
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Parpend",
+                        "Normalized": "Parpend"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Product Designer",
+                    "Normalized": "Product Designer",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2020-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "temp",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Digital",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Worked with a team to deliver visual direction for a website and dashboard design.\n\nCollaborated with the team to determine user flows and interactions.\nDesigned several interactions to enable the best user experience.\n\u2022   Participated in brainstorming sessions to deliver designs that align\n\nspecifically with the business goals."
+            },
+            {
+                "Id": "POS-2",
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "UI\/UX Intern",
+                    "Normalized": "UI\/UX Intern",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "UX Intern"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2020-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "internship",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2022 Worked in collaboration with other interns on the visual and interaction designs of a website.\n\u2022 Collaborated with a front-end developer to deliver website and mobile designs within a very short deadline.\n\u2022 Delivered several web and mobile designs of projects.\n\u2022 Worked under a strict weekly timeline to meet deliverables."
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "   ~~~  ",
+                        "Normalized": "   ~~~  "
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Front-end Developer & UI\/UX Intern",
+                    "Normalized": "Front end Developer AND UI\/UX Intern",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Front-end Developer & UI",
+                        "UX Intern"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2020-04-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "internship",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Mobile Applications",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2022 Created interactive prototypes of a mobile app design.\n\u2022 Participated in usabiliy testing of mobile apps.\n\u2022 Wrote HTML5 & CSS3 for front-end development tasks."
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Tisv Digital",
+                        "Normalized": "Tisv Digital"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Front-end Developer Intern",
+                    "Normalized": "Front end Developer Intern",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2019-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "internship",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Programming",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2022 Collaborated with senior developers to develop project for websites.\n\u2022   Maintained websites and applications, including content updates.\n\u2022   Created custom HTML emails for clients\/in-house newsletters.\n\u2022\tUser Research\n\u2022\tUser Experience Design\n\u2022\tUser Interface Design\n\u2022\tInteraction Design\n\u2022\tWeb Design\n\u2022\tUX Writing\n\u2022\tHTML5\n\u2022\tCSS3\n\u2022\tTeam Work\n\u2022\tExcellent Communication Skills"
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 48,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "204",
+                            "SubTaxonomyName": "Programming",
+                            "PercentOfOverall": 19,
+                            "PercentOfParent": 40,
+                            "Skills": [
+                                {
+                                    "Id": "017986",
+                                    "Name": "Front-End",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 6
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-06-01"
+                                    }
+                                },
+                                {
+                                    "Id": "019115",
+                                    "Name": "HTML",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-31"
+                                    }
+                                },
+                                {
+                                    "Id": "024480",
+                                    "Name": "User Interface Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "0103232",
+                                            "Name": "Interface Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 4
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-03-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "731",
+                            "SubTaxonomyName": "User Interface",
+                            "PercentOfOverall": 12,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "7310067",
+                                    "Name": "User Interface",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "7310068",
+                                            "Name": "UI",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 4
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-08-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 8
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "552",
+                            "SubTaxonomyName": "Mobile Applications",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 18,
+                            "Skills": [
+                                {
+                                    "Id": "5520541",
+                                    "Name": "HTML5",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 6
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-06-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5520613",
+                                    "Name": "User Experience Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "555",
+                            "SubTaxonomyName": "Enterprise Storage",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "5551150",
+                                    "Name": "HP-UX",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555115001",
+                                            "Name": "UX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SUMMARY"
+                                                },
+                                                {
+                                                    "SectionType": "EDUCATION",
+                                                    "Id": "DEG-1"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 8
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-08-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 8
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "203",
+                            "SubTaxonomyName": "UNIX and LINUX",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "01026309",
+                                    "Name": "UNIX",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "010377",
+                                            "Name": "UX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SUMMARY"
+                                                },
+                                                {
+                                                    "SectionType": "EDUCATION",
+                                                    "Id": "DEG-1"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 8
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-08-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 8
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "196",
+                            "SubTaxonomyName": "Internet",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "010994",
+                                    "Name": "WEB Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 27,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "558",
+                            "SubTaxonomyName": "User Research",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 31,
+                            "Skills": [
+                                {
+                                    "Id": "5570011",
+                                    "Name": "User Interface Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-31"
+                                    }
+                                },
+                                {
+                                    "Id": "5570211",
+                                    "Name": "User Research",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "560",
+                            "SubTaxonomyName": "UX Design",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 14,
+                            "Skills": [
+                                {
+                                    "Id": "5570020",
+                                    "Name": "Interaction Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-31"
+                                    }
+                                },
+                                {
+                                    "Id": "5570023",
+                                    "Name": "UI Design",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570216",
+                                            "Name": "User Interface Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 4
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-03-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-31"
+                                    }
+                                },
+                                {
+                                    "Id": "5570017",
+                                    "Name": "User Experience Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "573",
+                            "SubTaxonomyName": "Product Design",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 14,
+                            "Skills": [
+                                {
+                                    "Id": "5570163",
+                                    "Name": "Interaction Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-31"
+                                    }
+                                },
+                                {
+                                    "Id": "5570165",
+                                    "Name": "UI Design",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570166",
+                                            "Name": "User Interface Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 4
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-03-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-31"
+                                    }
+                                },
+                                {
+                                    "Id": "5570161",
+                                    "Name": "User Experience Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "565",
+                            "SubTaxonomyName": "Visual Design",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 14,
+                            "Skills": [
+                                {
+                                    "Id": "5570077",
+                                    "Name": "Interaction Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-31"
+                                    }
+                                },
+                                {
+                                    "Id": "5570075",
+                                    "Name": "User Experience Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-31"
+                                    }
+                                },
+                                {
+                                    "Id": "5570080",
+                                    "Name": "User Interface Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "5570062",
+                                    "Name": "Interaction Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-31"
+                                    }
+                                },
+                                {
+                                    "Id": "5570060",
+                                    "Name": "User Experience Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "568",
+                            "SubTaxonomyName": "Integration Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 9,
+                            "Skills": [
+                                {
+                                    "Id": "5570110",
+                                    "Name": "WEB Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "566",
+                            "SubTaxonomyName": "Industrial Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "5570088",
+                                    "Name": "Interaction Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "562",
+                            "SubTaxonomyName": "Interaction Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "5570046",
+                                    "Name": "Interaction Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 12,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "134",
+                            "SubTaxonomyName": "Design",
+                            "PercentOfOverall": 11,
+                            "PercentOfParent": 89,
+                            "Skills": [
+                                {
+                                    "Id": "005611",
+                                    "Name": "Product Designer",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 1
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-01"
+                                    }
+                                },
+                                {
+                                    "Id": "024481",
+                                    "Name": "User Interface Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "0103222",
+                                            "Name": "Interface Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 4
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-03-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "132",
+                            "SubTaxonomyName": "Chemical",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 11,
+                            "Skills": [
+                                {
+                                    "Id": "013028",
+                                    "Name": "Chemistry",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 9
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-01-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 11,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 11,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "1400241",
+                                    "Name": "User Experience",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 5
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1400245",
+                                    "Name": "User Interface",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-31"
+                                    }
+                                },
+                                {
+                                    "Id": "1400242",
+                                    "Name": "WEB Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "532",
+                            "SubTaxonomyName": "Aptitudes",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "031018",
+                                    "Name": "Excellent Communication Skills",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "Achievements": [
+        "(Hons) Industrial Chemistry (Second"
+    ],
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 17,
+                "LastLineNumber": 28,
+                "SectionType": "SUMMARY",
+                "HeaderTextFound": "SUMMARY"
+            },
+            {
+                "FirstLineNumber": 29,
+                "LastLineNumber": 34,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "EDUCATION"
+            },
+            {
+                "FirstLineNumber": 35,
+                "LastLineNumber": 35,
+                "SectionType": "SKILLS",
+                "HeaderTextFound": "SKILLS"
+            },
+            {
+                "FirstLineNumber": 36,
+                "LastLineNumber": 81,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "WORK EXPERIENCE"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Fatal Problems Found",
+                "Findings": [
+                    {
+                        "QualityCode": "433",
+                        "Message": "We detected that this document contained at least some data that was laid out as columns or tables. We rearranged that data to make it more usable. NEVER use columns or tables in a resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    },
+                    {
+                        "QualityCode": "302",
+                        "Message": "A first and last name was not found in the contact information. A resume should always include the candidate's first and last name."
+                    },
+                    {
+                        "QualityCode": "324",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "SKILLS",
+                                "Id": "2"
+                            }
+                        ],
+                        "Message": "Every section should have text associated with it. This usually indicates an error with the section headers or format used in the resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    },
+                    {
+                        "QualityCode": "222",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-2"
+                            }
+                        ],
+                        "Message": "Every position in a resume should have an employer name."
+                    },
+                    {
+                        "QualityCode": "231",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "DEG-1"
+                            }
+                        ],
+                        "Message": "Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "161",
+                        "Message": "High school (or lower) education should not be included on resumes that contain higher-level education."
+                    },
+                    {
+                        "QualityCode": "112",
+                        "Message": "The following section was identified as a skills section type: 'SKILLS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+                    },
+                    {
+                        "QualityCode": "132",
+                        "Message": "Multiple email addresses were found in the contact information. Only one email address should be included in a resume."
+                    },
+                    {
+                        "QualityCode": "133",
+                        "Message": "Multiple phone numbers were found in the contact information. Only one phone number ( a mobile number) should be included in a resume."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "FOLAHANMI,\n\nZAYNAB\n\n\nADEOLA\n\n\nLagos, Nigeria |    ~~~~~~  ,\n\n   ~~~~~~   |\n   ~~~~~~~~~~~~~~~~~~~~  |\n   ~~~~~~~~~~~~~~~~~~~~  \n\nportfolio: zaynab.disha.page\n\n\nSUMMARY\nI'm a product designer and UX Writer\nthat focuses on creating usable and\nbeautiful user experiences and interfaces\nthat solve user's problems and meets\nbusiness goals. I am passionate about\ninclusive design for all categories of\nusers and I take delight in using design\nto\tsolve\tproblems\tand\tcreate\nexceptional experiences.\n\n\nEDUCATION\nDesignlab - UX Academy 2020\nOsun State University, Nigeria - BSc\n(Hons) Industrial Chemistry (Second\nClass Upper) 2011-2015\n\nSKILLS\nWORK EXPERIENCE\nParpend\nProduct Designer (Contract)\tAug. 2020 - Sept. 2020\n\u2022 Worked with a team to deliver visual direction for a website and\ndashboard design.\n\n\u2022\n\u2022\nCollaborated with the team to determine user flows and interactions.\nDesigned several interactions to enable the best user experience.\n\u2022   Participated in brainstorming sessions to deliver designs that align\n\nspecifically with the business goals.\n\n\nHNG Internship\n\nUI\/UX Intern\tJune 2020 - Aug. 2020\n\u2022 Worked in collaboration with other interns on the visual and interaction\ndesigns of a website.\n\u2022 Collaborated with a front-end developer to deliver website and mobile\ndesigns within a very short deadline.\n\u2022 Delivered several web and mobile designs of projects.\n\u2022 Worked under a strict weekly timeline to meet deliverables.\n\n\n   ~~~  \nFront-end Developer & UI\/UX Intern\tApril 2020 - June 2020\n\u2022 Created interactive prototypes of a mobile app design.\n\u2022 Participated in usabiliy testing of mobile apps.\n\u2022 Wrote HTML5 & CSS3 for front-end development tasks.\n\n\nTisv Digital\nFront-end Developer Intern\tDec. 2019 - March 2020\n\u2022 Collaborated with senior developers to develop project for websites.\n\u2022   Maintained websites and applications, including content updates.\n\u2022   Created custom HTML emails for clients\/in-house newsletters.\n\u2022\tUser Research\n\u2022\tUser Experience Design\n\u2022\tUser Interface Design\n\u2022\tInteraction Design\n\u2022\tWeb Design\n\u2022\tUX Writing\n\u2022\tHTML5\n\u2022\tCSS3\n\u2022\tTeam Work\n\u2022\tExcellent Communication Skills",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2021-07-14",
+        "SovrenSignature": [
+            "vDABAAAAAAA="
+        ]
+    }
+}

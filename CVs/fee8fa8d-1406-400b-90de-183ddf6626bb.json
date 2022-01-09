@@ -1,0 +1,991 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "CountryCode": "UK",
+            "PostalCode": "LS25 5HZ",
+            "Regions": [
+                "Leeds"
+            ],
+            "Municipality": "Hillam",
+            "GeoCoordinates": {
+                "Latitude": 53.75471115112305,
+                "Longitude": -1.2295750379562378
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "BA (Hons) Degree in Economics",
+                "Normalized": "bachelors"
+            },
+            "Type": "bachelors"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "BA (Hons) Degree in Economics, University of Leeds, 1989-1992. 3 A Levels and 9 O Levels.",
+                "SchoolName": {
+                    "Raw": "University of Leeds",
+                    "Normalized": "University of Leeds"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "BA (Hons) Degree in Economics",
+                        "Normalized": "bachelors"
+                    },
+                    "Type": "bachelors"
+                },
+                "Majors": [
+                    "Economics"
+                ],
+                "LastEducationDate": {
+                    "Date": "1992-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~~   is experienced in the management of:  Information Technology (Help Desk; Big Data; Internet).    ~~~~~~~   has 29 years of work experience, with 13 years of management experience, including a mid-level position.",
+            "MonthsOfWorkExperience": 352,
+            "MonthsOfManagementExperience": 155,
+            "ExecutiveType": "BUSINESS_DEV",
+            "AverageMonthsPerEmployer": 70,
+            "FulltimeDirectHirePredictiveIndex": 37,
+            "ManagementStory": "Current position is a low-level management role: Principal Consultant\nStarting on 1\/1\/2020, the candidate held the following low-level management position for 15 months:\n\tTitle: Principal Consultant for INTAPP INC\nStarting on 8\/1\/2014, the candidate held the following mid-level management position for 5 years and 5 months:\n\tTitle: OBJECTIVE MANAGER, UK WIDE\nStarting on 1\/1\/2006, the candidate held the following mid-level management position for 6 years and 3 months:\n\tTitle: Learning & Development Manager for ADDLESHAW GODDARD",
+            "CurrentManagementLevel": "low-level",
+            "ManagementScore": 55
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "INTAPP INC",
+                        "Normalized": "INTAPP"
+                    }
+                },
+                "IsSelfEmployed": true,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Principal Consultant",
+                    "Normalized": "Principal Consultant",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2020-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2021-04-20",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "contract",
+                "TaxonomyName": "Sales",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Helping professional services firms realise the vision for a connected firm.\n\nOne Place for Marketing & BD - including CRM (& Salesforce platform), Enterprise Relationship\nManagement (ERM), and Experience\/Expertise Management capabilities.\n\nPrimarily responsible for the scoping of business requirements and system design to ensure solutions\nare configured to help clients achieve their strategic business and project success objectives as part of their implementation. Trusted adviser and business partner to firms in implementing and developing\nbest practices. Supporting account management and sales teams in pre-sales and upsell activities.\n   ~~~~~~~~~~~~  , Hillam, Leeds, UK, LS25 5HZ.    ~~~~~~~~~~~~~~~  \n\u2022    ~~~~~~~~~~~~~~~~~~~~~~   \u2022"
+            },
+            {
+                "Id": "POS-2",
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "OBJECTIVE MANAGER, UK WIDE",
+                    "Normalized": "OBJECTIVE MANAGER UK WIDE",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "OBJECTIVE MANAGER"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2014-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2019-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Help Desk",
+                "JobLevel": "Senior Manager (more than 5 years management experience)",
+                "TaxonomyPercentage": 0,
+                "Description": "Customer Success\/Implementation Director (SAAS Business)\n\nSupporting and enabling clients to achieve their strategic objectives and improve business\nperformance. Responsible for providing value across the customer lifecycle to drive software\nadoption, ensure renewals and secure expansion and new revenue opportunities. Successful at developing a customer success programme for a small and fast--growing software business, driving and developing the team to implement consistent and best practice processes and implementation\nmethodologies. Focus on services, customer support and education. Collaborate closely with internal and external stakeholders to deliver cross functional initiatives and solutions."
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "   ~~~~~~~   CONSULTING",
+                        "Normalized": "RAY OCONNOR CONSULTING"
+                    },
+                    "Location": {
+                        "CountryCode": "UK",
+                        "Municipality": "LEEDS"
+                    }
+                },
+                "IsSelfEmployed": true,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "CONSULTANT",
+                    "Normalized": "CONSULTANT",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2012-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2014-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "contract",
+                "TaxonomyName": "Human Resources",
+                "SubTaxonomyName": "Learning & Development",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "Freelance Learning & Development Solutions Consultant. Supporting and enabling clients\ndevelop innovative and cost-effective blended learning solutions for corporate and education sectors."
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "ADDLESHAW GODDARD",
+                        "Normalized": "ADDLESHAW GODDARD"
+                    },
+                    "Location": {
+                        "CountryCode": "UK",
+                        "Municipality": "LEEDS"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Learning & Development Manager",
+                    "Normalized": "Learning AND Development Manager",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2006-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2012-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Human Resources",
+                "SubTaxonomyName": "Learning & Development",
+                "JobLevel": "Senior Manager (more than 5 years management experience)",
+                "TaxonomyPercentage": 0,
+                "Description": "Providing strategic leadership and management to a restructured L&D team of four learning\nadvisers\/designers. Supporting a new firm--wide business learning strategy for @1,300 staff,\nmanaging a \u00a3500,000 budget. Scope, design and implement appropriate blended learning solutions, to support business priority projects and new business development. Extensive internal consulting\nto transform the L&D team from cost centre to generator of additional revenue streams via e--learning\nprogrammes offered to legal clients."
+            },
+            {
+                "Id": "POS-5",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "HMV UK LTD",
+                        "Normalized": "HMV UK"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "StartDate": {
+                    "Date": "1992-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2006-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "UNSPECIFIED",
+                "TaxonomyName": "Marketing",
+                "TaxonomyPercentage": 0,
+                "Description": "The leading specialist music and entertainment retailer across the UK and Eire. Extensive store retail\nmanagement before moving into a senior Learning & Development\/Training role."
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 50,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "194",
+                            "SubTaxonomyName": "Help Desk",
+                            "PercentOfOverall": 24,
+                            "PercentOfParent": 48,
+                            "Skills": [
+                                {
+                                    "Id": "023487",
+                                    "Name": "Customer Support",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 65
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "553",
+                            "SubTaxonomyName": "Big Data",
+                            "PercentOfOverall": 12,
+                            "PercentOfParent": 24,
+                            "Skills": [
+                                {
+                                    "Id": "5531064",
+                                    "Name": "Software as a Service",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5531065",
+                                            "Name": "SAAS",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 65
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2019-12-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 65
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "196",
+                            "SubTaxonomyName": "Internet",
+                            "PercentOfOverall": 12,
+                            "PercentOfParent": 24,
+                            "Skills": [
+                                {
+                                    "Id": "1004743",
+                                    "Name": "SAAS",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 65
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "195",
+                            "SubTaxonomyName": "ERP and CRM",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "014101",
+                                    "Name": "CRM",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 16
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-04-20"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 16,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 14,
+                            "PercentOfParent": 90,
+                            "Skills": [
+                                {
+                                    "Id": "023757",
+                                    "Name": "Business Development",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "003437",
+                                            "Name": "NEW Business Development",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 74
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2012-03-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 74
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "030018",
+                                    "Name": "Retail",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 180
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2006-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "104",
+                            "SubTaxonomyName": "Account Management",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "025223",
+                                    "Name": "Account Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 16
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-04-20"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "9",
+                    "Name": "Human Resources",
+                    "PercentOfOverall": 11,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "580",
+                            "SubTaxonomyName": "Learning & Development",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 66,
+                            "Skills": [
+                                {
+                                    "Id": "9000200",
+                                    "Name": "Blended Learning",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 103
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "9000179",
+                                    "Name": "Learning Solutions",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 103
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "583",
+                            "SubTaxonomyName": "Talent Sourcing",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 29,
+                            "Skills": [
+                                {
+                                    "Id": "9000267",
+                                    "Name": "Customer Relationship Management",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "9000268",
+                                            "Name": "CRM",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 16
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2021-04-20"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 16
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-04-20"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "579",
+                            "SubTaxonomyName": "HR Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "9000158",
+                                    "Name": "Learning and Development",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "9000330",
+                                            "Name": "L&D",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 74
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2012-03-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 74
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-03-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 10,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 10,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "025224",
+                                    "Name": "Account Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 16
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-04-20"
+                                    }
+                                },
+                                {
+                                    "Id": "011365",
+                                    "Name": "Best Practices",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 16
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-04-20"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 7,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 96,
+                            "Skills": [
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 16
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-04-20"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "226",
+                            "SubTaxonomyName": "Channel Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "1400215",
+                                    "Name": "Retail Marketing",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400216",
+                                            "Name": "Retail",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-5"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 180
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2006-12-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 180
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2006-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "71",
+                    "Name": "Strategy and Planning",
+                    "PercentOfOverall": 6,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "876",
+                            "SubTaxonomyName": "Workflow and Processes",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022626",
+                                    "Name": "Business Requirements",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 16
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-04-20"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "97",
+                    "Name": "Supply Chain and Logistics",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "459",
+                            "SubTaxonomyName": "Inventory",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "020086",
+                                    "Name": "Inventory",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "32",
+                    "Name": "Degreed Accounting",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "962",
+                            "SubTaxonomyName": "Reporting",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022891",
+                                    "Name": "Budget",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 74
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-03-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "89",
+                    "Name": "Bookkeeping, Office Management",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "533",
+                            "SubTaxonomyName": "Bookeeping Tasks",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "012120",
+                                    "Name": "Budget",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 74
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-03-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Certifications": [
+        {
+            "Name": "Member of the Chartered Institute of Personnel & Development (CIPD), Certified DISC Behavioural",
+            "MatchedFromList": false,
+            "IsVariation": false
+        },
+        {
+            "Name": "(CIPD)",
+            "MatchedFromList": false,
+            "IsVariation": true
+        },
+        {
+            "Name": "Member of the Chartered Institute of Personnel & Development",
+            "MatchedFromList": false,
+            "IsVariation": true
+        },
+        {
+            "Name": "Certificate in Training Practice",
+            "MatchedFromList": false,
+            "IsVariation": false
+        },
+        {
+            "Name": "Certificate in Training",
+            "MatchedFromList": true,
+            "IsVariation": true
+        }
+    ],
+    "Associations": [
+        {
+            "Organization": "Chartered Institute of Personnel & Development (CIPD), Certified DISC Behavioural",
+            "Role": "Member"
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "Achievements": [
+        "EMPLOYMENT & ACHIEVEMENTS",
+        "BA (Hons) Degree in Economics, University of Leeds, 1989-1992. 3 A Levels and 9 O Levels"
+    ],
+    "Training": {
+        "Text": "",
+        "Trainings": [
+            {
+                "Text": "Member of the Chartered Institute of Personnel & Development (CIPD), Certified DISC Behavioural",
+                "Entity": "Chartered Institute of Personnel & Development (CIPD), Certified DISC Behavioural"
+            },
+            {
+                "Text": "Analyst. Accredited Coach in Hay McBer Inventory Leadership Styles. Certificate in Training Practice",
+                "Qualifications": [
+                    "Certificate in Training"
+                ]
+            },
+            {
+                "Text": "Chartered Institute of Personnel & Development. Management Diploma, Ashridge Business School",
+                "Entity": "Ashridge Business School"
+            }
+        ]
+    },
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 40,
+                "LastLineNumber": 40,
+                "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+                "HeaderTextFound": "EMPLOYMENT & ACHIEVEMENTS"
+            },
+            {
+                "FirstLineNumber": 40,
+                "LastLineNumber": 91,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "EMPLOYMENT & ACHIEVEMENTS"
+            },
+            {
+                "FirstLineNumber": 92,
+                "LastLineNumber": 97,
+                "SectionType": "TRAINING",
+                "HeaderTextFound": "PROFESSIONAL TRAINING"
+            },
+            {
+                "FirstLineNumber": 98,
+                "LastLineNumber": 99,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "EDUCATION"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    },
+                    {
+                        "QualityCode": "324",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+                                "Id": "0"
+                            }
+                        ],
+                        "Message": "Every section should have text associated with it. This usually indicates an error with the section headers or format used in the resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "221",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-5"
+                            }
+                        ],
+                        "Message": "Every position in a resume should have a job title."
+                    },
+                    {
+                        "QualityCode": "222",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-2"
+                            }
+                        ],
+                        "Message": "Every position in a resume should have an employer name."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~  \n   ~~~~~~~~~~~~  , Hillam, Leeds, UK, LS25 5HZ.    ~~~~~~~~~~~~~~~  \n\u2022    ~~~~~~~~~~~~~~~~~~~~~~   \u2022    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \n\n\nTECHNOLOGY SPECIALIST | CLIENT SUCCESS & DELIVERY\nEnsure client success deliverables, deploy strategic software solutions, facilitate operational\nefficiencies and implement best practices.\n\n10 years+ legal sector\/domain experience and 5 years+ account management\/client success\nspecialist for market leading software providers to the legal and professional services\nsectors.\n\nRecognised by senior executives and colleagues as a builder of great trusted relationships with\nclients, from execs to middle management to end users.\nExperienced in improving business performance and driving adoption of software solutions to ensure\nclient satisfaction, retention and expansion.\n\nAbility to combine process and project management skills with strong communication, coaching and\nfacilitation skills, using empathy to understand and solve client problems and achieve strategic\noutcomes. Competent and experienced in delivery\/implementation of marketing and collaboration\nsolutions in complex and rapidly changing environments.\n\nCreative problem solver and change agent for delivering scalable and cost--effective enterprise and\nplatform wide software solutions.\nAble to oversee multi--disciplinary groups, facilitating crucial company transformation and completing\ncomplex projects in time--sensitive settings.\nSelf-starter able to consistently meet project deadlines, solving client problems, managing multiple\nstakeholders, generate new revenue opportunities, resolving business--critical issues and leading\ncross--functional groups and teams.\n\n\u2022Client relationship management \u2022Strategy execution\n\u2022Full project & client lifecycle management\n\u2022 Executive and stakeholder relationships \u2022 Facilitation & training\n\u2022 Organisational development & change management \u2022 Presentation skills\n\u2022 Enterprise B2B software solutions \u2022 Consulting \u2022 SAAS\n\u2022Marketing technology expertise\n\u2022 Business process improvements \u2022 Service delivery\n\n\nEMPLOYMENT & ACHIEVEMENTS\n\nINTAPP INC. - UK & EMEA \u25cf JANUARY 2020 - PRESENT\nPrincipal Consultant - Helping professional services firms realise the vision for a connected firm.\n\nOne Place for Marketing & BD - including CRM (& Salesforce platform), Enterprise Relationship\nManagement (ERM), and Experience\/Expertise Management capabilities.\n\nPrimarily responsible for the scoping of business requirements and system design to ensure solutions\nare configured to help clients achieve their strategic business and project success objectives as part\nof their implementation. Trusted adviser and business partner to firms in implementing and developing\nbest practices. Supporting account management and sales teams in pre-sales and upsell activities.\n   ~~~~~~~  \n   ~~~~~~~~~~~~  , Hillam, Leeds, UK, LS25 5HZ.    ~~~~~~~~~~~~~~~  \n\u2022    ~~~~~~~~~~~~~~~~~~~~~~   \u2022    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \n\n\nOBJECTIVE MANAGER, UK WIDE \u25cf AUGUST 2014-DEC 2019\nCustomer Success\/Implementation Director (SAAS Business)\n\nSupporting and enabling clients to achieve their strategic objectives and improve business\nperformance. Responsible for providing value across the customer lifecycle to drive software\nadoption, ensure renewals and secure expansion and new revenue opportunities. Successful at\ndeveloping a customer success programme for a small and fast--growing software business, driving\nand developing the team to implement consistent and best practice processes and implementation\nmethodologies. Focus on services, customer support and education. Collaborate closely with internal\nand external stakeholders to deliver cross functional initiatives and solutions.\n\n\nCONSULTANT,    ~~~~~~~   CONSULTING, LEEDS, UK \u25cf MARCH 2012- AUG 2014\nFreelance Learning & Development Solutions Consultant. Supporting and enabling clients\ndevelop innovative and cost-effective blended learning solutions for corporate and education sectors.\n\n\nADDLESHAW GODDARD, LEEDS, UK \u25cf 2006 - MARCH 2012 Leading Top 20 UK law firm.\n\nLearning & Development Manager\n\nProviding strategic leadership and management to a restructured L&D team of four learning\nadvisers\/designers. Supporting a new firm--wide business learning strategy for @1,300 staff,\nmanaging a \u00a3500,000 budget. Scope, design and implement appropriate blended learning solutions,\nto support business priority projects and new business development. Extensive internal consulting\nto transform the L&D team from cost centre to generator of additional revenue streams via e--learning\nprogrammes offered to legal clients.\n\n\nHMV UK LTD., LOCATIONS NATIONWIDE \u25cf 1992 - 2006\n\nThe leading specialist music and entertainment retailer across the UK and Eire. Extensive store retail\nmanagement before moving into a senior Learning & Development\/Training role.\n\n\nPROFESSIONAL TRAINING\nMember of the Chartered Institute of Personnel & Development (CIPD), Certified DISC Behavioural\nAnalyst. Accredited Coach in Hay McBer Inventory Leadership Styles. Certificate in Training Practice,\nChartered Institute of Personnel & Development. Management Diploma, Ashridge Business School.\n\n\nEDUCATION\nBA (Hons) Degree in Economics, University of Leeds, 1989-1992. 3 A Levels and 9 O Levels.",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-GB",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = UK; Culture.DefaultCultureIsUK = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2021-04-20",
+        "SovrenSignature": [
+            "IfEBAAAAAAA="
+        ]
+    }
+}

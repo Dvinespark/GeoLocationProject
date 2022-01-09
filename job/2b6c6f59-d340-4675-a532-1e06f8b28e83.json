@@ -1,0 +1,75 @@
+{
+    "CurrentJobIsManagement": false,
+    "HighestManagementScore": {
+        "Value": 0
+    },
+    "ManagementLevel": "None",
+    "ExecutiveType": "NONE",
+    "JobTitles": {
+        "MainJobTitle": "Sourcer",
+        "JobTitle": [
+            "member of our team, the Sourcer",
+            "member"
+        ]
+    },
+    "EmployerNames": {
+        "MainEmployerName": "Facebook",
+        "EmployerName": []
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "1000",
+                    "Name": "No dominant taxonomy",
+                    "PercentOfOverall": 100,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "1001",
+                            "SubTaxonomyName": "Not enough data",
+                            "PercentOfOverall": 100,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "004805",
+                                    "Name": "Pipeline",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "022652",
+                                    "Name": "Process Improvements",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "024639",
+                                    "Name": "Closer",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "024640",
+                                    "Name": "Closer",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "JobMetadata": {
+        "PlainText": " JobTitle: Sourcer Description:\r\nFacebook is seeking a Sourcer to proactively identify and engage leading talent. As a member of our team, the Sourcer partners with our Recruiters and Hiring Managers to develop creative sourcing strategies to find the best talent globally.\r\n\r\n\r\nSourcers conceive practical and creative ways to identify leading talent and invest in attracting passive candidates through a highly engaged approach. We\u2019re also passionate about delivering an awesome candidate experience which starts from the first interaction someone has with us. To bring the world closer together, diversity is a must-have for Facebook, not an option. We encourage people with different backgrounds and experiences to help us build better products, make better decisions and better serve our clients.\r\n\r\n\r\nRESPONSIBILITIES\r\n\r\n\r\n\u2022 Manage relationships with senior leaders as internal stakeholders and act as point of contact for recruiting in that market\r\n\r\n\u2022 Create strategies and find unique ways to build talent pipelines and execute on tactical research, referral generation, events and sourcing campaigns\r\n\r\n\u2022 Partner with Recruiters and Recruiting Coordinators to manage an effective recruiting process\r\n\r\n\u2022 Work with cross functional recruiting partners to execute on recruitment strategy for the local market\r\n\r\n\u2022 Work closely with Recruiters and Hiring Managers to deeply understand requirements of the role, function and how it fits into the organisation\r\n\r\n\u2022 Find, engage and attract passive candidates through a wide range of search techniques\r\n\r\n\u2022 Track pipeline activity to share insights with internal stakeholders and hiring partners\r\n\r\n\u2022 Recommend and drive process improvements that impact recruiting effectiveness\r\n\r\n\u2022 Embody Facebook\u2019s culture and core values\r\n\r\n\r\nMINIMUM QUALIFICATIONS\r\n\r\n\ufeff\r\n\r\n\u2022 Extensive sourcing experience, ideally within a search firm or in-house recruiting team\r\n\r\n\u2022 Proven ability to engage passive candidates, including senior talent\r\n\r\n\u2022 Interview and assessment skills with ability to screen for both technical and cultural qualities\r\n\r\n\u2022 Excellent interpersonal skills with ability to communicate easily with a diverse range of people and backgrounds\r\n Skills: Recruiting, Sourcer",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = Invariant Language (Invariant Country); Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2021-04-27",
+        "SovrenSignature": [
+            "DbsAAAAAAAA="
+        ]
+    }
+}

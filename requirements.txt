@@ -1,0 +1,3 @@
+certifi==2021.10.8
+geographiclib==1.52
+geopy==2.2.0

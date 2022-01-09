@@ -1,0 +1,1107 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "CountryCode": "IE",
+            "Municipality": "Blackrock",
+            "GeoCoordinates": {
+                "Latitude": 51.50735092163086,
+                "Longitude": -0.1277579963207245
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "Master's Degree in Business Relationship Management",
+                "Normalized": "masters"
+            },
+            "Type": "masters"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "ISC PARIS, Paris, France\t2013\n\u2022  Master's Degree in Business Relationship Management\nCDFA, Cergy-Pontoise, France\t2010\n\u2022   Two year Technical Degree in Sales Management\n\n\nLEISURES & INTEREST\n\u2022   Sports: Basketball, soccer, tennis & handball\n\u2022   Music: Soul, Rhythm & Blues\n\u2022   Reading: Current affairs, autobiographies, novels",
+                "SchoolName": {
+                    "Raw": "ISC",
+                    "Normalized": "ISC"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "Master's Degree in Business Relationship Management",
+                        "Normalized": "masters"
+                    },
+                    "Type": "masters"
+                },
+                "Majors": [
+                    "CDFA, Cergy-Pontoise, France"
+                ],
+                "LastEducationDate": {
+                    "Date": "2013-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~~~~~~~   is experienced in the management of:  Sales (Account Management).    ~~~~~~~~~~~~   has 10 years of work experience, with 5 years of management experience, including a mid-level position.",
+            "MonthsOfWorkExperience": 119,
+            "MonthsOfManagementExperience": 64,
+            "ExecutiveType": "EXECUTIVE",
+            "AverageMonthsPerEmployer": 14,
+            "FulltimeDirectHirePredictiveIndex": 37,
+            "ManagementStory": "Current position is a mid-level management role: Partner Manager\nStarting on 8\/1\/2020, the candidate held the following mid-level management position for 6 months:\n\tTitle: Partner Manager for Stars\nStarting on 10\/1\/2017, the candidate held the following low-level management position for 2 years and 10 months:\n\tTitle: Account Manager\nStarting on 1\/1\/2015, the candidate held the following low-level management position for 2 years:\n\tTitle: Account Executive",
+            "CurrentManagementLevel": "mid-level",
+            "ManagementScore": 55
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Stars",
+                        "Normalized": "Stars"
+                    },
+                    "Location": {
+                        "CountryCode": "IE",
+                        "Municipality": "Dublin"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Partner Manager",
+                    "Normalized": "Partner Manager",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2020-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2021-02-10",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Ireland\n\n\u2022\tIdentifies\/evaluates brands, companies and sponsors for future partnership and make recommendations.\n\u2022\tBuilds and maintains positive relationships with \"Stars\" and Partners.\n\u2022\tKeep and maintain information and knowledge on the Partners.\n\u2022\tHelp the app to become the ultimate platform for Stars to find trust, quality products and services."
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Location": {
+                        "CountryCode": "IE",
+                        "Municipality": "Dundalk"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Account Manager",
+                    "Normalized": "Account Manager",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2017-10-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Sales",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Ireland\n\n\u2022\tIdentifying customer needs and offering the appropriate products and services.\n\u2022\tSelling the whole range of National Pen Promotional products.\n\u2022\tMeeting and exceeding weekly sales targets.\n\nPERFORMANCE:\n\u2022  Weekly sales target exceeded - Average of 4.600,00\u20ac revenue on a weekly basis.\n\u2022  18.740,00\u20ac revenue generated in one week\n\u2022  262.000\u20ac revenue created in one year"
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Location": {
+                        "CountryCode": "IE",
+                        "Municipality": "Dublin"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Sales Development Specialist",
+                    "Normalized": "Sales Development Specialist",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2017-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2017-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Big Data",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Ireland\n\n\u2022\tAct as an influencer and trusted advisor to help people become knowledgeable with the Cloud.\n\u2022\tBe the first contact point of many customers, deliver a strong first impression and set foundation for long term customer\nrelationship.\n\u2022\tMeet and exceed daily, weekly, monthly and quarterly targets, including pipeline generation and activity based target,\naccurately forecast pipeline generation.\n\u2022\tWork in a fast-paced, collaborative and dynamic teaming environment with Inside Opportunity Executives, Technical\nsolution Professionals and Consumption Analysts to effectively manage opportunities and pipeline through the sales cycle.\n\nPERFORMANCE:\n\u2022  Generating pipeline: 645K\u20ac created and 120k \u20ac closed\n\u2022  Weekly metrics reached\n\u2022  Driving Cloud consumption\/adoption with cross-products (Office 365, Dynamics, Power BI)"
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Location": {
+                        "CountryCode": "IE",
+                        "Municipality": "Dublin"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Account Executive",
+                    "Normalized": "Account Executive",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2015-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2016-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Marketing Communications",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Ireland\n\n\u2022\tDriving the full sales cycle to attain new business: make introductory calls, assess business goals through qualifying, work\nwith business owners in Yelp's platform and advertising packages and close the deals.\n\u2022\tAnalyse the business needs.\n\u2022\tCalculating the best package to sell for best ROI and retention.\n\u2022\tAchieving and exceeding monthly sales target.\n\nPERFORMANCE:\n\u2022  Monthly sales target exceeded - Average of 7.500,00\u20ac revenue out of 5.000,00\u20ac target expectation\n\u2022  15.250,00\u20ac revenue generated in one month\n\u2022  Sales pitches exceeded - Over 20 sales pitches each month out of 20 sales pitches expectation"
+            },
+            {
+                "Id": "POS-5",
+                "Employer": {
+                    "Location": {
+                        "CountryCode": "FR",
+                        "Municipality": "Paris"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Direct Billing Agent",
+                    "Normalized": "Direct Billing Agent",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2013-10-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2015-04-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Business Operations and General Business",
+                "SubTaxonomyName": "General Skills and Activities",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2022   Handling pre-certification requests of health care providers in France and other European countries.\n\u2022   Explaining the terms of the contracts to the providers and the insured.\n\u2022   Insuring the cooperation of different parties involved: the insured, assistant companies, commercial team, medical advisors."
+            },
+            {
+                "Id": "POS-6",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Old El Paso & Green Giant",
+                        "Normalized": "Old El Paso AND Green Giant"
+                    },
+                    "Location": {
+                        "CountryCode": "FR",
+                        "Municipality": "Paris"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Sales Representative",
+                    "Normalized": "Sales Representative",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2013-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2013-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "internship",
+                "TaxonomyName": "Sales",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "France\n\n\u2022   Negotiation and implementation of the promotional activities for H\u00e4agen-Dazs, Old El Paso & Green Giant.\n\u2022   Competitive intelligence \/ benchmarking (new products, promotions).\n\u2022   General Market research on: Competitors, Brands and Events.\n\nPERFORMANCE:\n\u2022  Increased sales 56% from 400.000\u20ac to 625.000\u20ac\n\u2022  Implementation of 100% H\u00e4agen-Dazs and Old El Paso new product in 87% of my customer portfolio\n\u2022  Retention of 100% of H\u00e4agen-Dazs, Old El Paso and Green Giant best product in 93% of my customer portfolio"
+            },
+            {
+                "Id": "POS-7",
+                "Employer": {
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "CA"
+                        ],
+                        "Municipality": "San Francisco"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Sales Assistant",
+                    "Normalized": "Sales Assistant",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2012-05-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2012-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "internship",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Market Research",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "United States\n\u2022   Advised customers on Fashion Goyard's products.\n\u2022   Assisted the Store Manager with daily and weekly sales reports.\n\u2022   General Market research as required on Competitors (Prices, Merchandising   )"
+            },
+            {
+                "Id": "POS-8",
+                "Employer": {
+                    "Location": {
+                        "CountryCode": "FR",
+                        "Municipality": "Paris"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Sales Representative",
+                    "Normalized": "Sales Representative",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2008-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2010-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Sales",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2022   Averaged 47 prospects per month and converted on average 38 prospects to customers.\n\u2022   Followed up with clients on outstanding invoices.\n\u2022   Managed a trainee and provided training and guidance as necessary.\n\nPERFORMANCE:\n\u2022  Increased sales 85% from 621,822\u20ac to 1.2 million \u20ac\n\u2022  Best agency in France out of 32 in sales transaction\n\u2022  Best agency in France out of 32 with the best financial balance"
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 75,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 58,
+                            "PercentOfParent": 78,
+                            "Skills": [
+                                {
+                                    "Id": "007367",
+                                    "Name": "Sales Assistant",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-09-01"
+                                    }
+                                },
+                                {
+                                    "Id": "030715",
+                                    "Name": "Sales Cycle",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 30
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                },
+                                {
+                                    "Id": "030759",
+                                    "Name": "Sales Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "030812",
+                                    "Name": "Sales Reports",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-09-01"
+                                    }
+                                },
+                                {
+                                    "Id": "030813",
+                                    "Name": "Sales Representative",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-8"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 30
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2013-09-30"
+                                    }
+                                },
+                                {
+                                    "Id": "030829",
+                                    "Name": "Sales Targets",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 34
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-07-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "104",
+                            "SubTaxonomyName": "Account Management",
+                            "PercentOfOverall": 17,
+                            "PercentOfParent": 22,
+                            "Skills": [
+                                {
+                                    "Id": "030175",
+                                    "Name": "Account Executive",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 24
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "030183",
+                                    "Name": "Account Manager",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 34
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-07-31"
+                                    }
+                                },
+                                {
+                                    "Id": "006721",
+                                    "Name": "Relationship Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 12,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 36,
+                            "Skills": [
+                                {
+                                    "Id": "007212",
+                                    "Name": "ROI",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 24
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "007378",
+                                    "Name": "Sales Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "592",
+                            "SubTaxonomyName": "Marketing Communications",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 35,
+                            "Skills": [
+                                {
+                                    "Id": "1400153",
+                                    "Name": "Advertising",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 24
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "588",
+                            "SubTaxonomyName": "Data & Analytics",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 18,
+                            "Skills": [
+                                {
+                                    "Id": "1400080",
+                                    "Name": "Business Intelligence",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400081",
+                                            "Name": "BI",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 6
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2017-07-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 6
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "223",
+                            "SubTaxonomyName": "Market Research",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "1400326",
+                                    "Name": "Market Research",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2013-09-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "589",
+                            "SubTaxonomyName": "Business Planning",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "1400098",
+                                    "Name": "Merchandising",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-09-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "553",
+                            "SubTaxonomyName": "Big Data",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 40,
+                            "Skills": [
+                                {
+                                    "Id": "5531045",
+                                    "Name": "Power Bi",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 6
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "550",
+                            "SubTaxonomyName": "Cloud Computing",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 40,
+                            "Skills": [
+                                {
+                                    "Id": "5500351",
+                                    "Name": "Microsoft Dynamics",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "550035102",
+                                            "Name": "Dynamics",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 6
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2017-07-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 6
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "252",
+                            "SubTaxonomyName": "Prebuilt Software",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 20,
+                            "Skills": [
+                                {
+                                    "Id": "022475",
+                                    "Name": "Billing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 18
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-04-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022274",
+                                    "Name": "Contracts",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 18
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-04-01"
+                                    }
+                                },
+                                {
+                                    "Id": "021737",
+                                    "Name": "Metrics",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 6
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "45",
+                    "Name": "Transmission & Distribution",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "326",
+                            "SubTaxonomyName": "Transmission",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "004805",
+                                    "Name": "Pipeline",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 6
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "9",
+                    "Name": "Human Resources",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "583",
+                            "SubTaxonomyName": "Talent Sourcing",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "9000260",
+                                    "Name": "Competitive Intelligence",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 7
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2013-09-30"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "1",
+                    "Name": "Administrative or Clerical",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "110",
+                            "SubTaxonomyName": "Billing and Collections",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022474",
+                                    "Name": "Billing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 18
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-04-01"
+                                    }
+                                },
+                                {
+                                    "Id": "020124",
+                                    "Name": "Invoices",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-8"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 23
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2010-08-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "89",
+                    "Name": "Bookkeeping, Office Management",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "533",
+                            "SubTaxonomyName": "Bookeeping Tasks",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "011553",
+                                    "Name": "Billing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 18
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-04-01"
+                                    }
+                                },
+                                {
+                                    "Id": "020123",
+                                    "Name": "Invoices",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-8"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 23
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2010-08-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Certifications": [
+        {
+            "Name": "CDFA",
+            "MatchedFromList": true,
+            "IsVariation": false
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "Achievements": [
+        "Followed up with clients on outstanding invoices"
+    ],
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 5,
+                "LastLineNumber": 102,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "PROFESSIONAL EXPERIENCE"
+            },
+            {
+                "FirstLineNumber": 103,
+                "LastLineNumber": 113,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "EDUCATION"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "222",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-2"
+                            },
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-3"
+                            },
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-4"
+                            },
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-5"
+                            },
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-7"
+                            },
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-8"
+                            }
+                        ],
+                        "Message": "Every position in a resume should have an employer name."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "133",
+                        "Message": "Multiple phone numbers were found in the contact information. Only one phone number ( a mobile number) should be included in a resume."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~~~~~~  \n   ~~~~~~~~~~~~~~  , Blackrock, Ireland\n   ~~~~~~~~~~~~~~~~~~~~   -    ~~~~~~~~~~~~~  \n   ~~~~~~~~~~~~~~~~~~~~~  \n\nPROFESSIONAL EXPERIENCE\n\n\nSince August 2020\nPartner Manager - Dublin, Ireland\n\n\u2022\tIdentifies\/evaluates brands, companies and sponsors for future partnership and make recommendations.\n\u2022\tBuilds and maintains positive relationships with \"Stars\" and Partners.\n\u2022\tKeep and maintain information and knowledge on the Partners.\n\u2022\tHelp the app to become the ultimate platform for Stars to find trust, quality products and services.\n\n\nOctober 2017 - July 2020\nAccount Manager - Dundalk, Ireland\n\n\u2022\tIdentifying customer needs and offering the appropriate products and services.\n\u2022\tSelling the whole range of National Pen Promotional products.\n\u2022\tMeeting and exceeding weekly sales targets.\n\nPERFORMANCE:\n\u2022  Weekly sales target exceeded - Average of 4.600,00\u20ac revenue on a weekly basis.\n\u2022  18.740,00\u20ac revenue generated in one week\n\u2022  262.000\u20ac revenue created in one year\n\n\nJanuary 2017 - July 2017\nSales Development Specialist - Dublin, Ireland\n\n\u2022\tAct as an influencer and trusted advisor to help people become knowledgeable with the Cloud.\n\u2022\tBe the first contact point of many customers, deliver a strong first impression and set foundation for long term customer\nrelationship.\n\u2022\tMeet and exceed daily, weekly, monthly and quarterly targets, including pipeline generation and activity based target,\naccurately forecast pipeline generation.\n\u2022\tWork in a fast-paced, collaborative and dynamic teaming environment with Inside Opportunity Executives, Technical\nsolution Professionals and Consumption Analysts to effectively manage opportunities and pipeline through the sales cycle.\n\nPERFORMANCE:\n\u2022  Generating pipeline: 645K\u20ac created and 120k \u20ac closed\n\u2022  Weekly metrics reached\n\u2022  Driving Cloud consumption\/adoption with cross-products (Office 365, Dynamics, Power BI)\n\n\nJanuary 2015 - December 2016 (Redundancy)\nAccount Executive - Dublin, Ireland\n\n\u2022\tDriving the full sales cycle to attain new business: make introductory calls, assess business goals through qualifying, work\nwith business owners in Yelp's platform and advertising packages and close the deals.\n\u2022\tAnalyse the business needs.\n\u2022\tCalculating the best package to sell for best ROI and retention.\n\u2022\tAchieving and exceeding monthly sales target.\n\nPERFORMANCE:\n\u2022  Monthly sales target exceeded - Average of 7.500,00\u20ac revenue out of 5.000,00\u20ac target expectation\n\u2022  15.250,00\u20ac revenue generated in one month\n\u2022  Sales pitches exceeded - Over 20 sales pitches each month out of 20 sales pitches expectation\nOctober 2013 - April 2015\nDirect Billing Agent - Paris, France\n\n\u2022   Handling pre-certification requests of health care providers in France and other European countries.\n\u2022   Explaining the terms of the contracts to the providers and the insured.\n\u2022   Insuring the cooperation of different parties involved: the insured, assistant companies, commercial team, medical advisors.\n\n\nMarch 2013 - September 2013 (Internship)\nSales Representative - Paris, France\n\n\u2022   Negotiation and implementation of the promotional activities for H\u00e4agen-Dazs, Old El Paso & Green Giant.\n\u2022   Competitive intelligence \/ benchmarking (new products, promotions).\n\u2022   General Market research on: Competitors, Brands and Events.\n\nPERFORMANCE:\n\u2022  Increased sales 56% from 400.000\u20ac to 625.000\u20ac\n\u2022  Implementation of 100% H\u00e4agen-Dazs and Old El Paso new product in 87% of my customer portfolio\n\u2022  Retention of 100% of H\u00e4agen-Dazs, Old El Paso and Green Giant best product in 93% of my customer portfolio\n\n\nMay 2012 - September 2012 (Internship)\n\nSales Assistant, San Francisco, United States\n\n\u2022   Advised customers on Fashion Goyard's products.\n\u2022   Assisted the Store Manager with daily and weekly sales reports.\n\u2022   General Market research as required on Competitors (Prices, Merchandising   )\n\n\nSeptember 2008 - August 2010\nSales Representative - Paris, France\n\n\u2022   Averaged 47 prospects per month and converted on average 38 prospects to customers.\n\u2022   Followed up with clients on outstanding invoices.\n\u2022   Managed a trainee and provided training and guidance as necessary.\n\nPERFORMANCE:\n\u2022  Increased sales 85% from 621,822\u20ac to 1.2 million \u20ac\n\u2022  Best agency in France out of 32 in sales transaction\n\u2022  Best agency in France out of 32 with the best financial balance\n\n\nEDUCATION\nISC PARIS, Paris, France\t2013\n\u2022  Master's Degree in Business Relationship Management\nCDFA, Cergy-Pontoise, France\t2010\n\u2022   Two year Technical Degree in Sales Management\n\n\nLEISURES & INTEREST\n\u2022   Sports: Basketball, soccer, tennis & handball\n\u2022   Music: Soul, Rhythm & Blues\n\u2022   Reading: Current affairs, autobiographies, novels",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-IE",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IE; Culture.DefaultCultureIsFrance = True; Culture.DefaultCultureIsIreland = True; Culture.DefaultCultureIsUK = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2021-02-10",
+        "SovrenSignature": [
+            "s6MAAAAAAAA="
+        ]
+    }
+}

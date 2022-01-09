@@ -1,0 +1,589 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "GeoCoordinates": {
+                "Latitude": 51.50735092163086,
+                "Longitude": -0.1277579963207245
+            }
+        }
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~~~   is experienced in the management of:  Sales (Account Management).    ~~~~~~~~   has 15 years of work experience, with 15 years of management experience, including a high-level position.",
+            "MonthsOfWorkExperience": 174,
+            "MonthsOfManagementExperience": 174,
+            "ExecutiveType": "EXECUTIVE",
+            "AverageMonthsPerEmployer": 34,
+            "FulltimeDirectHirePredictiveIndex": 85,
+            "ManagementStory": "Current position is a mid-level management role: Managing Partner\nStarting on 3\/1\/2018, the candidate held the following mid-level management position for 3 years and 4 months:\n\tTitle: Managing Partner for OGILVY UK\nStarting on 6\/1\/2015, the candidate held the following mid-level management position for 2 years and 9 months:\n\tTitle: Partner for Amazon\nStarting on 1\/1\/2014, the candidate held the following low-level management position for 17 months:\n\tTitle: Business Lead for DARE\nStarting on 1\/1\/2010, the candidate held the following low-level management position for 4 years:\n\tTitle: Senior Account Manager for RKCR-Y&R (VMLY&R), VMLY&R\nStarting on 1\/1\/2007, the candidate held the following executive-level management position for 3 years:\n\tTitle: Executive for TBWA",
+            "CurrentManagementLevel": "mid-level",
+            "ManagementScore": 100
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "OGILVY UK",
+                        "Normalized": "OGILVY UK"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Managing Partner",
+                    "Normalized": "Managing Partner",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2018-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2021-06-18",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Sales",
+                "SubTaxonomyName": "Account Management",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "British Airways\nI've helped reignite the nation's love for British Airways despite pilot strikes, data breaches\nEXPERIENCE   and a pandemic that grounded their fleet. In my role as Creative Lead on WPP Team\nHorizon, I'm responsible for developing conceptual and innovative thinking into award-\nwinning output. I lead, coach and inspire a large team of talented individuals to drive client\ngrowth and I work hard to cultivate a client relationship based on trust and a shared\nambition. I work with creative, strategy, media and commercial partners, bringing together the precise mix of expertise from wherever that may be within WPP to arrive at the right\nsolution to each brief. I am accountable for the commercial health of the business, the\nprogression of all Ogilvy members of Team Horizon and global crisis protocol for British\nAirways."
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Amazon",
+                        "Normalized": "Amazon"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Partner",
+                    "Normalized": "Partner",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2015-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2018-02-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Executive Producer\tAmazon\nI joined Joint as Executive Producer at the start of their Amazon relationship. I was\nresponsible for growing the business from a project-based \u00a3250K p\/a relationship to a\n\u00a34m global retained piece of business, developing global launch strategies for Amazon\nFresh, Music and Fashion alongside brand strategy and creative campaigns for Amazon\nPrime, Fashion and Music. We were the first brand in history to bring together a priest and an imam in an ad campaign and achieved mainstream press coverage in five countries."
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "DARE",
+                        "Normalized": "DARE"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Business Lead",
+                    "Normalized": "Business Lead",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2014-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2015-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Graphic Design",
+                "SubTaxonomyName": "Software",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Ryanair, Premier League, Nike\nI successfully pitched for Nike Football, 3D printed a Christmas tree, grew the Barclays\nPremier League social communities from 25K to 2.9 million in one season, and proved,\nirrefutably, that fans' hearts beat as one wherever in the world they're watching with the\n#YouAreFootball experiment."
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "VMLY&R",
+                        "Normalized": "VMLY&R"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Senior Account Manager",
+                    "Normalized": "Senior Account Manager",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Account Manager"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2010-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2014-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Graphic Design",
+                "SubTaxonomyName": "Software",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Account Director\tBBC, Warburtons, M&S\nBoard Account Director\tDanone, Premier Inn\nI helped to launch iPlayer by making the unmissable unmissable, replaced M&S 'food\nporn' before swiftly bringing it back, dusted off my glitter balls four years running to\npromote Strictly Come Dancing, and won multiple awards for burning loaves of bread and for telling people about our 'Wonderful World' with Sir David Attenborough."
+            },
+            {
+                "Id": "POS-5",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "TBWA",
+                        "Normalized": "TBWA"
+                    },
+                    "Location": {
+                        "CountryCode": "UK",
+                        "Municipality": "LONDON"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Executive",
+                    "Normalized": "Executive",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2007-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2010-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Gaming",
+                "JobLevel": "Senior Executive (President, C-level)",
+                "TaxonomyPercentage": 0,
+                "Description": "Manager\tPlayStation, Absolute, Muller\nI played my part in the global launch of the PlayStation 3 and its sponsorship of the UEFA\nChampions League."
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 75,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "104",
+                            "SubTaxonomyName": "Account Management",
+                            "PercentOfOverall": 75,
+                            "PercentOfParent": 99,
+                            "Skills": [
+                                {
+                                    "Id": "030183",
+                                    "Name": "Account Manager",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 48
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "030018",
+                                    "Name": "Retail",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "33",
+                    "Name": "Graphic Design",
+                    "PercentOfOverall": 14,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "432",
+                            "SubTaxonomyName": "Software",
+                            "PercentOfOverall": 14,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "013452",
+                                    "Name": "Adobe Premiere",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555154601",
+                                            "Name": "Premier",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 65
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2015-06-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 65
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-06-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "590",
+                            "SubTaxonomyName": "Channel, Partner & Ecosystem Marketing",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 71,
+                            "Skills": [
+                                {
+                                    "Id": "1400108",
+                                    "Name": "Customer Engagement",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "226",
+                            "SubTaxonomyName": "Channel Management",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 29,
+                            "Skills": [
+                                {
+                                    "Id": "1400215",
+                                    "Name": "Retail Marketing",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400216",
+                                            "Name": "Retail",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "551",
+                            "SubTaxonomyName": "Gaming",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 38,
+                            "Skills": [
+                                {
+                                    "Id": "5510138",
+                                    "Name": "Sony Playstation",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "551013801",
+                                            "Name": "Playstation",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-5"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 36
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2010-01-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2010-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "555",
+                            "SubTaxonomyName": "Enterprise Storage",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 31,
+                            "Skills": [
+                                {
+                                    "Id": "5551150",
+                                    "Name": "HP-UX",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555115001",
+                                            "Name": "UX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "203",
+                            "SubTaxonomyName": "UNIX and LINUX",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 31,
+                            "Skills": [
+                                {
+                                    "Id": "01026309",
+                                    "Name": "UNIX",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "010377",
+                                            "Name": "UX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "528",
+                            "SubTaxonomyName": "Attitude",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "026353",
+                                    "Name": "Self-Starter",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "311",
+                            "SubTaxonomyName": "Air and Aerospace",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022398",
+                                    "Name": "Aviation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "Achievements": [
+        "Horizon, I'm responsible for developing conceptual and innovative thinking into award",
+        "promote Strictly Come Dancing, and won multiple awards for burning loaves of bread and"
+    ],
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 1,
+                "LastLineNumber": 66,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "EXPERIENCE"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Fatal Problems Found",
+                "Findings": [
+                    {
+                        "QualityCode": "414",
+                        "Message": "We found no EDUCATION HISTORY for the candidate. A resume should always include an education history section."
+                    }
+                ]
+            },
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "151",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "0"
+                            }
+                        ],
+                        "Message": "Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "AGENCY    ~~~~~~~~  \nEXPERIENCE\t   ~~~~~~~~  \t   ~~~~~~~~~~~~~~~~~~~~  \n\nI'm a creatively driven communications leader with fifteen years' experience. I\nbelieve the best creative work comes from a true partnership between happy,\nmotivated client and agency teams. I'm fortunate to have worked with some\nexceptional clients at some of the best agencies in London. I've led large, integrated\nteams, delivering brand strategy, insight and analytics, audience and comms\nplanning, TTL production, design, customer engagement and loyalty, community\nmanagement, UX (site and app), new product and service development, and\npartnerships.\n\nI'm a self-starter with experience across FMCG, retail, e-commerce, broadcast,\nsport, gaming, hospitality, aviation and technology. I've helped BA take to the skies\nagain (and again), supported Amazon in launching Prime, Fashion, Fresh and Music\nacross ten markets, and I've had the pleasure of spending the day with Sir David\nAttenborough talking about our 'Wonderful World' with the BBC.\n\nI met my wife when we were grads together at TBWA, and we're currently trying to\nfind our feet as new parents to Vinnie who was born in lockdown.\n\n\nBRAND\tOGILVY UK\nManaging Partner\nMar 2018 - Present\nBritish Airways\nI've helped reignite the nation's love for British Airways despite pilot strikes, data breaches\nEXPERIENCE   and a pandemic that grounded their fleet. In my role as Creative Lead on WPP Team\nHorizon, I'm responsible for developing conceptual and innovative thinking into award-\nwinning output. I lead, coach and inspire a large team of talented individuals to drive client\ngrowth and I work hard to cultivate a client relationship based on trust and a shared\nambition. I work with creative, strategy, media and commercial partners, bringing together\nthe precise mix of expertise from wherever that may be within WPP to arrive at the right\nsolution to each brief. I am accountable for the commercial health of the business, the\nprogression of all Ogilvy members of Team Horizon and global crisis protocol for British\nAirways.\n\nJOINT\tJun 2015 - Feb 2018\nPartner   Executive Producer\tAmazon\nI joined Joint as Executive Producer at the start of their Amazon relationship. I was\nresponsible for growing the business from a project-based \u00a3250K p\/a relationship to a\n\u00a34m global retained piece of business, developing global launch strategies for Amazon\nFresh, Music and Fashion alongside brand strategy and creative campaigns for Amazon\nPrime, Fashion and Music. We were the first brand in history to bring together a priest and\nan imam in an ad campaign and achieved mainstream press coverage in five countries.\n\n\nDARE\tJan 2014 - Jun 2015\nBusiness Lead\tRyanair, Premier League, Nike\nI successfully pitched for Nike Football, 3D printed a Christmas tree, grew the Barclays\nPremier League social communities from 25K to 2.9 million in one season, and proved,\nirrefutably, that fans' hearts beat as one wherever in the world they're watching with the\n#YouAreFootball experiment.\n\n\nRKCR-Y&R (VMLY&R)\tJan 2010 - Jan 2014\nSenior Account Manager   Account Director\tBBC, Warburtons, M&S\nBoard Account Director\tDanone, Premier Inn\nI helped to launch iPlayer by making the unmissable unmissable, replaced M&S 'food\nporn' before swiftly bringing it back, dusted off my glitter balls four years running to\npromote Strictly Come Dancing, and won multiple awards for burning loaves of bread and\nfor telling people about our 'Wonderful World' with Sir David Attenborough.\n\nTBWA\\ LONDON\tJan 2007 - Jan 2010\nGraduate   Executive   Manager\tPlayStation, Absolute, Muller\nI played my part in the global launch of the PlayStation 3 and its sponsorship of the UEFA\nChampions League.",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-GB",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = UK; Culture.DefaultCultureIsUK = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2021-06-18",
+        "SovrenSignature": [
+            "fZIBAAAAAAA="
+        ]
+    }
+}

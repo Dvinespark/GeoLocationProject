@@ -1,0 +1,1108 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "GeoCoordinates": {
+                "Latitude": 51.4422607421875,
+                "Longitude": -0.022413000464439392
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "P.D.M",
+                "Normalized": "doctorate"
+            },
+            "Type": "doctorate"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-3",
+                "Text": "Amity University   MBA(HR)\t6.6\tAmity 2014-2016, Noida",
+                "SchoolName": {
+                    "Raw": "Amity University",
+                    "Normalized": "Amity University"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "MBA",
+                        "Normalized": "MBA"
+                    },
+                    "Type": "masters"
+                },
+                "LastEducationDate": {
+                    "Date": "2016-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Id": "DEG-2",
+                "Text": "P.D.M College Of Engg. B.Tech (CSE)   65.4%   MDU 2010-2014, Bahadurgarh",
+                "SchoolName": {
+                    "Raw": "College Of Engg",
+                    "Normalized": "College Of Engg"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "P.D.M",
+                        "Normalized": "doctorate"
+                    },
+                    "Type": "doctorate"
+                },
+                "GPA": {
+                    "Score": "65.4",
+                    "ScoringSystem": "GPA",
+                    "MaxScore": "100",
+                    "MinimumScore": "0",
+                    "NormalizedScore": 0.654
+                },
+                "LastEducationDate": {
+                    "Date": "2014-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Id": "DEG-1",
+                "Text": "University Campus School   10+2\t73%\tCBSE 2009-2010, Rohtak",
+                "SchoolName": {
+                    "Raw": "University Campus School",
+                    "Normalized": "University Campus School"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "CBSE",
+                        "Normalized": "secondary"
+                    },
+                    "Type": "secondary"
+                },
+                "GPA": {
+                    "Score": "73",
+                    "ScoringSystem": "GPA",
+                    "MaxScore": "100",
+                    "MinimumScore": "0",
+                    "NormalizedScore": 0.73
+                },
+                "LastEducationDate": {
+                    "Date": "2010-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~~   is experienced in the management of:  Human Resources; and Recruiting (Recruiting Tasks and Activities).    ~~~~~~~   appears to be a low-to-mid level candidate, with 3 years of experience, with 3 years of management experience, including a high-level position.",
+            "MonthsOfWorkExperience": 36,
+            "MonthsOfManagementExperience": 36,
+            "ExecutiveType": "EXECUTIVE",
+            "AverageMonthsPerEmployer": 36,
+            "FulltimeDirectHirePredictiveIndex": 85,
+            "ManagementStory": "The following management-related items were found:\n\u2022 Recruited Students from Campus Drives.\n\nStarting on 7\/1\/2014, the candidate held the following executive-level management position for 3 years:\n\tTitle:    ~~~~~~~~~~~   for PCL Technology",
+            "CurrentManagementLevel": "executive-level",
+            "ManagementScore": 100
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "PCL Technology",
+                        "Normalized": "PCL Technology"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "   ~~~~~~~~~~~  ",
+                    "Normalized": "Senior HR Executive",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "HR Executive"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2014-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2017-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Human Resources",
+                "SubTaxonomyName": "Other",
+                "JobLevel": "Senior Executive (President, C-level)",
+                "TaxonomyPercentage": 0,
+                "Description": "Responsibilities  as     ~~~~~~~~~~~  \nTalent Acquisition:\n\u2022 Talent Acquisition, Selection and Induction\n\u2022  Coordination with different departments and understanding their requirements, defining job\npositions.\n\u2022 Resourcing, screening and short listing resumes through various job portals, internal reference\nand head hunting then conducting their personal interviews in coordination with department heads.\n\u2022 Have handled vendor management.\n\u2022 Preparing offer letter and following up till the candidate joins the organization.\n\u2022 Completing the joining formalities and organizing Induction Programme for new joinees.\n\nCampus Drive:\n\u2022 Recruited Students from Campus Drives.\n\u2022 Managing and Co-ordination with colleges.\n\nTeam Management:\n\u2022 Defining the hiring targets for the team members.\n\u2022 Guiding on latest sourcing techniques and ways to attract talent.\n\u2022 Responsible for keeping team members motivated and ensuring they meet the recruitment target.\n\u2022 Preparing Annual & Monthly Recruitment sheet.\n\u2022 Designing & delivery of various employee referrals policy in order to close the bilk positions.\n\nEmployee Engagement:\n\u2022 Organize Fun @ work place activities (SINGING IDOL, NACH BALIYE, Compliment day, Thanksgiving Day, Quizzes, Games, Sports-events, Family Fun day, and Painting Contests etc.)\n\u2022 Organizing the engagement initiatives like Birthday, Holi, Diwali, Christmas Celebrations and Cricket Matches etc."
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "9",
+                    "Name": "Human Resources",
+                    "PercentOfOverall": 29,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "262",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 16,
+                            "PercentOfParent": 55,
+                            "Skills": [
+                                {
+                                    "Id": "019094",
+                                    "Name": "HR",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "584",
+                            "SubTaxonomyName": "Talent Management",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 20,
+                            "Skills": [
+                                {
+                                    "Id": "9000271",
+                                    "Name": "Employee Engagement",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                },
+                                {
+                                    "Id": "9000269",
+                                    "Name": "Performance Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "579",
+                            "SubTaxonomyName": "HR Management",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 20,
+                            "Skills": [
+                                {
+                                    "Id": "9000159",
+                                    "Name": "Employee Engagement",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                },
+                                {
+                                    "Id": "9000152",
+                                    "Name": "Performance Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "578",
+                            "SubTaxonomyName": "HR Operations",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "9000121",
+                                    "Name": "HR Operations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "183",
+                            "SubTaxonomyName": "Benefits",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "025447",
+                                    "Name": "Employee Benefits",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "37",
+                    "Name": "Recruiting",
+                    "PercentOfOverall": 24,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "492",
+                            "SubTaxonomyName": "Recruiting Tasks and Activities",
+                            "PercentOfOverall": 24,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "006646",
+                                    "Name": "Recruitment",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                },
+                                {
+                                    "Id": "9000229",
+                                    "Name": "Talent Acquisition",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 12,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "307",
+                            "SubTaxonomyName": "General Engineering",
+                            "PercentOfOverall": 11,
+                            "PercentOfParent": 98,
+                            "Skills": [
+                                {
+                                    "Id": "026224",
+                                    "Name": "Induction",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                },
+                                {
+                                    "Id": "004473",
+                                    "Name": "PCL",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "735",
+                            "SubTaxonomyName": "Robotics and Automation",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "014117",
+                                    "Name": "Computer Vision",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555121678",
+                                            "Name": "PCL",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "27",
+                    "Name": "Light Technical\/Trades\/Skilled Labor",
+                    "PercentOfOverall": 11,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "286",
+                            "SubTaxonomyName": "Carpentry and Painting",
+                            "PercentOfOverall": 11,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "004273",
+                                    "Name": "Painting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "7",
+                    "Name": "Finance",
+                    "PercentOfOverall": 9,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "709",
+                            "SubTaxonomyName": "Global Security",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 40,
+                            "Skills": [
+                                {
+                                    "Id": "7000101",
+                                    "Name": "Vendor Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "708",
+                            "SubTaxonomyName": "Procurement",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 40,
+                            "Skills": [
+                                {
+                                    "Id": "7000088",
+                                    "Name": "Vendor Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "241",
+                            "SubTaxonomyName": "Management",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 8,
+                            "Skills": [
+                                {
+                                    "Id": "025509",
+                                    "Name": "Settlements",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "243",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 8,
+                            "Skills": [
+                                {
+                                    "Id": "023147",
+                                    "Name": "Finance",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "705",
+                            "SubTaxonomyName": "Accounting",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "7000315",
+                                    "Name": "Budgeting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "233",
+                            "SubTaxonomyName": "Mortgage",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "025446",
+                                    "Name": "Employee Benefits",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "80",
+                    "Name": "General Management",
+                    "PercentOfOverall": 6,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "517",
+                            "SubTaxonomyName": "People Oriented",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 87,
+                            "Skills": [
+                                {
+                                    "Id": "025955",
+                                    "Name": "Team Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "516",
+                            "SubTaxonomyName": "Budget Related",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 13,
+                            "Skills": [
+                                {
+                                    "Id": "012134",
+                                    "Name": "Budgeting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "014003",
+                                    "Name": "Compensation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "199",
+                            "SubTaxonomyName": "Project Management",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 94,
+                            "Skills": [
+                                {
+                                    "Id": "025953",
+                                    "Name": "Team Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "349",
+                            "SubTaxonomyName": "Operations, Monitoring and Software Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "008385",
+                                    "Name": "SOPS",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "253",
+                            "SubTaxonomyName": "Protocols and Standards",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "004472",
+                                    "Name": "PCL",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "97",
+                    "Name": "Supply Chain and Logistics",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "458",
+                            "SubTaxonomyName": "Purchasing",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 63,
+                            "Skills": [
+                                {
+                                    "Id": "010474",
+                                    "Name": "Vendor Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "460",
+                            "SubTaxonomyName": "Logistics",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 38,
+                            "Skills": [
+                                {
+                                    "Id": "022740",
+                                    "Name": "Scheduling",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "030830",
+                                    "Name": "Sales Team",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "31",
+                    "Name": "Written Communications",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "429",
+                            "SubTaxonomyName": "Specs and Documentation",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 75,
+                            "Skills": [
+                                {
+                                    "Id": "022620",
+                                    "Name": "Documentation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "430",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "026388",
+                                    "Name": "SOPS",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "436",
+                            "SubTaxonomyName": "Management Activities or Functions",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "024511",
+                                    "Name": "Budgeting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "003875",
+                                    "Name": "Operations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "008386",
+                                    "Name": "SOPS",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "12",
+                    "Name": "Legal",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "397",
+                            "SubTaxonomyName": "Clerical & Paralegal",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "3970006",
+                                    "Name": "Drafting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "TRAINING"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "232",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "025832",
+                                    "Name": "Games",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "Achievements": [
+        "Completed Recruitment drive in a single day",
+        "Won Singing Competition at State Level"
+    ],
+    "Training": {
+        "Text": "",
+        "Trainings": [
+            {
+                "Text": "Identification of training needs and nominating candidates for training"
+            },
+            {
+                "Text": "Scheduling and arranging training while coordinating with trainers"
+            },
+            {
+                "Text": "Preparing training material and giving training to the sales team if required in case of  unavailability of the trainer"
+            },
+            {
+                "Text": "Performance Management"
+            },
+            {
+                "Text": "Organizing Goal setting workshops for defining KPI & KRAs"
+            },
+            {
+                "Text": "Midyear review"
+            },
+            {
+                "Text": "Salary rationalization & promotions"
+            },
+            {
+                "Text": "HR - Policies & Procedures"
+            },
+            {
+                "Text": "Design and documentation of HR Policies, HR Manual & SOPs"
+            },
+            {
+                "Text": "Drafting of Employee Handbook"
+            },
+            {
+                "Text": "Percolation of information on HR Policies and Processes through mailers, posters, etc"
+            },
+            {
+                "Text": "HR Operations"
+            },
+            {
+                "Text": "Responsible for drafting various letters like Offer Letter, Appointment Letter, Confirmation Letter, Experience Letter etc & Set Employees JD \/ KRA's \/ KPI"
+            },
+            {
+                "Text": "Preparing Final settlements, salary, leave management and all employee benefits"
+            },
+            {
+                "Text": "Prepare Organization Chart (OC)",
+                "Entity": "Prepare Organization Chart (OC)"
+            },
+            {
+                "Text": "Handling Resignation, Exit Interviews & other related matters"
+            },
+            {
+                "Text": "Manpower Budgeting"
+            },
+            {
+                "Text": "Working in collaboration with HR Head for Annual manpower planning, budgeting and benchmarking compensation"
+            },
+            {
+                "Text": "Review historical financial performance"
+            },
+            {
+                "Text": "Choose a budgeting strategy"
+            },
+            {
+                "Text": "Get a comprehensive view of how finance impacts operations"
+            },
+            {
+                "Text": "Buddy System"
+            },
+            {
+                "Text": "Conceptualized & Incorporated the Buddy System for the new joiners to facilitate higher comfort levels by assigning a friendly guide",
+                "Entity": "Conceptualized & Incorporated"
+            }
+        ]
+    },
+    "Hobbies": "Singing, Swimming, Badminton, Dancing.",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 22,
+                "LastLineNumber": 54,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "Employment"
+            },
+            {
+                "FirstLineNumber": 55,
+                "LastLineNumber": 84,
+                "SectionType": "TRAINING",
+                "HeaderTextFound": "Training & Development"
+            },
+            {
+                "FirstLineNumber": 85,
+                "LastLineNumber": 89,
+                "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+                "HeaderTextFound": "Achievements"
+            },
+            {
+                "FirstLineNumber": 90,
+                "LastLineNumber": 96,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "Academic Qualification"
+            },
+            {
+                "FirstLineNumber": 97,
+                "LastLineNumber": 99,
+                "SectionType": "HOBBIES",
+                "HeaderTextFound": "Hobbies"
+            },
+            {
+                "FirstLineNumber": 100,
+                "LastLineNumber": 104,
+                "SectionType": "CONTACT INFO",
+                "HeaderTextFound": "Personal Details"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "311",
+                        "Message": "The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    },
+                    {
+                        "QualityCode": "226",
+                        "Message": "We found no work history positions within the past year. A resume should include work history information, including time off, for the most recent year."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "161",
+                        "Message": "High school (or lower) education should not be included on resumes that contain higher-level education."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~~~\n\n\n~~~~~~~~~~~~~~  \nE:    ~~~~~~~~~~~~~~~~~~  \n\n   ~~~~~~~~~~~~  \n\n\nOver 3+ years of extensive experience in the field of HRM. Experienced in man-power planning, Recruitment & Selections, Joining formalities, Inductions & Orientation, Database Management, Performance Management System, Policies & Procedures, Training & Development, Employee Engagement, Appraisals, Retention Planning.\n\nGlobal Sourcing Specialist - NIIT Limited.\n\nGurugram |  June 2019 - Feb 2020\n\nResponsibilities  as Global Sourcing Specialist\n\n\u2022 Area of specialization covers - Sourcing, Recruiting, Hiring (Leadership roles, Niche and Volume based roles), Internal Job Opportunities, Employee Referral,\n\u2022 Inductions, Pre-Employment process, On boarding process, Company policies, Address employee queries (e.g. on compensation etc.)\n\u2022 Client handling, Salary Negotiation, Executive hiring, Contract Recruitment.\n\u2022 Experienced in Volume\/mass\/intern hiring.\n\u2022 Proficient in recruiting candidates across hierarchies.\nEmployment\n   ~~~~~~~~~~~  \nPCL Technology\n\nGurugram |  July 2014 - July 2017\n\nResponsibilities  as     ~~~~~~~~~~~  \n\nTalent Acquisition:\n\u2022 Talent Acquisition, Selection and Induction\n\u2022  Coordination with different departments and understanding their requirements, defining job\npositions.\n\u2022 Resourcing, screening and short listing resumes through various job portals, internal reference\nand head hunting then conducting their personal interviews in coordination with department heads.\n\u2022 Have handled vendor management.\n\u2022 Preparing offer letter and following up till the candidate joins the organization.\n\u2022 Completing the joining formalities and organizing Induction Programme for new joinees.\n\nCampus Drive:\n\u2022 Recruited Students from Campus Drives.\n\u2022 Managing and Co-ordination with colleges.\n\nTeam Management:\n\u2022 Defining the hiring targets for the team members.\n\u2022 Guiding on latest sourcing techniques and ways to attract talent.\n\u2022 Responsible for keeping team members motivated and ensuring they meet the recruitment target.\n\u2022 Preparing Annual & Monthly Recruitment sheet.\n\u2022 Designing & delivery of various employee referrals policy in order to close the bilk positions.\n\nEmployee Engagement:\n\u2022 Organize Fun @ work place activities (SINGING IDOL, NACH BALIYE, Compliment day, Thanksgiving Day, Quizzes, Games, Sports-events, Family Fun day, and Painting Contests etc.)\n\u2022 Organizing the engagement initiatives like Birthday, Holi, Diwali, Christmas Celebrations and Cricket Matches etc.\n\nTraining & Development:\n\u2022 Identification of training needs and nominating candidates for training.\n\u2022 Scheduling and arranging training while coordinating with trainers.\n\u2022  Preparing training material and giving training to the sales team if required in case of  unavailability of the trainer\n\nPerformance Management:\n\u2022 Organizing Goal setting workshops for defining KPI & KRAs\n\u2022 Midyear review.\n\u2022 Salary rationalization & promotions.\n\nHR - Policies & Procedures:\n\u2022 Design and documentation of HR Policies, HR Manual & SOPs\n\u2022 Drafting of Employee Handbook.\n\u2022 Percolation of information on HR Policies and Processes through mailers, posters, etc.\n\nHR Operations:\n\u2022 Responsible for drafting various letters like Offer Letter, Appointment Letter, Confirmation Letter, Experience Letter etc & Set Employees JD \/ KRA's \/ KPI.\n\u2022  Preparing Final settlements, salary, leave management and all employee benefits.\n\u2022  Prepare Organization Chart (OC)\n\u2022  Handling Resignation, Exit Interviews & other related matters.\n\nManpower Budgeting:\n\u2022 Working in collaboration with HR Head for Annual manpower planning, budgeting and benchmarking compensation.\n\u2022 Review historical financial performance.\n\u2022 Choose a budgeting strategy.\n\u2022 Get a comprehensive view of how finance impacts operations.\n\nBuddy System:\nConceptualized & Incorporated the Buddy System for the new joiners to facilitate higher comfort levels by assigning a friendly guide.\n\nAchievements:\n\n\u2022 Completed Recruitment drive in a single day.\n\u2022  Won Singing Competition at State Level.\n\nAcademic Qualification:\n\nUniversity Campus School   10+2\t73%\tCBSE 2009-2010, Rohtak\nP.D.M College Of Engg. B.Tech (CSE)   65.4%   MDU 2010-2014, Bahadurgarh\nAmity University   MBA(HR)\t6.6\tAmity 2014-2016, Noida\n\n\nHobbies:\nSinging, Swimming, Badminton, Dancing.\n\nPersonal Details:\n\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \n   ~~~~~~~~~~~~  \n   ~~~~~~~~~~~~~~~~~  ",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-IN",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2021-02-04",
+        "SovrenSignature": [
+            "nUIAAAAAAAA="
+        ]
+    }
+}

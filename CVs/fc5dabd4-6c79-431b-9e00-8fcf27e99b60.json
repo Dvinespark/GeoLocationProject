@@ -1,0 +1,1869 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "GeoCoordinates": {
+                "Latitude": 51.50735092163086,
+                "Longitude": -0.1277579963207245
+            }
+        }
+    },
+    "ProfessionalSummary": "A data driven entrepreneurial media commercial leader with 21 years' experience and a track record of building successful client revenue streams in Ad Tech, Programmatic & Agency environment. Strong relationships with global publishers, agencies, brands & AdTech vendors at C-Level down. A proven management track record of International, operational & board level engagement with a focus on clear communication & client leadership, Integrity and P&L delivery.",
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~~~~~~~~   is experienced in the management of:  Marketing (Marketing Communications; Advertising); and Finance.    ~~~~~~~~~~~~~   has 12 years of work experience, with 12 years of management experience, including a high-level position.",
+            "MonthsOfWorkExperience": 149,
+            "MonthsOfManagementExperience": 149,
+            "ExecutiveType": "GENERAL",
+            "AverageMonthsPerEmployer": 18,
+            "FulltimeDirectHirePredictiveIndex": 25,
+            "ManagementStory": "Current position is a executive-level management role: Founder\nStarting on 1\/1\/2017, the candidate held the following executive-level management position for 4 years and 3 months:\n\tTitle: Founder for Boxing Social\nCurrent position is a executive-level management role: Managing Partner\nStarting on 3\/1\/2020, the candidate held the following mid-level management position for 12 months:\n\tTitle: Managing Partner for Digital Marketing Solutions\nStarting on 9\/1\/2018, the candidate held the following mid-level management position for 18 months:\n\tTitle: Founder (Personal Project) for TravelHack\nStarting on 1\/1\/2013, the candidate held the following executive-level management position for 5 years and 2 months:\n\tTitle: Chief Commercial Officer \/ CO-Founder for Chalk\nStarting on 10\/1\/2012, the candidate held the following mid-level management position for 4 months:\n\tTitle: UK Director of Trading for Sizmek By Amazon\nStarting on 10\/1\/2011, the candidate held the following low-level management position for 12 months:\n\tTitle: Head of Trading EMEA for OpenX\nStarting on 1\/1\/2011, the candidate held the following low-level management position for 9 months:\n\tTitle: Head of Digital & Strategy for DataXu\nStarting on 11\/1\/2008, the candidate held the following mid-level management position for 2 years and 2 months:\n\tTitle: Sales Director for Lycos",
+            "CurrentManagementLevel": "executive-level",
+            "ManagementScore": 100
+        },
+        "Positions": [
+            {
+                "Id": "POS-8",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "Boxing Social",
+                        "Normalized": "Boxing Social"
+                    }
+                },
+                "IsSelfEmployed": true,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Founder",
+                    "Normalized": "Founder",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2017-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2021-03-22",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Senior Executive (President, C-level)",
+                "TaxonomyPercentage": 0,
+                "Description": "Established April 2017, Boxing Social has risen to become the UK's most visited boxing news and entertainment destination. Reaching millions unique visitors every month across Facebook (750K) Instagram (50K), Twitter (24K) & YouTube (108K), Boxing Social is the largest online boxing community in the UK."
+            },
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Digital Marketing Solutions",
+                        "Normalized": "Digital Marketing Solutions"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Managing Partner",
+                    "Normalized": "Managing Partner",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2020-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2021-03-22",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Finance",
+                "SubTaxonomyName": "Other",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "DMS is a full-service advertising agency focused on the tourism industry, uniquely structured to service a variety of clients across the globe. We have clients from the US to the Caribbean and through Mexico and everywhere in between. Our goal is to free up bandwidth for our clients and allow them to focus on the bigger picture or, at the very least, the parts of their jobs they enjoy most. We are the largest tour provider in the world bar none.\n\n\u2022 Client lead on strategy & channel planning, TV, Radio, Digital\n\u2022 Strategic and big-picture thinker for the team\n\u2022 Day to day management of Investment, activation & operation teams\n\u2022 Management of channel heads\n\u2022 Expert in briefing a team of specialists and the ability to bridge planning and specialist execution.\n\u2022 Re opening strategy lead\n\u2022 Always converting new revenue opportunities\n\u2022 Providing accurate forecasting of client spend per channel.\n\u2022 C-level suite gate keeper & communicator\n\u2022 Finance & legal lead on allocated accounts."
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "TravelHack",
+                        "Normalized": "TravelHack"
+                    }
+                },
+                "IsSelfEmployed": true,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Founder (Personal Project)",
+                    "Normalized": "Founder Personal Project",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Founder"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2018-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Protocols and Standards",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "The TravelHack platform is a progressive Travel subscription model that appeals to every consumer with common sense. Instead of charging our user the Industry Standard mark-ups, TravelHack provides immediate and transparent wholesale savings, totalling potentially of thousands of dollars with a single booking. Prices are clearly displayed beside comparable pricing from Major so called 'Discount Travel Platforms' providing transparent real-time savings."
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "Chalk",
+                        "Normalized": "Chalk"
+                    }
+                },
+                "IsSelfEmployed": true,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Chief Commercial Officer \/ CO-Founder",
+                    "Normalized": "Chief Commercial Officer CO Founder",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2013-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2018-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Advertising",
+                "JobLevel": "Senior Executive (President, C-level)",
+                "TaxonomyPercentage": 0,
+                "Description": "Chalk is an independent award-winning digital agency that plans, buys and sells all forms of digital media transparently and agnostically. With our head office based in London's 'silicon roundabout', we offer display, social, native, video, digital out of home, digital radio, and addressable TV planning, buying and optimization. Alongside our in-house creative\nteam, we are a 3.0 digital advertising powerhouse. A mix of strategists, analysts and technology experts from direct response, brand and programmatic backgrounds, we have been disrupting the digital landscape since our launch at the turn of 2013. We are the agency of choice for forward thinking brands across entertainment, fashion, luxury, FMCG, technology and automotive. Whether we are running a seven-figure global campaign, or shoestring budget for a start-up, our approach remains the same. We thrive on solving business problems.\n\nAwards include: Top 10 Elite Agency in The Drum Independent Agencies Census 2016, Top 30 Agency in the Recommended Agency Register 2016, 2 awards & 4 nominations in the Online Retail Awards 2016, 4 nominations at The Social Buzz Awards 2016, Top 10 Agency in The Drum Independent Agencies Census 2015, Best Creative Business at the London Loves Excellence Awards 2015, Best Fashion eCommerce for Warehouse at the eCommerce Awards 2014, and Best Digital Marketing Campaign for The Children's Society at the Digital Media Awards 2014.\n\n\u2022 Day to day management of all heads of departments\n\u2022 Day to day management of Investment, activation & operation teams\n\u2022 Client lead on strategy & digital channel planning\n\u2022 Providing accurate forecasting of client spend\n\u2022 Overseeing of all campaign delivery\n\u2022 New business champion of the team\n\u2022 Technology lead for all Chalk clients\n\u2022 Project managed testing of all new technology partners.\n\u2022 Delivery of all global trading agreements\n\u2022 Trained staff in all things biddable, RTB & Programmatic\n\u2022 Finance & legal lead"
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Sizmek By Amazon",
+                        "Normalized": "Amazon"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "UK Director of Trading",
+                    "Normalized": "UK Director of Trading",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "UK Director"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2012-10-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2013-02-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Finance",
+                "SubTaxonomyName": "Compliance",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2022 Managing all UK Agency and client direct partners\n\u2022 Day to day management of UK account teams\n\u2022 Management of the UK CRM data\n\u2022 Sole responsibility of trading revenue for the UK\n\u2022 Providing accurate pipe & forecasting of client spend\n\u2022 Overseeing of all UK and EMEA campaigns\n\u2022 Pitch lead on all new business\n\u2022 Project managed testing of all new technology partners for EMEA.\n\u2022 Delivered commercial agreements for all API and technology partners.\n\u2022 Trained other EMEA offices in all things DSP & RTB."
+            },
+            {
+                "Id": "POS-5",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "OpenX",
+                        "Normalized": "OpenX"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Head of Trading EMEA",
+                    "Normalized": "Head of Trading EMEA",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2011-10-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2012-10-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "NumberEmployeesSupervised": {
+                    "Value": 3
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Finance",
+                "SubTaxonomyName": "Compliance",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2022 Working across all current exchange technologies\n\u2022 Managing all EMEA Demand Partners\n\u2022 Project managed API integrations.\n\u2022 Working with all EMEA supply publishers\n\u2022 Management of the Orange ads market\n\u2022 Single point of contact for all EMEA Agency trading desks\n\u2022 Responsible for the EMEA trading revenues\n\u2022 Providing accurate forecasting\n\u2022 Management of the EMEA CRM data\n\u2022 Overseeing of all EMEA campaigns\n\u2022 Day to day management of all strategic partners\n\u2022 Management of all EMEA trading agreements\n\u2022 Responsible for over 3 million pounds of revenue per month"
+            },
+            {
+                "Id": "POS-6",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "DataXu",
+                        "Normalized": "DataXu"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Head of Digital & Strategy",
+                    "Normalized": "Head of Digital AND Strategy",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Head"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2011-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2011-10-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Sales",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2022 Managing the sales and account management team\n\u2022 Working with Agency and direct clients on ROI & performance campaigns\n\u2022 Taking responsibility for the UK revenues\n\u2022 Providing accurate forecasting\n\u2022 Management of the UK CRM data\n\u2022 Overseeing of all international campaigns\n\u2022 Day to day management of all, DataXu strategic partners\n\u2022 Management of all trading agreements"
+            },
+            {
+                "Id": "POS-7",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "Lycos",
+                        "Normalized": "Lycos"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Sales Director",
+                    "Normalized": "Sales Director",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2008-11-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2011-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Advertising",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2022 Working with agency and direct clients on new Facebook advertising platform\n\u2022 Managing Lycos foreign channel UK IP inventory\n\u2022 Working with agency and direct clients on better ASU performance on Facebook\n\u2022 Managing our UK contextual network globally\n\u2022 Managing our sub site inventory globally\n\u2022 Implantation of our B2B business IP targeting solution to agencies\n\u2022 Selling our video product\n\u2022 Set up the commercials with all of Lycos UK key partners\n\u2022 Managed the billing process from start to finish\n\u2022 Involved in pitching full serviced digital marketing strategies to client direct & agency's\n\u2022 Managing the whole pitch process from start to finish\n\u2022 Putting sponsorship opportunities together for Lycos UK key advertisers\n\u2022 Managed CM, AM and AE to make sure all clients need was meet to deadline.\n\u2022 Actively sold Lycos new mobile product\n\u2022 Sole reasonability of revenue for the UK\n\u2022 Management of the UK office and staff\n\u2022 Lead by example in terms of bringing in revenue\n\u2022 Consistently been in the top 5 of all the sales staff globally since I started.\n\n\nHobbies \/ Interests and Projects\nTravelling, experiencing new cultures and dining, fishing, wine tasting, keeping fit, Farther to for 4 boys, Nottingham Forest supporter who has a massive passion for boxing & a hate for Derby."
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 59,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "592",
+                            "SubTaxonomyName": "Marketing Communications",
+                            "PercentOfOverall": 21,
+                            "PercentOfParent": 35,
+                            "Skills": [
+                                {
+                                    "Id": "1400153",
+                                    "Name": "Advertising",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 101
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-03-22"
+                                    }
+                                },
+                                {
+                                    "Id": "1400348",
+                                    "Name": "Marketing Campaign",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 62
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "595",
+                            "SubTaxonomyName": "Advertising",
+                            "PercentOfOverall": 14,
+                            "PercentOfParent": 24,
+                            "Skills": [
+                                {
+                                    "Id": "1400202",
+                                    "Name": "B2B",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2011-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1400380",
+                                    "Name": "Digital Campaign",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400382",
+                                            "Name": "Digital Advertising",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 62
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2018-03-01"
+                                            }
+                                        },
+                                        {
+                                            "Id": "1400381",
+                                            "Name": "Digital Marketing",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-7"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 88
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2018-03-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 88
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1400200",
+                                    "Name": "OUT of Home",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 62
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 16,
+                            "Skills": [
+                                {
+                                    "Id": "013443",
+                                    "Name": "Client Services",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 88
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "007212",
+                                    "Name": "ROI",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 9
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2011-10-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 15,
+                            "Skills": [
+                                {
+                                    "Id": "1400390",
+                                    "Name": "Digital Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 88
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1400261",
+                                    "Name": "Digital Media",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 62
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "585",
+                            "SubTaxonomyName": "Product",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "1400308",
+                                    "Name": "Marketing Campaign",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 62
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "226",
+                            "SubTaxonomyName": "Channel Management",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "1400215",
+                                    "Name": "Retail Marketing",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400216",
+                                            "Name": "Retail",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 62
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2018-03-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 62
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "224",
+                            "SubTaxonomyName": "Public Relations",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "1400175",
+                                    "Name": "Content Creation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "591",
+                            "SubTaxonomyName": "Audience",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "1400122",
+                                    "Name": "Marketing Automation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "590",
+                            "SubTaxonomyName": "Channel, Partner & Ecosystem Marketing",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "1400117",
+                                    "Name": "B2B",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2011-01-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "7",
+                    "Name": "Finance",
+                    "PercentOfOverall": 22,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "243",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 13,
+                            "PercentOfParent": 58,
+                            "Skills": [
+                                {
+                                    "Id": "023147",
+                                    "Name": "Finance",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 75
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-03-22"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "245",
+                            "SubTaxonomyName": "Compliance",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 18,
+                            "Skills": [
+                                {
+                                    "Id": "023164",
+                                    "Name": "Forecasting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 99
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-03-22"
+                                    }
+                                },
+                                {
+                                    "Id": "007211",
+                                    "Name": "ROI",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 9
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2011-10-01"
+                                    }
+                                },
+                                {
+                                    "Id": "080179",
+                                    "Name": "Trading",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 86
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "705",
+                            "SubTaxonomyName": "Accounting",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "7000318",
+                                    "Name": "Forecasting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 99
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-03-22"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "235",
+                            "SubTaxonomyName": "Financial Planning & Analysis",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "080204",
+                                    "Name": "Trading",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 86
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "239",
+                            "SubTaxonomyName": "Trading",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "009789",
+                                    "Name": "Trading",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 86
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-03-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "253",
+                            "SubTaxonomyName": "Protocols and Standards",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 62,
+                            "Skills": [
+                                {
+                                    "Id": "081190",
+                                    "Name": "Real-Time",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 18
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "204",
+                            "SubTaxonomyName": "Programming",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 31,
+                            "Skills": [
+                                {
+                                    "Id": "021194",
+                                    "Name": "API",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 16
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2013-02-01"
+                                    }
+                                },
+                                {
+                                    "Id": "015533",
+                                    "Name": "DMS",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-03-22"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "193",
+                            "SubTaxonomyName": "Database",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "013650",
+                                    "Name": "ADS",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "195",
+                            "SubTaxonomyName": "ERP and CRM",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "014101",
+                                    "Name": "CRM",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2013-02-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "32",
+                    "Name": "Degreed Accounting",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "962",
+                            "SubTaxonomyName": "Reporting",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 80,
+                            "Skills": [
+                                {
+                                    "Id": "022891",
+                                    "Name": "Budget",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 62
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "256",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 20,
+                            "Skills": [
+                                {
+                                    "Id": "023163",
+                                    "Name": "Forecasting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 99
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-03-22"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "97",
+                    "Name": "Supply Chain and Logistics",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "458",
+                            "SubTaxonomyName": "Purchasing",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 97,
+                            "Skills": [
+                                {
+                                    "Id": "023098",
+                                    "Name": "Buying",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 62
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "459",
+                            "SubTaxonomyName": "Inventory",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "020086",
+                                    "Name": "Inventory",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2011-01-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 99,
+                            "Skills": [
+                                {
+                                    "Id": "030018",
+                                    "Name": "Retail",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 62
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "030721",
+                                    "Name": "Sales Director",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2011-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "030823",
+                                    "Name": "Sales Staff",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2011-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "104",
+                            "SubTaxonomyName": "Account Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "025223",
+                                    "Name": "Account Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 9
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2011-10-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "1",
+                    "Name": "Administrative or Clerical",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "111",
+                            "SubTaxonomyName": "Recordkeeping and Supplies",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 97,
+                            "Skills": [
+                                {
+                                    "Id": "012256",
+                                    "Name": "Buying",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 62
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "110",
+                            "SubTaxonomyName": "Billing and Collections",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "022474",
+                                    "Name": "Billing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2011-01-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "89",
+                    "Name": "Bookkeeping, Office Management",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "533",
+                            "SubTaxonomyName": "Bookeeping Tasks",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "011553",
+                                    "Name": "Billing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2011-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "012120",
+                                    "Name": "Budget",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 62
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-03-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "80",
+                    "Name": "General Management",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "516",
+                            "SubTaxonomyName": "Budget Related",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "005394",
+                                    "Name": "Pricing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 18
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-03-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "436",
+                            "SubTaxonomyName": "Management Activities or Functions",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 98,
+                            "Skills": [
+                                {
+                                    "Id": "017857",
+                                    "Name": "Forecasting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 99
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-03-22"
+                                    }
+                                },
+                                {
+                                    "Id": "022750",
+                                    "Name": "Trading",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 86
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "025224",
+                                    "Name": "Account Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 9
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2011-10-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "16",
+                    "Name": "Telecommunications",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "317",
+                            "SubTaxonomyName": "Standards, Protocols, Technologies",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "015532",
+                                    "Name": "DMS",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-03-22"
+                                    }
+                                },
+                                {
+                                    "Id": "015719",
+                                    "Name": "DSP",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2013-02-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "9",
+                    "Name": "Human Resources",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "583",
+                            "SubTaxonomyName": "Talent Sourcing",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "9000267",
+                                    "Name": "Customer Relationship Management",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "9000268",
+                                            "Name": "CRM",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-5"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-6"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 25
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2013-02-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2013-02-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "82",
+                    "Name": "Hotel and Hospitality",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "180",
+                            "SubTaxonomyName": "Restaurant and Bar",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "0273607",
+                                    "Name": "Dining",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2011-01-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Certifications": [
+        {
+            "Name": "CM",
+            "MatchedFromList": true,
+            "IsVariation": false
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "Achievements": [
+        "Award winning content creation",
+        "Created an award winning, multi-million-pound billing agency from scratch with no investment",
+        "Chalk is an independent award-winning digital agency that plans, buys and sells all forms of digital media transparently and agnostically. With our head office based in London's 'silicon roundabout', we offer display, social, native, video, digital out of home, digital radio, and addressable TV planning, buying and optimization. Alongside our in-house creative",
+        "Awards include: Top 10 Elite Agency in The Drum Independent Agencies Census 2016, Top 30 Agency in the Recommended Agency Register 2016, 2 awards & 4 nominations in the Online Retail Awards 2016, 4 nominations at The Social Buzz Awards 2016, Top 10 Agency in The Drum Independent Agencies Census 2015, Best Creative Business at the London Loves Excellence Awards 2015, Best Fashion eCommerce for Warehouse at the eCommerce Awards 2014, and Best Digital Marketing Campaign for The Children's Society at the Digital Media Awards 2014",
+        "Pioneer of Facebook advertising (managing one of the first million-pound accounts on the platform)",
+        "Successfully launched the first independent agency trading desks in the UK",
+        "Project managed one of the first Ad-Network API integrations into AppNexus (Buy & Sell side)",
+        "Sole responsibility of Orange Ads Market growing the revenue from 500K to 3 million per month",
+        "Grew the digital team from 2 -120 out of Google campus ending up in prestigious offices in Shoreditch",
+        "Worked on a range of clients growing their digital spend significantly and investment in digital as a channel",
+        "Launched Boxing Social (Hobby) now the largest boxing social community in the UK with over 750K on FB, 108K subscribers on UT and 75K on Insta (all organic) delivering millions of views a month across social media",
+        "Extensive network of celebrity and sporting contacts"
+    ],
+    "QualificationsSummary": "SKILLS\n\n\n\u2022 Digital Investment\n\u2022 Digital activation\n\u2022 Digital trading\n\u2022 Digital acquisition\n\u2022 Performance marketing\n\u2022 PPC scale expert\n\u2022 Extensive global cross-channel media & Coms planning,\n\u2022 Programmatic activation\n\u2022 Paid social strategy.\n\u2022 Social ROI & engagement\n\u2022 Brand planning and execution\n\u2022 Brand advertising & measurement\n\u2022 Digital Innovation\n\u2022 Client services lead\n\u2022 Client reporting excellence\n\u2022 P&L delivery\n\u2022 New business\n\u2022 Technology champion\n\u2022 Attribution modelling\n\u2022 3rd party ad-technology partnerships\n\u2022 Analytical Skills\n\u2022 All things biddable, RTB & programmatic\n\u2022 Team training and development\n\u2022 The ability to attract and recruit top talent.\n\u2022 Digital thought leader\n\u2022 Award winning content creation\n\u2022 Agency brand ambassador\n\u2022 Ad serving architecture.\n\u2022 Proficiency in ad tech and marketing automation systems,",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 1,
+                "LastLineNumber": 4,
+                "SectionType": "SUMMARY",
+                "HeaderTextFound": "PROFILE"
+            },
+            {
+                "FirstLineNumber": 5,
+                "LastLineNumber": 38,
+                "SectionType": "SKILLS",
+                "HeaderTextFound": "SKILLS"
+            },
+            {
+                "FirstLineNumber": 39,
+                "LastLineNumber": 50,
+                "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+                "HeaderTextFound": "Achievements"
+            },
+            {
+                "FirstLineNumber": 51,
+                "LastLineNumber": 176,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "EMPLOYMENT HISTORY"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Fatal Problems Found",
+                "Findings": [
+                    {
+                        "QualityCode": "414",
+                        "Message": "We found no EDUCATION HISTORY for the candidate. A resume should always include an education history section."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "211",
+                        "Message": "An email address was not found in the contact information. A resume should always include an email address."
+                    },
+                    {
+                        "QualityCode": "212",
+                        "Message": "A phone number was not found in the contact information. A resume should always include a phone number."
+                    },
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "112",
+                        "Message": "The following section was identified as a skills section type: 'SKILLS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~~~~~~~  \nPROFILE\n\nA data driven entrepreneurial media commercial leader with 21 years' experience and a track record of building successful client revenue streams in Ad Tech, Programmatic & Agency environment. Strong relationships with global publishers, agencies, brands & AdTech vendors at C-Level down. A proven management track record of International, operational & board level engagement with a focus on clear communication & client leadership, Integrity and P&L delivery.\n\nSKILLS\n\n\n\u2022 Digital Investment\n\u2022 Digital activation\n\u2022 Digital trading\n\u2022 Digital acquisition\n\u2022 Performance marketing\n\u2022 PPC scale expert\n\u2022 Extensive global cross-channel media & Coms planning,\n\u2022 Programmatic activation\n\u2022 Paid social strategy.\n\u2022 Social ROI & engagement\n\u2022 Brand planning and execution\n\u2022 Brand advertising & measurement\n\u2022 Digital Innovation\n\u2022 Client services lead\n\u2022 Client reporting excellence\n\u2022 P&L delivery\n\u2022 New business\n\u2022 Technology champion\n\u2022 Attribution modelling\n\u2022 3rd party ad-technology partnerships\n\u2022 Analytical Skills\n\u2022 All things biddable, RTB & programmatic\n\u2022 Team training and development\n\u2022 The ability to attract and recruit top talent.\n\u2022 Digital thought leader\n\u2022 Award winning content creation\n\u2022 Agency brand ambassador\n\u2022 Ad serving architecture.\n\u2022 Proficiency in ad tech and marketing automation systems,\n\n\nAchievements\n\n\u2022 Pioneer of Facebook advertising (managing one of the first million-pound accounts on the platform)\n\u2022 Successfully launched the first independent agency trading desks in the UK.\n\u2022 Project managed one of the first Ad-Network API integrations into AppNexus (Buy & Sell side)\n\u2022 Sole responsibility of Orange Ads Market growing the revenue from 500K to 3 million per month.\n\u2022 Created an award winning, multi-million-pound billing agency from scratch with no investment.\n\u2022 Grew the digital team from 2 -120 out of Google campus ending up in prestigious offices in Shoreditch.\n\u2022 Worked on a range of clients growing their digital spend significantly and investment in digital as a channel.\n\u2022 Launched Boxing Social (Hobby) now the largest boxing social community in the UK with over 750K on FB, 108K subscribers on UT and 75K on Insta (all organic) delivering millions of views a month across social media.\n\u2022 Extensive network of celebrity and sporting contacts\n\nEMPLOYMENT HISTORY\n\nDigital Marketing Solutions March - 2020 - Present\n\nManaging Partner\n\nDMS is a full-service advertising agency focused on the tourism industry, uniquely structured to service a variety of clients across the globe. We have clients from the US to the Caribbean and through Mexico and everywhere in between. Our goal is to free up bandwidth for our clients and allow them to focus on the bigger picture or, at the very least, the parts of their jobs they enjoy most. We are the largest tour provider in the world bar none.\n\n\u2022 Client lead on strategy & channel planning, TV, Radio, Digital\n\u2022 Strategic and big-picture thinker for the team\n\u2022 Day to day management of Investment, activation & operation teams\n\u2022 Management of channel heads\n\u2022 Expert in briefing a team of specialists and the ability to bridge planning and specialist execution.\n\u2022 Re opening strategy lead\n\u2022 Always converting new revenue opportunities\n\u2022 Providing accurate forecasting of client spend per channel.\n\u2022 C-level suite gate keeper & communicator\n\u2022 Finance & legal lead on allocated accounts.\n\nTravelHack Sep 2018 - Mar 2020\n\nFounder (Personal Project)\n\nThe TravelHack platform is a progressive Travel subscription model that appeals to every consumer with common sense. Instead of charging our user the Industry Standard mark-ups, TravelHack provides immediate and transparent wholesale savings, totalling potentially of thousands of dollars with a single booking. Prices are clearly displayed beside comparable pricing from Major so called 'Discount Travel Platforms' providing transparent real-time savings.\n\n\nChalk Jan - 2013 -March - 2018\n\nChief Commercial Officer \/ CO-Founder\n\nChalk is an independent award-winning digital agency that plans, buys and sells all forms of digital media transparently and agnostically. With our head office based in London's 'silicon roundabout', we offer display, social, native, video, digital out of home, digital radio, and addressable TV planning, buying and optimization. Alongside our in-house creative\nteam, we are a 3.0 digital advertising powerhouse. A mix of strategists, analysts and technology experts from direct response, brand and programmatic backgrounds, we have been disrupting the digital landscape since our launch at the turn of 2013. We are the agency of choice for forward thinking brands across entertainment, fashion, luxury, FMCG, technology and automotive. Whether we are running a seven-figure global campaign, or shoestring budget for a start-up, our approach remains the same. We thrive on solving business problems.\n\nAwards include: Top 10 Elite Agency in The Drum Independent Agencies Census 2016, Top 30 Agency in the Recommended Agency Register 2016, 2 awards & 4 nominations in the Online Retail Awards 2016, 4 nominations at The Social Buzz Awards 2016, Top 10 Agency in The Drum Independent Agencies Census 2015, Best Creative Business at the London Loves Excellence Awards 2015, Best Fashion eCommerce for Warehouse at the eCommerce Awards 2014, and Best Digital Marketing Campaign for The Children's Society at the Digital Media Awards 2014.\n\n\u2022 Day to day management of all heads of departments\n\u2022 Day to day management of Investment, activation & operation teams\n\u2022 Client lead on strategy & digital channel planning\n\u2022 Providing accurate forecasting of client spend\n\u2022 Overseeing of all campaign delivery\n\u2022 New business champion of the team\n\u2022 Technology lead for all Chalk clients\n\u2022 Project managed testing of all new technology partners.\n\u2022 Delivery of all global trading agreements\n\u2022 Trained staff in all things biddable, RTB & Programmatic\n\u2022 Finance & legal lead\n\nSizmek By Amazon October 2012 -February -2013\n\nUK Director of Trading\n\n\u2022 Managing all UK Agency and client direct partners\n\u2022 Day to day management of UK account teams\n\u2022 Management of the UK CRM data\n\u2022 Sole responsibility of trading revenue for the UK\n\u2022 Providing accurate pipe & forecasting of client spend\n\u2022 Overseeing of all UK and EMEA campaigns\n\u2022 Pitch lead on all new business\n\u2022 Project managed testing of all new technology partners for EMEA.\n\u2022 Delivered commercial agreements for all API and technology partners.\n\u2022 Trained other EMEA offices in all things DSP & RTB.\n\nOpenX Oct 2011 to Oct-2012\n\nHead of Trading EMEA\n\n\u2022 Working across all current exchange technologies\n\u2022 Managing all EMEA Demand Partners\n\u2022 Project managed API integrations.\n\u2022 Working with all EMEA supply publishers\n\u2022 Management of the Orange ads market\n\u2022 Single point of contact for all EMEA Agency trading desks\n\u2022 Responsible for the EMEA trading revenues\n\u2022 Providing accurate forecasting\n\u2022 Management of the EMEA CRM data\n\u2022 Overseeing of all EMEA campaigns\n\u2022 Day to day management of all strategic partners\n\u2022 Management of all EMEA trading agreements\n\u2022 Responsible for over 3 million pounds of revenue per month\n\nDataXu Jan 2011 to Oct 2011\n\nHead of Digital & Strategy\n\n\u2022 Managing the sales and account management team\n\u2022 Working with Agency and direct clients on ROI & performance campaigns\n\u2022 Taking responsibility for the UK revenues\n\u2022 Providing accurate forecasting\n\u2022 Management of the UK CRM data\n\u2022 Overseeing of all international campaigns\n\u2022 Day to day management of all, DataXu strategic partners\n\u2022 Management of all trading agreements\n\nLycos Nov 2008 - Jan -2011\n\nSales Director\n\n\u2022 Working with agency and direct clients on new Facebook advertising platform\n\u2022 Managing Lycos foreign channel UK IP inventory\n\u2022 Working with agency and direct clients on better ASU performance on Facebook\n\u2022 Managing our UK contextual network globally\n\u2022 Managing our sub site inventory globally\n\u2022 Implantation of our B2B business IP targeting solution to agencies\n\u2022 Selling our video product\n\u2022 Set up the commercials with all of Lycos UK key partners\n\u2022 Managed the billing process from start to finish\n\u2022 Involved in pitching full serviced digital marketing strategies to client direct & agency's\n\u2022 Managing the whole pitch process from start to finish\n\u2022 Putting sponsorship opportunities together for Lycos UK key advertisers\n\u2022 Managed CM, AM and AE to make sure all clients need was meet to deadline.\n\u2022 Actively sold Lycos new mobile product\n\u2022 Sole reasonability of revenue for the UK\n\u2022 Management of the UK office and staff\n\u2022 Lead by example in terms of bringing in revenue\n\u2022 Consistently been in the top 5 of all the sales staff globally since I started.\n\n\nHobbies \/ Interests and Projects\n\nTravelling, experiencing new cultures and dining, fishing, wine tasting, keeping fit, Farther to for 4 boys, Nottingham Forest supporter who has a massive passion for boxing & a hate for Derby.\n\nBoxing Social Jan 2017 - Present\n\nFounder\n\nEstablished April 2017, Boxing Social has risen to become the UK's most visited boxing news and entertainment destination. Reaching millions unique visitors every month across Facebook (750K) Instagram (50K), Twitter (24K) & YouTube (108K), Boxing Social is the largest online boxing community in the UK.",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2021-03-22",
+        "SovrenSignature": [
+            "tGYBAAAAAAA="
+        ]
+    }
+}

@@ -1,0 +1,1441 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "CountryCode": "UK",
+            "PostalCode": "UB1 2NB",
+            "Regions": [
+                "Middlesex"
+            ],
+            "Municipality": "Southall",
+            "GeoCoordinates": {
+                "Latitude": 51.51409149169922,
+                "Longitude": -0.36999601125717163
+            }
+        }
+    },
+    "ProfessionalSummary": "I am an experienced digital marketing professional with proven success across digital channels. I have a deep understanding of\nconsumer behaviour and how this translates into innovative strategies and best-in-class campaigns, with a relentless focus on\nthe bottom line and future growth. My industry knowledge spans areas including finance, QSR, travel and retail, and have\nexpertise across all digital channels. I am looking for a new challenge in a senior role in a dynamic environment where I can\nutilise my analytical and strategic skills.",
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "BSc",
+                "Normalized": "BSc"
+            },
+            "Type": "bachelors"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "2010 - 2013\t2008-2010\nUniversity of Leicester\tSlough Grammar School\n\nBSc Maths with Management (First Class Honors)\tA-Level Mathematics A, Chemistry B, Psychology B\n\nDissertation (75%) Gained a two week placement\tAS Level English Literature C to implement my system into a FS company\n2003-2008",
+                "SchoolName": {
+                    "Raw": "Slough Grammar School",
+                    "Normalized": "Slough Grammar School"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "BSc",
+                        "Normalized": "BSc"
+                    },
+                    "Type": "bachelors"
+                },
+                "Majors": [
+                    "Maths with Management"
+                ],
+                "LastEducationDate": {
+                    "Date": "2013-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Id": "DEG-2",
+                "Text": "Slough Grammar School\n\n12 GCSEs A*-B",
+                "SchoolName": {
+                    "Raw": "Slough Grammar School",
+                    "Normalized": "Slough Grammar School"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "GCSEs A*-B",
+                        "Normalized": "bachelors"
+                    },
+                    "Type": "bachelors"
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~~~   is experienced in:  Marketing; and Sales (Account Management).    ~~~~~~~~   has 7 years of work experience, with 7 years of management experience, including a mid-level position.",
+            "MonthsOfWorkExperience": 84,
+            "MonthsOfManagementExperience": 84,
+            "ExecutiveType": "EXECUTIVE",
+            "AverageMonthsPerEmployer": 21,
+            "FulltimeDirectHirePredictiveIndex": 50,
+            "ManagementStory": "Current position is a low-level management role: Digital Account Director\nStarting on 1\/1\/2019, the candidate held the following low-level management position for 2 years and 1 months:\n\tTitle: Digital Account Director for SPARK FOUNDRY (Publicis Groupe), Publicis Groupe\nStarting on 1\/1\/2018, the candidate held the following low-level management position for 12 months:\n\tTitle: Senior Digital Account Manager for SPARK FOUNDRY (Publicis Groupe), Publicis Groupe\nStarting on 9\/1\/2016, the candidate held the following low-level management position for 10 months:\n\tTitle: Display Account Manager\nStarting on 3\/1\/2015, the candidate held the following low-level management position for 18 months:\n\tTitle: Display Account Manager for GroupM\nStarting on 8\/1\/2013, the candidate held the following low-level management position for 19 months:\n\tTitle: Display Account Executive",
+            "CurrentManagementLevel": "low-level",
+            "ManagementScore": 30
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Publicis Groupe",
+                        "Normalized": "Publicis Groupe"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Digital Account Director",
+                    "Normalized": "Digital Account Director",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2019-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2021-01-20",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Finance",
+                "SubTaxonomyName": "Compliance",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Digital Lead across a range of clients and verticals driving innovation and growth through strategic planning. While also\nfocusing on team and commercials for the business.\n\nAchievements & Experience\n\u2022\tRepresenting the agency in multiple successful pitches for new business, collaborating with group specialist services\nto provide innovative solutions to prospective clients. Most recent wins include national hotel brand and EMEA\nFMCG client.\n\u2022\tEvolving Global FMCG brand strategy linking brand to ecommerce solutions, in our 'prime & prompt' strategy.\nCurrently presenting an end to end voice opportunity to senior marketing teams across EMEA.\n\u2022\tEstablishing our role to digital strategic planners closing the gap between comms teams and investment. Developed\nrole to more holistic overarching approach to campaigns allowing for more digital innovation.\n\u2022\tEvolving traditional measurement and exploring new solutions, looking at attention as a metric rather than\nviewability and traditional reach to deliver a new KPI framework across EMEA.\n\u2022\tWorking on efficiencies, cost savings and performance for businesses, achieved by using automation, proprietary\ntech across EMEA to save team resource for up to 5 hours a week\n\u2022\tRepresented the agency at Facebook HQ for training & product brainstorms, gaining first hand view on new formats,\nwhich I was able to bring back to my clients at launch.\n\u2022\tUnlocking revenue for the business by up-selling the suite of solutions available, such as dynamic creative, across\ndisplay & social, content and ecommerce.\n\u2022\tUnlocking betas and test opportunities for global FMCG brand across Facebook as a result of FMPA relationship -\nincludes mobile first creative workshops but also a Viewability Joint POV Project in Jan 2021.\n\u2022\tManaging senior client relationships to ensure ongoing business success and growth via digital evolution. Building\nhypothesis-driven testing roadmaps to provide foundation for developing digital performance, presenting approach\nand results to senior clients.\n\u2022\tProducing transformative responses in ever changing times. Planning and pivoting campaigns in reactive times\naround Covid-19 working closely with clients in a pandemic."
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Publicis Groupe",
+                        "Normalized": "Publicis Groupe"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Senior Digital Account Manager",
+                    "Normalized": "Senior Digital Account Manager",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Digital Account Manager"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2018-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2018-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0
+            },
+            {
+                "Id": "POS-3",
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Display Account Manager",
+                    "Normalized": "Display Account Manager",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2016-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2017-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Digital",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Day-to-day digital AM for QSR, retail and travel clients including two of the agencies highest spenders, managing team of six and responsible for campaign management, optimization, reporting & client communication.\n\nAchievements & Experience\n\u2022\tAccount lead for EMT, responsible for their largest campaign in their history, spending \u00a31.2m in digital. Our media\nhelped to achieve their business revenue targets 3 months early\n\u2022\tRolled out onboarding partner, LiveRamp, for WW to maximise efficiencies and reduce wastage. Early tests saw an\nincrease CR by 33%, resulting in all channels adoption.\n\u2022\tEvolving digital innovation, showcasing intelligent planning in line with new media opportunities such as developed a\nbespoke targeting solution for EMT, refining data from their third party booking system.\n\u2022\tSuccessfully rolled out dynamic creative across ASDA, EMT & WW on both display and social. This new approach saw\nconversion rate increases of up to 40%\n\u2022\tDigital account lead for display & social activity across the largest agency performance client, controlling annual\nbudgets over \u00a38m\n\u2022\tExperience in all aspects of digital media including attribution, econometrics, dynamic creative and data on-boarding.\nPlanning, developing and executing end-to-end digital strategies.\n\u2022\tBuilding, managing and developing junior team across a variety of digital specialisms\n\u2022\tCoordinating cross-channel responses to client briefs, ensuring collaboration across multiple teams and accurate\nadherence to client timelines & business objectives"
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "GroupM",
+                        "Normalized": "GroupM"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Display Account Manager",
+                    "Normalized": "Display Account Manager",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2015-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2016-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0
+            },
+            {
+                "Id": "POS-5",
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Display Account Executive",
+                    "Normalized": "Display Account Executive",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2013-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2015-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Channel Management",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Responsible for a portfolio of over \u00a33 million; planning, forecasting, testing and managing digital strategies for brands across a\nvariety of industries such as retail, insurance, news, cruise lines and FMCG.\n\nAchievements & Experience\n\u2022\tLaunched Tango's first campaign in over 20 years, working closely with PR, social and creative agencies.\n\u2022\tEarly adopters in utilizing Facebook custom audiences to increase retention among existing customers with timely\nupgrade reminders with bespoke deals based on their current plan.\n\u2022\tCollaborated with talent from across The &Partnership on award winning Prince's Trust campaigns tackling issues\nsuch as Domestic Abuse.\n\u2022\tRepresented the agency in new business pitches with success on Avon.\n\u2022\tRunning training workshops for clients in order to upskill and increase digital understanding.\n\u2022\tManaging and developing three junior team members.\n\n\nPlatforms & Accreditations\nExperienced tool usage across the digital ecosystem including buying platforms (DV360, Facebook Business Manager, Twitter Ads), bid management (   ~~~~~  ), ad serving (Campiagn Manager, Flashtalking), analytics and data\nmanagement (LiveRamp, Salesforce, GA360) and reporting (Tableau, Datorama).\n\nFacebook Blueprint Accredited & currently undergoing Amazon Advertising Accreditation."
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 31,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 12,
+                            "PercentOfParent": 38,
+                            "Skills": [
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-01-20"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "592",
+                            "SubTaxonomyName": "Marketing Communications",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 16,
+                            "Skills": [
+                                {
+                                    "Id": "1400153",
+                                    "Name": "Advertising",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1400143",
+                                    "Name": "Campaign Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "590",
+                            "SubTaxonomyName": "Channel, Partner & Ecosystem Marketing",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "1400103",
+                                    "Name": "Ecosystem",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "224",
+                            "SubTaxonomyName": "Public Relations",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "023378",
+                                    "Name": "Public Relations",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "005288",
+                                            "Name": "PR",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-5"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 19
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2015-03-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "226",
+                            "SubTaxonomyName": "Channel Management",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 9,
+                            "Skills": [
+                                {
+                                    "Id": "1400215",
+                                    "Name": "Retail Marketing",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400216",
+                                            "Name": "Retail",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SUMMARY"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-5"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 29
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2017-07-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 29
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 8,
+                            "Skills": [
+                                {
+                                    "Id": "1400390",
+                                    "Name": "Digital Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "1400261",
+                                    "Name": "Digital Media",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "227",
+                            "SubTaxonomyName": "Brand Management",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "012543",
+                                    "Name": "Campaign Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "595",
+                            "SubTaxonomyName": "Advertising",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "1400380",
+                                    "Name": "Digital Campaign",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400381",
+                                            "Name": "Digital Marketing",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SUMMARY"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 28,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "104",
+                            "SubTaxonomyName": "Account Management",
+                            "PercentOfOverall": 26,
+                            "PercentOfParent": 95,
+                            "Skills": [
+                                {
+                                    "Id": "030175",
+                                    "Name": "Account Executive",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "030183",
+                                    "Name": "Account Manager",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 40
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "030018",
+                                    "Name": "Retail",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 29
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "7",
+                    "Name": "Finance",
+                    "PercentOfOverall": 15,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "245",
+                            "SubTaxonomyName": "Compliance",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 40,
+                            "Skills": [
+                                {
+                                    "Id": "023164",
+                                    "Name": "Forecasting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "023034",
+                                    "Name": "Strategic Planning",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-01-20"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "233",
+                            "SubTaxonomyName": "Mortgage",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 22,
+                            "Skills": [
+                                {
+                                    "Id": "080232",
+                                    "Name": "Closing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-01-20"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "237",
+                            "SubTaxonomyName": "Operations",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 22,
+                            "Skills": [
+                                {
+                                    "Id": "013548",
+                                    "Name": "Closing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-01-20"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "705",
+                            "SubTaxonomyName": "Accounting",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "7000318",
+                                    "Name": "Forecasting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "246",
+                            "SubTaxonomyName": "Treasury",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "026948",
+                                    "Name": "Budgets",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "243",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "023147",
+                                    "Name": "Finance",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 7,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "554",
+                            "SubTaxonomyName": "Business Intelligence",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "5540985",
+                                    "Name": "Tableau Software",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "55409852",
+                                            "Name": "Tableau",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-5"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 19
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2015-03-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "193",
+                            "SubTaxonomyName": "Database",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "013650",
+                                    "Name": "ADS",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-03-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "132",
+                            "SubTaxonomyName": "Chemical",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 51,
+                            "Skills": [
+                                {
+                                    "Id": "013028",
+                                    "Name": "Chemistry",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2013-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "307",
+                            "SubTaxonomyName": "General Engineering",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "080417",
+                                    "Name": "Blueprint",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "264",
+                            "SubTaxonomyName": "Techniques",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "080629",
+                                    "Name": "Blueprint",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-03-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "1",
+                    "Name": "Administrative or Clerical",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "111",
+                            "SubTaxonomyName": "Recordkeeping and Supplies",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 77,
+                            "Skills": [
+                                {
+                                    "Id": "012256",
+                                    "Name": "Buying",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "114",
+                            "SubTaxonomyName": "Closing and Processing",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 23,
+                            "Skills": [
+                                {
+                                    "Id": "023262",
+                                    "Name": "Closing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-01-20"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "71",
+                    "Name": "Strategy and Planning",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "502",
+                            "SubTaxonomyName": "Planning and Estimating",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "017858",
+                                    "Name": "Forecasting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "008685",
+                                    "Name": "Strategic Planning",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2021-01-20"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "9",
+                    "Name": "Human Resources",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "584",
+                            "SubTaxonomyName": "Talent Management",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "9000284",
+                                    "Name": "Onboarding",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "6",
+                    "Name": "Environmental",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "337",
+                            "SubTaxonomyName": "Safety",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "016242",
+                                    "Name": "EMT",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "46",
+                    "Name": "Call Center or Help Desk or Customer Service",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "130",
+                            "SubTaxonomyName": "Customer Facing",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "013439",
+                                    "Name": "Client Communication",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "44",
+                    "Name": "Petrochemical",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "442",
+                            "SubTaxonomyName": "Refining",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "006670",
+                                    "Name": "Refining",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "69",
+                    "Name": "QA and QC",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "941",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "006213",
+                                    "Name": "QSR",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "22",
+                    "Name": "Construction Non-Laborer",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "389",
+                            "SubTaxonomyName": "General Tasks and Equipment",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 61,
+                            "Skills": [
+                                {
+                                    "Id": "025418",
+                                    "Name": "Blueprint",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "380",
+                            "SubTaxonomyName": "Estimating",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 39,
+                            "Skills": [
+                                {
+                                    "Id": "026946",
+                                    "Name": "Budgets",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "99",
+                    "Name": "Nursing",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "418",
+                            "SubTaxonomyName": "CPR, EMT and First Aid",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "014847",
+                                    "Name": "EMT",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "32",
+                    "Name": "Degreed Accounting",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "962",
+                            "SubTaxonomyName": "Reporting",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 53,
+                            "Skills": [
+                                {
+                                    "Id": "026947",
+                                    "Name": "Budgets",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "256",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 47,
+                            "Skills": [
+                                {
+                                    "Id": "023163",
+                                    "Name": "Forecasting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-03-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Certifications": [
+        {
+            "Name": "EMT",
+            "MatchedFromList": true,
+            "IsVariation": false
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "Achievements": [
+        "Achievements & Experience",
+        "Collaborated with talent from across The &Partnership on award winning Prince's Trust campaigns tackling issues",
+        "BSc Maths with Management (First Class Honors)\tA-Level Mathematics A, Chemistry B, Psychology B"
+    ],
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 5,
+                "LastLineNumber": 12,
+                "SectionType": "SUMMARY",
+                "HeaderTextFound": "Profile"
+            },
+            {
+                "FirstLineNumber": 13,
+                "LastLineNumber": 94,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "Experience"
+            },
+            {
+                "FirstLineNumber": 95,
+                "LastLineNumber": 106,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "Education"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "222",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-3"
+                            },
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-5"
+                            }
+                        ],
+                        "Message": "Every position in a resume should have an employer name."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~~~~~~~~~~~~~~  \n   ~~~~~~~~~~~~~~~~~  \n   ~~~~~~~~~~~~~  , Southall, Middlesex, UB1 2NB\nDigital Media Specialist\n\nProfile\nI am an experienced digital marketing professional with proven success across digital channels. I have a deep understanding of\nconsumer behaviour and how this translates into innovative strategies and best-in-class campaigns, with a relentless focus on\nthe bottom line and future growth. My industry knowledge spans areas including finance, QSR, travel and retail, and have\nexpertise across all digital channels. I am looking for a new challenge in a senior role in a dynamic environment where I can\nutilise my analytical and strategic skills.\n\n\nExperience\n\nSPARK FOUNDRY (Publicis Groupe)\nDigital Account Director, Jan 2019 - present\n\nDigital Lead across a range of clients and verticals driving innovation and growth through strategic planning. While also\nfocusing on team and commercials for the business.\n\nAchievements & Experience\n\u2022\tRepresenting the agency in multiple successful pitches for new business, collaborating with group specialist services\nto provide innovative solutions to prospective clients. Most recent wins include national hotel brand and EMEA\nFMCG client.\n\u2022\tEvolving Global FMCG brand strategy linking brand to ecommerce solutions, in our 'prime & prompt' strategy.\nCurrently presenting an end to end voice opportunity to senior marketing teams across EMEA.\n\u2022\tEstablishing our role to digital strategic planners closing the gap between comms teams and investment. Developed\nrole to more holistic overarching approach to campaigns allowing for more digital innovation.\n\u2022\tEvolving traditional measurement and exploring new solutions, looking at attention as a metric rather than\nviewability and traditional reach to deliver a new KPI framework across EMEA.\n\u2022\tWorking on efficiencies, cost savings and performance for businesses, achieved by using automation, proprietary\ntech across EMEA to save team resource for up to 5 hours a week\n\u2022\tRepresented the agency at Facebook HQ for training & product brainstorms, gaining first hand view on new formats,\nwhich I was able to bring back to my clients at launch.\n\u2022\tUnlocking revenue for the business by up-selling the suite of solutions available, such as dynamic creative, across\ndisplay & social, content and ecommerce.\n\u2022\tUnlocking betas and test opportunities for global FMCG brand across Facebook as a result of FMPA relationship -\nincludes mobile first creative workshops but also a Viewability Joint POV Project in Jan 2021.\n\u2022\tManaging senior client relationships to ensure ongoing business success and growth via digital evolution. Building\nhypothesis-driven testing roadmaps to provide foundation for developing digital performance, presenting approach\nand results to senior clients.\n\u2022\tProducing transformative responses in ever changing times. Planning and pivoting campaigns in reactive times\naround Covid-19 working closely with clients in a pandemic.\n\n\nSPARK FOUNDRY (Publicis Groupe)\nSenior Digital Account Manager, Jan 2018 - Dec 2018\nDisplay Account Manager, September 2016 - July 2017\n\nDay-to-day digital AM for QSR, retail and travel clients including two of the agencies highest spenders, managing team of six\nand responsible for campaign management, optimization, reporting & client communication.\n\nAchievements & Experience\n\u2022\tAccount lead for EMT, responsible for their largest campaign in their history, spending \u00a31.2m in digital. Our media\nhelped to achieve their business revenue targets 3 months early\n\u2022\tRolled out onboarding partner, LiveRamp, for WW to maximise efficiencies and reduce wastage. Early tests saw an\nincrease CR by 33%, resulting in all channels adoption.\n\u2022\tEvolving digital innovation, showcasing intelligent planning in line with new media opportunities such as developed a\nbespoke targeting solution for EMT, refining data from their third party booking system.\n\u2022\tSuccessfully rolled out dynamic creative across ASDA, EMT & WW on both display and social. This new approach saw\nconversion rate increases of up to 40%\n\u2022\tDigital account lead for display & social activity across the largest agency performance client, controlling annual\nbudgets over \u00a38m\n\u2022\tExperience in all aspects of digital media including attribution, econometrics, dynamic creative and data on-boarding.\nPlanning, developing and executing end-to-end digital strategies.\n\u2022\tBuilding, managing and developing junior team across a variety of digital specialisms\n\u2022\tCoordinating cross-channel responses to client briefs, ensuring collaboration across multiple teams and accurate\nadherence to client timelines & business objectives\nm\/SIX (GroupM)\nDisplay Account Manager, March 2015 - August 2016\nDisplay Account Executive, August 2013 - March 2015\n\nResponsible for a portfolio of over \u00a33 million; planning, forecasting, testing and managing digital strategies for brands across a\nvariety of industries such as retail, insurance, news, cruise lines and FMCG.\n\nAchievements & Experience\n\u2022\tLaunched Tango's first campaign in over 20 years, working closely with PR, social and creative agencies.\n\u2022\tEarly adopters in utilizing Facebook custom audiences to increase retention among existing customers with timely\nupgrade reminders with bespoke deals based on their current plan.\n\u2022\tCollaborated with talent from across The &Partnership on award winning Prince's Trust campaigns tackling issues\nsuch as Domestic Abuse.\n\u2022\tRepresented the agency in new business pitches with success on Avon.\n\u2022\tRunning training workshops for clients in order to upskill and increase digital understanding.\n\u2022\tManaging and developing three junior team members.\n\n\nPlatforms & Accreditations\nExperienced tool usage across the digital ecosystem including buying platforms (DV360, Facebook Business Manager,\nTwitter Ads), bid management (   ~~~~~  ), ad serving (Campiagn Manager, Flashtalking), analytics and data\nmanagement (LiveRamp, Salesforce, GA360) and reporting (Tableau, Datorama).\n\nFacebook Blueprint Accredited & currently undergoing Amazon Advertising Accreditation.\n\n\nEducation\n2010 - 2013\t2008-2010\nUniversity of Leicester\tSlough Grammar School\n\nBSc Maths with Management (First Class Honors)\tA-Level Mathematics A, Chemistry B, Psychology B\n\nDissertation (75%) Gained a two week placement\tAS Level English Literature C\nto implement my system into a FS company\n2003-2008\nSlough Grammar School\n\n12 GCSEs A*-B",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-GB",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = UK; Culture.DefaultCultureIsUK = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2021-01-20",
+        "SovrenSignature": [
+            "nYP\/\/\/\/\/\/\/8="
+        ]
+    }
+}
