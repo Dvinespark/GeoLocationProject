@@ -3,5 +3,6 @@
   "files": [],
   "file_extension": "json",
   "output_directory": "",
-  "output_file": "applicant_info.json"
+  "output_file": "applicant_info.json",
+  "minimum_education": ["masters"]
 }
