@@ -29,8 +29,8 @@ def pull_data(site_url):
     sub_category = []
     jobs = []
     s = Service('./chromedriver.exe')
-    driver = webdriver.Chrome(service=s)
-    driver.maximize_window()
+    driver = webdriver.Chrome(service=s, options=options)
+    # driver.maximize_window()
     driver.get(site_url)
 
     # getting divs with category
@@ -47,17 +47,34 @@ def pull_data(site_url):
             temp_sub_category.append(each_li.text)
             print("Navigating to .... " + each_li.text)
             temp_jobs = get_job_list(each_li.find_elements(By.TAG_NAME, 'a')[0].get_attribute('href'))
+            jobs.append(temp_jobs)
             # driver.execute_script("window.history.go(-1)")
         sub_category.append(temp_sub_category)
-        jobs.append(temp_jobs)
+        # jobs.append(temp_jobs)
 
     print(category)
     print(sub_category)
     print(jobs)
 
     driver.close()
-
-    # do some logic here to make a flat lists and then write it in xl file
+    print("Fetching completed....")
+    print("Starting to write in file...")
+    data = []
+    for i, j in zip(category, sub_category):
+        temp_data = {}
+        temp3_data = []
+        temp_data['category'] = i
+        for s_cat in j:
+            temp2_data = {}
+            temp2_data['title'] = s_cat
+            temp2_data['jobs'] = jobs.pop(0)
+            temp3_data.append(temp2_data)
+        temp_data['sub_category'] = temp3_data
+        data.append(temp_data)
+    # do some logic here to make a json file
+    with open('output.json', 'w') as f:
+        import json
+        f.write(json.dumps(data))
 
 
 if __name__ == "__main__":
