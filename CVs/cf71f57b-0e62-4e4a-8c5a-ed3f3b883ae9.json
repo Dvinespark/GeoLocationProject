@@ -1,0 +1,779 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "CountryCode": "US",
+            "PostalCode": "75006",
+            "Regions": [
+                "TX"
+            ],
+            "Municipality": "Carrollton",
+            "GeoCoordinates": {
+                "Latitude": 32.96894073486328,
+                "Longitude": -96.87399291992188
+            }
+        }
+    },
+    "ProfessionalSummary": "Twenty years of experience in the\n\ngraphic design industry.\n\nProficient in Adobe Creative Suite,\nMS Office and more on both Mac\nand PC platforms.\nAbility to manage multiple\nprojects, meet tights deadlines,\nand direct projects from\nconception to completion.",
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "Associate Degree",
+                "Normalized": "associates"
+            },
+            "Type": "associates"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "Texas State Technical College   Brookhaven College\nAssociate Degree in\tWeb Design\nCommercial Art & Advertising",
+                "SchoolName": {
+                    "Raw": "Texas State Technical College",
+                    "Normalized": "Texas State Technical College"
+                },
+                "SchoolType": "trade",
+                "Degree": {
+                    "Name": {
+                        "Raw": "Associate Degree",
+                        "Normalized": "associates"
+                    },
+                    "Type": "associates"
+                },
+                "Majors": [
+                    "Web Design"
+                ]
+            },
+            {
+                "Id": "DEG-2",
+                "Text": "Central Texas College\nTexas A&M University\tGeneral Studies\nCorpus Christi\nFine Art",
+                "SchoolName": {
+                    "Raw": "Texas A&M University",
+                    "Normalized": "Texas A&M University"
+                },
+                "SchoolType": "university",
+                "Degree": [],
+                "Majors": [
+                    "General Studies"
+                ]
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "The candidate is experienced in the management of:  Graphic Design (Software); and Information Technology (Internet). The candidate has 14 years of work experience, with 11 years of management experience, including a mid-level position.",
+            "MonthsOfWorkExperience": 168,
+            "MonthsOfManagementExperience": 132,
+            "ExecutiveType": "GENERAL",
+            "AverageMonthsPerEmployer": 84,
+            "FulltimeDirectHirePredictiveIndex": 100,
+            "ManagementStory": "Starting on 1\/1\/2005, the candidate held the following mid-level management position for 11 years and 1 months:\n\tTitle: Art Director for Deluxe, Creative Group",
+            "CurrentManagementLevel": "mid-level",
+            "ManagementScore": 55
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Creative Group",
+                        "Normalized": "Creative Group"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Art Director",
+                    "Normalized": "Art Director",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2005-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2015-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Senior Manager (more than 5 years management experience)",
+                "TaxonomyPercentage": 0,
+                "Description": "2001 - 2002\nUSFI\tArt Squad\nArt Director\tGraphic Designer"
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Cargill Inc",
+                        "Normalized": "Cargill"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Graphic Designer",
+                    "Normalized": "Graphic Designer",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2002-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2005-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Graphic Designer"
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "33",
+                    "Name": "Graphic Design",
+                    "PercentOfOverall": 27,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "432",
+                            "SubTaxonomyName": "Software",
+                            "PercentOfOverall": 24,
+                            "PercentOfParent": 89,
+                            "Skills": [
+                                {
+                                    "Id": "013418",
+                                    "Name": "Adobe Illustrator",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555154316",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "024922",
+                                    "Name": "After Effects",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "026625",
+                                    "Name": "Dreamweaver",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "026056",
+                                    "Name": "Indesign",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "025873",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "433",
+                            "SubTaxonomyName": "Techniques and Activities",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 11,
+                            "Skills": [
+                                {
+                                    "Id": "024422",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "020908",
+                                    "Name": "Logo Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 26,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "196",
+                            "SubTaxonomyName": "Internet",
+                            "PercentOfOverall": 13,
+                            "PercentOfParent": 48,
+                            "Skills": [
+                                {
+                                    "Id": "014705",
+                                    "Name": "CSS",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "026624",
+                                    "Name": "Dreamweaver",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "010994",
+                                    "Name": "WEB Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "204",
+                            "SubTaxonomyName": "Programming",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 35,
+                            "Skills": [
+                                {
+                                    "Id": "019115",
+                                    "Name": "HTML",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "351",
+                            "SubTaxonomyName": "Multimedia",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 17,
+                            "Skills": [
+                                {
+                                    "Id": "022137",
+                                    "Name": "MS Office",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 24,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "592",
+                            "SubTaxonomyName": "Marketing Communications",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 38,
+                            "Skills": [
+                                {
+                                    "Id": "1400153",
+                                    "Name": "Advertising",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 38,
+                            "Skills": [
+                                {
+                                    "Id": "026852",
+                                    "Name": "Prepress",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "595",
+                            "SubTaxonomyName": "Advertising",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 19,
+                            "Skills": [
+                                {
+                                    "Id": "1400197",
+                                    "Name": "Logo Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "1400242",
+                                    "Name": "WEB Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 22,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "571",
+                            "SubTaxonomyName": "Web Design",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 41,
+                            "Skills": [
+                                {
+                                    "Id": "3391111",
+                                    "Name": "Wordpress",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "569",
+                            "SubTaxonomyName": "Graphic Design",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 24,
+                            "Skills": [
+                                {
+                                    "Id": "5570264",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "5570122",
+                                    "Name": "Illustration",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570123",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "568",
+                            "SubTaxonomyName": "Integration Design",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 14,
+                            "Skills": [
+                                {
+                                    "Id": "5570110",
+                                    "Name": "WEB Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "566",
+                            "SubTaxonomyName": "Industrial Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "5570095",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "5570072",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "012099",
+                                    "Name": "Acrobat",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "022841",
+                                    "Name": "Excel",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "024467",
+                                    "Name": "Microsoft Office",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "022136",
+                                            "Name": "MS Office",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SUMMARY"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "023613",
+                                    "Name": "Microsoft Powerpoint",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "021977",
+                                            "Name": "Powerpoint",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "004729",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "300",
+                            "SubTaxonomyName": "Mac",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "020979",
+                                    "Name": "MAC",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "229",
+                            "SubTaxonomyName": "Visual",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "014688",
+                                    "Name": "After Effects",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "019533",
+                                    "Name": "Illustrator",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "Achievements": [
+        "Gold Communicator Award",
+        "2010 Logo Design"
+    ],
+    "QualificationsSummary": "SKILLS AND KNOWLEDGE\n\nAdobe Creative Suite\t  Microsoft Office\n\nAcrobat\tWord\n\nInDesign\tExcel\nIllustrator\tPowerPoint\nPhotoshop\tMiscellaneous\nXD\tSketch\nAfter Effects\t Keynote\nDreamweaver\tHTML \/ CSS\nPrepress \/ Production\t Wordpress",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 4,
+                "LastLineNumber": 19,
+                "SectionType": "SUMMARY",
+                "HeaderTextFound": "PROFILE"
+            },
+            {
+                "FirstLineNumber": 20,
+                "LastLineNumber": 44,
+                "SectionType": "CONTACT INFO",
+                "HeaderTextFound": "CONTACT INFO"
+            },
+            {
+                "FirstLineNumber": 45,
+                "LastLineNumber": 59,
+                "SectionType": "SKILLS",
+                "HeaderTextFound": "SKILLS AND KNOWLEDGE"
+            },
+            {
+                "FirstLineNumber": 60,
+                "LastLineNumber": 75,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "WORK EXPERIENCE"
+            },
+            {
+                "FirstLineNumber": 76,
+                "LastLineNumber": 86,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "EDUCATION"
+            },
+            {
+                "FirstLineNumber": 87,
+                "LastLineNumber": 90,
+                "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+                "HeaderTextFound": "AWARDS"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Fatal Problems Found",
+                "Findings": [
+                    {
+                        "QualityCode": "433",
+                        "Message": "We detected that this document contained at least some data that was laid out as columns or tables. We rearranged that data to make it more usable. NEVER use columns or tables in a resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    },
+                    {
+                        "QualityCode": "302",
+                        "Message": "A first and last name was not found in the contact information. A resume should always include the candidate's first and last name."
+                    },
+                    {
+                        "QualityCode": "311",
+                        "Message": "The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "226",
+                        "Message": "We found no work history positions within the past year. A resume should include work history information, including time off, for the most recent year."
+                    },
+                    {
+                        "QualityCode": "231",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "DEG-2"
+                            }
+                        ],
+                        "Message": "Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "161",
+                        "Message": "High school (or lower) education should not be included on resumes that contain higher-level education."
+                    },
+                    {
+                        "QualityCode": "112",
+                        "Message": "The following section was identified as a skills section type: 'SKILLS AND KNOWLEDGE'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+                    }
+                ]
+            }
+        ],
+        "PlainText": "Graphic Designer | Art Director\nGraphic Designer | Art Director\n\n\nPROFILE\n\n\nTwenty years of experience in the\n\ngraphic design industry.\n\nProficient in Adobe Creative Suite,\nMS Office and more on both Mac\nand PC platforms.\nAbility to manage multiple\nprojects, meet tights deadlines,\nand direct projects from\nconception to completion.\n\n\nCONTACT INFO\n\nAddress\n\n   ~~~~~~~~~~~~~  \n\nCarrollton, TX 75006\n\n\n   ~~\n~~~~~~~~~~  \n\n\nEmail\n   ~~~~~~~~~~~~~~~~  \n\n\nWebsite\n   ~~~~~~~~~~  \n\nLinkedIn\njoshboulden\n\n\nRemote Capable\nSKILLS AND KNOWLEDGE\n\nAdobe Creative Suite\t  Microsoft Office\n\nAcrobat\tWord\n\nInDesign\tExcel\nIllustrator\tPowerPoint\nPhotoshop\tMiscellaneous\nXD\tSketch\nAfter Effects\t Keynote\nDreamweaver\tHTML \/ CSS\nPrepress \/ Production\t Wordpress\n\n\nWORK EXPERIENCE\n2015 - 2020\t2001 - 2002\n\nDeluxe\t\tCreative Group\n\nArt Director\tGraphic Designer\n\n2005 - 2015\t2001 - 2002\nUSFI\tArt Squad\nArt Director\tGraphic Designer\n\n2002 - 2005\t2000 - 2001\nTechlight\tCargill Inc.\nGraphic Designer\tGraphic Designer\n\n\nEDUCATION\n\nTexas State Technical College   Brookhaven College\nAssociate Degree in\tWeb Design\nCommercial Art & Advertising\nCentral Texas College\nTexas A&M University\tGeneral Studies\nCorpus Christi\nFine Art\n\n\nAWARDS\n\nGold Communicator Award\n2010 Logo Design",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-10-14",
+        "SovrenSignature": [
+            "4cH+\/\/\/\/\/\/8="
+        ]
+    }
+}

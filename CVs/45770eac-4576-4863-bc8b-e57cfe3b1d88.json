@@ -1,0 +1,575 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "CountryCode": "US",
+            "PostalCode": "08070",
+            "Regions": [
+                "NJ"
+            ],
+            "Municipality": "Pennsville",
+            "GeoCoordinates": {
+                "Latitude": 43.653221130371094,
+                "Longitude": -79.38318634033203
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "Bachelor of Science",
+                "Normalized": "BSc"
+            },
+            "Type": "bachelors"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "Rowan University \/ Business Management Bachelor of Science\nSeptember 2018 - Current Day, Glassboro, NJ,\nStill ongoing today, I am in my senior year at Rowan University, and I could not be happier. I plan to complete my degree and finish my time here feeling accomplished and that my time is well spent. Rowan has always had an eye for talent, and I do not consider myself an exception by any means. Since going to Rowan University, I have consistently made the Dean's list.",
+                "SchoolName": {
+                    "Raw": "Rowan University",
+                    "Normalized": "Rowan University"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "Bachelor of Science",
+                        "Normalized": "BSc"
+                    },
+                    "Type": "bachelors"
+                },
+                "Majors": [
+                    "Business Management"
+                ],
+                "LastEducationDate": {
+                    "Date": "2020-11-17",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "Graduated": {
+                    "Value": false
+                }
+            },
+            {
+                "Id": "DEG-2",
+                "Text": "Salem Community College \/ Business Administration AS\nSeptember 2017 - May 2018, Carney's Point, NJ\nI started my time at Salem Community College during the summer going into my senior year. I loved my time there so much that I decided to also take advantage of the \"Jumpstart\" program that my high school offered to use my senior year of high school to be a freshman at SCC.  I finished here with 65 credits and a Cumulative GPA of 3.53.\n\n\u3161   References   Available upon request.",
+                "SchoolName": {
+                    "Raw": "Salem Community College",
+                    "Normalized": "Salem Community College"
+                },
+                "SchoolType": "community",
+                "Degree": {
+                    "Name": {
+                        "Raw": "AS",
+                        "Normalized": "ASc"
+                    },
+                    "Type": "associates"
+                },
+                "Majors": [
+                    "Business Administration"
+                ],
+                "GPA": {
+                    "Score": "3.53",
+                    "ScoringSystem": "GPA",
+                    "MaxScore": "4",
+                    "MinimumScore": "0",
+                    "NormalizedScore": 0.883
+                },
+                "LastEducationDate": {
+                    "Date": "2018-05-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "Graduated": {
+                    "Value": false
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "The candidate is experienced in:  Retail (Money Handling). The candidate has 6 years of work experience.",
+            "MonthsOfWorkExperience": 66,
+            "MonthsOfManagementExperience": 0,
+            "ExecutiveType": "NONE",
+            "AverageMonthsPerEmployer": 33,
+            "FulltimeDirectHirePredictiveIndex": 85,
+            "ManagementStory": "",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 0
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Amazon",
+                        "Normalized": "Amazon"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "New Jersey"
+                        ],
+                        "Municipality": "Pennsville"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Warehouse Associate",
+                    "Normalized": "Warehouse Associate",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2019-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-11-17",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Working at Amazon as a Warehouse Associate has given me experience in a different field. As a Warehouse Associate, I am assigned the responsibility of working multiple jobs within the warehouse, some including being gaylord dumper trained, trained to take care of specialized packages that would not normally go through the whole Amazon warehouse, organizing packages into their appropriate spots, and solving problems to make sure the warehouse is in working order."
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "Acme Markets",
+                        "Normalized": "Acme Markets"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "New Jersey"
+                        ],
+                        "Municipality": "Pennsville"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Scan Administrator",
+                    "Normalized": "Scan Administrator",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2018-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2019-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "As the Scan Administrator of the store it was my sole responsibility to ensure prices were correct for the entire store.  I was required to prepare and distribute price tags to each of the various departments within the store."
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "Acme Markets",
+                        "Normalized": "Acme Markets"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "New Jersey"
+                        ],
+                        "Municipality": "Pennsville"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Self-Checkout Attendant",
+                    "Normalized": "Self Checkout Attendant",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2017-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2018-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Retail",
+                "SubTaxonomyName": "Money Handling",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "This position is extremely similar to being a cashier. However, when working at self-checkout, you are on an island by yourself.  You are forced to make split-second decisions, keeping the customer satisfaction as the main priority. During my time at self-checkout, I had been assigned many other responsibilities. The job was fulfilling because my workload was high, and I was able to complete my tasks within the time frame I had."
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Acme",
+                        "Normalized": "Acme"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "New Jersey"
+                        ],
+                        "Municipality": "Pennsville"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Markets \/ Cashier",
+                    "Normalized": "Markets Cashier",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Cashier"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2015-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2017-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Retail",
+                "SubTaxonomyName": "Money Handling",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Dealing with customers on a daily basis for quite a long time, this job experience has not only put my social skills to the test, but also made me a quick thinker that forced me to constantly have my eyes on the prize of making every customer feel welcome and wanting to come back again. Not only did the customer have to be excited to see me, but also to come back and shop at the store. I was able to get an employee of the month reward working as a cashier at Acme Markets.\n\n\u3161"
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "78",
+                    "Name": "Retail",
+                    "PercentOfOverall": 70,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "509",
+                            "SubTaxonomyName": "Money Handling",
+                            "PercentOfOverall": 70,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "026938",
+                                    "Name": "Cashier",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-06-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 18,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "589",
+                            "SubTaxonomyName": "Business Planning",
+                            "PercentOfOverall": 18,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "1400092",
+                                    "Name": "Business Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-11-17"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "80",
+                    "Name": "General Management",
+                    "PercentOfOverall": 9,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "519",
+                            "SubTaxonomyName": "Management and Management Tasks",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "012212",
+                                    "Name": "Business Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-11-17"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "532",
+                            "SubTaxonomyName": "Aptitudes",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "020668",
+                                    "Name": "Leadership Skills",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "016848",
+                                    "Name": "Time Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "436",
+                            "SubTaxonomyName": "Management Activities or Functions",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "004037",
+                                    "Name": "Time Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "022841",
+                                    "Name": "Excel",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "024467",
+                                    "Name": "Microsoft Office",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "023613",
+                                    "Name": "Microsoft Powerpoint",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "021977",
+                                            "Name": "Powerpoint",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "Achievements": [
+        "Inducted into The National Society of Leadership and Success",
+        "Dealing with customers on a daily basis for quite a long time, this job experience has not only put my social skills to the test, but also made me a quick thinker that forced me to constantly have my eyes on the prize of making every customer feel welcome and wanting to come back again. Not only did the customer have to be excited to see me, but also to come back and shop at the store. I was able to get an employee of the month reward working as a cashier at Acme Markets",
+        "Still ongoing today, I am in my senior year at Rowan University, and I could not be happier. I plan to complete my degree and finish my time here feeling accomplished and that my time is well spent. Rowan has always had an eye for talent, and I do not consider myself an exception by any means. Since going to Rowan University, I have consistently made the Dean's list"
+    ],
+    "QualificationsSummary": "Skills\n\nAdept in Microsoft Office Suite (Experience with Word, Excel, Outlook, PowerPoint, and Access)\nSuperb time management and resource allocation skills\nAble to adapt to various situations\nHave proven leadership skills\nInducted into The National Society of Leadership and Success\n\n\u3161",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 11,
+                "LastLineNumber": 19,
+                "SectionType": "SKILLS",
+                "HeaderTextFound": "Skills"
+            },
+            {
+                "FirstLineNumber": 20,
+                "LastLineNumber": 39,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "Experience"
+            },
+            {
+                "FirstLineNumber": 40,
+                "LastLineNumber": 50,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "Education"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "302",
+                        "Message": "A first and last name was not found in the contact information. A resume should always include the candidate's first and last name."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "112",
+                        "Message": "The following section was identified as a skills section type: 'Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+                    }
+                ]
+            }
+        ],
+        "PlainText": "Noah\nGratz\nBusiness Management\n\nNoah Gratz\n   ~~~~~~~~~~~~~  \nPennsville, NJ, 08070\n   ~~~~~~~  \n   ~~~~~~~~~~~~~~~~~  \n\n\u3161\nSkills\n\nAdept in Microsoft Office Suite (Experience with Word, Excel, Outlook, PowerPoint, and Access)\nSuperb time management and resource allocation skills\nAble to adapt to various situations\nHave proven leadership skills\nInducted into The National Society of Leadership and Success\n\n\u3161\nExperience\n\nAmazon \/  Warehouse Associate\nJune 2019 - Present, Pennsville, New Jersey\nWorking at Amazon as a Warehouse Associate has given me experience in a different field. As a Warehouse Associate, I am assigned the responsibility of working multiple jobs within the warehouse, some including being gaylord dumper trained, trained to take care of specialized packages that would not normally go through the whole Amazon warehouse, organizing packages into their appropriate spots, and solving problems to make sure the warehouse is in working order.\n\nAcme Markets \/ Scan Administrator\nJune 2018 - June 2019, Pennsville, New Jersey\nAs the Scan Administrator of the store it was my sole responsibility to ensure prices were correct for the entire store.  I was required to prepare and distribute price tags to each of the various departments within the store.\n\nAcme Markets \/ Self-Checkout Attendant\nJune 2017 - June 2018, Pennsville, New Jersey\nThis position is extremely similar to being a cashier. However, when working at self-checkout, you are on an island by yourself.  You are forced to make split-second decisions, keeping the customer satisfaction as the main priority. During my time at self-checkout, I had been assigned many other responsibilities. The job was fulfilling because my workload was high, and I was able to complete my tasks within the time frame I had.\n\n\nAcme  Markets \/ Cashier\nJune 2015 - June 2017, Pennsville, New Jersey\nDealing with customers on a daily basis for quite a long time, this job experience has not only put my social skills to the test, but also made me a quick thinker that forced me to constantly have my eyes on the prize of making every customer feel welcome and wanting to come back again. Not only did the customer have to be excited to see me, but also to come back and shop at the store. I was able to get an employee of the month reward working as a cashier at Acme Markets.\n\n\u3161\nEducation\n\nRowan University \/ Business Management Bachelor of Science\nSeptember 2018 - Current Day, Glassboro, NJ,\nStill ongoing today, I am in my senior year at Rowan University, and I could not be happier. I plan to complete my degree and finish my time here feeling accomplished and that my time is well spent. Rowan has always had an eye for talent, and I do not consider myself an exception by any means. Since going to Rowan University, I have consistently made the Dean's list.\n\nSalem Community College \/ Business Administration AS\nSeptember 2017 - May 2018, Carney's Point, NJ\nI started my time at Salem Community College during the summer going into my senior year. I loved my time there so much that I decided to also take advantage of the \"Jumpstart\" program that my high school offered to use my senior year of high school to be a freshman at SCC.  I finished here with 65 credits and a Cumulative GPA of 3.53.\n\n\u3161   References   Available upon request.",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-11-17",
+        "SovrenSignature": [
+            "4CcAAAAAAAA="
+        ]
+    }
+}

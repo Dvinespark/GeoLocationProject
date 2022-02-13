@@ -1,0 +1,1410 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "CountryCode": "US",
+            "PostalCode": "76210",
+            "Regions": [
+                "Texas"
+            ],
+            "Municipality": "Denton",
+            "GeoCoordinates": {
+                "Latitude": 33.161659240722656,
+                "Longitude": -97.11463165283203
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "Bachelors of Science in Advertising Minors in Art and Spanish",
+                "Normalized": "BSc"
+            },
+            "Type": "bachelors"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "TEXAS TECH UNIVERSITY | LUBBOCK, TEXAS\n\u2022 Bachelors of Science in Advertising Minors in Art and Spanish",
+                "SchoolName": {
+                    "Raw": "TEXAS TECH UNIVERSITY",
+                    "Normalized": "TEXAS TECHNOLOGY UNIVERSITY"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "Bachelors of Science in Advertising Minors in Art and Spanish",
+                        "Normalized": "BSc"
+                    },
+                    "Type": "bachelors"
+                },
+                "Majors": [
+                    "Advertising Minors"
+                ]
+            },
+            {
+                "Id": "DEG-2",
+                "Text": "OKLAHOMA PANHANDLE STATE | GOODWELL, OKLAHOMA\n\u2022 Physical Education\/Scholarship Athlete\nDIGITAL TUTORS | ONLINE TRAINING | OKLAHOMA CITY, OKLAHOMA\n\u2022 Continuing education on-line courses in advanced 3D Animation, Motion Graphics and Adobe CC\nSTERLING LEDET | ADOBE TRAINING | SAN DIEGO, CALIFORNIA\n\u2022 Adobe After Effects Training Course\nDEMO REEL\n\u2022 2019 Compilation reel:\n\u2022 2016 Demo Reel:\n\n\u2022 Freelance Work:\n\n\u2022 NBC Compilation Reel:",
+                "SchoolName": {
+                    "Raw": "OKLAHOMA PANHANDLE STATE",
+                    "Normalized": "OKLAHOMA PANHANDLE STATE"
+                },
+                "SchoolType": "UNSPECIFIED",
+                "Degree": [],
+                "Majors": [
+                    "3D Animation, Motion Graphics and Adobe CC"
+                ]
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~~~~~~~   is experienced in:  Information Technology (Gaming); and Manufacturing.    ~~~~~~~~~~~~   has 13 years of work experience.",
+            "MonthsOfWorkExperience": 158,
+            "MonthsOfManagementExperience": 0,
+            "ExecutiveType": "NONE",
+            "AverageMonthsPerEmployer": 52,
+            "FulltimeDirectHirePredictiveIndex": 41,
+            "ManagementStory": "",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 0
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "TARANGO ANIMATION DESIGN",
+                        "Normalized": "TARANGO ANIMATION DESIGN"
+                    }
+                },
+                "IsSelfEmployed": true,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "MOTION GRAPHICS DESIGNER  | FREELANCE",
+                    "Normalized": "MOTION GRAPHICS DESIGNER FREELANCE",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "MOTION GRAPHICS DESIGNER",
+                        "FREELANCE"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2020-09-30",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-09-30",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "contract",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Gaming",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2022 Designed and animated Motion Graphics for various clients on Contract\/Freelance assignments.\n\u2022 Utilized the Adobe CC 2019 for video editing and special effects.  Incorporated the use of Cinema 4D."
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "THE INTERSECT GROUP",
+                        "Normalized": "THE INTERSECT GROUP"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "E-LEARNING DESIGNER",
+                    "Normalized": "E LEARNING DESIGNER",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2017-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2019-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Graphic Design",
+                "SubTaxonomyName": "Software",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2022 Designed and animated Motion Graphics for Pioneer Natural Resources.\n\u2022 Created custom animations for E-Learning training programs such as safety, finance and accounting and proprietary software system navigation, which led to over 20 E-Learning online test and tutorial courses.\n\u2022 Utilized software that included: Adobe CC 2019 After Effects, Photoshop, Illustrator, Audition and Premiere.   Hand drew illustrations for custom projects."
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "NBC UNIVERSAL",
+                        "Normalized": "NBC UNIVERSAL"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "GRAPHIC DESIGNER",
+                    "Normalized": "GRAPHIC DESIGNER",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2005-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2016-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Gaming",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2022 Created 2D and 3D graphics for 16 NBC and Telemundo television stations.  Provided graphic design and animation in up to 16 design formats using Adobe CC and Cinema 4D software.\n\u2022 Revised layouts from existing and conceptual artwork to ensure brands retained accuracy, integrity and consistency of message.\n\u2022 Facilitated the management of the digital assets library including maintenance, process flow, improvements, file management and archive systems.\n\u2022 Provided customer service for 20 broadcast television stations via email, phone calls and instant messaging.  Service included but not limited to: Motion Graphics and graphic design work.\n\u2022 Designed graphics and animations in a deadline-driven environment to ensure client deliverables."
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 32,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "551",
+                            "SubTaxonomyName": "Gaming",
+                            "PercentOfOverall": 20,
+                            "PercentOfParent": 63,
+                            "Skills": [
+                                {
+                                    "Id": "555121788",
+                                    "Name": "Cinema 4D",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 139
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "253",
+                            "SubTaxonomyName": "Protocols and Standards",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 22,
+                            "Skills": [
+                                {
+                                    "Id": "014276",
+                                    "Name": "3D Graphics",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 138
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "204",
+                            "SubTaxonomyName": "Programming",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 14,
+                            "Skills": [
+                                {
+                                    "Id": "003276",
+                                    "Name": "Natural",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "345",
+                            "SubTaxonomyName": "Middleware and Integration",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "025477",
+                                    "Name": "Sterling",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "200",
+                            "SubTaxonomyName": "QA and QC",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "002858",
+                                    "Name": "Archiving",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "13",
+                    "Name": "Manufacturing",
+                    "PercentOfOverall": 14,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "207",
+                            "SubTaxonomyName": "Process Control",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "023431",
+                                    "Name": "Process Flow",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 138
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "364",
+                            "SubTaxonomyName": "Equipment",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "022116",
+                                    "Name": "Maintenance",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 138
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-12-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "1",
+                    "Name": "Administrative or Clerical",
+                    "PercentOfOverall": 12,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "109",
+                            "SubTaxonomyName": "Document-centric",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 71,
+                            "Skills": [
+                                {
+                                    "Id": "026160",
+                                    "Name": "Encoder",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "017430",
+                                    "Name": "File Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 138
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "112",
+                            "SubTaxonomyName": "Messages and Contact",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 29,
+                            "Skills": [
+                                {
+                                    "Id": "023735",
+                                    "Name": "Customer Service Oriented",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "013326",
+                                            "Name": "Customer Service",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 138
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2016-12-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 138
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-12-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 12,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "569",
+                            "SubTaxonomyName": "Graphic Design",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 42,
+                            "Skills": [
+                                {
+                                    "Id": "5570118",
+                                    "Name": "Animation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 138
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-12-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5570264",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 138
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-12-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5570122",
+                                    "Name": "Illustration",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570123",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 19
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2019-03-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 29,
+                            "Skills": [
+                                {
+                                    "Id": "5570058",
+                                    "Name": "Animation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 138
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-12-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5570072",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 138
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "572",
+                            "SubTaxonomyName": "Interactive Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 15,
+                            "Skills": [
+                                {
+                                    "Id": "5570156",
+                                    "Name": "Animation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 138
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "566",
+                            "SubTaxonomyName": "Industrial Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 15,
+                            "Skills": [
+                                {
+                                    "Id": "5570095",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 138
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-12-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "33",
+                    "Name": "Graphic Design",
+                    "PercentOfOverall": 12,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "432",
+                            "SubTaxonomyName": "Software",
+                            "PercentOfOverall": 11,
+                            "PercentOfParent": 93,
+                            "Skills": [
+                                {
+                                    "Id": "013418",
+                                    "Name": "Adobe Illustrator",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555154316",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 19
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2019-03-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "013452",
+                                    "Name": "Adobe Premiere",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555154600",
+                                            "Name": "Premiere",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 19
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2019-03-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "024922",
+                                    "Name": "After Effects",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "013380",
+                                            "Name": "Adobe after Effects",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "EDUCATION",
+                                                    "Id": "DEG-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "026056",
+                                    "Name": "Indesign",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "025873",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "013441",
+                                            "Name": "Adobe Photoshop",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "433",
+                            "SubTaxonomyName": "Techniques and Activities",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "022091",
+                                    "Name": "Animation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 138
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-12-01"
+                                    }
+                                },
+                                {
+                                    "Id": "024422",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 138
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-12-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "32",
+                    "Name": "Degreed Accounting",
+                    "PercentOfOverall": 9,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "932",
+                            "SubTaxonomyName": "Accounting",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 50
+                        },
+                        {
+                            "SubTaxonomyId": "950",
+                            "SubTaxonomyName": "CPA",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "7000058",
+                                    "Name": "Accounting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "944",
+                            "SubTaxonomyName": "Bookkeeping",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "022499",
+                                    "Name": "Accounting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-03-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "9",
+                    "Name": "Human Resources",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "580",
+                            "SubTaxonomyName": "Learning & Development",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "9000184",
+                                    "Name": "E-Learning",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "9000187",
+                                    "Name": "Online Learning",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "9000188",
+                                            "Name": "Online Training",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "EDUCATION",
+                                                    "Id": "DEG-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "92",
+                    "Name": "Knowledge and Learning Management",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "903",
+                            "SubTaxonomyName": "General Knowledge and Learning Management",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "200068",
+                                    "Name": "Training Programs",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-03-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "7",
+                    "Name": "Finance",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "243",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "023147",
+                                    "Name": "Finance",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-03-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "78",
+                    "Name": "Retail",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "511",
+                            "SubTaxonomyName": "Positions",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022943",
+                                    "Name": "Retail Sales",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "006920",
+                                            "Name": "Customer Service",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 138
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2016-12-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 138
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-12-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "26",
+                    "Name": "Power Engineering",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "925",
+                            "SubTaxonomyName": "General Power Related",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "081108",
+                                    "Name": "Ovation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "592",
+                            "SubTaxonomyName": "Marketing Communications",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "1400153",
+                                    "Name": "Advertising",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "529",
+                            "SubTaxonomyName": "Languages",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "025179",
+                                    "Name": "BI-Lingual",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "0251792",
+                                            "Name": "Bilingual",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "022841",
+                                    "Name": "Excel",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "024467",
+                                    "Name": "Microsoft Office",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "023613",
+                                    "Name": "Microsoft Powerpoint",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "021977",
+                                            "Name": "Powerpoint",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "004729",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "300",
+                            "SubTaxonomyName": "Mac",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "020979",
+                                    "Name": "MAC",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "229",
+                            "SubTaxonomyName": "Visual",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "014688",
+                                    "Name": "After Effects",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "019533",
+                                    "Name": "Illustrator",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-03-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "BILINGUAL Fluent in English and Spanish"
+        },
+        {
+            "Language": "Spanish",
+            "LanguageCode": "es",
+            "FoundInContext": "BILINGUAL Fluent in English and Spanish [AND] Advertising Minors in Art and Spanish"
+        }
+    ],
+    "Achievements": [
+        "Physical Education\/Scholarship Athlete",
+        "2015\t\tAVA Digital Gold Award for Animations.  Texas Tech University Athletics Department",
+        "2014\tTelly Award for Use of Animation.  Major League Baseball Opening Day",
+        "2012\t\tNBC Ovation Award for Team Work.  NBC Universal, Fort Worth Texas",
+        "DESIGN AND ANIMATION"
+    ],
+    "QualificationsSummary": "SKILLS\n\n\nBILINGUAL   Fluent in English and Spanish\nDESIGN AND ANIMATION\n\u2022 Adobe Software CC 2019 using Photoshop, Lightroom, Illustrator, After Effects, Premiere, Media Encoder, Audition, InDesign, Curious Maps and Cinema 4D.\n\u2022 Motion Graphics animations in 2D and 3D using Adobe CC 2019 After Effects and Cinema 4D.\n\u2022 Create\/revise graphic templates from existing and conceptual artwork.\n\u2022 Digital photography and photo editing using Adobe Photoshop and Lightroom.\n\u2022 Digital file management and archiving.\n\u2022 Design on both Mac and PC platforms.\n\u2022 Microsoft Office PowerPoint, Excel and Word.\n\u2022 Pre-Production and Post Production of videos.\n\u2022 10 years' experience with Live Caricature Drawing and custom hand drawings.",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 3,
+                "LastLineNumber": 17,
+                "SectionType": "SKILLS",
+                "HeaderTextFound": "SKILLS"
+            },
+            {
+                "FirstLineNumber": 18,
+                "LastLineNumber": 37,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "EXPERIENCE"
+            },
+            {
+                "FirstLineNumber": 38,
+                "LastLineNumber": 54,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "EDUCATION"
+            },
+            {
+                "FirstLineNumber": 55,
+                "LastLineNumber": 59,
+                "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+                "HeaderTextFound": "AWARDS"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "231",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "DEG-2"
+                            }
+                        ],
+                        "Message": "Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "161",
+                        "Message": "High school (or lower) education should not be included on resumes that contain higher-level education."
+                    },
+                    {
+                        "QualityCode": "112",
+                        "Message": "The following section was identified as a skills section type: 'SKILLS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~~~~~~  \n   ~~~~~~~~~~~~~~  , Denton, Texas 76210 |    ~~~~~~~~~~~~~   |    ~~~~~~~~~~~~~~~  .    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \/\n\nSKILLS\n\n\nBILINGUAL   Fluent in English and Spanish\nDESIGN AND ANIMATION\n\u2022 Adobe Software CC 2019 using Photoshop, Lightroom, Illustrator, After Effects, Premiere, Media Encoder, Audition, InDesign, Curious Maps and Cinema 4D.\n\u2022 Motion Graphics animations in 2D and 3D using Adobe CC 2019 After Effects and Cinema 4D.\n\u2022 Create\/revise graphic templates from existing and conceptual artwork.\n\u2022 Digital photography and photo editing using Adobe Photoshop and Lightroom.\n\u2022 Digital file management and archiving.\n\u2022 Design on both Mac and PC platforms.\n\u2022 Microsoft Office PowerPoint, Excel and Word.\n\u2022 Pre-Production and Post Production of videos.\n\u2022 10 years' experience with Live Caricature Drawing and custom hand drawings.\n\nEXPERIENCE\n\n\nTARANGO ANIMATION DESIGN | PRESENT | MOTION GRAPHICS DESIGNER  | FREELANCE\n\u2022 Designed and animated Motion Graphics for various clients on Contract\/Freelance assignments.\n\u2022 Utilized the Adobe CC 2019 for video editing and special effects.  Incorporated the use of Cinema 4D.\nTHE INTERSECT GROUP | AUGUST 2017 TO MARCH 2019 | E-LEARNING DESIGNER\n\u2022 Designed and animated Motion Graphics for Pioneer Natural Resources.\n\u2022 Created custom animations for E-Learning training programs such as safety, finance and accounting and proprietary software system navigation, which led to over 20 E-Learning online test and tutorial courses.\n\u2022 Utilized software that included: Adobe CC 2019 After Effects, Photoshop, Illustrator, Audition and Premiere.   Hand drew illustrations for custom projects.\nNBC UNIVERSAL | JUNE 2005 TO DECEMBER 2016 | GRAPHIC DESIGNER\n\u2022 Created 2D and 3D graphics for 16 NBC and Telemundo television stations.  Provided graphic design and animation in up to 16 design formats using Adobe CC and Cinema 4D software.\n\u2022 Revised layouts from existing and conceptual artwork to ensure brands retained accuracy, integrity and consistency of message.\n\u2022 Facilitated the management of the digital assets library including maintenance, process flow, improvements, file management and archive systems.\n\u2022 Provided customer service for 20 broadcast television stations via email, phone calls and instant messaging.  Service included but not limited to: Motion Graphics and graphic design work.\n\u2022 Designed graphics and animations in a deadline-driven environment to ensure client deliverables.\n\n   ~~~~~~~~~~~~  \n\n\nEDUCATION\nTEXAS TECH UNIVERSITY | LUBBOCK, TEXAS\n\u2022 Bachelors of Science in Advertising Minors in Art and Spanish\nOKLAHOMA PANHANDLE STATE | GOODWELL, OKLAHOMA\n\u2022 Physical Education\/Scholarship Athlete\nDIGITAL TUTORS | ONLINE TRAINING | OKLAHOMA CITY, OKLAHOMA\n\u2022 Continuing education on-line courses in advanced 3D Animation, Motion Graphics and Adobe CC\nSTERLING LEDET | ADOBE TRAINING | SAN DIEGO, CALIFORNIA\n\u2022 Adobe After Effects Training Course\nDEMO REEL\n\u2022 2019 Compilation reel:    ~~~~~~~~~~~~~~~~~~~~~  \n\u2022 2016 Demo Reel:    ~~~~~~~~~~~~~~~~~~~~~~  \n\n\u2022 Freelance Work:    ~~~~~~~~~~~~~~~~~~~~~  \n\n\u2022 NBC Compilation Reel:    ~~~~~~~~~~~~~~~~~~~~  \n\nAWARDS\nDESIGN AND ANIMATION\n\u2022 2015\t\tAVA Digital Gold Award for Animations.  Texas Tech University Athletics Department\n\u2022 2014\tTelly Award for Use of Animation.  Major League Baseball Opening Day\n\u2022 2012\t\tNBC Ovation Award for Team Work.  NBC Universal, Fort Worth Texas",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-09-30",
+        "SovrenSignature": [
+            "m8\/\/\/\/\/\/\/\/8="
+        ]
+    }
+}

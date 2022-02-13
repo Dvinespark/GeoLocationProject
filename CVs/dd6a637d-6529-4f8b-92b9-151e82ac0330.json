@@ -1,0 +1,1252 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "GeoCoordinates": {
+                "Latitude": 33.214839935302734,
+                "Longitude": -97.133056640625
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "M.S.",
+                "Normalized": "masters"
+            },
+            "Type": "masters"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-2",
+                "Text": "Spring 2022\nB.F.A. in Graphic Design,\n\nTexas Womans University,",
+                "SchoolName": {
+                    "Raw": "Texas Womans University",
+                    "Normalized": "Texas Womans University"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "B.F.A. in Graphic Design",
+                        "Normalized": "bachelors"
+                    },
+                    "Type": "bachelors"
+                },
+                "Majors": [
+                    "Graphic Design"
+                ],
+                "LastEducationDate": {
+                    "Date": "2022-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "Graduated": {
+                    "Value": false
+                }
+            },
+            {
+                "Id": "DEG-1",
+                "Text": "Dec. 2019-\n\nM.S. in User Experience Design\tNow\nKent State University\n4.0 GPA",
+                "SchoolName": {
+                    "Raw": "Kent State University",
+                    "Normalized": "Kent State"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "M.S.",
+                        "Normalized": "masters"
+                    },
+                    "Type": "masters"
+                },
+                "Majors": [
+                    "User Experience Design"
+                ],
+                "GPA": {
+                    "Score": "4.0",
+                    "ScoringSystem": "GPA",
+                    "MaxScore": "4",
+                    "MinimumScore": "0",
+                    "NormalizedScore": 1
+                },
+                "LastEducationDate": {
+                    "Date": "2019-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Id": "DEG-3",
+                "Text": "Cum Laude, Denton, TX\tJan. 2015-\n\nFall 2019\tNow\n\nAssociates in Art, Blinn College,",
+                "SchoolName": {
+                    "Raw": "Blinn College",
+                    "Normalized": "Blinn College"
+                },
+                "SchoolType": "college",
+                "Degree": {
+                    "Name": {
+                        "Raw": "Associates in Art",
+                        "Normalized": "associates"
+                    },
+                    "Type": "associates"
+                },
+                "Majors": [
+                    "Art"
+                ],
+                "LastEducationDate": {
+                    "Date": "2015-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "Graduated": {
+                    "Value": false
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "The candidate is experienced in:  User Experience; and Information Technology (Java). The candidate appears to be an entry-level candidate, with 0 months of experience.",
+            "MonthsOfWorkExperience": 0,
+            "MonthsOfManagementExperience": 0,
+            "ExecutiveType": "NONE",
+            "AverageMonthsPerEmployer": 0,
+            "FulltimeDirectHirePredictiveIndex": 0,
+            "ManagementStory": "Title: Owner and Creator for SIDE HUSTLES",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 0
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Blinn College",
+                        "Normalized": "Blinn College"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "TX"
+                        ],
+                        "Municipality": "Bryan"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Student Ambassador",
+                    "Normalized": "Student Ambassador",
+                    "Probability": "Confident"
+                },
+                "JobType": "temp",
+                "TaxonomyName": "Administrative or Clerical",
+                "SubTaxonomyName": "Messages and Contact",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Duties included setting up and giving campus\ntours, creating graphics for the college,\nanswering phones and other office tasks, and event execution."
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "SIDE HUSTLES",
+                        "Normalized": "SIDE HUSTLES"
+                    }
+                },
+                "IsSelfEmployed": true,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Owner and Creator",
+                    "Normalized": "Owner and Creator",
+                    "Probability": "Confident"
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Digital",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Ferris Co.\nAs my side hustle, duties include\n\ncreating, listing, and shipping stickers.\n\nAlso managing finances, creating social\nmedia ads, tracking inventory,\ncontacting clients and creating custom\norders in a timely and efficient manner.\n\nFreelance Designer\nWorked on a variety of unique projects includ-\n\ning logo designs, sales deck design, pricing\n\nsheets, phone backgrounds and more. With\nthis comes finance management, contract writ-\ning, and contacting clients and creating cus-\nalexis\n\n\nwarthen\n\n\nGraphic Designer & User Experience Designer"
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 30,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 24,
+                            "Skills": [
+                                {
+                                    "Id": "5570072",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "2022-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5570060",
+                                    "Name": "User Experience Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570061",
+                                            "Name": "UX Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ],
+                                    "LastUsed": {
+                                        "Value": "2019-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "569",
+                            "SubTaxonomyName": "Graphic Design",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 19,
+                            "Skills": [
+                                {
+                                    "Id": "5570264",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "2022-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5570122",
+                                    "Name": "Illustration",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570123",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "5570260",
+                                    "Name": "Print Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "566",
+                            "SubTaxonomyName": "Industrial Design",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 15,
+                            "Skills": [
+                                {
+                                    "Id": "5570095",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "2022-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5570092",
+                                    "Name": "Product Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "565",
+                            "SubTaxonomyName": "Visual Design",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 14,
+                            "Skills": [
+                                {
+                                    "Id": "5570238",
+                                    "Name": "Print Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "5570075",
+                                    "Name": "User Experience Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570076",
+                                            "Name": "UX Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ],
+                                    "LastUsed": {
+                                        "Value": "2019-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "573",
+                            "SubTaxonomyName": "Product Design",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 14,
+                            "Skills": [
+                                {
+                                    "Id": "5570168",
+                                    "Name": "Product Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "5570161",
+                                    "Name": "User Experience Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570162",
+                                            "Name": "UX Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ],
+                                    "LastUsed": {
+                                        "Value": "2019-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "560",
+                            "SubTaxonomyName": "UX Design",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 11,
+                            "Skills": [
+                                {
+                                    "Id": "5570017",
+                                    "Name": "User Experience Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570018",
+                                            "Name": "UX Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ],
+                                    "LastUsed": {
+                                        "Value": "2019-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "572",
+                            "SubTaxonomyName": "Interactive Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "5570158",
+                                    "Name": "Illustration",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "568",
+                            "SubTaxonomyName": "Integration Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "5570110",
+                                    "Name": "WEB Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 28,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "339",
+                            "SubTaxonomyName": "Java",
+                            "PercentOfOverall": 26,
+                            "PercentOfParent": 92,
+                            "Skills": [
+                                {
+                                    "Id": "023328",
+                                    "Name": "JAVA",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "3391126",
+                                            "Name": "Spring",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                                },
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                },
+                                                {
+                                                    "SectionType": "TRAINING"
+                                                },
+                                                {
+                                                    "SectionType": "EDUCATION",
+                                                    "Id": "DEG-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "LastUsed": {
+                                                "Value": "2022-03-01"
+                                            }
+                                        }
+                                    ],
+                                    "LastUsed": {
+                                        "Value": "2022-03-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "555",
+                            "SubTaxonomyName": "Enterprise Storage",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "5551150",
+                                    "Name": "HP-UX",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555115001",
+                                            "Name": "UX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "203",
+                            "SubTaxonomyName": "UNIX and LINUX",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "01026309",
+                                    "Name": "UNIX",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "010377",
+                                            "Name": "UX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "552",
+                            "SubTaxonomyName": "Mobile Applications",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "5520613",
+                                    "Name": "User Experience Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "2019-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "196",
+                            "SubTaxonomyName": "Internet",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "010994",
+                                    "Name": "WEB Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 23,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 18,
+                            "PercentOfParent": 80,
+                            "Skills": [
+                                {
+                                    "Id": "1400241",
+                                    "Name": "User Experience",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "2019-12-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1400242",
+                                    "Name": "WEB Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "227",
+                            "SubTaxonomyName": "Brand Management",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "011888",
+                                    "Name": "Branding",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "595",
+                            "SubTaxonomyName": "Advertising",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "1400197",
+                                    "Name": "Logo Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "33",
+                    "Name": "Graphic Design",
+                    "PercentOfOverall": 7,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "432",
+                            "SubTaxonomyName": "Software",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 58,
+                            "Skills": [
+                                {
+                                    "Id": "013418",
+                                    "Name": "Adobe Illustrator",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555154316",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "026056",
+                                    "Name": "Indesign",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "013431",
+                                            "Name": "Adobe Indesign",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "025873",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "433",
+                            "SubTaxonomyName": "Techniques and Activities",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 42,
+                            "Skills": [
+                                {
+                                    "Id": "024422",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "2022-03-01"
+                                    }
+                                },
+                                {
+                                    "Id": "020908",
+                                    "Name": "Logo Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "555154514",
+                                    "Name": "Typography",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "1",
+                    "Name": "Administrative or Clerical",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "111",
+                            "SubTaxonomyName": "Recordkeeping and Supplies",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 55,
+                            "Skills": [
+                                {
+                                    "Id": "030992",
+                                    "Name": "NEW Hires",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "112",
+                            "SubTaxonomyName": "Messages and Contact",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 45,
+                            "Skills": [
+                                {
+                                    "Id": "020701",
+                                    "Name": "Answering Phones",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022274",
+                                    "Name": "Contracts",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "022445",
+                                    "Name": "Shipping",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "97",
+                    "Name": "Supply Chain and Logistics",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "459",
+                            "SubTaxonomyName": "Inventory",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 80,
+                            "Skills": [
+                                {
+                                    "Id": "020086",
+                                    "Name": "Inventory",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "461",
+                            "SubTaxonomyName": "Supply Chain",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 20,
+                            "Skills": [
+                                {
+                                    "Id": "014311",
+                                    "Name": "Contracts",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "89",
+                    "Name": "Bookkeeping, Office Management",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "533",
+                            "SubTaxonomyName": "Bookeeping Tasks",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "005137",
+                                    "Name": "Posting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "7",
+                    "Name": "Finance",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "243",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "023147",
+                                    "Name": "Finance",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "80",
+                    "Name": "General Management",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "516",
+                            "SubTaxonomyName": "Budget Related",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "005394",
+                                    "Name": "Pricing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "024467",
+                                    "Name": "Microsoft Office",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "023613",
+                                    "Name": "Microsoft Powerpoint",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "021977",
+                                            "Name": "Powerpoint",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "004729",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "229",
+                            "SubTaxonomyName": "Visual",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "019533",
+                                    "Name": "Illustrator",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "Achievements": [
+        "Cum Laude, Denton, TX\tJan. 2015",
+        "Dean's List, Bryan, TX\t  Spring 2017\ttom designs in a timely and efficient manner"
+    ],
+    "Training": {
+        "Text": "",
+        "Trainings": [
+            {
+                "Text": "Dean's List, Bryan, TX\t  Spring 2017\ttom designs in a timely and efficient manner",
+                "EndDate": {
+                    "Date": "2017-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                }
+            }
+        ]
+    },
+    "QualificationsSummary": "SKILLS\n\u2022Branding\t  \u2022Public Speaking\nMay 2019-\n\u2022Typography\t\u2022Web Design\nNow\n\u2022Illustration\t\u2022Wire frames\n\n\u2022Print Design\t\u2022Sales\n\n\u2022UX Design\t \u2022Publication Design\n\n\u2022Management\t\u2022Logo Design\n\n\u2022Marketing\t \u2022Product Design\n\n\u2022Photography\t\u2022Illustration\n\nSOFTWARE\tSept. 2017-\n\nDec. 2019\nAdobe Indesign\n\nIllustrator\n\n\nPhotoshop\nSpring\nProcreate\t2017\n\nPowerpoint\/Keynote\n\n\nMicrosoft Office Programs",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 12,
+                "LastLineNumber": 73,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "EXPERIENCE"
+            },
+            {
+                "FirstLineNumber": 74,
+                "LastLineNumber": 108,
+                "SectionType": "SKILLS",
+                "HeaderTextFound": "SKILLS"
+            },
+            {
+                "FirstLineNumber": 109,
+                "LastLineNumber": 126,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "EDUCATION"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Fatal Problems Found",
+                "Findings": [
+                    {
+                        "QualityCode": "433",
+                        "Message": "We detected that this document contained at least some data that was laid out as columns or tables. We rearranged that data to make it more usable. NEVER use columns or tables in a resume."
+                    },
+                    {
+                        "QualityCode": "419",
+                        "Message": "We found no valid start and end dates for the jobs in your work history. Each job must have a start date and an end date, preferably at the start of the line, and written as MONTH YYYY - MONTH YYYY. Never use dates that include the 'day' part."
+                    }
+                ]
+            },
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    },
+                    {
+                        "QualityCode": "302",
+                        "Message": "A first and last name was not found in the contact information. A resume should always include the candidate's first and last name."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    },
+                    {
+                        "QualityCode": "224",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-1"
+                            },
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-2"
+                            }
+                        ],
+                        "Message": "Every position in a resume should have a start date."
+                    },
+                    {
+                        "QualityCode": "225",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-1"
+                            },
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-2"
+                            }
+                        ],
+                        "Message": "Every position in a resume should have an end date, unless it is a currently held position."
+                    },
+                    {
+                        "QualityCode": "226",
+                        "Message": "We found no work history positions within the past year. A resume should include work history information, including time off, for the most recent year."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "112",
+                        "Message": "The following section was identified as a skills section type: 'SKILLS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+                    },
+                    {
+                        "QualityCode": "151",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "0"
+                            }
+                        ],
+                        "Message": "Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "alexis\nEMAIL\n   ~~~~~~~~~~~~~~~~~~~~~  \n\n\n   ~~\n~~~~~~~~~~~~  \n\nPORTFOLIO\n   ~~~~~~~~~~~~  \n\n\nEXPERIENCE\nGraphic Designer\/Online Store Manager\/\nSocial Media Assistant\n\nMaster Networks, Plano, TX.\nDuties include creation of graphics for print,\nsocial media, advertisements, and in house\n\nneeds such as PowerPoints, manuals, and\ntraining graphics. Also reporting analytics,\nutilizing UX skills in design tasks,\n\nplanning marketing tactics, creating\nproducts for the store as well as planning\ncontent and posting to company Instagram.\n\nSales & Venue Coordinator\n\nWalters Wedding Estates, Multiple Locations\nDuties included designing and coordinating\nevents and rehearsals, managing a team,\nleading staff and client meetings, negotiating\ncontracts, training new hires and exceeding\nsales\/guest experience goals.\n\nStudent Ambassador\nBlinn College, Bryan TX.\nDuties included setting up and giving campus\ntours, creating graphics for the college,\nanswering phones and other office tasks, and\nevent execution.\n\n\nSIDE HUSTLES\nOwner and Creator, Ferris Co.\nAs my side hustle, duties include\n\ncreating, listing, and shipping stickers.\n\nAlso managing finances, creating social\nmedia ads, tracking inventory,\ncontacting clients and creating custom\norders in a timely and efficient manner.\n\nFreelance Designer\n\nWorked on a variety of unique projects includ-\n\ning logo designs, sales deck design, pricing\n\nsheets, phone backgrounds and more. With\nthis comes finance management, contract writ-\ning, and contacting clients and creating cus-\nalexis\n\n\nwarthen\n\n\nGraphic Designer & User Experience Designer\n\n\nSKILLS\n\u2022Branding\t  \u2022Public Speaking\nMay 2019-\n\u2022Typography\t\u2022Web Design\nNow\n\u2022Illustration\t\u2022Wire frames\n\n\u2022Print Design\t\u2022Sales\n\n\u2022UX Design\t \u2022Publication Design\n\n\u2022Management\t\u2022Logo Design\n\n\u2022Marketing\t \u2022Product Design\n\n\u2022Photography\t\u2022Illustration\n\nSOFTWARE\tSept. 2017-\n\nDec. 2019\nAdobe Indesign\n\nIllustrator\n\n\nPhotoshop\nSpring\nProcreate\t2017\n\nPowerpoint\/Keynote\n\n\nMicrosoft Office Programs\n\n\nEDUCATION\nDec. 2019-\n\nM.S. in User Experience Design\tNow\n\nKent State University\n4.0 GPA\nSpring 2022\nB.F.A. in Graphic Design,\n\nTexas Womans University,\n\nCum Laude, Denton, TX\tJan. 2015-\n\nFall 2019\tNow\n\nAssociates in Art, Blinn College,\nDean's List, Bryan, TX\t  Spring 2017\ttom designs in a timely and efficient manner.",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-10-04",
+        "SovrenSignature": [
+            "QFAAAAAAAAA="
+        ]
+    }
+}

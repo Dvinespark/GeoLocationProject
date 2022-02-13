@@ -1,0 +1,826 @@
+{
+    "CurrentJobIsManagement": false,
+    "HighestManagementScore": {
+        "Value": 0
+    },
+    "ManagementLevel": "None",
+    "ExecutiveType": "NONE",
+    "MinimumYears": {
+        "Value": 4
+    },
+    "RequiredDegree": "bachelors",
+    "JobTitles": {
+        "MainJobTitle": "UI Designer",
+        "JobTitle": []
+    },
+    "Degrees": [
+        {
+            "Name": "BA\/BS",
+            "Type": "bachelors"
+        }
+    ],
+    "CertificationsAndLicenses": [
+        "Proficiency in responsive design",
+        "Proficiency in prototyping tools"
+    ],
+    "CurrentLocation": {
+        "GeoCoordinates": {
+            "Latitude": 44.82535,
+            "Longitude": -93.11342
+        }
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 29,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "558",
+                            "SubTaxonomyName": "User Research",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 17,
+                            "Skills": [
+                                {
+                                    "Id": "5570002",
+                                    "Name": "Human Computer Interaction",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570200",
+                                            "Name": "HCI",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "5570011",
+                                    "Name": "User Interface Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "5570211",
+                                    "Name": "User Research",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "573",
+                            "SubTaxonomyName": "Product Design",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 13,
+                            "Skills": [
+                                {
+                                    "Id": "5570163",
+                                    "Name": "Interaction Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "5570164",
+                                    "Name": "Visual Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "5570165",
+                                    "Name": "UI Design",
+                                    "ExistsInText": true,
+                                    "Required": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570166",
+                                            "Name": "User Interface Design",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "5570168",
+                                    "Name": "Product Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "567",
+                            "SubTaxonomyName": "Information Architect",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 11,
+                            "Skills": [
+                                {
+                                    "Id": "5570102",
+                                    "Name": "Human Factors",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "5570104",
+                                    "Name": "HCI",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "5570105",
+                                    "Name": "Information Architect",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "561",
+                            "SubTaxonomyName": "Human Computer Interaction",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 11,
+                            "Skills": [
+                                {
+                                    "Id": "5570025",
+                                    "Name": "Human Computer Interaction",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570026",
+                                            "Name": "HCI",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "5570027",
+                                    "Name": "Human Factors",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "5570029",
+                                    "Name": "Information Architecture",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570031",
+                                            "Name": "Information Architect",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "5570058",
+                                    "Name": "Animation",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "5570062",
+                                    "Name": "Interaction Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "5570065",
+                                    "Name": "Visual Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "5570072",
+                                    "Name": "Graphic Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "565",
+                            "SubTaxonomyName": "Visual Design",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 9,
+                            "Skills": [
+                                {
+                                    "Id": "5570077",
+                                    "Name": "Interaction Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "5570080",
+                                    "Name": "User Interface Design",
+                                    "ExistsInText": true,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570081",
+                                            "Name": "UI Design",
+                                            "ExistsInText": false,
+                                            "Required": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "5570243",
+                                    "Name": "Visual Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "560",
+                            "SubTaxonomyName": "UX Design",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 9,
+                            "Skills": [
+                                {
+                                    "Id": "5570020",
+                                    "Name": "Interaction Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "5570022",
+                                    "Name": "Visual Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "5570023",
+                                    "Name": "UI Design",
+                                    "ExistsInText": true,
+                                    "Required": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570216",
+                                            "Name": "User Interface Design",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "566",
+                            "SubTaxonomyName": "Industrial Design",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 9,
+                            "Skills": [
+                                {
+                                    "Id": "5570088",
+                                    "Name": "Interaction Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "5570092",
+                                    "Name": "Product Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "5570095",
+                                    "Name": "Graphic Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "569",
+                            "SubTaxonomyName": "Graphic Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "5570118",
+                                    "Name": "Animation",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "5570264",
+                                    "Name": "Graphic Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "562",
+                            "SubTaxonomyName": "Interaction Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "5570046",
+                                    "Name": "Interaction Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "5570047",
+                                    "Name": "Visual Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "572",
+                            "SubTaxonomyName": "Interactive Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "5570156",
+                                    "Name": "Animation",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 28,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "204",
+                            "SubTaxonomyName": "Programming",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 32,
+                            "Skills": [
+                                {
+                                    "Id": "010126",
+                                    "Name": "UI Designer",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "018787",
+                                    "Name": "HCI",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "023530",
+                                    "Name": "WEB UI",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "010125",
+                                            "Name": "UI Design",
+                                            "ExistsInText": false,
+                                            "Required": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "024480",
+                                    "Name": "User Interface Design",
+                                    "ExistsInText": true,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "0103232",
+                                            "Name": "Interface Design",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "025394",
+                                    "Name": "Javascript",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "731",
+                            "SubTaxonomyName": "User Interface",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 18,
+                            "Skills": [
+                                {
+                                    "Id": "7310067",
+                                    "Name": "User Interface",
+                                    "ExistsInText": true,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "7310068",
+                                            "Name": "UI",
+                                            "ExistsInText": false,
+                                            "Required": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "199",
+                            "SubTaxonomyName": "Project Management",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "555154520",
+                                    "Name": "Agile",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "196",
+                            "SubTaxonomyName": "Internet",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "014705",
+                                    "Name": "CSS",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "200",
+                            "SubTaxonomyName": "QA and QC",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "010313",
+                                    "Name": "Usability",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "555",
+                            "SubTaxonomyName": "Enterprise Storage",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "5551150",
+                                    "Name": "HP-UX",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555115001",
+                                            "Name": "UX",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "203",
+                            "SubTaxonomyName": "UNIX and LINUX",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "01026309",
+                                    "Name": "UNIX",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "010377",
+                                            "Name": "UX",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "253",
+                            "SubTaxonomyName": "Protocols and Standards",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "019134",
+                                    "Name": "Human Factors",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 20,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "532",
+                            "SubTaxonomyName": "Aptitudes",
+                            "PercentOfOverall": 13,
+                            "PercentOfParent": 67,
+                            "Skills": [
+                                {
+                                    "Id": "022718",
+                                    "Name": "Excellent Written",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "031019",
+                                    "Name": "Excellent Written and Verbal Communication Skills",
+                                    "ExistsInText": true,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "0310192",
+                                            "Name": "Written and Verbal",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "031025",
+                                    "Name": "Articulate",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "528",
+                            "SubTaxonomyName": "Attitude",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "005483",
+                                    "Name": "Problem-Solving",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "023877",
+                                    "Name": "Problem Solver",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "33",
+                    "Name": "Graphic Design",
+                    "PercentOfOverall": 11,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "432",
+                            "SubTaxonomyName": "Software",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 64,
+                            "Skills": [
+                                {
+                                    "Id": "555154319",
+                                    "Name": "Adobe XD",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "555154489",
+                                    "Name": "InVision",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "433",
+                            "SubTaxonomyName": "Techniques and Activities",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 36,
+                            "Skills": [
+                                {
+                                    "Id": "022091",
+                                    "Name": "Animation",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "024422",
+                                    "Name": "Graphic Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "555154514",
+                                    "Name": "Typography",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "134",
+                            "SubTaxonomyName": "Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 49,
+                            "Skills": [
+                                {
+                                    "Id": "024481",
+                                    "Name": "User Interface Design",
+                                    "ExistsInText": true,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "0103222",
+                                            "Name": "Interface Design",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "080932",
+                                    "Name": "Prototyping",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "080946",
+                                    "Name": "Product Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "144",
+                            "SubTaxonomyName": "Computer Hardware",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 23,
+                            "Skills": [
+                                {
+                                    "Id": "080751",
+                                    "Name": "Prototyping",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "307",
+                            "SubTaxonomyName": "General Engineering",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 23,
+                            "Skills": [
+                                {
+                                    "Id": "080476",
+                                    "Name": "Prototyping",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "138",
+                            "SubTaxonomyName": "Mechanical",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "080849",
+                                    "Name": "Human Factors",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "264",
+                            "SubTaxonomyName": "Techniques",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "080633",
+                                    "Name": "Human Factors",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 4,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "1400241",
+                                    "Name": "User Experience",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "1400245",
+                                    "Name": "User Interface",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "1400247",
+                                    "Name": "Visual Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "011365",
+                                    "Name": "Best Practices",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "JobMetadata": {
+        "PlainText": " JobTitle: UI Designer - Sr Description:\r\nAbout the Role\r\n\r\n\r\nThe UI Designer will design and create user-centered online experiences in an agile environment. This role will suit a creative problem solver, looking to collaborate with technology, product and content teams to design elegant user interfaces and rich user experiences.\r\n\r\n\r\nResponsibilities\r\n\r\n\r\nTake complex information and creating interfaces that are simple to use and elegantly designed\r\n\r\n\r\nDesign and deliver high-quality, innovative user interface designs through all phases of the product design lifecycle\r\n\r\n\r\nWork alongside information architects, developers, researchers and subject matter experts to create new products, features and functionality\r\n\r\n\r\nGather, analyze and synthesize UI needs for complex product and user requirements\r\n\r\n\r\nCreate rapid iterations of visual and\/or storyboard concepts, as well as the ability to design for large volumes of dynamic content\r\n\r\n\r\nPresent design options for review, from concept through final production\r\n\r\n\r\nHave an expert-level knowledge of UI design methodology and processes (user-centered and iterative design)\r\n\r\n\r\nHave a strong understanding and deep knowledge of current web and mobile design technology opportunities and limitations\r\n\r\n\r\nSolid understanding of principles of information organization and user interface design\r\n\r\n\r\nThorough understanding of established user interface standards as well as cutting-edge design conventions and interactions\r\n\r\n\r\nKnowledge of fundamental design principles and disciplines that affect typography, color use, animation, composition, use of space, distribution of information, etc.\r\n\r\n\r\nCreate high fidelity prototypes for UX research testing (Sketch, Invision, Adobe Xd)\r\n\r\n\r\nMust be an effective advocate for the user and be able to successfully lead the implementation of feature-sets and interactions that provide an excellent customer experience\r\n\r\n\r\nTurn user research and usability feedback into easy to use solutions\r\n\r\n\r\nJustify and articulate design decisions\r\n\r\n\r\nExtend visual design language, pattern libraries, usage guidelines\r\n\r\n\r\nDesign, document and maintain user interface patterns: Interaction controls and elements, building blocks, micro-Interactions, standards and guidelines\r\n\r\n\r\nQualifications\r\n\r\n\r\n4+ years design experience in an interaction design, information design, user interface design, human factors engineering, user experience, or information architect position\r\n\r\n\r\nProficiency in responsive design\r\n\r\n\r\nProficiency in prototyping tools: Sketch, InVision, Adobe Xd, and Abstract\r\n\r\n\r\nStrong portfolio of work\r\n\r\n\r\nBA\/BS in graphic design, fine art, visual communications, HCI or related field (or equivalent industry training \/ experience)\r\n\r\n\r\nFamiliarity with Agile development\r\n\r\n\r\nConfidence in working with strong, passionate, fast-paced team environment\r\n\r\n\r\nStrong time-management, multi-tasking and prioritization skills\r\n\r\n\r\nCritical thinking and problem-solving skills\r\n\r\n\r\nExcellent written and verbal communication skills\r\n\r\n\r\nWorking knowledge \/ desire to learn: CSS, XHTML and JavaScript\r\n\r\n\r\nFamiliarity with: Web standards (W3C and 508) \/ best practices for interaction design and Accessibility\r\n Skills: Graphic Design, Abstract, user interface design, Sketch, Adobe Creative Cloud",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = Invariant Language (Invariant Country); Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-10-30",
+        "SovrenSignature": [
+            "bPv\/\/\/\/\/\/\/8="
+        ]
+    }
+}

@@ -1,0 +1,911 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "GeoCoordinates": {
+                "Latitude": 32.77666091918945,
+                "Longitude": -96.79698944091797
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "Bachelor of Fine Arts in Visual Communications",
+                "Normalized": "bachelors"
+            },
+            "Type": "bachelors"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "2017   Bachelor of Fine Arts in Visual Communications\nUniversity of Texas at Arlington\nCum Laude",
+                "SchoolName": {
+                    "Raw": "University of Texas at Arlington",
+                    "Normalized": "University of Texas at Arlington"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "Bachelor of Fine Arts in Visual Communications",
+                        "Normalized": "bachelors"
+                    },
+                    "Type": "bachelors"
+                },
+                "Majors": [
+                    "Fine Arts"
+                ],
+                "LastEducationDate": {
+                    "Date": "2017-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "The candidate is experienced in the management of:  Marketing (Digital); and Information Technology (Programming; Workflow and Imaging). The candidate appears to be a low-to-mid level candidate, with 4 years of experience.",
+            "MonthsOfWorkExperience": 47,
+            "MonthsOfManagementExperience": 12,
+            "ExecutiveType": "GENERAL",
+            "AverageMonthsPerEmployer": 7,
+            "FulltimeDirectHirePredictiveIndex": 40,
+            "ManagementStory": "Starting on 1\/1\/2017, the candidate held the following mid-level management position for 12 months:\n\tTitle: Creative Director, Founder, Owner for Sleeping Giant Design Co",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 55,
+            "AttentionNeeded": "ATTENTION: The candidate appears to have been in management in a past role (Creative Director, Founder, Owner), but was not in management in the most recent role as Production Designer for Compass."
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Compass",
+                        "Normalized": "Compass"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Production Designer",
+                    "Normalized": "Production Designer",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2020-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-10-06",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Emphasized quick turnarounds in the creation of print materials and digital artwork. Updated and ensured quality check of print\nready collateral, and digital assets."
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Hexagon",
+                        "Normalized": "Hexagon"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Graphic Designer",
+                    "Normalized": "Graphic Designer",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2019-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2019-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Assisted in the development and production of print items,\nadvertisements, brochures, event signage, and other creative assets."
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Envision Healthcare",
+                        "Normalized": "Envision Healthcare"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Graphic Designer",
+                    "Normalized": "Graphic Designer",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2018-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2018-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Created various marketing collateral such as flyers, brochures,\nmailers, stationery, print ads, high-quality graphics, PowerPoint\npresentations, and online banner ads."
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Brookhaven College",
+                        "Normalized": "Brookhaven College"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Adjunct Professor",
+                    "Normalized": "Adjunct Professor",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Professor"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2018-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2018-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0
+            },
+            {
+                "Id": "POS-5",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Sleeping Giant Design Co",
+                        "Normalized": "Sleeping Giant Design"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "StartDate": {
+                    "Date": "2017-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2017-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "UNSPECIFIED",
+                "TaxonomyName": "User Experience",
+                "TaxonomyPercentage": 0,
+                "Description": "Instructed in dual credit courses such as Digital Imaging, Illustration,\nand Photoshop.\n\n\nPresent   Sleeping Giant Design Co."
+            },
+            {
+                "Id": "POS-6",
+                "IsSelfEmployed": true,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Creative Director, Founder, Owner",
+                    "Normalized": "Creative Director Founder Owner",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2017-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2017-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Digital",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Work specializing in brand presence, content management, and digital design.\nVarious design solutions such as brand identities, social media advertisements,\nlanding pages, marketing campaigns, digital media, and print collateral.\n\nClientele such as:\nHBS Media\nMarble Marketing\nPlano Magazine\nTracyLocke - T-Mobile\nNational Vision - America's Best, Eyeglass World, Walmart Vision Center"
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 57,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 25,
+                            "PercentOfParent": 44,
+                            "Skills": [
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 24
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 21,
+                            "PercentOfParent": 37,
+                            "Skills": [
+                                {
+                                    "Id": "1400244",
+                                    "Name": "Digital Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "1400261",
+                                    "Name": "Digital Media",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "595",
+                            "SubTaxonomyName": "Advertising",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "1400371",
+                                    "Name": "Marketing Collateral",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "592",
+                            "SubTaxonomyName": "Marketing Communications",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "1400350",
+                                    "Name": "Marketing Collateral",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "585",
+                            "SubTaxonomyName": "Product",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "1400310",
+                                    "Name": "Marketing Collateral",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 23,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "204",
+                            "SubTaxonomyName": "Programming",
+                            "PercentOfOverall": 12,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "022339",
+                                    "Name": "Content Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "019115",
+                                    "Name": "HTML",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "342",
+                            "SubTaxonomyName": "Workflow and Imaging",
+                            "PercentOfOverall": 10,
+                            "PercentOfParent": 45,
+                            "Skills": [
+                                {
+                                    "Id": "019548",
+                                    "Name": "Imaging",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "196",
+                            "SubTaxonomyName": "Internet",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "014705",
+                                    "Name": "CSS",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 12,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "569",
+                            "SubTaxonomyName": "Graphic Design",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 47,
+                            "Skills": [
+                                {
+                                    "Id": "5570122",
+                                    "Name": "Illustration",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570123",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "572",
+                            "SubTaxonomyName": "Interactive Design",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 44,
+                            "Skills": [
+                                {
+                                    "Id": "5570158",
+                                    "Name": "Illustration",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "571",
+                            "SubTaxonomyName": "Web Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 9,
+                            "Skills": [
+                                {
+                                    "Id": "3391111",
+                                    "Name": "Wordpress",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "33",
+                    "Name": "Graphic Design",
+                    "PercentOfOverall": 7,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "432",
+                            "SubTaxonomyName": "Software",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "013418",
+                                    "Name": "Adobe Illustrator",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555154316",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "026056",
+                                    "Name": "Indesign",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "555154489",
+                                    "Name": "InVision",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "025873",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "95",
+                    "Name": "Healthcare Non-physician Non-nurse",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "158",
+                            "SubTaxonomyName": "Allied Health",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "018806",
+                                    "Name": "Healthcare",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "023613",
+                                    "Name": "Microsoft Powerpoint",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "021977",
+                                            "Name": "Powerpoint",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 12
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2018-12-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "004729",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "300",
+                            "SubTaxonomyName": "Mac",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "020979",
+                                    "Name": "MAC",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "229",
+                            "SubTaxonomyName": "Visual",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "019533",
+                                    "Name": "Illustrator",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "Achievements": [
+        "Cum Laude"
+    ],
+    "QualificationsSummary": "skills   ArtiosCAD\tInVision\tPhotoshop CC\nBasic HTML\/CSS\tMAC\/PC\t  Sketch\nIllustrator CC\tMailchimp\tWordpress\nInDesign CC\tMarvel\t  Workfront",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 4,
+                "LastLineNumber": 8,
+                "SectionType": "CONTACT INFO",
+                "HeaderTextFound": "contact"
+            },
+            {
+                "FirstLineNumber": 9,
+                "LastLineNumber": 14,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "education"
+            },
+            {
+                "FirstLineNumber": 15,
+                "LastLineNumber": 20,
+                "SectionType": "SKILLS",
+                "HeaderTextFound": "skills"
+            },
+            {
+                "FirstLineNumber": 21,
+                "LastLineNumber": 65,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "experience"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    },
+                    {
+                        "QualityCode": "302",
+                        "Message": "A first and last name was not found in the contact information. A resume should always include the candidate's first and last name."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    },
+                    {
+                        "QualityCode": "221",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-5"
+                            }
+                        ],
+                        "Message": "Every position in a resume should have a job title."
+                    },
+                    {
+                        "QualityCode": "222",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-6"
+                            }
+                        ],
+                        "Message": "Every position in a resume should have an employer name."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "112",
+                        "Message": "The following section was identified as a skills section type: 'skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+                    },
+                    {
+                        "QualityCode": "151",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "CONTACT INFO",
+                                "Id": "0"
+                            },
+                            {
+                                "SectionType": "SKILLS",
+                                "Id": "2"
+                            }
+                        ],
+                        "Message": "Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "star len e lara\ngraphic designer \u2022 dallas, tx\n\n\ncontact\t   ~~~~~~~~~~~~~~~~~  \nsleepinggiant.design\n   ~~~~~~~  \n\n\neducation\n2017   Bachelor of Fine Arts in Visual Communications\nUniversity of Texas at Arlington\nCum Laude\n\n\nskills   ArtiosCAD\tInVision\tPhotoshop CC\nBasic HTML\/CSS\tMAC\/PC\t  Sketch\nIllustrator CC\tMailchimp\tWordpress\nInDesign CC\tMarvel\t  Workfront\n\n\nexperience\n\n2020   Compass\nProduction Designer\n\nEmphasized quick turnarounds in the creation of print materials\nand digital artwork. Updated and ensured quality check of print\nready collateral, and digital assets.\n\n\n2019   Hexagon\nGraphic Designer\n\nAssisted in the development and production of print items,\nadvertisements, brochures, event signage, and other creative assets.\n\n\n2018   Envision Healthcare\nGraphic Designer\n\nCreated various marketing collateral such as flyers, brochures,\nmailers, stationery, print ads, high-quality graphics, PowerPoint\npresentations, and online banner ads.\n\n\n2018   Brookhaven College\n-   Adjunct Professor\n2017\nInstructed in dual credit courses such as Digital Imaging, Illustration,\nand Photoshop.\n\n\nPresent   Sleeping Giant Design Co.\n-   Creative Director, Founder, Owner\n2017\nWork specializing in brand presence, content management, and digital design.\nVarious design solutions such as brand identities, social media advertisements,\nlanding pages, marketing campaigns, digital media, and print collateral.\n\nClientele such as:\nHBS Media\nMarble Marketing\nPlano Magazine\nTracyLocke - T-Mobile\nNational Vision - America's Best, Eyeglass World, Walmart Vision Center",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-10-06",
+        "SovrenSignature": [
+            "jCIBAAAAAAA="
+        ]
+    }
+}

@@ -1,0 +1,286 @@
+{
+    "CurrentJobIsManagement": false,
+    "HighestManagementScore": {
+        "Value": 0
+    },
+    "ManagementLevel": "None",
+    "ExecutiveType": "NONE",
+    "JobTitles": {
+        "MainJobTitle": "User Experience Researcher",
+        "JobTitle": []
+    },
+    "CurrentLocation": {
+        "GeoCoordinates": {
+            "Latitude": 40.71278,
+            "Longitude": -74.00597
+        }
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 47,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "558",
+                            "SubTaxonomyName": "User Research",
+                            "PercentOfOverall": 17,
+                            "PercentOfParent": 36,
+                            "Skills": [
+                                {
+                                    "Id": "5570211",
+                                    "Name": "User Research",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "573",
+                            "SubTaxonomyName": "Product Design",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 18,
+                            "Skills": [
+                                {
+                                    "Id": "5570161",
+                                    "Name": "User Experience Design",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570162",
+                                            "Name": "UX Design",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "5570165",
+                                    "Name": "UI Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "565",
+                            "SubTaxonomyName": "Visual Design",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 18,
+                            "Skills": [
+                                {
+                                    "Id": "5570075",
+                                    "Name": "User Experience Design",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570076",
+                                            "Name": "UX Design",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "5570080",
+                                    "Name": "User Interface Design",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570081",
+                                            "Name": "UI Design",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "560",
+                            "SubTaxonomyName": "UX Design",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 18,
+                            "Skills": [
+                                {
+                                    "Id": "5570017",
+                                    "Name": "User Experience Design",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570018",
+                                            "Name": "UX Design",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "5570023",
+                                    "Name": "UI Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 9,
+                            "Skills": [
+                                {
+                                    "Id": "5570060",
+                                    "Name": "User Experience Design",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570061",
+                                            "Name": "UX Design",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 35,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "731",
+                            "SubTaxonomyName": "User Interface",
+                            "PercentOfOverall": 17,
+                            "PercentOfParent": 48,
+                            "Skills": [
+                                {
+                                    "Id": "7310067",
+                                    "Name": "User Interface",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "7310068",
+                                            "Name": "UI",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "555",
+                            "SubTaxonomyName": "Enterprise Storage",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 24,
+                            "Skills": [
+                                {
+                                    "Id": "5551150",
+                                    "Name": "HP-UX",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555115001",
+                                            "Name": "UX",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "203",
+                            "SubTaxonomyName": "UNIX and LINUX",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 24,
+                            "Skills": [
+                                {
+                                    "Id": "01026309",
+                                    "Name": "UNIX",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "010377",
+                                            "Name": "UX",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "204",
+                            "SubTaxonomyName": "Programming",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "023530",
+                                    "Name": "WEB UI",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "010125",
+                                            "Name": "UI Design",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 17,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 17,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "1400241",
+                                    "Name": "User Experience",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "JobMetadata": {
+        "PlainText": "    JobTitle: User Experience Researcher\r\n    Description: <p>test..<\/p>\r\n    Skills: UX Design, UI Design, User Research",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = Invariant Language (Invariant Country); Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2021-03-18",
+        "SovrenSignature": [
+            "tbz+\/\/\/\/\/\/8="
+        ]
+    }
+}

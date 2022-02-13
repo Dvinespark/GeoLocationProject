@@ -1,0 +1,601 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "GeoCoordinates": {
+                "Latitude": 33.019840240478516,
+                "Longitude": -96.69888305664062
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "BA in Arts",
+                "Normalized": "bachelors"
+            },
+            "Type": "bachelors"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "University of Texas at Dallas, BA in Arts, Technology, and Emerging Communication\nAug. 2016 - May 2020 \u2022 Richardson, TX\nConcentration in Design & Production",
+                "SchoolName": {
+                    "Raw": "University of Texas at Dallas",
+                    "Normalized": "University of Texas at Dallas"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "BA in Arts",
+                        "Normalized": "bachelors"
+                    },
+                    "Type": "bachelors"
+                },
+                "Majors": [
+                    "Design & Production"
+                ],
+                "LastEducationDate": {
+                    "Date": "2020-05-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Id": "DEG-2",
+                "Text": "Santa Reparata International School of Art (SRISA), Sculpture and Italian\nSummer 2018 \u2022 Florence, Italy\nCEA Semester Study Abroad Program",
+                "SchoolName": {
+                    "Raw": "Santa Reparata International School of Art",
+                    "Normalized": "Santa Reparata International School of Art"
+                },
+                "SchoolType": "UNSPECIFIED",
+                "Degree": [],
+                "Majors": [
+                    "Sculpture and Italian"
+                ],
+                "LastEducationDate": {
+                    "Date": "2018-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~~~~~   is experienced in:  Marketing (Digital).    ~~~~~~~~~~   appears to be a low-to-mid level candidate, with 2 years of experience.",
+            "MonthsOfWorkExperience": 25,
+            "MonthsOfManagementExperience": 5,
+            "ExecutiveType": "NONE",
+            "AverageMonthsPerEmployer": 12,
+            "FulltimeDirectHirePredictiveIndex": 50,
+            "ManagementStory": "Starting on 8\/1\/2017, the candidate held the following low-level management position for 5 months:\n\tTitle: Peer Advisor for UT Dallas Residential Hall",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 20
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "UT Dallas Recreation Center",
+                        "Normalized": "UT Dallas Recreation Center"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "TX"
+                        ],
+                        "Municipality": "Richardson"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Graphic Designer",
+                    "Normalized": "Graphic Designer",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2018-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-05-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Digital",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Designed print and digital media marketing materials including posters, web content and social media graphics. Additionally produced video campaigns for Fitness, Club\nSports, Intramural, and Aquatics programs. Supported the communication and stu-\ndent-engagement efforts across various social media platforms."
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "UT Dallas Residential Hall",
+                        "Normalized": "UT Dallas Residential Hall"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "TX"
+                        ],
+                        "Municipality": "Richardson"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Peer Advisor",
+                    "Normalized": "Peer Advisor",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2017-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2018-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Responsible for assisting students with academic, personal and housing concerns;\nserved as a resource and referral agent; engaged students in campus life; and assisted in the interpretation and enforcement of University rules and regulations."
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "UT Dallas Residential Hall",
+                        "Normalized": "UT Dallas Residential Hall"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "TX"
+                        ],
+                        "Municipality": "Richardson"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Conference Assistant",
+                    "Normalized": "Conference Assistant",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2017-05-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2017-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Business Operations and General Business",
+                "SubTaxonomyName": "Management Activities or Functions",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Provided service and assistance to summer guests, assisted in daily operations of the University Commons Residence Halls, and applied customer service skills such as pro-\nviding information and fulfilling requests."
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 75,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 36,
+                            "PercentOfParent": 48,
+                            "Skills": [
+                                {
+                                    "Id": "1400261",
+                                    "Name": "Digital Media",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-05-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 36,
+                            "PercentOfParent": 48,
+                            "Skills": [
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-05-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "227",
+                            "SubTaxonomyName": "Brand Management",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "011888",
+                                    "Name": "Branding",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 13,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "436",
+                            "SubTaxonomyName": "Management Activities or Functions",
+                            "PercentOfOverall": 13,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "003875",
+                                    "Name": "Operations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 3
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-08-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "1",
+                    "Name": "Administrative or Clerical",
+                    "PercentOfOverall": 6,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "112",
+                            "SubTaxonomyName": "Messages and Contact",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "023735",
+                                    "Name": "Customer Service Oriented",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "013326",
+                                            "Name": "Customer Service",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 3
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2017-08-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 3
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-08-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "78",
+                    "Name": "Retail",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "511",
+                            "SubTaxonomyName": "Positions",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022943",
+                                    "Name": "Retail Sales",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "006920",
+                                            "Name": "Customer Service",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 3
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2017-08-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 3
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-08-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "92",
+                    "Name": "Knowledge and Learning Management",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "903",
+                            "SubTaxonomyName": "General Knowledge and Learning Management",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "200041",
+                                    "Name": "Learning Centers",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "200042",
+                                            "Name": "Learning Center",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "PROFESSIONAL AFFILIATIONS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "024467",
+                                    "Name": "Microsoft Office",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Associations": [
+        {
+            "Organization": "Volunteer and Counselor at Camp Tonkawa Outdoor Learning Center",
+            "Role": ""
+        },
+        {
+            "Organization": "Collinsville, TX",
+            "Role": ""
+        },
+        {
+            "Organization": "Taught horseback riding, outdoor survival, camping skills and Native American day",
+            "Role": ""
+        },
+        {
+            "Organization": "weekend and week-long summer camps",
+            "Role": ""
+        },
+        {
+            "Organization": "UT Dallas Campus Housing Advisory Committee",
+            "Role": "Member"
+        },
+        {
+            "Organization": "Richardson, TX",
+            "Role": ""
+        },
+        {
+            "Organization": "Girl Scouts of the United States of America",
+            "Role": "Member"
+        },
+        {
+            "Organization": "Earned Girl Scouts Bronze Award in 2009 and Silver Award in",
+            "Role": ""
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "Italian",
+            "LanguageCode": "it",
+            "FoundInContext": "of Art (SRISA), Sculpture and Italian"
+        },
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "Achievements": [
+        "Earned Girl Scouts Bronze Award in 2009 and Silver Award in Sep. 2011"
+    ],
+    "QualificationsSummary": "Skills\nAdobe Creative Suite \u2022 Microsoft Office Suite \u2022 Branding \u2022 Social Media Design",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 5,
+                "LastLineNumber": 24,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "Work Experience"
+            },
+            {
+                "FirstLineNumber": 25,
+                "LastLineNumber": 33,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "Education"
+            },
+            {
+                "FirstLineNumber": 34,
+                "LastLineNumber": 46,
+                "SectionType": "PROFESSIONAL AFFILIATIONS",
+                "HeaderTextFound": "Extracurricular"
+            },
+            {
+                "FirstLineNumber": 47,
+                "LastLineNumber": 48,
+                "SectionType": "SKILLS",
+                "HeaderTextFound": "Skills"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    },
+                    {
+                        "QualityCode": "231",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "DEG-2"
+                            }
+                        ],
+                        "Message": "Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "161",
+                        "Message": "High school (or lower) education should not be included on resumes that contain higher-level education."
+                    },
+                    {
+                        "QualityCode": "112",
+                        "Message": "The following section was identified as a skills section type: 'Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \n   ~~~~~~~~~~~~~  \n   ~~~~~~~  \n\n\nWork Experience\nGraphic Designer, UT Dallas Recreation Center\nDec. 2018 - May 2020 \u2022 Richardson, TX\nDesigned print and digital media marketing materials including posters, web content\nand social media graphics. Additionally produced video campaigns for Fitness, Club\nSports, Intramural, and Aquatics programs. Supported the communication and stu-\ndent-engagement efforts across various social media platforms.\n\nPeer Advisor, UT Dallas Residential Hall\nAug. 2017 - Jan. 2018 \u2022 Richardson, TX\nResponsible for assisting students with academic, personal and housing concerns;\nserved as a resource and referral agent; engaged students in campus life; and assisted\nin the interpretation and enforcement of University rules and regulations.\n\nConference Assistant, UT Dallas Residential Hall\nMay 2017 - Aug. 2017 \u2022 Richardson, TX\nProvided service and assistance to summer guests, assisted in daily operations of the\nUniversity Commons Residence Halls, and applied customer service skills such as pro-\nviding information and fulfilling requests.\n\nEducation\nUniversity of Texas at Dallas, BA in Arts, Technology, and Emerging Communication\nAug. 2016 - May 2020 \u2022 Richardson, TX\nConcentration in Design & Production\n\nSanta Reparata International School of Art (SRISA), Sculpture and Italian\nSummer 2018 \u2022 Florence, Italy\nCEA Semester Study Abroad Program\n\nExtracurricular\nVolunteer and Counselor at Camp Tonkawa Outdoor Learning Center\n2009 - 2019 \u2022 Collinsville, TX\nTaught horseback riding, outdoor survival, camping skills and Native American day,\nweekend and week-long summer camps.\n\nMember of UT Dallas Campus Housing Advisory Committee\nOct. 2016 - May 2017 \u2022 Richardson, TX\n\nMember of Girl Scouts of the United States of America\n2003 - Present\nEarned Girl Scouts Bronze Award in 2009 and Silver Award in Sep. 2011\n\nSkills\nAdobe Creative Suite \u2022 Microsoft Office Suite \u2022 Branding \u2022 Social Media Design",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-09-30",
+        "SovrenSignature": [
+            "rn0DAAAAAAA="
+        ]
+    }
+}

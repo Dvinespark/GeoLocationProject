@@ -1,0 +1,738 @@
+{
+    "CurrentJobIsManagement": false,
+    "HighestManagementScore": {
+        "Value": 0
+    },
+    "ManagementLevel": "None",
+    "ExecutiveType": "NONE",
+    "MinimumYears": {
+        "Value": 4
+    },
+    "RequiredDegree": "bachelors",
+    "JobTitles": {
+        "MainJobTitle": "UX Researcher",
+        "JobTitle": [
+            "Qualitative Specialist"
+        ]
+    },
+    "EmployerNames": {
+        "MainEmployerName": "Qualitative",
+        "EmployerName": []
+    },
+    "Degrees": [
+        {
+            "Name": "Bachelor of Arts",
+            "Type": "bachelors"
+        },
+        {
+            "Name": "Master of Science",
+            "Type": "masters"
+        },
+        {
+            "Name": "Bachelor of Arts in a Social Science or Master of Science in a Social Sciences",
+            "Type": "masters"
+        },
+        {
+            "Name": "Master of Science in a Social Sciences",
+            "Type": "masters"
+        }
+    ],
+    "CurrentLocation": {
+        "GeoCoordinates": {
+            "Latitude": 44.82502,
+            "Longitude": -93.11319
+        }
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 38,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "200",
+                            "SubTaxonomyName": "QA and QC",
+                            "PercentOfOverall": 13,
+                            "PercentOfParent": 34,
+                            "Skills": [
+                                {
+                                    "Id": "009449",
+                                    "Name": "Test Plan",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "010300",
+                                    "Name": "Usability Testing",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "010313",
+                                    "Name": "Usability",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "2000006",
+                                    "Name": "JIRA",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "196",
+                            "SubTaxonomyName": "Internet",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 18,
+                            "Skills": [
+                                {
+                                    "Id": "009416",
+                                    "Name": "B2C",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "022195",
+                                    "Name": "Sharepoint",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "024402",
+                                    "Name": "WEB Based",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "02440201",
+                                            "Name": "WEB-Based",
+                                            "ExistsInText": false,
+                                            "Required": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "554",
+                            "SubTaxonomyName": "Business Intelligence",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 16,
+                            "Skills": [
+                                {
+                                    "Id": "5540951",
+                                    "Name": "Microsoft Sharepoint",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "554095101",
+                                            "Name": "Sharepoint",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "5540985",
+                                    "Name": "Tableau Software",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "55409852",
+                                            "Name": "Tableau",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "553",
+                            "SubTaxonomyName": "Big Data",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "5530959",
+                                    "Name": "Datasets",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "201",
+                            "SubTaxonomyName": "Architecture",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "010321",
+                                    "Name": "User Centered Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "555",
+                            "SubTaxonomyName": "Enterprise Storage",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "5551150",
+                                    "Name": "HP-UX",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555115001",
+                                            "Name": "UX",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "203",
+                            "SubTaxonomyName": "UNIX and LINUX",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "01026309",
+                                    "Name": "UNIX",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "010377",
+                                            "Name": "UX",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "253",
+                            "SubTaxonomyName": "Protocols and Standards",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "019134",
+                                    "Name": "Human Factors",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 16,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "558",
+                            "SubTaxonomyName": "User Research",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 38,
+                            "Skills": [
+                                {
+                                    "Id": "5570000",
+                                    "Name": "Cognitive Psychology",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "5570006",
+                                    "Name": "Usability Testing",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "565",
+                            "SubTaxonomyName": "Visual Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 11,
+                            "Skills": [
+                                {
+                                    "Id": "5570073",
+                                    "Name": "Visualization",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "5570077",
+                                    "Name": "Interaction Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 11,
+                            "Skills": [
+                                {
+                                    "Id": "5570059",
+                                    "Name": "Visualization",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "5570062",
+                                    "Name": "Interaction Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "572",
+                            "SubTaxonomyName": "Interactive Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "5570157",
+                                    "Name": "Visualization",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "569",
+                            "SubTaxonomyName": "Graphic Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "5570120",
+                                    "Name": "Visualization",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "567",
+                            "SubTaxonomyName": "Information Architect",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "5570102",
+                                    "Name": "Human Factors",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "561",
+                            "SubTaxonomyName": "Human Computer Interaction",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "5570027",
+                                    "Name": "Human Factors",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "573",
+                            "SubTaxonomyName": "Product Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "5570163",
+                                    "Name": "Interaction Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "566",
+                            "SubTaxonomyName": "Industrial Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "5570088",
+                                    "Name": "Interaction Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "562",
+                            "SubTaxonomyName": "Interaction Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "5570046",
+                                    "Name": "Interaction Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "560",
+                            "SubTaxonomyName": "UX Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "5570020",
+                                    "Name": "Interaction Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 10,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 40,
+                            "Skills": [
+                                {
+                                    "Id": "1400241",
+                                    "Name": "User Experience",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "595",
+                            "SubTaxonomyName": "Advertising",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 40,
+                            "Skills": [
+                                {
+                                    "Id": "1400202",
+                                    "Name": "B2B",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "1400203",
+                                    "Name": "B2C",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "590",
+                            "SubTaxonomyName": "Channel, Partner & Ecosystem Marketing",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 20,
+                            "Skills": [
+                                {
+                                    "Id": "1400117",
+                                    "Name": "B2B",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "44",
+                    "Name": "Petrochemical",
+                    "PercentOfOverall": 8,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "441",
+                            "SubTaxonomyName": "Drilling",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "020888",
+                                    "Name": "Logging",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "020890",
+                                    "Name": "Logging Tools",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 4,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "134",
+                            "SubTaxonomyName": "Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 31,
+                            "Skills": [
+                                {
+                                    "Id": "080932",
+                                    "Name": "Prototyping",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "144",
+                            "SubTaxonomyName": "Computer Hardware",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 31,
+                            "Skills": [
+                                {
+                                    "Id": "080751",
+                                    "Name": "Prototyping",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "307",
+                            "SubTaxonomyName": "General Engineering",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 31,
+                            "Skills": [
+                                {
+                                    "Id": "080476",
+                                    "Name": "Prototyping",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "138",
+                            "SubTaxonomyName": "Mechanical",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "080849",
+                                    "Name": "Human Factors",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "264",
+                            "SubTaxonomyName": "Techniques",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "080633",
+                                    "Name": "Human Factors",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "29",
+                    "Name": "Hardware Engineering",
+                    "PercentOfOverall": 4,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "714",
+                            "SubTaxonomyName": "Test Engineering",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "5000015",
+                                    "Name": "System Level",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5000016",
+                                            "Name": "System-Level",
+                                            "ExistsInText": false,
+                                            "Required": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 4,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "532",
+                            "SubTaxonomyName": "Aptitudes",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "031025",
+                                    "Name": "Articulate",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "31",
+                    "Name": "Written Communications",
+                    "PercentOfOverall": 4,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "429",
+                            "SubTaxonomyName": "Specs and Documentation",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022620",
+                                    "Name": "Documentation",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "15",
+                    "Name": "Scientific",
+                    "PercentOfOverall": 4,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "376",
+                            "SubTaxonomyName": "Basic",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "010299",
+                                    "Name": "Usability Research",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "7",
+                    "Name": "Finance",
+                    "PercentOfOverall": 4,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "235",
+                            "SubTaxonomyName": "Financial Planning & Analysis",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022510",
+                                    "Name": "Quantitative Analysis",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "0062762",
+                                            "Name": "Qualitative Analysis",
+                                            "ExistsInText": false,
+                                            "Required": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 4,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "005482",
+                                    "Name": "Problem Solving",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "JobMetadata": {
+        "PlainText": " JobTitle: UX Researcher - Sr Description:\r\nUser Experience Research - Qualitative\r\n\r\n\r\nWe're looking for a User Experience Researcher - Qualitative Specialist to help us partner with our customers in developing desktop and mobile web sites for professionals in the legal, tax and corporate industries.\r\n\r\n\r\nUS:\r\n\r\nThis is a pivotal research role inside a technology company that is focused on customer experience and fluid interactions. We have best in class reputation for a large product mix and need our customer facing interactions to reflect this.\r\n\r\n\r\nYOU:\r\n\r\n\u2022 You have a passion for applying the Jobs to be Done framework to UX and understanding user outcomes.\r\n\r\n\u2022 You can keep pace with agile testing, but decouple from the churn to give design teams needed long term goals for hitting user objectives\r\n\r\n\u2022 You think beyond the click and ask: Why would anyone want to push this button in the first place?\r\n\r\n\u2022 You can write about this in a way that doesn't require voice over.\r\n\r\n\u2022 You can sketch in a collaborative way to make a point or illustrate a flow\r\n\r\n\u2022 Qualitative is your jam, Quantitative is an interesting puzzle, UX is a codeword for everything\r\n\r\n\u2022 The candidate should have demonstrated success in research facilitation as well as comfort in the role of research observer and note taker.\r\n\r\n\r\nThis is not a designer role; it is a role focusing on leading and executing design and usability research. However, experience with interaction design principles, tools, and techniques is important both for communication with the internal team and articulating issues to stakeholders. The successful candidate will be comfortable in a fast-paced environment where research studies will be executed on a weekly basis.\r\n\r\n\r\nCandidates should have a broad knowledge and experience with a wide variety of research methods, both qualitative and quantitative, including:\r\n\r\n\u2022 Qualitative analysis and reporting Interviewing and group facilitation techniques\r\n\r\n\u2022 Contextual Inquiries Remote Usability Testing Parallel Prototyping Persona Development\r\n\r\n\u2022 Un-moderated Feedback (example: UserZoom) Other User Centered Design (UCD) methods\r\n\r\n\r\nCandidates should be able to:\r\n\r\n\u2022 Quickly synthesize business objectives and customer needs\r\n\r\n\u2022 Develop a UX research approach, schedule, and detailed test plan\r\n\r\n\u2022 Plan, recruit, script, facilitate, collect, analyze, and document data\r\n\r\n\u2022 Identify and articulate user needs first and then potential usability issues both verbally and through documentation\r\n\r\n\u2022 Transform the data into prioritized, actionable recommendations (within a SHORT turn-around time)\r\n\r\n\u2022 Clearly communicate qualitative analysis, recommendations, and potential design solutions\r\n\r\n\u2022 Create persuasive presentations geared towards product owners, developers, visual designers, other UX team members, and c-level executives\r\n\r\n\u2022 Facilitate internal meetings to triage\/manage research findings\r\n\r\n\u2022 Previous experience with design or research projects involving complex workflows, visualization of large datasets, operating system-level tools, and both web and software environments is a plus.\r\n\r\n\r\nQualifications:\r\n\r\n\u2022 Bachelor of Arts in a Social Science or Master of Science in a Social Sciences, Interaction Design, Human Factors, Cognitive Psychology, Cognitive Science, or related field is desired\r\n\r\n\u2022 4+ years of experience applying research to high-volume, interactive B2B and B2C applications, rich web-based applications, or websites.\r\n\r\n\u2022 Strong, analytical problem solving, decision-making, and leadership\r\n\r\n\u2022 In-depth understanding of user-centered design principles and tools\r\n\r\n\u2022 Familiarity with SharePoint, project management tool like Jira\r\n\r\n\u2022 Familiarity performing studies in a fixed and virtual lab environment\r\n\r\n\u2022 Familiarity with data-logging tools and systems such as Tableau, Qualtrics, Morae or would be helpful..\r\n Skills: User Experience, Quantitative Research",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = Invariant Language (Invariant Country); Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-11-02",
+        "SovrenSignature": [
+            "xLb9\/\/\/\/\/\/8="
+        ]
+    }
+}

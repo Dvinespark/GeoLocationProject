@@ -1,0 +1,1425 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "CountryCode": "US",
+            "PostalCode": "75056",
+            "Regions": [
+                "TX"
+            ],
+            "Municipality": "The Colony",
+            "GeoCoordinates": {
+                "Latitude": 33.08060836791992,
+                "Longitude": -96.89282989501953
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "Associate Degree of Applied Science in Digital Media",
+                "Normalized": "associates"
+            },
+            "Type": "associates"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "Associate Degree of Applied Science in Digital Media\nKatherine Gibbs School - Manhattan, NY\nMarch 2007",
+                "SchoolName": {
+                    "Raw": "Katherine Gibbs School",
+                    "Normalized": "Katherine Gibbs School"
+                },
+                "SchoolType": "community",
+                "Degree": {
+                    "Name": {
+                        "Raw": "Associate Degree of Applied Science in Digital Media",
+                        "Normalized": "associates"
+                    },
+                    "Type": "associates"
+                },
+                "Majors": [
+                    "Applied Science"
+                ],
+                "LastEducationDate": {
+                    "Date": "2007-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~~~~~~~~   is experienced in the management of:  Sales; and Business Operations and General Business (Management Activities or Functions).    ~~~~~~~~~~~~~   has 14 years of work experience, with 11 years of management experience, including a mid-level position.",
+            "MonthsOfWorkExperience": 163,
+            "MonthsOfManagementExperience": 128,
+            "ExecutiveType": "GENERAL",
+            "AverageMonthsPerEmployer": 27,
+            "FulltimeDirectHirePredictiveIndex": 35,
+            "ManagementStory": "Starting on 9\/1\/2016, the candidate held the following mid-level management position for 3 years:\n\tTitle: General Manager for Fitness Connection\nStarting on 12\/1\/2014, the candidate held the following mid-level management position for 21 months:\n\tTitle: Sales Manager for 24 Hour Fitness\nStarting on 1\/1\/2009, the candidate held the following low-level management position for 6 years:\n\tTitle: Assistant General Manager for Bally Total Fitness",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 55,
+            "AttentionNeeded": "ATTENTION: The candidate appears to have been in management in a past role (General Manager for Fitness Connection), but was not in management in the most recent role as Freelance Graphic Designer for GameTight Media Group."
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "GameTight Media Group",
+                        "Normalized": "GameTight Media Group"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "NY"
+                        ],
+                        "Municipality": "Manhattan"
+                    }
+                },
+                "IsSelfEmployed": true,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Freelance Graphic Designer",
+                    "Normalized": "Freelance Graphic Designer",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2007-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-10-07",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "contract",
+                "JobLevel": "Low Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Design logos, ads, album covers, websites and other material to promote all aspects of the company."
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Fitness Connection",
+                        "Normalized": "Fitness Connection"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "TX"
+                        ],
+                        "Municipality": "Dallas"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "General Manager",
+                    "Normalized": "General Manager",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2016-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2019-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Sales",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Responsible for achieving the gym's revenue and expense control goals to hit profitability goals, managing all facets of operations to include membership, service, product sales and promotions and develop a team to ensure the gym is running in compliance with Company policies and procedures."
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "24 Hour Fitness",
+                        "Normalized": "24 Hour Fitness"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "NY"
+                        ],
+                        "Municipality": "Brooklyn"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Sales Manager",
+                    "Normalized": "Sales Manager",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2014-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2016-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Sales",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Responsible for hitting the daily budget, exceed a bi-weekly threshold, meet percentages, generate leads, provide customer\nservice and lead a team of sales advisors to success."
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Bally Total Fitness",
+                        "Normalized": "Bally Total Fitness"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "NY"
+                        ],
+                        "Municipality": "Brooklyn"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Assistant General Manager",
+                    "Normalized": "Assistant General Manager",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2009-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2014-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Degreed Accounting",
+                "SubTaxonomyName": "Reporting",
+                "JobLevel": "Senior Manager (more than 5 years management experience)",
+                "TaxonomyPercentage": 0,
+                "Description": "Responsible for hitting the daily budget, provide phenomenal customer service, control the gym when the general manager\nisn't around and lead a team of staff members to success."
+            },
+            {
+                "Id": "POS-5",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Better Leadership America",
+                        "Normalized": "Better Leadership America"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "NY"
+                        ],
+                        "Municipality": "Brooklyn"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Web\/Graphic Designer",
+                    "Normalized": "Web\/Graphic Designer",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2008-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2008-05-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "User Experience",
+                "SubTaxonomyName": "Interactive Design",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Responsible for designing and maintaining websites, graphics, animation, Image compositing, as well as print materials such as brochures, journal ads and posters.\nVideo Editing"
+            },
+            {
+                "Id": "POS-6",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "MirriAd",
+                        "Normalized": "MirriAd"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "NY"
+                        ],
+                        "Municipality": "Manhattan"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Web\/Graphic Designer",
+                    "Normalized": "Web\/Graphic Designer",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2007-11-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2008-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0
+            },
+            {
+                "Id": "POS-7",
+                "Employer": {
+                    "Name": {
+                        "Probability": "VeryUnlikely",
+                        "Raw": "MirriAd",
+                        "Normalized": "MirriAd"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "NY"
+                        ],
+                        "Municipality": "Manhattan"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Web\/Graphic Designer",
+                    "Normalized": "Web\/Graphic Designer",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2007-11-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2008-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Manhattan, NY November 2007 - January 2008\nVirtual product placement (digital branded integration) using proprietary software to digitally insert products, logos, etc. into\nmovies, TV and other multimedia.\nWeb\/Graphic Designer"
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 37,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 37,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022624",
+                                    "Name": "Product Sales",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                },
+                                {
+                                    "Id": "030760",
+                                    "Name": "Sales Manager",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 21
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-09-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 31,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "436",
+                            "SubTaxonomyName": "Management Activities or Functions",
+                            "PercentOfOverall": 31,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "017063",
+                                    "Name": "Expense Control",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                },
+                                {
+                                    "Id": "003875",
+                                    "Name": "Operations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "27",
+                    "Name": "Light Technical\/Trades\/Skilled Labor",
+                    "PercentOfOverall": 16,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "293",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 15,
+                            "PercentOfParent": 99,
+                            "Skills": [
+                                {
+                                    "Id": "017119",
+                                    "Name": "Facets",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "289",
+                            "SubTaxonomyName": "Printing",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "0241177",
+                                    "Name": "Image Compositing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2008-05-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "220",
+                            "SubTaxonomyName": "Consumer",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 71,
+                            "Skills": [
+                                {
+                                    "Id": "022623",
+                                    "Name": "Product Sales",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 20,
+                            "Skills": [
+                                {
+                                    "Id": "1400261",
+                                    "Name": "Digital Media",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "1400241",
+                                    "Name": "User Experience",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "1400242",
+                                    "Name": "WEB Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "227",
+                            "SubTaxonomyName": "Brand Management",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 9,
+                            "Skills": [
+                                {
+                                    "Id": "011888",
+                                    "Name": "Branding",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "33",
+                    "Name": "Graphic Design",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "432",
+                            "SubTaxonomyName": "Software",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 84,
+                            "Skills": [
+                                {
+                                    "Id": "013418",
+                                    "Name": "Adobe Illustrator",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555154316",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "013452",
+                                    "Name": "Adobe Premiere",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "555154600",
+                                            "Name": "Premiere",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "024922",
+                                    "Name": "After Effects",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "026625",
+                                    "Name": "Dreamweaver",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "026056",
+                                    "Name": "Indesign",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "025873",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "013441",
+                                            "Name": "Adobe Photoshop",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "433",
+                            "SubTaxonomyName": "Techniques and Activities",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 16,
+                            "Skills": [
+                                {
+                                    "Id": "022091",
+                                    "Name": "Animation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2008-05-01"
+                                    }
+                                },
+                                {
+                                    "Id": "024422",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "555154514",
+                                    "Name": "Typography",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "569",
+                            "SubTaxonomyName": "Graphic Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 44,
+                            "Skills": [
+                                {
+                                    "Id": "5570118",
+                                    "Name": "Animation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2008-05-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5570264",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "5570122",
+                                    "Name": "Illustration",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570123",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "572",
+                            "SubTaxonomyName": "Interactive Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 21,
+                            "Skills": [
+                                {
+                                    "Id": "5570156",
+                                    "Name": "Animation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2008-05-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5570158",
+                                    "Name": "Illustration",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "568",
+                            "SubTaxonomyName": "Integration Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 13,
+                            "Skills": [
+                                {
+                                    "Id": "5570110",
+                                    "Name": "WEB Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "5570058",
+                                    "Name": "Animation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 4
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2008-05-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5570072",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "566",
+                            "SubTaxonomyName": "Industrial Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "5570095",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "351",
+                            "SubTaxonomyName": "Multimedia",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 42,
+                            "Skills": [
+                                {
+                                    "Id": "017649",
+                                    "Name": "Flash",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "555",
+                            "SubTaxonomyName": "Enterprise Storage",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 21,
+                            "Skills": [
+                                {
+                                    "Id": "5551150",
+                                    "Name": "HP-UX",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555115001",
+                                            "Name": "UX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "203",
+                            "SubTaxonomyName": "UNIX and LINUX",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 21,
+                            "Skills": [
+                                {
+                                    "Id": "01026309",
+                                    "Name": "UNIX",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "010377",
+                                            "Name": "UX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "196",
+                            "SubTaxonomyName": "Internet",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 15,
+                            "Skills": [
+                                {
+                                    "Id": "026624",
+                                    "Name": "Dreamweaver",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "010994",
+                                    "Name": "WEB Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "32",
+                    "Name": "Degreed Accounting",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "962",
+                            "SubTaxonomyName": "Reporting",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022891",
+                                    "Name": "Budget",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 92
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-09-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "1",
+                    "Name": "Administrative or Clerical",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "112",
+                            "SubTaxonomyName": "Messages and Contact",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "023735",
+                                    "Name": "Customer Service Oriented",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "013326",
+                                            "Name": "Customer Service",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 71
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2014-12-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 71
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "89",
+                    "Name": "Bookkeeping, Office Management",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "533",
+                            "SubTaxonomyName": "Bookeeping Tasks",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "012120",
+                                    "Name": "Budget",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 92
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-09-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "78",
+                    "Name": "Retail",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "511",
+                            "SubTaxonomyName": "Positions",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022943",
+                                    "Name": "Retail Sales",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "006920",
+                                            "Name": "Customer Service",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 71
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2014-12-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 71
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "85",
+                    "Name": "Architecture",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "473",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "020642",
+                                    "Name": "Layout Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "012099",
+                                    "Name": "Acrobat",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "0120992",
+                                            "Name": "Adobe Acrobat",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "022841",
+                                    "Name": "Excel",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "024467",
+                                    "Name": "Microsoft Office",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "023613",
+                                    "Name": "Microsoft Powerpoint",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "021977",
+                                            "Name": "Powerpoint",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "004729",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "229",
+                            "SubTaxonomyName": "Visual",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "014688",
+                                    "Name": "After Effects",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "019533",
+                                    "Name": "Illustrator",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "QualificationsSummary": "SKILLS\n\n\u2022 Adobe Photoshop, Illustrator, InDesign, Premiere, After Effects, Flash and Dreamweaver. Microsoft\nPowerPoint, Word and Excel. Vector Illustration, Image Compositing, Animation and Typography.\n\u2022 Microsoft Office\n\u2022 Graphic Design\n\u2022 Adobe Premiere\n\u2022 Web Design\n\u2022 Layout Design\n\u2022 User Experience (UX)\n\u2022 Branding\n\u2022 Adobe Acrobat",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 18,
+                "LastLineNumber": 59,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "WORK EXPERIENCE"
+            },
+            {
+                "FirstLineNumber": 60,
+                "LastLineNumber": 66,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "EDUCATION"
+            },
+            {
+                "FirstLineNumber": 67,
+                "LastLineNumber": 78,
+                "SectionType": "SKILLS",
+                "HeaderTextFound": "SKILLS"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "112",
+                        "Message": "The following section was identified as a skills section type: 'SKILLS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~~~~~~~  \n#readytowork\n\nThe Colony, TX 75056\n\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \n\n   ~~~~~~~~~  \n\nSeeking a full-time position where I can lead a company to success. I strive to always arrive to work with a professional\nappearance and attitude. I offer exceptional presentation and interpersonal skills; and always make a connection with a\ndiverse array of customers and clients. I am ready to represent the brand with integrity, adapt, grow and learn, as well as\ncontribute positively to a team-oriented work environment.\nWilling to relocate to: Dallas, TX - New York, NY - El Paso, TX\n\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \n\n\nWORK EXPERIENCE\n\nFreelance Graphic Designer\nGameTight Media Group - Manhattan, NY\nSeptember 2007 to Present\nDesign logos, ads, album covers, websites and other material to promote all aspects of the company.\n\nGeneral Manager\nFitness Connection - Dallas, TX\nSeptember 2016 to September 2019\nResponsible for achieving the gym's revenue and expense control goals to hit profitability goals, managing all facets of\noperations to include membership, service, product sales and promotions and develop a team to ensure the gym is running\nin compliance with Company policies and procedures.\n\nSales Manager\n24 Hour Fitness - Brooklyn, NY\nDecember 2014 to September 2016\nResponsible for hitting the daily budget, exceed a bi-weekly threshold, meet percentages, generate leads, provide customer\nservice and lead a team of sales advisors to success.\n\nAssistant General Manager\nBally Total Fitness - Brooklyn, NY\nJanuary 2009 to December 2014\nResponsible for hitting the daily budget, provide phenomenal customer service, control the gym when the general manager\nisn't around and lead a team of staff members to success.\n\nWeb\/Graphic Designer\nBetter Leadership America - Brooklyn, NY\nJanuary 2008 to May 2008\nResponsible for designing and maintaining websites, graphics, animation, Image compositing, as well as print materials\nsuch as brochures, journal ads and posters.\nVideo Editing\n\nWeb\/Graphic Designer\nMirriAd - Manhattan, NY\nNovember 2007 to January 2008\nManhattan, NY November 2007 - January 2008\nVirtual product placement (digital branded integration) using proprietary software to digitally insert products, logos, etc. into\nmovies, TV and other multimedia.\nWeb\/Graphic Designer\n\n\nEDUCATION\n\nAssociate Degree of Applied Science in Digital Media\nKatherine Gibbs School - Manhattan, NY\nMarch 2007\n\n\nSKILLS\n\n\u2022 Adobe Photoshop, Illustrator, InDesign, Premiere, After Effects, Flash and Dreamweaver. Microsoft\nPowerPoint, Word and Excel. Vector Illustration, Image Compositing, Animation and Typography.\n\u2022 Microsoft Office\n\u2022 Graphic Design\n\u2022 Adobe Premiere\n\u2022 Web Design\n\u2022 Layout Design\n\u2022 User Experience (UX)\n\u2022 Branding\n\u2022 Adobe Acrobat",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-10-07",
+        "SovrenSignature": [
+            "fHgBAAAAAAA="
+        ]
+    }
+}

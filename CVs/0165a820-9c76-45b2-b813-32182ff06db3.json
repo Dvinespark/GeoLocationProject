@@ -1,0 +1,1422 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "GeoCoordinates": {
+                "Latitude": 44.086299896240234,
+                "Longitude": -79.44667053222656
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "BACHELOR OF COMPUTER SCIENCE",
+                "Normalized": "bachelors"
+            },
+            "Type": "bachelors"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "PRESENT\nBACHELOR OF COMPUTER SCIENCE, ATHABASCA UNIVERSITY\nCourses included but not limited to: data foundations, coding, data modeling, IT foundations,\n\n\nMAY 2012",
+                "SchoolName": {
+                    "Raw": "ATHABASCA UNIVERSITY",
+                    "Normalized": "ATHABASCA UNIVERSITY"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "BACHELOR OF COMPUTER SCIENCE",
+                        "Normalized": "bachelors"
+                    },
+                    "Type": "bachelors"
+                },
+                "Majors": [
+                    "COMPUTER SCIENCE"
+                ]
+            },
+            {
+                "Id": "DEG-2",
+                "Text": "ADVERTISING, GEORGIAN COLLEGE\nCourses included but not limited to: Media Buying, Graphic Design, Web Development, Marketing, Presenting, Account Management",
+                "SchoolName": {
+                    "Raw": "GEORGIAN COLLEGE",
+                    "Normalized": "GEORGIAN COLLEGE"
+                },
+                "SchoolType": "college",
+                "Degree": [],
+                "Majors": [
+                    "ADVERTISING"
+                ]
+            },
+            {
+                "Id": "DEG-3",
+                "Text": "Received 2nd place in overall marketing strategy against the entire Business Division of Georgian College",
+                "SchoolName": {
+                    "Raw": "Business Division of Georgian College",
+                    "Normalized": "Business Division of Georgian College"
+                },
+                "SchoolType": "college",
+                "Degree": [],
+                "Majors": [
+                    "marketing"
+                ],
+                "Graduated": {
+                    "Value": true
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~~~~~~   is experienced in the management of:  Marketing (Data & Analytics); and Information Technology (Big Data).    ~~~~~~~~~~~   has 8 years of work experience, with 5 years of management experience, including a mid-level position.",
+            "MonthsOfWorkExperience": 90,
+            "MonthsOfManagementExperience": 56,
+            "ExecutiveType": "GENERAL",
+            "AverageMonthsPerEmployer": 30,
+            "FulltimeDirectHirePredictiveIndex": 85,
+            "ManagementStory": "Current position is a mid-level management role: Own Adobe Audience Manager\nStarting on 4\/1\/2016, the candidate held the following mid-level management position for 4 years and 8 months:\n\tTitle: Own Adobe Audience Manager for CAMPAIGN ANALYTICS INSIGHTS AND OPTIMIZATION, MANULIFE",
+            "CurrentManagementLevel": "mid-level",
+            "ManagementScore": 55
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "CAMPAIGN ANALYTICS INSIGHTS AND OPTIMIZATION, MANULIFE",
+                        "Normalized": "CAMPAIGN ANALYTICS INSIGHTS AND OPTIMIZATION MANULIFE"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Own Adobe Audience Manager",
+                    "Normalized": "Own Adobe Audience Manager",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2016-04-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-11-30",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "NumberEmployeesSupervised": {
+                    "Value": 3
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Big Data",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Responsible for producing more than 85+ in depth data reports annually\nLead a team of 3 analyst\nPresent strategies that will improve the quality of the campaign by exploring both quantitative and qualitative data\nOwn Adobe Audience Manager - was responsible for developing audiences through data analysis that could leverage and enhance KPI performance\nBuild test, multivariate tests and optimization strategies and deployment\nManage campaign budgets and forecast of KPI results through predictive modelling and optimizations\nPull all data and do deep dives with several platforms including: Adobe Analytics, Tableau with Alteryx integration, Google Analytics - including DCM, DMP and Search 360, Youtube, Hootsuite and internal Data-lakes\nCreate initiative data visualizations reports through Excel, Adobe Analytics Dashboads, Tableu and Power BI\nPresent reports and recommendations to various levels of the marketing teams up to SVP\nManage 3rd party vendor relations and work with them to better the campaign and contracts\n\nApart of Digital Analytics Association\nIBM Data Science Professional Certification\nProfessional Tableau training"
+            },
+            {
+                "Id": "POS-2",
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "DIGITAL OPTIMIZATION SPECIALIST, BELL CANADA",
+                    "Normalized": "DIGITAL OPTIMIZATION SPECIALIST BELL CANADA",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "DIGITAL OPTIMIZATION SPECIALIST"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2014-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2015-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Enterprise Storage",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "efforts to introduce and sell Adobe Marketing Cloud to Bell Canadas\nResponsible for analyzing data and developing strategies in order findings to enhance customer experience\nLead a team in development of strategies\nWas mandated to execute at least 10 test (a\/b test, personalized messaging or enhanced experiences) per quarter\nAdvised on low hanging opportunities to better customer journeys and achieve quarterly profits\nLiase with IT, Analytics, UX and developers to ensure a timely launch\nOwn and manage optimization and targeting efforts for Bell Residential\nWas responsible for managing all 3rd party vendor (Adobe) as well as Agency relationships\nCERTIFIED ADOBE EXPERT"
+            },
+            {
+                "Id": "POS-3",
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "AD OPERATIONS COORDINATOR, ZOOMERMEDIA",
+                    "Normalized": "AD OPERATIONS COORDINATOR ZOOMERMEDIA",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "AD OPERATIONS COORDINATOR"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2013-02-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2014-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Sales",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Assisted Sales Reps on Contracts\nWorked with External clients on producing ads required\nEnsured the development, QA'ing, and launch of all campaign where met\nDeveloped marketing calendar for production teams"
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 44,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 20,
+                            "PercentOfParent": 45,
+                            "Skills": [
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 90
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-11-30"
+                                    }
+                                },
+                                {
+                                    "Id": "021514",
+                                    "Name": "Media Buying",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "588",
+                            "SubTaxonomyName": "Data & Analytics",
+                            "PercentOfOverall": 14,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "1400080",
+                                    "Name": "Business Intelligence",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400081",
+                                            "Name": "BI",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 56
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-11-30"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 56
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-11-30"
+                                    }
+                                },
+                                {
+                                    "Id": "1400075",
+                                    "Name": "Data Science",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 56
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-11-30"
+                                    }
+                                },
+                                {
+                                    "Id": "1400068",
+                                    "Name": "Marketing Analysis",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400327",
+                                            "Name": "Data Analysis",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 56
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-11-30"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 56
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-11-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 20,
+                            "Skills": [
+                                {
+                                    "Id": "1400390",
+                                    "Name": "Digital Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "555154300",
+                                    "Name": "Google Analytics",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 56
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-11-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "592",
+                            "SubTaxonomyName": "Marketing Communications",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "1400153",
+                                    "Name": "Advertising",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "1400141",
+                                    "Name": "Marketing Strategy",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "595",
+                            "SubTaxonomyName": "Advertising",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "1400380",
+                                    "Name": "Digital Campaign",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400381",
+                                            "Name": "Digital Marketing",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "585",
+                            "SubTaxonomyName": "Product",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "1400003",
+                                    "Name": "Marketing Strategy",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "223",
+                            "SubTaxonomyName": "Market Research",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "021254",
+                                    "Name": "Marketing Strategy",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 40,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "553",
+                            "SubTaxonomyName": "Big Data",
+                            "PercentOfOverall": 14,
+                            "PercentOfParent": 34,
+                            "Skills": [
+                                {
+                                    "Id": "5530958",
+                                    "Name": "Data Science",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 56
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-11-30"
+                                    }
+                                },
+                                {
+                                    "Id": "5530962",
+                                    "Name": "Data Visualization",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "5531045",
+                                    "Name": "Power Bi",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 56
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-11-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "554",
+                            "SubTaxonomyName": "Business Intelligence",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 22,
+                            "Skills": [
+                                {
+                                    "Id": "5540985",
+                                    "Name": "Tableau Software",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "55409852",
+                                            "Name": "Tableau",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 56
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-11-30"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 56
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-11-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "251",
+                            "SubTaxonomyName": "Config Deploy Upgrade Migrate",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 22,
+                            "Skills": [
+                                {
+                                    "Id": "023631",
+                                    "Name": "Deployment",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 56
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-11-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "720",
+                            "SubTaxonomyName": "Machine Learning",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "7200001",
+                                    "Name": "Data Science",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 56
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-11-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "198",
+                            "SubTaxonomyName": "Network",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "023294",
+                                    "Name": "Optimization",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 23
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "193",
+                            "SubTaxonomyName": "Database",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "014961",
+                                    "Name": "Data Analysis",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 56
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-11-30"
+                                    }
+                                },
+                                {
+                                    "Id": "026777",
+                                    "Name": "Database Modeling",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "01503802",
+                                            "Name": "Data Modeling",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "EDUCATION",
+                                                    "Id": "DEG-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "008481",
+                                    "Name": "SQL",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "555",
+                            "SubTaxonomyName": "Enterprise Storage",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "5551150",
+                                    "Name": "HP-UX",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555115001",
+                                            "Name": "UX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 23
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2015-12-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 23
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "203",
+                            "SubTaxonomyName": "UNIX and LINUX",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "01026309",
+                                    "Name": "UNIX",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "010377",
+                                            "Name": "UX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 23
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2015-12-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 23
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "204",
+                            "SubTaxonomyName": "Programming",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "013739",
+                                    "Name": "Coding",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "006120",
+                                    "Name": "Python",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "201",
+                            "SubTaxonomyName": "Architecture",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "024098",
+                                    "Name": "Data Modeling",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 89,
+                            "Skills": [
+                                {
+                                    "Id": "025224",
+                                    "Name": "Account Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "022274",
+                                    "Name": "Contracts",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 78
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-11-30"
+                                    }
+                                },
+                                {
+                                    "Id": "014960",
+                                    "Name": "Data Analysis",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 56
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-11-30"
+                                    }
+                                },
+                                {
+                                    "Id": "014996",
+                                    "Name": "Data Modeling",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "436",
+                            "SubTaxonomyName": "Management Activities or Functions",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 11,
+                            "Skills": [
+                                {
+                                    "Id": "003875",
+                                    "Name": "Operations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 22
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "7",
+                    "Name": "Finance",
+                    "PercentOfOverall": 4,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "246",
+                            "SubTaxonomyName": "Treasury",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 99,
+                            "Skills": [
+                                {
+                                    "Id": "026948",
+                                    "Name": "Budgets",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 56
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-11-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "243",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "024099",
+                                    "Name": "Data Modeling",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "22",
+                    "Name": "Construction Non-Laborer",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "380",
+                            "SubTaxonomyName": "Estimating",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 68,
+                            "Skills": [
+                                {
+                                    "Id": "026946",
+                                    "Name": "Budgets",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 56
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-11-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "394",
+                            "SubTaxonomyName": "Office, Admin and Clerical",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 32,
+                            "Skills": [
+                                {
+                                    "Id": "022273",
+                                    "Name": "Contracts",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 78
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-11-30"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 91,
+                            "Skills": [
+                                {
+                                    "Id": "081121",
+                                    "Name": "Sales Reps",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 22
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "104",
+                            "SubTaxonomyName": "Account Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 9,
+                            "Skills": [
+                                {
+                                    "Id": "025223",
+                                    "Name": "Account Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "006721",
+                                    "Name": "Relationship Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "97",
+                    "Name": "Supply Chain and Logistics",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "461",
+                            "SubTaxonomyName": "Supply Chain",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 85,
+                            "Skills": [
+                                {
+                                    "Id": "014311",
+                                    "Name": "Contracts",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 78
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-11-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "458",
+                            "SubTaxonomyName": "Purchasing",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 15,
+                            "Skills": [
+                                {
+                                    "Id": "023098",
+                                    "Name": "Buying",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "569",
+                            "SubTaxonomyName": "Graphic Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 29,
+                            "Skills": [
+                                {
+                                    "Id": "5570264",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "5570120",
+                                    "Name": "Visualization",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 29,
+                            "Skills": [
+                                {
+                                    "Id": "5570072",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "5570059",
+                                    "Name": "Visualization",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "566",
+                            "SubTaxonomyName": "Industrial Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 17,
+                            "Skills": [
+                                {
+                                    "Id": "5570095",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "572",
+                            "SubTaxonomyName": "Interactive Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 13,
+                            "Skills": [
+                                {
+                                    "Id": "5570157",
+                                    "Name": "Visualization",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "565",
+                            "SubTaxonomyName": "Visual Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 13,
+                            "Skills": [
+                                {
+                                    "Id": "5570073",
+                                    "Name": "Visualization",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "022841",
+                                    "Name": "Excel",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 56
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-11-30"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Certifications": [
+        {
+            "Name": "CERTIFIED ADOBE EXPERT",
+            "MatchedFromList": false,
+            "IsVariation": false
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "Georgian",
+            "LanguageCode": "ka",
+            "FoundInContext": "ADVERTISING, GEORGIAN COLLEGE [AND] the entire Business Division of Georgian College"
+        },
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "QualificationsSummary": "SKILLS\n\u2022 Advance Analytics (Excel, SQL Python)\n\u2022 Testing\/ Optimization\n\u2022 Modelling\n\u2022 Digital Marketing\n\u2022 Building Data Visualization Reports and Stories based on data (Tableu, Power BI, Adobe Workspace)\n\n\u2022 Personalization\/ Contextualization\n\u2022 Research\n\u2022 Account\/ Relationship Management\n\u2022 Project Management\n\u2022 Leadership",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 7,
+                "LastLineNumber": 44,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "EXPERIENCE"
+            },
+            {
+                "FirstLineNumber": 45,
+                "LastLineNumber": 57,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "EDUCATION"
+            },
+            {
+                "FirstLineNumber": 58,
+                "LastLineNumber": 69,
+                "SectionType": "SKILLS",
+                "HeaderTextFound": "SKILLS"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    },
+                    {
+                        "QualityCode": "222",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-2"
+                            },
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-3"
+                            }
+                        ],
+                        "Message": "Every position in a resume should have an employer name."
+                    },
+                    {
+                        "QualityCode": "231",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "DEG-2"
+                            },
+                            {
+                                "SectionType": "DEG-3"
+                            }
+                        ],
+                        "Message": "Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "161",
+                        "Message": "High school (or lower) education should not be included on resumes that contain higher-level education."
+                    },
+                    {
+                        "QualityCode": "112",
+                        "Message": "The following section was identified as a skills section type: 'SKILLS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~~~~~  \n70 Falconridge Terr., East Gwillimbury \u2022    ~~~~~~~  \n   ~~~~~~~~~~~~~~~~~~~~~~  \n\nI am an Analyst with more than 8 years' experience using data-driven analytics to establish a leading presence in new markets as well identify key growth opportunities. As an analyst I am detail oriented, analytical, a team player with a project management mentality and a quick learner that is always willing to serve internal and external clients.\n\n\nEXPERIENCE\nAPRIL 2016 - PRESENT\nCAMPAIGN ANALYTICS INSIGHTS AND OPTIMIZATION, MANULIFE\nResponsible for producing more than 85+ in depth data reports annually\nLead a team of 3 analyst\nPresent strategies that will improve the quality of the campaign by exploring both quantitative and qualitative data\nOwn Adobe Audience Manager - was responsible for developing audiences through data analysis that could leverage and enhance KPI performance\nBuild test, multivariate tests and optimization strategies and deployment\nManage campaign budgets and forecast of KPI results through predictive modelling and optimizations\nPull all data and do deep dives with several platforms including: Adobe Analytics, Tableau with Alteryx integration, Google Analytics - including DCM, DMP and Search 360, Youtube, Hootsuite and internal Data-lakes\nCreate initiative data visualizations reports through Excel, Adobe Analytics Dashboads, Tableu and Power BI\nPresent reports and recommendations to various levels of the marketing teams up to SVP\nManage 3rd party vendor relations and work with them to better the campaign and contracts\n\nApart of Digital Analytics Association\nIBM Data Science Professional Certification\nProfessional Tableau training\n\nJANUARY 2014 - DECEMBER 2015\nDIGITAL OPTIMIZATION SPECIALIST, BELL CANADA\nPioneered efforts to introduce and sell Adobe Marketing Cloud to Bell Canadas\nResponsible for analyzing data and developing strategies in order findings to enhance customer experience\nLead a team in development of strategies\nWas mandated to execute at least 10 test (a\/b test, personalized messaging or enhanced experiences) per quarter\nAdvised on low hanging opportunities to better customer journeys and achieve quarterly profits\nLiase with IT, Analytics, UX and developers to ensure a timely launch\nOwn and manage optimization and targeting efforts for Bell Residential\nWas responsible for managing all 3rd party vendor (Adobe) as well as Agency relationships\nCERTIFIED ADOBE EXPERT\n\nFEBURARY 2013- DECEMBER 2014\nAD OPERATIONS COORDINATOR, ZOOMERMEDIA\nAssisted Sales Reps on Contracts\nWorked with External clients on producing ads required\nEnsured the development, QA'ing, and launch of all campaign where met\nDeveloped marketing calendar for production teams\n\n\nEDUCATION\nPRESENT\nBACHELOR OF COMPUTER SCIENCE, ATHABASCA UNIVERSITY\nCourses included but not limited to: data foundations, coding, data modeling, IT foundations,\n\n\nMAY 2012\nADVERTISING, GEORGIAN COLLEGE\nCourses included but not limited to: Media Buying, Graphic Design, Web Development, Marketing, Presenting, Account Management\n\nReceived 2nd place in overall marketing strategy against the entire Business Division of Georgian College\n\n\nSKILLS\n\u2022 Advance Analytics (Excel, SQL Python)\n\u2022 Testing\/ Optimization\n\u2022 Modelling\n\u2022 Digital Marketing\n\u2022 Building Data Visualization Reports and Stories based on data (Tableu, Power BI, Adobe Workspace)\n\n\u2022 Personalization\/ Contextualization\n\u2022 Research\n\u2022 Account\/ Relationship Management\n\u2022 Project Management\n\u2022 Leadership",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-11-30",
+        "SovrenSignature": [
+            "Hqv\/\/\/\/\/\/\/8="
+        ]
+    }
+}

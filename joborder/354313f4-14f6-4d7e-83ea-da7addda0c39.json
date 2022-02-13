@@ -1,0 +1,484 @@
+{
+    "CurrentJobIsManagement": false,
+    "HighestManagementScore": {
+        "Value": 0
+    },
+    "ManagementLevel": "None",
+    "ExecutiveType": "NONE",
+    "MinimumYears": {
+        "Value": 3
+    },
+    "JobTitles": {
+        "MainJobTitle": "Technical Analyst",
+        "JobTitle": [
+            "(Canada) Technical Analyst - Sr Description"
+        ]
+    },
+    "EmployerNames": {
+        "MainEmployerName": "Thomson Reuters",
+        "EmployerName": [
+            "Thomson Reuters",
+            "Answer Company",
+            "Technology Center"
+        ]
+    },
+    "SchoolNames": [
+        "our new Technology Center in Toronto",
+        "our new Technology Center",
+        "Technology Center in Toronto",
+        "Technology Center in Toronto, Ontario",
+        "Technology Center"
+    ],
+    "CurrentLocation": {
+        "CountryCode": "Canada",
+        "Regions": [
+            "Ontario"
+        ],
+        "Municipality": "Toronto",
+        "GeoCoordinates": {
+            "Latitude": 43.64309,
+            "Longitude": -79.38307
+        }
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 45,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "204",
+                            "SubTaxonomyName": "Programming",
+                            "PercentOfOverall": 25,
+                            "PercentOfParent": 56,
+                            "Skills": [
+                                {
+                                    "Id": "006120",
+                                    "Name": "Python",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "010438",
+                                    "Name": "Vbscript",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "024873",
+                                    "Name": "Scripting",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "025406",
+                                    "Name": "Middleware",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "555154375",
+                                    "Name": "Shell Scripting",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555154378",
+                                            "Name": "PowerShell",
+                                            "ExistsInText": false,
+                                            "Required": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "349",
+                            "SubTaxonomyName": "Operations, Monitoring and Software Management",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 11,
+                            "Skills": [
+                                {
+                                    "Id": "3490068",
+                                    "Name": "Incident Response",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "251",
+                            "SubTaxonomyName": "Config Deploy Upgrade Migrate",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 11,
+                            "Skills": [
+                                {
+                                    "Id": "023631",
+                                    "Name": "Deployment",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "200",
+                            "SubTaxonomyName": "QA and QC",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 11,
+                            "Skills": [
+                                {
+                                    "Id": "021637",
+                                    "Name": "Application Performance",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "553",
+                            "SubTaxonomyName": "Big Data",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "5531064",
+                                    "Name": "Software as a Service",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5531065",
+                                            "Name": "SAAS",
+                                            "ExistsInText": false,
+                                            "Required": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "196",
+                            "SubTaxonomyName": "Internet",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "1004743",
+                                    "Name": "SAAS",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 15,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "528",
+                            "SubTaxonomyName": "Attitude",
+                            "PercentOfOverall": 10,
+                            "PercentOfParent": 67,
+                            "Skills": [
+                                {
+                                    "Id": "005483",
+                                    "Name": "Problem-Solving",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "026353",
+                                    "Name": "Self-Starter",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "532",
+                            "SubTaxonomyName": "Aptitudes",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "031020",
+                                    "Name": "Excellent Verbal and Written Communication Skills",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "13",
+                    "Name": "Manufacturing",
+                    "PercentOfOverall": 10,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "208",
+                            "SubTaxonomyName": "Planning",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "022739",
+                                    "Name": "Scheduling",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "364",
+                            "SubTaxonomyName": "Equipment",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "022116",
+                                    "Name": "Maintenance",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "31",
+                    "Name": "Written Communications",
+                    "PercentOfOverall": 10,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "429",
+                            "SubTaxonomyName": "Specs and Documentation",
+                            "PercentOfOverall": 10,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "021083",
+                                    "Name": "Maintain Documentation",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "022620",
+                                    "Name": "Documentation",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "46",
+                    "Name": "Call Center or Help Desk or Customer Service",
+                    "PercentOfOverall": 7,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "129",
+                            "SubTaxonomyName": "Help Desk",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 75,
+                            "Skills": [
+                                {
+                                    "Id": "005480",
+                                    "Name": "Problem Resolution",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "130",
+                            "SubTaxonomyName": "Customer Facing",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "014744",
+                                    "Name": "Customer Service",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "436",
+                            "SubTaxonomyName": "Management Activities or Functions",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "003875",
+                                    "Name": "Operations",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "32",
+                    "Name": "Degreed Accounting",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "950",
+                            "SubTaxonomyName": "CPA",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "7000058",
+                                    "Name": "Accounting",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "944",
+                            "SubTaxonomyName": "Bookkeeping",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "022499",
+                                    "Name": "Accounting",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "1",
+                    "Name": "Administrative or Clerical",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "110",
+                            "SubTaxonomyName": "Billing and Collections",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 82,
+                            "Skills": [
+                                {
+                                    "Id": "022474",
+                                    "Name": "Billing",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "112",
+                            "SubTaxonomyName": "Messages and Contact",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 18,
+                            "Skills": [
+                                {
+                                    "Id": "023735",
+                                    "Name": "Customer Service Oriented",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "013326",
+                                            "Name": "Customer Service",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "89",
+                    "Name": "Bookkeeping, Office Management",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "533",
+                            "SubTaxonomyName": "Bookeeping Tasks",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "005856",
+                                    "Name": "Accounting",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "011553",
+                                    "Name": "Billing",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "78",
+                    "Name": "Retail",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "511",
+                            "SubTaxonomyName": "Positions",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022943",
+                                    "Name": "Retail Sales",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "006920",
+                                            "Name": "Customer Service",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "JobMetadata": {
+        "PlainText": " JobTitle: (Canada) Technical Analyst - Sr Description:\r\nTechnical Analyst - Middleware\r\n\r\n\r\nThomson Reuters is the Answer Company. We provide authoritative content, advanced technologies and human expertise to help our customers find trusted answers. We enable professionals in the legal, tax and accounting, and media markets to make the decisions that matter most, all powered by the world's most trusted news organization.\r\n\r\n\r\nThe Corporate Legal group is looking to add a Technical Analyst to the Operations team at our new Technology Center in Toronto, Ontario, conveniently located within walking distance of Union Station. Our plan is to create around 1,500 technology and operations jobs in the coming years.\r\n\r\n\r\nThe purpose of this role is to build and maintain Microsoft computing platform of systems\/services to sustain a high level of up-time and quality for our customers.\r\n\r\n\r\nLegal Tracker is an industry leading corporate legal solution with focus in matter management, e-billing and analytics. As a SaaS offering, this product caters to over 1300 corporate legal departments in North America to streamline operations, control spend and get complete visibility into the legal landscape.\r\n\r\n\r\nResponsibilities include but aren't limited to:\r\n\r\n\u2022    Analyze and develop technology solutions based on customer requirements.\r\n\r\n\u2022    Build and implement middleware products to meet business demands using Infrastructure as Code\r\n\r\n\u2022    Work with Developers, Architects and Analyst in developing middleware configurations based on requirements.\r\n\r\n\u2022    Identify and apply innovative technologies to update existing middleware.\r\n\r\n\u2022    Create and maintain documentation for middleware installations, changes and upgrades.\r\n\r\n\u2022  Troubleshoot, resolve and document technical problems in timely and accurate manner to improve application performance and functionality.\r\n\r\n\u2022    Train Operations associates on middleware updates and new installations.\r\n\r\n\u2022    Coordinate with vendors and support team on problem resolution, design issues and upgrades.\r\n\r\n\u2022    Perform troubleshooting, incident response, and patching in a timely manner.\r\n\r\n\u2022    Develop and implement strategies for migration, consolidation and upgrade of middleware components.\r\n\r\n\u2022    Evaluate system architecture and make recommendations as required.\r\n\r\n\u2022    Develop and implement standard processes for installation, maintenance and enhancement of middleware applications.\r\n\r\n\r\nExperience:\r\n\r\n\u2022    3+ years in Azure Infrastructure roles.\r\n\r\n\u2022    3+ years in implementing and administrating Azure Service Bus\r\n\r\n\u2022    3+ years in deploying Infrastructure As Code\r\n\r\n\u2022    3+ years of experience in supporting Production Environments\r\n\r\n\u2022    3 + years of scripting in one language ( Powershell, Python, etc)\r\n\r\n\u2022    Supported multi-tenant systems, preferably for a SaaS application\r\n\r\n\u2022    Involved with support of a complex architecture\r\n\r\n\r\nQualifications:\r\n\r\n\u2022    Experience working knowledge of Azure Cloud\r\n\r\n\u2022    Experience in Middleware (preferably Azure Service Bus) Implementation and Administration\r\n\r\n\u2022    Experience in at least one scripting language (PowerShell, VBScript, Python etc.)\r\n\r\n\u2022    Motivated self-starter, reliable, dedicated, with scheduling flexibility\r\n\r\n\u2022    Experience in Infrastructure as Code Development and Deployment\r\n\r\n\u2022    Good analytical and problem-solving skills\r\n\r\n\u2022    Security-minded and Strong customer service orientation\r\n\r\n\u2022    Ability to prioritize and organize time to follow through with assigned functions.\r\n\r\n\u2022    Must have excellent verbal and written communication skills, including ability to compile, interpret, and utilize information; and to communicate effectively with people of all backgrounds and educational levels.\r\n\r\n\u2022    Ability to present ideas and solutions in user-friendly language\r\n\r\n\u2022    Must be well organized and have good attention to detail\r\n\r\n\u2022    Skilled at working within a team-oriented, collaborative environment\r\n\r\n\r\nEducation:\r\n\r\nMinimum working towards a Degree in Computer Science or related field\r\n Skills: Azure, middleware",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = Invariant Language (Invariant Country); Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-08-20",
+        "SovrenSignature": [
+            "eiICAAAAAAA="
+        ]
+    }
+}

@@ -1,0 +1,643 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "GeoCoordinates": {
+                "Latitude": 32.93429183959961,
+                "Longitude": -97.07805633544922
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "B.A. in Creative Media Industries",
+                "Normalized": "bachelors"
+            },
+            "Type": "bachelors"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "Social\n\n2014-2019\tTEXAS TECH UNIVERSITY\n\/\nB.A. in Creative Media Industries\nLubbock, TX\n-\nb34960180",
+                "SchoolName": {
+                    "Raw": "TEXAS TECH UNIVERSITY",
+                    "Normalized": "TEXAS TECHNOLOGY UNIVERSITY"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "B.A. in Creative Media Industries",
+                        "Normalized": "bachelors"
+                    },
+                    "Type": "bachelors"
+                },
+                "LastEducationDate": {
+                    "Date": "2019-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~   is experienced in:  Marketing (Digital; Advertising); and Information Technology (Internet; Programming).    ~~~~~~   appears to be a low-to-mid level candidate, with 3 years of experience.",
+            "MonthsOfWorkExperience": 34,
+            "MonthsOfManagementExperience": 0,
+            "ExecutiveType": "NONE",
+            "AverageMonthsPerEmployer": 11,
+            "FulltimeDirectHirePredictiveIndex": 50,
+            "ManagementStory": "",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 0
+        },
+        "Positions": [
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "FRISCO SPORTS CENTER",
+                        "Normalized": "FRISCO SPORTS CENTER"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Graphic Designer",
+                    "Normalized": "Graphic Designer",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2019-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-09-30",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Design artwork and graphics for digital marketing\nand print material. Manage and organize graphic\tLocation\nfiles for Elementary, Middle, and High Schools.\nTransfer digital artwork into vinyl. Ensure artwork\nis prepared for screen printing.\t3225 Grapevine Mills Blvd\nGrapevine, TX 76051"
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "ALLEGIANCE TITLE COMPANY",
+                        "Normalized": "ALLEGIANCE TITLE COMPANY"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Graphic Designer",
+                    "Normalized": "Graphic Designer",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2020-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-09-30",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Internet",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "About Me\nDesign print material for corporate marketing. File\nmanagement and organization for all locations.\tExperienced in marketing and\nPhoto\/video editing and production. Maintain and\tprint, I have a passion for develop company website.\tdesign and a successful work\nenvironment. I love all things\ncreative and don't view work as\nSkills\twork when your doing what you\nenjoy.\nIllustrator\tPhotography\n\nCommunication\t Organization\nHTML\/CSS\tWeb Design"
+            },
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "TEXAS TECH UNIVERSITY",
+                        "Normalized": "TEXAS TECH UNIVERSITY"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "TEXAS"
+                        ],
+                        "Municipality": "TECH"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Graphic Designer",
+                    "Normalized": "Graphic Designer",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2018-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2019-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Create edits for final event posters. Design visuals\nfor events, organizations and building artwork.\tContact\nEdit photos to use in promoting. Edit and prepare\nartwork for print production."
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 47,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 25,
+                            "PercentOfParent": 53,
+                            "Skills": [
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 21
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 12,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "1400390",
+                                    "Name": "Digital Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 21
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                },
+                                {
+                                    "Id": "1400242",
+                                    "Name": "WEB Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 9
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "595",
+                            "SubTaxonomyName": "Advertising",
+                            "PercentOfOverall": 10,
+                            "PercentOfParent": 22,
+                            "Skills": [
+                                {
+                                    "Id": "1400380",
+                                    "Name": "Digital Campaign",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400381",
+                                            "Name": "Digital Marketing",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 21
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-09-30"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 21
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 25,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "196",
+                            "SubTaxonomyName": "Internet",
+                            "PercentOfOverall": 13,
+                            "PercentOfParent": 53,
+                            "Skills": [
+                                {
+                                    "Id": "014705",
+                                    "Name": "CSS",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 9
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                },
+                                {
+                                    "Id": "010994",
+                                    "Name": "WEB Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 9
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "204",
+                            "SubTaxonomyName": "Programming",
+                            "PercentOfOverall": 12,
+                            "PercentOfParent": 47,
+                            "Skills": [
+                                {
+                                    "Id": "019115",
+                                    "Name": "HTML",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 9
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "13",
+                    "Name": "Manufacturing",
+                    "PercentOfOverall": 10,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "365",
+                            "SubTaxonomyName": "Printing",
+                            "PercentOfOverall": 10,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "024721",
+                                    "Name": "Silk Screen",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "007559",
+                                            "Name": "Screen Printing",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 21
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-09-30"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 21
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 10,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "569",
+                            "SubTaxonomyName": "Graphic Design",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 60,
+                            "Skills": [
+                                {
+                                    "Id": "5570122",
+                                    "Name": "Illustration",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570123",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 9
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-09-30"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 9
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "568",
+                            "SubTaxonomyName": "Integration Design",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 40,
+                            "Skills": [
+                                {
+                                    "Id": "5570110",
+                                    "Name": "WEB Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 9
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "27",
+                    "Name": "Light Technical\/Trades\/Skilled Labor",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "289",
+                            "SubTaxonomyName": "Printing",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "024722",
+                                    "Name": "Silk Screen",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "007558",
+                                            "Name": "Screen Printing",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 21
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-09-30"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 21
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "33",
+                    "Name": "Graphic Design",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "432",
+                            "SubTaxonomyName": "Software",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "013418",
+                                    "Name": "Adobe Illustrator",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555154316",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 9
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-09-30"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 9
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 3,
+                "LastLineNumber": 10,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "Education"
+            },
+            {
+                "FirstLineNumber": 11,
+                "LastLineNumber": 45,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "Experience"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "151",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "EDUCATION",
+                                "Id": "0"
+                            }
+                        ],
+                        "Message": "Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~  \nGraphic Design\n\nEducation\tSocial\n\n2014-2019\tTEXAS TECH UNIVERSITY\n   ~~~~~~~~~~~~~~~~  \/\nB.A. in Creative Media Industries\nLubbock, TX\n   ~~~~~~~~~~~~~~~~~~~~~~  -\nb34960180\nExperience\n\n   ~~~~~~~~~  \n2018-2019\tTEXAS TECH UNIVERSITY\nGraphic Designer\nCreate edits for final event posters. Design visuals\nfor events, organizations and building artwork.\tContact\nEdit photos to use in promoting. Edit and prepare\nartwork for print production.\t   ~~~~~~~  \n\n2019-2020\tFRISCO SPORTS CENTER\t\t   ~~~~~~~~~~~~~~~~~  \nGraphic Designer\nDesign artwork and graphics for digital marketing\nand print material. Manage and organize graphic\tLocation\nfiles for Elementary, Middle, and High Schools.\nTransfer digital artwork into vinyl. Ensure artwork\nis prepared for screen printing.\t3225 Grapevine Mills Blvd\nGrapevine, TX 76051\n\n2020-2020\tALLEGIANCE TITLE COMPANY\nCurrent employer\nGraphic Designer\tAbout Me\nDesign print material for corporate marketing. File\nmanagement and organization for all locations.\tExperienced in marketing and\nPhoto\/video editing and production. Maintain and\tprint, I have a passion for\ndevelop company website.\tdesign and a successful work\nenvironment. I love all things\ncreative and don't view work as\nSkills\twork when your doing what you\nenjoy.\nIllustrator\tPhotography\n\nCommunication\t Organization\n\nHTML\/CSS\tWeb Design",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-09-30",
+        "SovrenSignature": [
+            "Her\/\/\/\/\/\/\/8="
+        ]
+    }
+}

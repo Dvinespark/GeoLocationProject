@@ -1,0 +1,1029 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "CountryCode": "US",
+            "PostalCode": "75025",
+            "Regions": [
+                "TX"
+            ],
+            "Municipality": "Plano",
+            "GeoCoordinates": {
+                "Latitude": 33.08158874511719,
+                "Longitude": -96.7308120727539
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "B.F.A.",
+                "Normalized": "bachelors"
+            },
+            "Type": "bachelors"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "2019 - Present\tAndroid Development Edx & UPennx\nSoftware Development certification courses",
+                "SchoolName": {
+                    "Raw": "Edx",
+                    "Normalized": "Edx"
+                },
+                "SchoolType": "trade",
+                "Degree": {
+                    "Name": {
+                        "Raw": "certification",
+                        "Normalized": "certification"
+                    },
+                    "Type": "certification"
+                },
+                "LastEducationDate": {
+                    "Date": "2020-09-30",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "Graduated": {
+                    "Value": false
+                }
+            },
+            {
+                "Id": "DEG-2",
+                "Text": "2008 - 2012\t B.F.A. Animation Brigham Young University\n\n\nWORK AUTHOR.\nU.S.    ~~~~~~~~~~~~~  \n\n\nSOFTWARES\nADOBE CREATIVE CLOUD\nMAYA | NUKE | MUDBOX\nANDROID STUDIO | ECLIPSE\nMICROSOFT OFFICE\n\n\nPORTFOLIO\n\/",
+                "SchoolName": {
+                    "Raw": "Animation Brigham Young University",
+                    "Normalized": "Animation Brigham Young University"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "B.F.A.",
+                        "Normalized": "bachelors"
+                    },
+                    "Type": "bachelors"
+                },
+                "LastEducationDate": {
+                    "Date": "2012-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "The candidate is experienced in the management of:  Information Technology (User Interface; Mobile Applications; Programming). The candidate has 10 years of work experience, with 3 years of management experience, including a mid-level position.",
+            "MonthsOfWorkExperience": 120,
+            "MonthsOfManagementExperience": 36,
+            "ExecutiveType": "GENERAL",
+            "AverageMonthsPerEmployer": 24,
+            "FulltimeDirectHirePredictiveIndex": 50,
+            "ManagementStory": "Starting on 1\/1\/2015, the candidate held the following mid-level management position for 3 years:\n\tTitle: Manager, Graphic Design for HotDocs Corporation",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 55,
+            "AttentionNeeded": "ATTENTION: The candidate appears to have been in management in a past role (Manager, Graphic Design for HotDocs Corporation), but was not in management in the most recent role as Designer for Udacity."
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "Udacity",
+                        "Normalized": "Udacity"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Designer",
+                    "Normalized": "Designer",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2018-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2019-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "designed videos to help students understand\ndifficult concepts | worked with producers, content\ndevelopers and animators to ensure videos quality"
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "HotDocs Corporation",
+                        "Normalized": "HotDocs"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Manager, Graphic Design",
+                    "Normalized": "Manager Graphic Design",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Manager"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2015-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2017-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "designed various marketing materials for legal\nconferences and other uses | managed outside\nvendors | set up and designed HOTDOCS ACADEMY"
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "Namify",
+                        "Normalized": "Namify"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Graphic Designer",
+                    "Normalized": "Graphic Designer",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2014-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2015-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "FORTUNE",
+                        "Normalized": "FORTUNE"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Lighting Artist | ReelFX Creative Studio",
+                    "Normalized": "Lighting Artist ReelFX Creative Studio",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Lighting Artist"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2013-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2014-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "designed final looks for different FX shots | troubleshot\ntechnical difficulties to ensure rendering efficiency"
+            },
+            {
+                "Id": "POS-5",
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "3D Generalist",
+                    "Normalized": "3D Generalist",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2010-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2012-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "User Experience",
+                "SubTaxonomyName": "Interactive Design",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Center for Teaching & Learning\ncreated 3D animation for professors and university uses"
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 70,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "731",
+                            "SubTaxonomyName": "User Interface",
+                            "PercentOfOverall": 20,
+                            "PercentOfParent": 28,
+                            "Skills": [
+                                {
+                                    "Id": "7310008",
+                                    "Name": "Android",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PROJECT_HEADERS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 69
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "552",
+                            "SubTaxonomyName": "Mobile Applications",
+                            "PercentOfOverall": 20,
+                            "PercentOfParent": 28,
+                            "Skills": [
+                                {
+                                    "Id": "5520503",
+                                    "Name": "Android",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PROJECT_HEADERS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 69
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "204",
+                            "SubTaxonomyName": "Programming",
+                            "PercentOfOverall": 19,
+                            "PercentOfParent": 28,
+                            "Skills": [
+                                {
+                                    "Id": "3391145",
+                                    "Name": "Android Studio",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 48
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "019115",
+                                    "Name": "HTML",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "LANGUAGES"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "022594",
+                                    "Name": "Structured Software",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "008213",
+                                            "Name": "Software Development",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "EDUCATION",
+                                                    "Id": "DEG-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 21
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-09-30"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 21
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "339",
+                            "SubTaxonomyName": "Java",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 8,
+                            "Skills": [
+                                {
+                                    "Id": "015844",
+                                    "Name": "Eclipse",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 48
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "023328",
+                                    "Name": "JAVA",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "LANGUAGES"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "551",
+                            "SubTaxonomyName": "Gaming",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "5510014",
+                                    "Name": "Autodesk Maya",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "551001401",
+                                            "Name": "MAYA",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "EDUCATION",
+                                                    "Id": "DEG-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 48
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2012-01-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 48
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "196",
+                            "SubTaxonomyName": "Internet",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "014705",
+                                    "Name": "CSS",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "LANGUAGES"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 22,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "569",
+                            "SubTaxonomyName": "Graphic Design",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "5570118",
+                                    "Name": "Animation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 60
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "5570264",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "5570058",
+                                    "Name": "Animation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 60
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "5570072",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "566",
+                            "SubTaxonomyName": "Industrial Design",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 27,
+                            "Skills": [
+                                {
+                                    "Id": "5570095",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "572",
+                            "SubTaxonomyName": "Interactive Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "5570156",
+                                    "Name": "Animation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 60
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "33",
+                    "Name": "Graphic Design",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "433",
+                            "SubTaxonomyName": "Techniques and Activities",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022091",
+                                    "Name": "Animation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 60
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "024422",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "77",
+                    "Name": "Education",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "505",
+                            "SubTaxonomyName": "Positions",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "026880",
+                                    "Name": "Teaching",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 60
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "27",
+                    "Name": "Light Technical\/Trades\/Skilled Labor",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "291",
+                            "SubTaxonomyName": "Electrical",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "020768",
+                                    "Name": "Lighting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PROJECT_HEADERS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 24
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "64",
+                    "Name": "Training",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "361",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "026879",
+                                    "Name": "Teaching",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "024467",
+                                    "Name": "Microsoft Office",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 48
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2012-01-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "Chinese (Simplified)",
+            "LanguageCode": "zh",
+            "FoundInContext": "CANTONESE | MANDARIN [AND] CANTONESE | MANDARIN"
+        },
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "Achievements": [
+        "STUDENT EMMYS",
+        "ESTEFAN (2013):Lighter Lead"
+    ],
+    "QualificationsSummary": "SKILLS\nANIMATION | PROGRAMMING\n\nDESIGN | CALLIGRAPHY",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 3,
+                "LastLineNumber": 19,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "WORK EXPERIENCES"
+            },
+            {
+                "FirstLineNumber": 20,
+                "LastLineNumber": 30,
+                "SectionType": "PROJECT_HEADERS",
+                "HeaderTextFound": "PROJECT EXPERIENCES"
+            },
+            {
+                "FirstLineNumber": 31,
+                "LastLineNumber": 51,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "EDUCATION"
+            },
+            {
+                "FirstLineNumber": 52,
+                "LastLineNumber": 56,
+                "SectionType": "LANGUAGES",
+                "HeaderTextFound": "LANGUAGES"
+            },
+            {
+                "FirstLineNumber": 57,
+                "LastLineNumber": 62,
+                "SectionType": "SKILLS",
+                "HeaderTextFound": "SKILLS"
+            },
+            {
+                "FirstLineNumber": 63,
+                "LastLineNumber": 66,
+                "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+                "HeaderTextFound": "AWARDS"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Fatal Problems Found",
+                "Findings": [
+                    {
+                        "QualityCode": "433",
+                        "Message": "We detected that this document contained at least some data that was laid out as columns or tables. We rearranged that data to make it more usable. NEVER use columns or tables in a resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    },
+                    {
+                        "QualityCode": "302",
+                        "Message": "A first and last name was not found in the contact information. A resume should always include the candidate's first and last name."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "222",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-5"
+                            }
+                        ],
+                        "Message": "Every position in a resume should have an employer name."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "161",
+                        "Message": "High school (or lower) education should not be included on resumes that contain higher-level education."
+                    },
+                    {
+                        "QualityCode": "112",
+                        "Message": "The following section was identified as a skills section type: 'SKILLS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+                    },
+                    {
+                        "QualityCode": "151",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "0"
+                            },
+                            {
+                                "SectionType": "PROJECT_HEADERS",
+                                "Id": "1"
+                            },
+                            {
+                                "SectionType": "EDUCATION",
+                                "Id": "2"
+                            }
+                        ],
+                        "Message": "Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~~~~~~~~~~~  \/ |    ~~~~~~~~~~~~~~  \n   ~~~~~~~~~~   Plano TX 75025 |    ~~~~~~~  \n\nWORK EXPERIENCES\n2018 - 2019\t Designer | Udacity\ndesigned videos to help students understand\ndifficult concepts | worked with producers, content\ndevelopers and animators to ensure videos quality\n2015 - 2017\t Manager, Graphic Design | HotDocs Corporation\ndesigned various marketing materials for legal\nconferences and other uses | managed outside\nvendors | set up and designed HOTDOCS ACADEMY\n2014 - 2015\t Graphic Designer | Namify\ndesigned marketing materials for FORTUNE 500s\n2013 - 2014\t Lighting Artist | ReelFX Creative Studio\ndesigned final looks for different FX shots | troubleshot\ntechnical difficulties to ensure rendering efficiency\n2010 - 2012\t 3D Generalist | Center for Teaching & Learning\ncreated 3D animation for professors and university uses\n\nPROJECT EXPERIENCES\n2018 picture book THE LITTLE SILVER FOX available on AMAZON\nresponsible for illustrations:    ~~~~~~~~~~~~~~~~~~  \n2017 android app CANTONEAT available on GOOGLE PLAY\nresponsible for everything:    ~~~~~~~~~~~~~~~~~  \n2013 feature film FREEBIRDS REEL FX CREATIVE STUDIOS\n\nresponsible for lighting and compositing\n\n2011 feature film ARTHUR CHRISTMAS SONY PICTURES\nresponsible for lighting and compositiong\nEDUCATION\n2019 - Present\tAndroid Development Edx & UPennx\nSoftware Development certification courses\n2008 - 2012\t B.F.A. Animation Brigham Young University\n\n\nWORK AUTHOR.\nU.S.    ~~~~~~~~~~~~~  \n\n\nSOFTWARES\nADOBE CREATIVE CLOUD\nMAYA | NUKE | MUDBOX\nANDROID STUDIO | ECLIPSE\nMICROSOFT OFFICE\n\n\nPORTFOLIO\n   ~~~~~~~~~~~~~~~~~  \/\n\n\nLANGUAGES\nCANTONESE | MANDARIN\nJAVA | HTML | CSS\n\n\nSKILLS\nANIMATION | PROGRAMMING\n\nDESIGN | CALLIGRAPHY\n\n\nAWARDS\nSTUDENT EMMYS:\nESTEFAN (2013):Lighter Lead\nDREAMGIVER(2011):Lighter",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-09-30",
+        "SovrenSignature": [
+            "WND9\/\/\/\/\/\/8="
+        ]
+    }
+}

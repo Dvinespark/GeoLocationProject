@@ -1,0 +1,1121 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "GeoCoordinates": {
+                "Latitude": 33.15066909790039,
+                "Longitude": -96.8236083984375
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "BACHELOR of FINE ARTS",
+                "Normalized": "bachelors"
+            },
+            "Type": "bachelors"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "Project development\nDesigned for print and digital marketing including large-scale environmental graphics\nUNIVERSITY OF TEXAS\nCreatives for sale and sponsorship collateral\nIN ARLINGTON\tMaintained solid archive records\nBACHELOR of FINE ARTS | 2011\tEvent and product photography in Art with a Concentration in Visual Communication\nLEAD DESIGNER\nLONGHORN VAPOR COMPANY | May 2013 - March 2015\n\nIdeation and implementation of company's brand identity\nProduced graphics for both in-house and external marketing\nProduct and packaging design\nDesigned trade show booth and attended trade show conventions\nOperated custom laser engraving machine\nProduct photography and catalog layout",
+                "SchoolName": {
+                    "Raw": "UNIVERSITY OF TEXAS",
+                    "Normalized": "University of Texas"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "BACHELOR of FINE ARTS",
+                        "Normalized": "bachelors"
+                    },
+                    "Type": "bachelors"
+                },
+                "Majors": [
+                    "Visual Communication"
+                ],
+                "LastEducationDate": {
+                    "Date": "2015-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~~~~~~~   is experienced in the management of:  Marketing (Events); and Graphic Design (Software).    ~~~~~~~~~~~~   has 6 years of work experience, with 5 years of management experience, including a mid-level position.",
+            "MonthsOfWorkExperience": 67,
+            "MonthsOfManagementExperience": 54,
+            "ExecutiveType": "MARKETING",
+            "AverageMonthsPerEmployer": 33,
+            "FulltimeDirectHirePredictiveIndex": 85,
+            "ManagementStory": "Starting on 7\/1\/2017, the candidate held the following mid-level management position for 2 years and 2 months:\n\tTitle: YOUTH MARKETING MANAGER for IBC YOUTH BOWLING, INC\nStarting on 3\/1\/2015, the candidate held the following low-level management position for 2 years and 4 months:\n\tTitle: LEAD DESIGNER for IBC YOUTH BOWLING, INC",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 55,
+            "AttentionNeeded": "ATTENTION: The candidate appears to have been in management in a past role (YOUTH MARKETING MANAGER for IBC YOUTH BOWLING, INC), but was not in management in the most recent role as COURSEWARE DEVELOPER for FLIGHTSAFETY INTERNATIONAL, INC."
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "FLIGHTSAFETY INTERNATIONAL, INC",
+                        "Normalized": "FLIGHTSAFETY INTERNATIONAL"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "COURSEWARE DEVELOPER",
+                    "Normalized": "COURSEWARE DEVELOPER",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2019-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-10-07",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Product",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Create\/sustain presentations to include basic animations, media integration and layout considerations\nDesign\/update publications for both print and electronic distribution\nCreate\/sustain 2D images\nSKILLS\t\tConsult and collaborate with subject matter experts\nAdhere to established specifications and product development standards\nPrototyping\tParticipate in appropriate stages of the project management lifecycle"
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "IBC YOUTH BOWLING, INC",
+                        "Normalized": "IBC YOUTH BOWLING"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "YOUTH MARKETING MANAGER",
+                    "Normalized": "YOUTH MARKETING MANAGER",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2017-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2019-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Visual Design\nIllustrator\tProvide marketing support to various interdepartmental youth brands\nInDesign\tManage outbound email marketing and social campaigns via HubSpot\nPhotoshop\tAssist client services in managing deliverables for all business sponsorships\nAdobe XD\tManage site and web advertisement updates\nSpark   Oversee youth tournament marketing including print and digital signage,\nAcrobat Pro\tcommunication, TV production sets and client relations\nMerlinOne\tEvent planning organization's largest annual youth celebration event\nHubSpot\tCoordinate youth events including trade shows and other consumer-based events"
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "IBC YOUTH BOWLING, INC",
+                        "Normalized": "IBC YOUTH BOWLING"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "LEAD DESIGNER",
+                    "Normalized": "LEAD DESIGNER",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2015-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2017-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 39,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 21,
+                            "PercentOfParent": 54,
+                            "Skills": [
+                                {
+                                    "Id": "013443",
+                                    "Name": "Client Services",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                },
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "250",
+                            "SubTaxonomyName": "Events",
+                            "PercentOfOverall": 11,
+                            "PercentOfParent": 28,
+                            "Skills": [
+                                {
+                                    "Id": "026162",
+                                    "Name": "Event Planning",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                },
+                                {
+                                    "Id": "009786",
+                                    "Name": "Trade Show",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "227",
+                            "SubTaxonomyName": "Brand Management",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 8,
+                            "Skills": [
+                                {
+                                    "Id": "1400226",
+                                    "Name": "Brand Identity",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "004215",
+                                    "Name": "Packaging",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "005612",
+                                    "Name": "Product Development",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-07"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "585",
+                            "SubTaxonomyName": "Product",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "1400022",
+                                    "Name": "Product Development",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-07"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "1400390",
+                                    "Name": "Digital Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "1400247",
+                                    "Name": "Visual Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "595",
+                            "SubTaxonomyName": "Advertising",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "1400380",
+                                    "Name": "Digital Campaign",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400381",
+                                            "Name": "Digital Marketing",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "EDUCATION"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "33",
+                    "Name": "Graphic Design",
+                    "PercentOfOverall": 28,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "432",
+                            "SubTaxonomyName": "Software",
+                            "PercentOfOverall": 28,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "013418",
+                                    "Name": "Adobe Illustrator",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555154316",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 26
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2019-09-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                },
+                                {
+                                    "Id": "555154319",
+                                    "Name": "Adobe XD",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                },
+                                {
+                                    "Id": "026056",
+                                    "Name": "Indesign",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                },
+                                {
+                                    "Id": "025873",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 23,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "569",
+                            "SubTaxonomyName": "Graphic Design",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 31,
+                            "Skills": [
+                                {
+                                    "Id": "5570122",
+                                    "Name": "Illustration",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570123",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 26
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2019-09-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5570121",
+                                    "Name": "Sketching",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "565",
+                            "SubTaxonomyName": "Visual Design",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 23,
+                            "Skills": [
+                                {
+                                    "Id": "5570074",
+                                    "Name": "Sketching",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5570243",
+                                    "Name": "Visual Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "566",
+                            "SubTaxonomyName": "Industrial Design",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 15,
+                            "Skills": [
+                                {
+                                    "Id": "5570087",
+                                    "Name": "Sketching",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "573",
+                            "SubTaxonomyName": "Product Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 8,
+                            "Skills": [
+                                {
+                                    "Id": "5570164",
+                                    "Name": "Visual Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 8,
+                            "Skills": [
+                                {
+                                    "Id": "5570065",
+                                    "Name": "Visual Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "562",
+                            "SubTaxonomyName": "Interaction Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 8,
+                            "Skills": [
+                                {
+                                    "Id": "5570047",
+                                    "Name": "Visual Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "560",
+                            "SubTaxonomyName": "UX Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 8,
+                            "Skills": [
+                                {
+                                    "Id": "5570022",
+                                    "Name": "Visual Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 6,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "134",
+                            "SubTaxonomyName": "Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 39,
+                            "Skills": [
+                                {
+                                    "Id": "023556",
+                                    "Name": "Packaging Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "080932",
+                                    "Name": "Prototyping",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-07"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "144",
+                            "SubTaxonomyName": "Computer Hardware",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 31,
+                            "Skills": [
+                                {
+                                    "Id": "080751",
+                                    "Name": "Prototyping",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-07"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "307",
+                            "SubTaxonomyName": "General Engineering",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 31,
+                            "Skills": [
+                                {
+                                    "Id": "080476",
+                                    "Name": "Prototyping",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-07"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "9",
+                    "Name": "Human Resources",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "579",
+                            "SubTaxonomyName": "HR Management",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "9000162",
+                                    "Name": "Client Relations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "718",
+                            "SubTaxonomyName": "Distributed Systems",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "7180008",
+                                    "Name": "Large-Scale",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "199",
+                            "SubTaxonomyName": "Project Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "005803",
+                                    "Name": "Project Development",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100
+                        }
+                    ]
+                },
+                {
+                    "Id": "27",
+                    "Name": "Light Technical\/Trades\/Skilled Labor",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "286",
+                            "SubTaxonomyName": "Carpentry and Painting",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "026559",
+                                    "Name": "Booth",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "284",
+                            "SubTaxonomyName": "Welding Soldering Brazing Cutting",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "022710",
+                                    "Name": "Laser",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "293",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "022189",
+                                    "Name": "Packaging",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "13",
+                    "Name": "Manufacturing",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "364",
+                            "SubTaxonomyName": "Equipment",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "016654",
+                                    "Name": "Engraving",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "020599",
+                                    "Name": "Laser",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "229",
+                            "SubTaxonomyName": "Visual",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "019533",
+                                    "Name": "Illustrator",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "012099",
+                                    "Name": "Acrobat",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                },
+                                {
+                                    "Id": "004729",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 26
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-09-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 5,
+                "LastLineNumber": 30,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "EXPERIENCE"
+            },
+            {
+                "FirstLineNumber": 31,
+                "LastLineNumber": 48,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "EDUCATION"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~~~~~~  \n   ~~~~~~~~~~~~~~~~~~   |    ~~~~~~~  \n   ~~~~~~~~~~~~~~~~~~~  \n\n\nEXPERIENCE\n\nCOURSEWARE DEVELOPER\nFLIGHTSAFETY INTERNATIONAL, INC. | September 2019 - PRESENT\nCreate\/sustain presentations to include basic animations, media integration and\nlayout considerations\nDesign\/update publications for both print and electronic distribution\nCreate\/sustain 2D images\nSKILLS\t\tConsult and collaborate with subject matter experts\nAdhere to established specifications and product development standards\nPrototyping\tParticipate in appropriate stages of the project management lifecycle\nWire Framing\nSketching\tYOUTH MARKETING MANAGER\nStorytelling\t  IBC YOUTH BOWLING, INC. | July 2017 - September 2019\nVisual Design\nIllustrator\tProvide marketing support to various interdepartmental youth brands\nInDesign\tManage outbound email marketing and social campaigns via HubSpot\nPhotoshop\tAssist client services in managing deliverables for all business sponsorships\nAdobe XD\tManage site and web advertisement updates\nSpark\t\t Oversee youth tournament marketing including print and digital signage,\nAcrobat Pro\tcommunication, TV production sets and client relations\nMerlinOne\tEvent planning organization's largest annual youth celebration event\nHubSpot\tCoordinate youth events including trade shows and other consumer-based events\nAnimate\nOffice Suite\t  LEAD DESIGNER\nIBC YOUTH BOWLING, INC. | March 2015 - July 2017\nEDUCATION\nProject development\nDesigned for print and digital marketing including large-scale environmental graphics\nUNIVERSITY OF TEXAS\nCreatives for sale and sponsorship collateral\nIN ARLINGTON\tMaintained solid archive records\nBACHELOR of FINE ARTS | 2011\tEvent and product photography\nin Art with a Concentration\nin Visual Communication\nLEAD DESIGNER\nLONGHORN VAPOR COMPANY | May 2013 - March 2015\n\nIdeation and implementation of company's brand identity\nProduced graphics for both in-house and external marketing\nProduct and packaging design\nDesigned trade show booth and attended trade show conventions\nOperated custom laser engraving machine\nProduct photography and catalog layout",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-10-07",
+        "SovrenSignature": [
+            "aKgAAAAAAAA="
+        ]
+    }
+}

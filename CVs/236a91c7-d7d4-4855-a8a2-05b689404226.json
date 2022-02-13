@@ -1,0 +1,700 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "CountryCode": "US",
+            "Regions": [
+                "TX"
+            ],
+            "Municipality": "Lewisville",
+            "GeoCoordinates": {
+                "Latitude": 33.04623031616211,
+                "Longitude": -96.99417114257812
+            }
+        }
+    },
+    "ProfessionalSummary": "Graphic designer and studio production artist with 20 years of contributing to the creative\nlifecycle from concept through deliverables. Proactive organizer who is known as the \"work\nhorse\" who completes all jobs even when faced with short deadlines and who takes initiative\nto ensure designs meet brand and the creative director standards. Team player who displays\na strong awareness of creative integrity and how to maintain a consistent look and feel across\nprint and digital touch points. Excellent interpersonal, written and verbal communication\nskills. Passionate about new trends in design.",
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~   is experienced in:  Light Technical\/Trades\/Skilled Labor (Carpentry and Painting); and Marketing.    ~~~   has 21 years of work experience.",
+            "MonthsOfWorkExperience": 249,
+            "MonthsOfManagementExperience": 0,
+            "ExecutiveType": "NONE",
+            "AverageMonthsPerEmployer": 83,
+            "FulltimeDirectHirePredictiveIndex": 100,
+            "ManagementStory": "",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 0
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Mattress Firm",
+                        "Normalized": "Mattress Firm"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "TX"
+                        ],
+                        "Municipality": "Houston"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Graphic Designer, Production Artist",
+                    "Normalized": "Graphic Designer Production Artist",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Graphic Designer",
+                        "Production Artist"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2019-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-10-02",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "\u25cf Contribute to and support marketing initiatives as an integral part of the design team and production process for print such as flyers and digital ads including web banners.\n\u25cf Executed the design from creation, production, editing, corrections, through final files.\n\u25cf Worked closely with internal team and clients to deliver accurate final files on time."
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "C3 Premedia Solutions",
+                        "Normalized": "C3 Premedia Solutions"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "TX"
+                        ],
+                        "Municipality": "Plano"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Graphic Designer, Production Artist",
+                    "Normalized": "Graphic Designer Production Artist",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Graphic Designer",
+                        "Production Artist"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2002-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2019-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Light Technical\/Trades\/Skilled Labor",
+                "SubTaxonomyName": "Carpentry and Painting",
+                "JobLevel": "Low Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Created files for ads, magazines, packaging, web banners, and large print formats for clients\nincluding Mattress Firm, Dickies, NCA, La Quinta, Goodies from Goodman, and Lens Pro.\n\u25cf Learned all roles such as color department, finishing, design, art production, large format, and misc. and covered each position as needed.\n\u25cf Counseled co-workers on the advantages and positive aspects of the high-stress, fast-paced\nwork environment.\n\u25cf Facilitated the visions of the clients' creative directors and chief marketing officers."
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Vertis",
+                        "Normalized": "Vertis"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "TX"
+                        ],
+                        "Municipality": "Las Colinas"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Photography Assistant, Production Artist",
+                    "Normalized": "Photography Assistant Production Artist",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Photography Assistant",
+                        "Production Artist"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2000-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2002-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Served in multiple roles such as photography studio, color department and art production."
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "27",
+                    "Name": "Light Technical\/Trades\/Skilled Labor",
+                    "PercentOfOverall": 36,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "286",
+                            "SubTaxonomyName": "Carpentry and Painting",
+                            "PercentOfOverall": 24,
+                            "PercentOfParent": 67,
+                            "Skills": [
+                                {
+                                    "Id": "017506",
+                                    "Name": "Finishing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 216
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "293",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 12,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "022189",
+                                    "Name": "Packaging",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 216
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 35,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 28,
+                            "PercentOfParent": 82,
+                            "Skills": [
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 225
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-02"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "227",
+                            "SubTaxonomyName": "Brand Management",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 17,
+                            "Skills": [
+                                {
+                                    "Id": "004215",
+                                    "Name": "Packaging",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 216
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "1400244",
+                                    "Name": "Digital Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "15",
+                    "Name": "Scientific",
+                    "PercentOfOverall": 12,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "375",
+                            "SubTaxonomyName": "Clinical",
+                            "PercentOfOverall": 12,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "003301",
+                                    "Name": "NCA",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 216
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "71",
+                    "Name": "Strategy and Planning",
+                    "PercentOfOverall": 8,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "876",
+                            "SubTaxonomyName": "Workflow and Processes",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "005688",
+                                    "Name": "Production Process",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 21
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-02"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "28",
+                    "Name": "Clinical",
+                    "PercentOfOverall": 6,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "277",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "003300",
+                                    "Name": "NCA",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 216
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "528",
+                            "SubTaxonomyName": "Attitude",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 69,
+                            "Skills": [
+                                {
+                                    "Id": "007739",
+                                    "Name": "Self Motivated",
+                                    "ExistsInText": false
+                                },
+                                {
+                                    "Id": "026529",
+                                    "Name": "Team Player",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "532",
+                            "SubTaxonomyName": "Aptitudes",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 31,
+                            "Skills": [
+                                {
+                                    "Id": "031019",
+                                    "Name": "Excellent Written and Verbal Communication Skills",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "0310192",
+                                            "Name": "Written and Verbal",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SUMMARY"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "569",
+                            "SubTaxonomyName": "Graphic Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 42,
+                            "Skills": [
+                                {
+                                    "Id": "5570264",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "5570122",
+                                    "Name": "Illustration",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "572",
+                            "SubTaxonomyName": "Interactive Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "5570158",
+                                    "Name": "Illustration",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "566",
+                            "SubTaxonomyName": "Industrial Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 17,
+                            "Skills": [
+                                {
+                                    "Id": "5570095",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 17,
+                            "Skills": [
+                                {
+                                    "Id": "5570072",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "92",
+                    "Name": "Knowledge and Learning Management",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "903",
+                            "SubTaxonomyName": "General Knowledge and Learning Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "200051",
+                                    "Name": "Mentoring",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "016848",
+                                    "Name": "Time Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "436",
+                            "SubTaxonomyName": "Management Activities or Functions",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "004037",
+                                    "Name": "Time Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "QualificationsSummary": "SKILLS\n\n\n\u25cf Graphic Design\t\u25cf Verbal & Written Skills\t\u25cf Proactive Organization\n\u25cf Art Production\t\u25cf Brainstorming\t\u25cf In-House Agency\n\u25cf Illustration\t \u25cf Training & Mentoring\t \u25cf Time Management\n\u25cf Digital Design\t\u25cf Print Production\t\u25cf Adobe Creative Suite",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 4,
+                "LastLineNumber": 13,
+                "SectionType": "SUMMARY",
+                "HeaderTextFound": "SUMMARY"
+            },
+            {
+                "FirstLineNumber": 14,
+                "LastLineNumber": 21,
+                "SectionType": "SKILLS",
+                "HeaderTextFound": "SKILLS"
+            },
+            {
+                "FirstLineNumber": 22,
+                "LastLineNumber": 49,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "PROFESSIONAL EXPERIENCE"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Fatal Problems Found",
+                "Findings": [
+                    {
+                        "QualityCode": "414",
+                        "Message": "We found no EDUCATION HISTORY for the candidate. A resume should always include an education history section."
+                    }
+                ]
+            },
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "112",
+                        "Message": "The following section was identified as a skills section type: 'SKILLS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~  \nLewisville, TX \u2022    ~~~~~~~    \u2022    ~~~~~~~~~~~~~~~~~~  \n\n\nSUMMARY\n\nGraphic designer and studio production artist with 20 years of contributing to the creative\nlifecycle from concept through deliverables. Proactive organizer who is known as the \"work\nhorse\" who completes all jobs even when faced with short deadlines and who takes initiative\nto ensure designs meet brand and the creative director standards. Team player who displays\na strong awareness of creative integrity and how to maintain a consistent look and feel across\nprint and digital touch points. Excellent interpersonal, written and verbal communication\nskills. Passionate about new trends in design.\n\nSKILLS\n\n\n\u25cf Graphic Design\t\u25cf Verbal & Written Skills\t\u25cf Proactive Organization\n\u25cf Art Production\t\u25cf Brainstorming\t\u25cf In-House Agency\n\u25cf Illustration\t \u25cf Training & Mentoring\t \u25cf Time Management\n\u25cf Digital Design\t\u25cf Print Production\t\u25cf Adobe Creative Suite\n\nPROFESSIONAL EXPERIENCE\n\nGraphic Designer, Production Artist\nMattress Firm, Houston, TX\n\n2019 - 2020\n\u25cf Contribute to and support marketing initiatives as an integral part of the design team and\nproduction process for print such as flyers and digital ads including web banners.\n\u25cf Executed the design from creation, production, editing, corrections, through final files.\n\u25cf Worked closely with internal team and clients to deliver accurate final files on time.\n\nGraphic Designer, Production Artist\nC3 Premedia Solutions, Plano, TX\n\n2002 - 2019\n\u25cf Created files for ads, magazines, packaging, web banners, and large print formats for clients\nincluding Mattress Firm, Dickies, NCA, La Quinta, Goodies from Goodman, and Lens Pro.\n\u25cf Learned all roles such as color department, finishing, design, art production, large format, and\nmisc. and covered each position as needed.\n\u25cf Counseled co-workers on the advantages and positive aspects of the high-stress, fast-paced\nwork environment.\n\u25cf Facilitated the visions of the clients' creative directors and chief marketing officers.\n\nPhotography Assistant, Production Artist\nVertis, Las Colinas, TX\n\n2000 - 2002\n\u25cf Served in multiple roles such as photography studio, color department and art production.",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-10-02",
+        "SovrenSignature": [
+            "fMkDAAAAAAA="
+        ]
+    }
+}

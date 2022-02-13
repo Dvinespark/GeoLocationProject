@@ -1,0 +1,1018 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "GeoCoordinates": {
+                "Latitude": 33.214839935302734,
+                "Longitude": -97.133056640625
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "BFA",
+                "Normalized": "bachelors"
+            },
+            "Type": "bachelors"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "Hello! My name is    ~~~~~~~~~   and I am   University of North Texas\npassionate about typography and type design - Denton, TX among other interests. Flexible skill sets and a BFA Communication Design\nwillingness to learn set me apart in my career. Minor in Art History\n\nLet's work together!\nEXHIBITIONS\n2015\nUNT Boardgame Competition, Denton, TX\n\"Malcorp\", first place\n2017\nDSVC National Student Show, Dallas, TX\n\n\"Monster's Wedding\", poster\nHybrid Forms Art Show, Denton, TX\n\"Home is Where the Heart is\"\n2018\nDSVC National Student Show, Dallas, TX\nJunior Portfolio\nStreetza Pizza Logo\nEditorial Spreads",
+                "SchoolName": {
+                    "Raw": "University of North Texas passionate",
+                    "Normalized": "University of North Texas"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "BFA",
+                        "Normalized": "bachelors"
+                    },
+                    "Type": "bachelors"
+                },
+                "Majors": [
+                    "Communication Design"
+                ],
+                "Minors": [
+                    "Art History"
+                ],
+                "LastEducationDate": {
+                    "Date": "2017-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~~~~   is experienced in:  Supply Chain and Logistics (Inventory); and User Experience.    ~~~~~~~~~   appears to be a low-to-mid level candidate, with 2 years of experience.",
+            "MonthsOfWorkExperience": 26,
+            "MonthsOfManagementExperience": 0,
+            "ExecutiveType": "NONE",
+            "AverageMonthsPerEmployer": 8,
+            "FulltimeDirectHirePredictiveIndex": 16,
+            "ManagementStory": "",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 0
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Retro51",
+                        "Normalized": "Retro51"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "TX"
+                        ],
+                        "Municipality": "Richardson"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Design Intern",
+                    "Normalized": "Design Intern",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2019-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2019-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "internship",
+                "TaxonomyName": "User Experience",
+                "SubTaxonomyName": "Interactive Design",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Create designs for high quality writing utensils\n\nfrom concept to final product, packaging\ndesign, social media posts, advertisements,\nhand lettering, illustration, pre-production."
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Backyard on Bell",
+                        "Normalized": "Backyard on Bell"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "TX"
+                        ],
+                        "Municipality": "Denton"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Bartender",
+                    "Normalized": "Bartender",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2018-05-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2019-04-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Supply Chain and Logistics",
+                "SubTaxonomyName": "Inventory",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "TABC certified, customer service, bartending,\n\nevent organization, inventory management,\ntime management, cash handling, networking."
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "University of North Texas",
+                        "Normalized": "University of North Texas"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "TX"
+                        ],
+                        "Municipality": "Denton"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Graphic Design Intern",
+                    "Normalized": "Graphic Design Intern",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2017-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2018-02-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "internship",
+                "TaxonomyName": "Written Communications",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Created the college annual reports for 2016 & 2017, copywriting, pre-production, social\nmedia posts, video editing, mailer designs for national and international recipients,\nevent photography."
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "97",
+                    "Name": "Supply Chain and Logistics",
+                    "PercentOfOverall": 19,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "459",
+                            "SubTaxonomyName": "Inventory",
+                            "PercentOfOverall": 19,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "020086",
+                                    "Name": "Inventory",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-04-01"
+                                    }
+                                },
+                                {
+                                    "Id": "555154644",
+                                    "Name": "Inventory Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-04-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 17,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "569",
+                            "SubTaxonomyName": "Graphic Design",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 43,
+                            "Skills": [
+                                {
+                                    "Id": "5570264",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-02-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5570122",
+                                    "Name": "Illustration",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 5
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "572",
+                            "SubTaxonomyName": "Interactive Design",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 28,
+                            "Skills": [
+                                {
+                                    "Id": "5570158",
+                                    "Name": "Illustration",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 5
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "566",
+                            "SubTaxonomyName": "Industrial Design",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 15,
+                            "Skills": [
+                                {
+                                    "Id": "5570095",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-02-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 15,
+                            "Skills": [
+                                {
+                                    "Id": "5570072",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-02-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 14,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 10,
+                            "PercentOfParent": 73,
+                            "Skills": [
+                                {
+                                    "Id": "026567",
+                                    "Name": "Copywriting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-02-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "227",
+                            "SubTaxonomyName": "Brand Management",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 17,
+                            "Skills": [
+                                {
+                                    "Id": "004215",
+                                    "Name": "Packaging",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 5
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "585",
+                            "SubTaxonomyName": "Product",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "1400025",
+                                    "Name": "Mixed Media",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "226",
+                            "SubTaxonomyName": "Channel Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "1400215",
+                                    "Name": "Retail Marketing",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400216",
+                                            "Name": "Retail",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "33",
+                    "Name": "Graphic Design",
+                    "PercentOfOverall": 12,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "433",
+                            "SubTaxonomyName": "Techniques and Activities",
+                            "PercentOfOverall": 12,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "024422",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-02-01"
+                                    }
+                                },
+                                {
+                                    "Id": "555154514",
+                                    "Name": "Typography",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 24
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-01-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "78",
+                    "Name": "Retail",
+                    "PercentOfOverall": 12,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "509",
+                            "SubTaxonomyName": "Money Handling",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 80,
+                            "Skills": [
+                                {
+                                    "Id": "012614",
+                                    "Name": "Cash Handling",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-04-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "511",
+                            "SubTaxonomyName": "Positions",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 20,
+                            "Skills": [
+                                {
+                                    "Id": "022943",
+                                    "Name": "Retail Sales",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "006920",
+                                            "Name": "Customer Service",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 11
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2019-04-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-04-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 9,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "349",
+                            "SubTaxonomyName": "Operations, Monitoring and Software Management",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "3490044",
+                                    "Name": "Networking",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-04-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "1",
+                    "Name": "Administrative or Clerical",
+                    "PercentOfOverall": 6,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "112",
+                            "SubTaxonomyName": "Messages and Contact",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 86,
+                            "Skills": [
+                                {
+                                    "Id": "023735",
+                                    "Name": "Customer Service Oriented",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "013326",
+                                            "Name": "Customer Service",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 11
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2019-04-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-04-01"
+                                    }
+                                },
+                                {
+                                    "Id": "015496",
+                                    "Name": "Dispatcher",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "109",
+                            "SubTaxonomyName": "Document-centric",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 14,
+                            "Skills": [
+                                {
+                                    "Id": "014123",
+                                    "Name": "Data Entry",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "27",
+                    "Name": "Light Technical\/Trades\/Skilled Labor",
+                    "PercentOfOverall": 6,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "293",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 98,
+                            "Skills": [
+                                {
+                                    "Id": "016958",
+                                    "Name": "Etching",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "022189",
+                                    "Name": "Packaging",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 5
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "284",
+                            "SubTaxonomyName": "Welding Soldering Brazing Cutting",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "022710",
+                                    "Name": "Laser",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "030018",
+                                    "Name": "Retail",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "022734",
+                                    "Name": "Time Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-04-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "016848",
+                                    "Name": "Time Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-04-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "436",
+                            "SubTaxonomyName": "Management Activities or Functions",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "004037",
+                                    "Name": "Time Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-04-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "141",
+                            "SubTaxonomyName": "Optical",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "080830",
+                                    "Name": "Laser",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "308",
+                            "SubTaxonomyName": "Power Engineering",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "080350",
+                                    "Name": "Laser",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Certifications": [
+        {
+            "Name": "TABC certified",
+            "MatchedFromList": true,
+            "IsVariation": false
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "QualificationsSummary": "SKILLS & INTERESTS\nType Design\nHand Lettering\nMotion Typography\nAdobe Creative Suite\nFontForge Software\nCollage\/Mixed Media\nPublication Design\nPhotography\n\nScanography\nLaser Cutting\/Etching\nGaming\nKnitting & Crochet\nLive Music & Local Music",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 8,
+                "LastLineNumber": 36,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "ABOUT\tEDUCATION"
+            },
+            {
+                "FirstLineNumber": 37,
+                "LastLineNumber": 51,
+                "SectionType": "SKILLS",
+                "HeaderTextFound": "SKILLS & INTERESTS"
+            },
+            {
+                "FirstLineNumber": 52,
+                "LastLineNumber": 88,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "EMPLOYMENT"
+            },
+            {
+                "FirstLineNumber": 89,
+                "LastLineNumber": 95,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "OTHER EXPERIENCE"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Fatal Problems Found",
+                "Findings": [
+                    {
+                        "QualityCode": "433",
+                        "Message": "We detected that this document contained at least some data that was laid out as columns or tables. We rearranged that data to make it more usable. NEVER use columns or tables in a resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    },
+                    {
+                        "QualityCode": "323",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY"
+                            }
+                        ],
+                        "Message": "Each section type should only appear once in a resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    },
+                    {
+                        "QualityCode": "226",
+                        "Message": "We found no work history positions within the past year. A resume should include work history information, including time off, for the most recent year."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "112",
+                        "Message": "The following section was identified as a skills section type: 'SKILLS & INTERESTS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+                    },
+                    {
+                        "QualityCode": "151",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "EDUCATION",
+                                "Id": "0"
+                            }
+                        ],
+                        "Message": "Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~~~  \n\n   ~~~~~~~  \n   ~~~~~~~~~~~~~~  \n\n   ~~~~~~~~~~~~~~~~~~~~  \n\n\nABOUT\tEDUCATION\nHello! My name is    ~~~~~~~~~   and I am   University of North Texas\npassionate about typography and type design - Denton, TX\namong other interests. Flexible skill sets and a BFA Communication Design\nwillingness to learn set me apart in my career. Minor in Art History\n\nLet's work together!\n\nEXHIBITIONS\n2015\nUNT Boardgame Competition, Denton, TX\n\"Malcorp\", first place\n\n2017\nDSVC National Student Show, Dallas, TX\n\n\"Monster's Wedding\", poster\n\nHybrid Forms Art Show, Denton, TX\n\n\"Home is Where the Heart is\"\n\n2018\nDSVC National Student Show, Dallas, TX\nJunior Portfolio\nStreetza Pizza Logo\nEditorial Spreads\n\n\nSKILLS & INTERESTS\nType Design\nHand Lettering\nMotion Typography\nAdobe Creative Suite\nFontForge Software\nCollage\/Mixed Media\nPublication Design\nPhotography\n\nScanography\nLaser Cutting\/Etching\nGaming\nKnitting & Crochet\nLive Music & Local Music\nEMPLOYMENT\nRetro51\nRichardson, TX\n01\/2019-06\/2019\nDesign Intern\nCreate designs for high quality writing utensils\n\nfrom concept to final product, packaging\ndesign, social media posts, advertisements,\nhand lettering, illustration, pre-production.\n\n\nBackyard on Bell\nDenton, TX\n\n05\/2018-04\/2019\n\nBartender\n\nTABC certified, customer service, bartending,\n\nevent organization, inventory management,\ntime management, cash handling, networking.\n\n\nUniversity of North Texas\nCollege of Engineering\nDenton, TX\n\n01\/2017-02\/2018\nGraphic Design Intern\nCreated the college annual reports for 2016 & 2017, copywriting, pre-production, social\nmedia posts, video editing, mailer designs\nfor national and international recipients,\nevent photography.\n\n\nOTHER EXPERIENCE\n\nCustomer Service -- 10+ years\nRetail - 10+ Years\nData Entry -- 5 years\nManagement -- 4 years\nFuture Dog Dad\tCall Center (Dispatcher) -- 2 years",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-09-30",
+        "SovrenSignature": [
+            "Zp8BAAAAAAA="
+        ]
+    }
+}

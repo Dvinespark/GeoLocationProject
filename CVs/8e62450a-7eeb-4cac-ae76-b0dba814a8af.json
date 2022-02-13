@@ -1,0 +1,1031 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "CountryCode": "US",
+            "Regions": [
+                "TX"
+            ],
+            "Municipality": "Hurst",
+            "GeoCoordinates": {
+                "Latitude": 32.82345962524414,
+                "Longitude": -97.17057037353516
+            }
+        }
+    },
+    "ProfessionalSummary": "Innovative Graphic Designer with hands-on experience creative thinking and project design abilities. Proven track record of designing signage, promotion materials, digital painting, video editing product as well as catalog photography. Ability to bring simultaneous graphic design projects to completion with complete efficiency and accuracy. Adept at designing high level layout, logos, typography, and illustration. Exceptional collaborative and interpersonal skills\n dynamic team player with well-developed written and verbal communication abilities. Extensive knowledge of layout principles and esthetic design concepts. Highly skilled in client and vendor relations and negotiations\n talented at building and maintaining \"win-win\" partnerships.",
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "Bachelor of Fine Arts in Graphic Design",
+                "Normalized": "bachelors"
+            },
+            "Type": "bachelors"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "Bachelor of Fine Arts in Graphic Design\n\nThe Art of Institute of Fort Worth, Fort Worth, TX, 2016",
+                "SchoolName": {
+                    "Raw": "The Art of Institute of Fort Worth",
+                    "Normalized": "The Art of Institute of Fort Worth"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "Bachelor of Fine Arts in Graphic Design",
+                        "Normalized": "bachelors"
+                    },
+                    "Type": "bachelors"
+                },
+                "Majors": [
+                    "Fine Arts"
+                ],
+                "LastEducationDate": {
+                    "Date": "2016-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~~~~   is experienced in:  Graphic Design (Software); and Information Technology (Machine Learning).    ~~~~~~~~~   has 13 years of work experience.",
+            "MonthsOfWorkExperience": 153,
+            "MonthsOfManagementExperience": 0,
+            "ExecutiveType": "NONE",
+            "AverageMonthsPerEmployer": 38,
+            "FulltimeDirectHirePredictiveIndex": 85,
+            "ManagementStory": "",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 0
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Flight Safety International, Worth, Texas",
+                        "Normalized": "Flight Safety International Worth Texas"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Courseware Developer",
+                    "Normalized": "Courseware Developer",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2018-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-10-06",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Graphic Design",
+                "SubTaxonomyName": "Software",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "Delivered expertise in designing as well as upgrading manuals for pilot and provide effective aircraft mechanic training by using multiple software, including Photoshop, Illustrator, InDesign, and Power-Point.\n\n\u2022 Assisted in designing training manuals material for classroom as well as for online learning, including vector graphics, line art of engines and flight systems, and formatting text."
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Infiniti D\u00e9cor",
+                        "Normalized": "Infiniti D\u00e9cor"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "Texas"
+                        ],
+                        "Municipality": "Godley"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Graphic Designer",
+                    "Normalized": "Graphic Designer",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2016-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2017-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "User Experience",
+                "SubTaxonomyName": "Graphic Design",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Rendered outstanding expertise in d\u00e9cor and designing signage for convenience stores and trade show booths to maximize overall strategy and generate more leads around business. Contributed in designing vinyl wraps graphics for soda fountain towers. Delivered expertise in designing illumine signage for various items, including fountain machines, Atm, restrooms as well as prepared custom vinyl graphics for walls.\n\u2022 Improved efficiency by developing conceptual design for exchanging neon with LED for brighter signs."
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "CBS Radio",
+                        "Normalized": "CBS Radio"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "Texas"
+                        ],
+                        "Municipality": "Dallas"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Web Services\/Graphic Designer",
+                    "Normalized": "Web Services\/Graphic Designer",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2006-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2010-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Sales",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Low Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Delivered exceptional services as graphic designer for designing promotional items for company t-shirts, flyers, and other promotional material to engage both listeners and potential clients. Optimized website efficiency by providing assistance in maintaining and updating company websites. Interacted with clients and listeners by engaging in and filming\/photographing station events.\n\u2022 Contributed in designing different promotional material, including t-shirts, flyers, billboards, posters, banners, banner ads as well as assisted in shooting\/editing for CBS Radio DFW cluster."
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Funimation Productions",
+                        "Normalized": "Funimation Productions"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "Texas"
+                        ],
+                        "Municipality": "Fort Worth"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Production Assistant",
+                    "Normalized": "Production Assistant",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2001-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2003-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Maintained high standards in photography for company website and catalogs. Improved audio as well as video quality by executing ADR sessions for various Funimation licenses properties, including Dragon Ball Z as well as delivered expertise in rotoscoping editing for TV, shot\/directed bonus video material.\n\u2022 Delivered assistance in conducting photography for in house company IF labs and Funimation store catalogs."
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "33",
+                    "Name": "Graphic Design",
+                    "PercentOfOverall": 32,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "432",
+                            "SubTaxonomyName": "Software",
+                            "PercentOfOverall": 31,
+                            "PercentOfParent": 98,
+                            "Skills": [
+                                {
+                                    "Id": "013418",
+                                    "Name": "Adobe Illustrator",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555154316",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 33
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-10-06"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 33
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-06"
+                                    }
+                                },
+                                {
+                                    "Id": "013452",
+                                    "Name": "Adobe Premiere",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555154601",
+                                            "Name": "Premier",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "026056",
+                                    "Name": "Indesign",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 33
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-06"
+                                    }
+                                },
+                                {
+                                    "Id": "025873",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "013441",
+                                            "Name": "Adobe Photoshop",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 33
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-06"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "433",
+                            "SubTaxonomyName": "Techniques and Activities",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "024422",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "555154514",
+                                    "Name": "Typography",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 18,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "720",
+                            "SubTaxonomyName": "Machine Learning",
+                            "PercentOfOverall": 16,
+                            "PercentOfParent": 92,
+                            "Skills": [
+                                {
+                                    "Id": "7200045",
+                                    "Name": "Online Learning",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 33
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-06"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "196",
+                            "SubTaxonomyName": "Internet",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "011022",
+                                    "Name": "WEB Services",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 60
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2010-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "201",
+                            "SubTaxonomyName": "Architecture",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "005801",
+                                    "Name": "Project Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "351",
+                            "SubTaxonomyName": "Multimedia",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "022137",
+                                    "Name": "MS Office",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 18,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "311",
+                            "SubTaxonomyName": "Air and Aerospace",
+                            "PercentOfOverall": 17,
+                            "PercentOfParent": 96,
+                            "Skills": [
+                                {
+                                    "Id": "024823",
+                                    "Name": "Engines",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 33
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-06"
+                                    }
+                                },
+                                {
+                                    "Id": "024642",
+                                    "Name": "Flight Safety",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "134",
+                            "SubTaxonomyName": "Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "025590",
+                                    "Name": "Conceptual Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 24
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 16,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "569",
+                            "SubTaxonomyName": "Graphic Design",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 58,
+                            "Skills": [
+                                {
+                                    "Id": "5570116",
+                                    "Name": "Conceptual Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 24
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "5570264",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "5570122",
+                                    "Name": "Illustration",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570123",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 33
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-10-06"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 33
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-06"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 20,
+                            "Skills": [
+                                {
+                                    "Id": "5570071",
+                                    "Name": "Conceptual Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 24
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "5570072",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "565",
+                            "SubTaxonomyName": "Visual Design",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 19,
+                            "Skills": [
+                                {
+                                    "Id": "5570084",
+                                    "Name": "Conceptual Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 24
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "572",
+                            "SubTaxonomyName": "Interactive Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "5570158",
+                                    "Name": "Illustration",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "566",
+                            "SubTaxonomyName": "Industrial Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "5570095",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 13,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 13,
+                            "PercentOfParent": 100
+                        }
+                    ]
+                },
+                {
+                    "Id": "31",
+                    "Name": "Written Communications",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "428",
+                            "SubTaxonomyName": "Training",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "009820",
+                                    "Name": "Training Manuals",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 33
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-06"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "250",
+                            "SubTaxonomyName": "Events",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "009786",
+                                    "Name": "Trade Show",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 24
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "532",
+                            "SubTaxonomyName": "Aptitudes",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "031019",
+                                    "Name": "Excellent Written and Verbal Communication Skills",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "0310192",
+                                            "Name": "Written and Verbal",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SUMMARY"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "528",
+                            "SubTaxonomyName": "Attitude",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "026529",
+                                    "Name": "Team Player",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "27",
+                    "Name": "Light Technical\/Trades\/Skilled Labor",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "286",
+                            "SubTaxonomyName": "Carpentry and Painting",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "004273",
+                                    "Name": "Painting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "024467",
+                                    "Name": "Microsoft Office",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "022136",
+                                            "Name": "MS Office",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "004729",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 33
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-06"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "229",
+                            "SubTaxonomyName": "Visual",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "019533",
+                                    "Name": "Illustrator",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 33
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-06"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "QualificationsSummary": "Technical Proficiencies\nTools: Adobe Photoshop, Light Room, Illustrator, InDesign, Premier Pro, MS Office",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 8,
+                "LastLineNumber": 12,
+                "SectionType": "SUMMARY",
+                "HeaderTextFound": "Summary"
+            },
+            {
+                "FirstLineNumber": 13,
+                "LastLineNumber": 16,
+                "SectionType": "SKILLS",
+                "HeaderTextFound": "Technical Proficiencies"
+            },
+            {
+                "FirstLineNumber": 17,
+                "LastLineNumber": 39,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "Career Experience"
+            },
+            {
+                "FirstLineNumber": 40,
+                "LastLineNumber": 43,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "Education"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "112",
+                        "Message": "The following section was identified as a skills section type: 'Technical Proficiencies'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~~~  \nCreative Designer\n\n   ~~~~~~~~~~~~~~~~~~~~~~~~   \u2022    ~~~~~~~~~  \n   ~~~~~~~~~~~~~~~~~~~~~~  \n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   \u2022 Hurst, TX\n\n\nSummary\nInnovative Graphic Designer with hands-on experience creative thinking and project design abilities. Proven track record of designing signage, promotion materials, digital painting, video editing product as well as catalog photography. Ability to bring simultaneous graphic design projects to completion with complete efficiency and accuracy. Adept at designing high level layout, logos, typography, and illustration. Exceptional collaborative and interpersonal skills\n dynamic team player with well-developed written and verbal communication abilities. Extensive knowledge of layout principles and esthetic design concepts. Highly skilled in client and vendor relations and negotiations\n talented at building and maintaining \"win-win\" partnerships.\n\nTechnical Proficiencies\nTools: Adobe Photoshop, Light Room, Illustrator, InDesign, Premier Pro, MS Office\n\n\nCareer Experience\n\nFlight Safety International, Worth, Texas\t2018 - 2020\nCourseware Developer\nDelivered expertise in designing as well as upgrading manuals for pilot and provide effective aircraft mechanic training by using multiple software, including Photoshop, Illustrator, InDesign, and Power-Point.\n\n\u2022 Assisted in designing training manuals material for classroom as well as for online learning, including vector graphics, line art of engines and flight systems, and formatting text.\n\nInfiniti D\u00e9cor, Godley, Texas\t2016 - 2017\nGraphic Designer\nRendered outstanding expertise in d\u00e9cor and designing signage for convenience stores and trade show booths to maximize overall strategy and generate more leads around business. Contributed in designing vinyl wraps graphics for soda fountain towers. Delivered expertise in designing illumine signage for various items, including fountain machines, Atm, restrooms as well as prepared custom vinyl graphics for walls.\n\u2022 Improved efficiency by developing conceptual design for exchanging neon with LED for brighter signs.\n\nCBS Radio, Dallas, Texas\t2006 - 2010\nWeb Services\/Graphic Designer\nDelivered exceptional services as graphic designer for designing promotional items for company t-shirts, flyers, and other promotional material to engage both listeners and potential clients. Optimized website efficiency by providing assistance in maintaining and updating company websites. Interacted with clients and listeners by engaging in and filming\/photographing station events.\n\u2022 Contributed in designing different promotional material, including t-shirts, flyers, billboards, posters, banners, banner ads as well as assisted in shooting\/editing for CBS Radio DFW cluster.\n\nFunimation Productions, Fort Worth, Texas\t2001 - 2003\nProduction Assistant\nMaintained high standards in photography for company website and catalogs. Improved audio as well as video quality by executing ADR sessions for various Funimation licenses properties, including Dragon Ball Z as well as delivered expertise in rotoscoping editing for TV, shot\/directed bonus video material.\n\u2022 Delivered assistance in conducting photography for in house company IF labs and Funimation store catalogs.\n\nEducation\nBachelor of Fine Arts in Graphic Design\n\nThe Art of Institute of Fort Worth, Fort Worth, TX, 2016",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-10-06",
+        "SovrenSignature": [
+            "5sP+\/\/\/\/\/\/8="
+        ]
+    }
+}

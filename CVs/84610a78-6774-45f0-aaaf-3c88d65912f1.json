@@ -1,0 +1,1294 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "CountryCode": "US",
+            "PostalCode": "75019",
+            "Regions": [
+                "Texas"
+            ],
+            "Municipality": "Coppell",
+            "GeoCoordinates": {
+                "Latitude": 32.97404098510742,
+                "Longitude": -96.97762298583984
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "BA",
+                "Normalized": "bachelors"
+            },
+            "Type": "bachelors"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "University of North Texas, Denton, TX - Graduated August 2011\nBA Interdisciplinary Art and Design, Journalism-Advertising minor\nCourses: Communication Design, Computers in Art, Marketing Foundations, Advertising\nConcepts, Ad Campaigns, Ad Media and Marketing, Print Advertising, Race Gender & Media,\nVarious Art Histories, Design II",
+                "SchoolName": {
+                    "Raw": "University of North Texas",
+                    "Normalized": "University of North Texas"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "BA",
+                        "Normalized": "bachelors"
+                    },
+                    "Type": "bachelors"
+                },
+                "Majors": [
+                    "Interdisciplinary Art and Design"
+                ],
+                "Minors": [
+                    "Journalism-Advertising"
+                ],
+                "LastEducationDate": {
+                    "Date": "2011-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "Graduated": {
+                    "Value": true
+                }
+            },
+            {
+                "Id": "DEG-2",
+                "Text": "McLennan Community College, Waco, TX\nCourses: Introduction to Graphic Design, Public Speaking, Design I",
+                "SchoolName": {
+                    "Raw": "McLennan Community College",
+                    "Normalized": "McLennan Community College"
+                },
+                "SchoolType": "community",
+                "Degree": {
+                    "Type": "someCollege"
+                },
+                "Majors": [
+                    "Introduction to Graphic Design"
+                ]
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~~~~   is experienced in:  Marketing (Marketing Communications); and Sales.    ~~~~~~~~~   has 8 years of work experience.",
+            "MonthsOfWorkExperience": 96,
+            "MonthsOfManagementExperience": 12,
+            "ExecutiveType": "EXECUTIVE",
+            "AverageMonthsPerEmployer": 19,
+            "FulltimeDirectHirePredictiveIndex": 50,
+            "ManagementStory": "Starting on 8\/1\/2010, the candidate held the following low-level management position for 12 months:\n\tTitle: Account Executive for UNT Newspaper",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 30
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Fotona, LLC",
+                        "Normalized": "Fotona"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "Texas"
+                        ],
+                        "Municipality": "Farmers Branch"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Graphic Designer",
+                    "Normalized": "Graphic Designer",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2020-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-09-30",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Sales",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2756   Design on-brand marketing materials for sales promotions, tradeshows, and webinars.\n\u2756   Code and design email campaigns via Campaign Monitor and Salesforce.\n\u2756   Asset Management\n\u2756   Source and design promotional items and giveaways.\n\u2756   Provide marketing and design insight."
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "Maverick Western Wear",
+                        "Normalized": "Maverick Western Wear"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "Texas"
+                        ],
+                        "Municipality": "Fort Worth"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Graphic Design & Website Specialist",
+                    "Normalized": "Graphic Design AND Website Specialist",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2016-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-02-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Marketing Communications",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2756   Maintain and update Magento 2 eCommerce website, and social media.\n\u2756   Design engaging graphics to be used in advertising and product images.\n\u2756   Plan and create marketing emails, mailers, and other materials to promote the business.\n\u2756   Fulfill online orders through Counterpoint and help achieve business and sales goals.\n\u2756   Provide aid to customers with questions about products and online orders."
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Copart Inc",
+                        "Normalized": "Copart"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "PostalCode": "75019",
+                        "Regions": [
+                            "Texas"
+                        ],
+                        "Municipality": "Dallas"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Inventory Support Specialist",
+                    "Normalized": "Inventory Support Specialist",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2016-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2016-05-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Translations and Language Work",
+                "SubTaxonomyName": "Translation",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Analyze information obtained from AS\/400 software and translate that information into\nExcel spreadsheets.\n\u2756 Audit data and determine solutions to resolve the errors and discrepancies.\n\u2756 Call adjusters and salvage yards to assess the status and disposition of lots.\n\u2756 Review damage to different types of vehicles and assess their current value.\n   ~~~~~~~~~~~~~~~~~~~~~~~~~  \n   ~~~~~~~~~  , Coppell, Texas 75019"
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "Texas"
+                        ],
+                        "Municipality": "Lewisville"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Adjuster",
+                    "Normalized": "Adjuster",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2013-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2015-11-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Insurance",
+                "SubTaxonomyName": "Claims and Adjusting",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2756   Investigate property damage claims filed against the client and determine liability.\n\u2756   Guide claimants on repairs or reimbursement of their property.\n\u2756   Negotiate settlements with claimants and other insurance carriers.\n\u2756   Monitor claimants for potentially fraudulent activity."
+            },
+            {
+                "Id": "POS-5",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "UNT Newspaper",
+                        "Normalized": "UNT Newspaper"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "Texas"
+                        ],
+                        "Municipality": "Denton"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Account Executive",
+                    "Normalized": "Account Executive",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2010-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2011-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Marketing Communications",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2756   Sold advertising space for the North Texas Daily to local and national clients.\n\u2756   Monitored client satisfaction and ensured advertising needs were met.\n\u2756   Assisted in designing ads for clients.\n\u2756   Helped update and promote the Newspaper in order to keep its relevancy to the University."
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 41,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 19,
+                            "PercentOfParent": 46,
+                            "Skills": [
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "QUALIFICATIONS_SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 52
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "592",
+                            "SubTaxonomyName": "Marketing Communications",
+                            "PercentOfOverall": 17,
+                            "PercentOfParent": 42,
+                            "Skills": [
+                                {
+                                    "Id": "1400153",
+                                    "Name": "Advertising",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "QUALIFICATIONS_SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 57
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-29"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "227",
+                            "SubTaxonomyName": "Brand Management",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "022503",
+                                    "Name": "Brand Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 7
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "250",
+                            "SubTaxonomyName": "Events",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "009788",
+                                    "Name": "Tradeshows",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 7
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "595",
+                            "SubTaxonomyName": "Advertising",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "1400377",
+                                    "Name": "Print Campaign",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400379",
+                                            "Name": "Print Advertising",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "EDUCATION",
+                                                    "Id": "DEG-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "LastUsed": {
+                                                "Value": "2011-08-01"
+                                            }
+                                        }
+                                    ],
+                                    "LastUsed": {
+                                        "Value": "2011-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "226",
+                            "SubTaxonomyName": "Channel Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "005414",
+                                    "Name": "Print Advertising",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "2011-08-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 26,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 26,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "030743",
+                                    "Name": "Sales Goals",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 45
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-29"
+                                    }
+                                },
+                                {
+                                    "Id": "030800",
+                                    "Name": "Sales Promotions",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 7
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "104",
+                            "SubTaxonomyName": "Account Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "030175",
+                                    "Name": "Account Executive",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2011-08-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 9,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "569",
+                            "SubTaxonomyName": "Graphic Design",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "5570264",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "QUALIFICATIONS_SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 45
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-29"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "566",
+                            "SubTaxonomyName": "Industrial Design",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "5570095",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "QUALIFICATIONS_SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 45
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-29"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "5570072",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "QUALIFICATIONS_SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 45
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-29"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "19",
+                    "Name": "Insurance",
+                    "PercentOfOverall": 6,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "408",
+                            "SubTaxonomyName": "Claims and Adjusting",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022237",
+                                    "Name": "Claims",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 29
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-11-01"
+                                    }
+                                },
+                                {
+                                    "Id": "024322",
+                                    "Name": "Property Damage",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "005866",
+                                            "Name": "Property Damage Claims",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 29
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2015-11-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 29
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-11-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "7",
+                    "Name": "Finance",
+                    "PercentOfOverall": 6,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "241",
+                            "SubTaxonomyName": "Management",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 55,
+                            "Skills": [
+                                {
+                                    "Id": "025509",
+                                    "Name": "Settlements",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 29
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-11-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "243",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 45,
+                            "Skills": [
+                                {
+                                    "Id": "004809",
+                                    "Name": "Asset Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 7
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "32",
+                    "Name": "Degreed Accounting",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "942",
+                            "SubTaxonomyName": "Auditing",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 38,
+                            "Skills": [
+                                {
+                                    "Id": "005584",
+                                    "Name": "Audit",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 3
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-05-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "933",
+                            "SubTaxonomyName": "Accounts Payable",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 31,
+                            "Skills": [
+                                {
+                                    "Id": "013345",
+                                    "Name": "Claims",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 29
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-11-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "961",
+                            "SubTaxonomyName": "Payroll",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 31,
+                            "Skills": [
+                                {
+                                    "Id": "022239",
+                                    "Name": "Claims",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 29
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-11-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "12",
+                    "Name": "Legal",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "400",
+                            "SubTaxonomyName": "Litigation",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "4000007",
+                                    "Name": "Liability",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 29
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-11-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "191",
+                            "SubTaxonomyName": "AS\/400",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 71,
+                            "Skills": [
+                                {
+                                    "Id": "003484",
+                                    "Name": "AS\/400",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 3
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-05-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "193",
+                            "SubTaxonomyName": "Database",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 21,
+                            "Skills": [
+                                {
+                                    "Id": "013650",
+                                    "Name": "ADS",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "QUALIFICATIONS_SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "014962",
+                                    "Name": "Data Analyst",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "QUALIFICATIONS_SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "553",
+                            "SubTaxonomyName": "Big Data",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "5530939",
+                                    "Name": "Data Analyst",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "QUALIFICATIONS_SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "91",
+                    "Name": "Translations and Language Work",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "901",
+                            "SubTaxonomyName": "Translation",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "200002",
+                                    "Name": "Translate",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 3
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-05-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "97",
+                    "Name": "Supply Chain and Logistics",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "459",
+                            "SubTaxonomyName": "Inventory",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "020086",
+                                    "Name": "Inventory",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 3
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-05-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "1",
+                    "Name": "Administrative or Clerical",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "113",
+                            "SubTaxonomyName": "Admin",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 57,
+                            "Skills": [
+                                {
+                                    "Id": "004041",
+                                    "Name": "Organizational Skills",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "QUALIFICATIONS_SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "112",
+                            "SubTaxonomyName": "Messages and Contact",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 29,
+                            "Skills": [
+                                {
+                                    "Id": "023735",
+                                    "Name": "Customer Service Oriented",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "013326",
+                                            "Name": "Customer Service",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "QUALIFICATIONS_SUMMARY"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "109",
+                            "SubTaxonomyName": "Document-centric",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 14,
+                            "Skills": [
+                                {
+                                    "Id": "014123",
+                                    "Name": "Data Entry",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "QUALIFICATIONS_SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "78",
+                    "Name": "Retail",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "511",
+                            "SubTaxonomyName": "Positions",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022943",
+                                    "Name": "Retail Sales",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "006920",
+                                            "Name": "Customer Service",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "QUALIFICATIONS_SUMMARY"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "022841",
+                                    "Name": "Excel",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 3
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-05-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "228",
+                            "SubTaxonomyName": "Data-centric",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "022636",
+                                    "Name": "Data Entry",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "QUALIFICATIONS_SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "300",
+                            "SubTaxonomyName": "Mac",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "020979",
+                                    "Name": "MAC",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "QUALIFICATIONS_SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "QualificationsSummary": "\u2756   eCommerce\t\u2756   Design and Creative Education\n\u2756   Graphic Design\t\u2756   Advertising\n\u2756   Website Design\t\u2756   Customer Service\n\u2756   Marketing\t\u2756   Data Analyst\n\u2756   Social Media\t\u2756   Data Entry\n\u2756   Adobe Creative Suite\t\u2756   Google Ads\n\u2756   Strong Organizational Skills\t\u2756   Proficient on both Mac and Windows",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 4,
+                "LastLineNumber": 12,
+                "SectionType": "QUALIFICATIONS_SUMMARY",
+                "HeaderTextFound": "Summary of Qualifications"
+            },
+            {
+                "FirstLineNumber": 13,
+                "LastLineNumber": 58,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "Professional Experience"
+            },
+            {
+                "FirstLineNumber": 59,
+                "LastLineNumber": 67,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "Education"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "222",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-4"
+                            }
+                        ],
+                        "Message": "Every position in a resume should have an employer name."
+                    },
+                    {
+                        "QualityCode": "231",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "DEG-2"
+                            }
+                        ],
+                        "Message": "Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~~~  \n   ~~~~~~~~~~~~~~~~~~~~~~~~~  \n   ~~~~~~~~~  , Coppell, Texas 75019\n   ~~~~~~~  \t   ~~~~~~~~~~~~~~~~  \nSummary of Qualifications\n\u2756   eCommerce\t\u2756   Design and Creative Education\n\u2756   Graphic Design\t\u2756   Advertising\n\u2756   Website Design\t\u2756   Customer Service\n\u2756   Marketing\t\u2756   Data Analyst\n\u2756   Social Media\t\u2756   Data Entry\n\u2756   Adobe Creative Suite\t\u2756   Google Ads\n\u2756   Strong Organizational Skills\t\u2756   Proficient on both Mac and Windows\n\nProfessional Experience\n\nFotona, LLC - Graphic Designer\nFarmers Branch, Texas - March 2020 to Present\n\u2756   Design on-brand marketing materials for sales promotions, tradeshows, and webinars.\n\u2756   Code and design email campaigns via Campaign Monitor and Salesforce.\n\u2756   Asset Management\n\u2756   Source and design promotional items and giveaways.\n\u2756   Provide marketing and design insight.\n\nMaverick Western Wear - Graphic Design & Website Specialist\nFort Worth, Texas - June 2016 to February 2020\n\u2756   Maintain and update Magento 2 eCommerce website, and social media.\n\u2756   Design engaging graphics to be used in advertising and product images.\n\u2756   Plan and create marketing emails, mailers, and other materials to promote the business.\n\u2756   Fulfill online orders through Counterpoint and help achieve business and sales goals.\n\u2756   Provide aid to customers with questions about products and online orders.\n\nCopart Inc. - Inventory Support Specialist Dallas,\nTexas - March 2016 to May 2016\n\u2756 Analyze information obtained from AS\/400 software and translate that information into\nExcel spreadsheets.\n\u2756 Audit data and determine solutions to resolve the errors and discrepancies.\n\u2756 Call adjusters and salvage yards to assess the status and disposition of lots.\n\u2756 Review damage to different types of vehicles and assess their current value.\n   ~~~~~~~~~  \n   ~~~~~~~~~~~~~~~~~~~~~~~~~  \n   ~~~~~~~~~  , Coppell, Texas 75019\n   ~~~~~~~  \t   ~~~~~~~~~~~~~~~~  \n\nProfessional Experience Continued\nSedgwick Claims Management Services - Adjuster\nLewisville, Texas - June 2013 to November 2015\n\u2756   Investigate property damage claims filed against the client and determine liability.\n\u2756   Guide claimants on repairs or reimbursement of their property.\n\u2756   Negotiate settlements with claimants and other insurance carriers.\n\u2756   Monitor claimants for potentially fraudulent activity.\n\nUNT Newspaper\/North Texas Daily - Account Executive\nDenton, Texas - August 2010 to August 2011\n\u2756   Sold advertising space for the North Texas Daily to local and national clients.\n\u2756   Monitored client satisfaction and ensured advertising needs were met.\n\u2756   Assisted in designing ads for clients.\n\u2756   Helped update and promote the Newspaper in order to keep its relevancy to the University.\n\n\nEducation\n\nUniversity of North Texas, Denton, TX - Graduated August 2011\nBA Interdisciplinary Art and Design, Journalism-Advertising minor\nCourses: Communication Design, Computers in Art, Marketing Foundations, Advertising\nConcepts, Ad Campaigns, Ad Media and Marketing, Print Advertising, Race Gender & Media,\nVarious Art Histories, Design II\nMcLennan Community College, Waco, TX\nCourses: Introduction to Graphic Design, Public Speaking, Design I",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-09-30",
+        "SovrenSignature": [
+            "6kQCAAAAAAA="
+        ]
+    }
+}

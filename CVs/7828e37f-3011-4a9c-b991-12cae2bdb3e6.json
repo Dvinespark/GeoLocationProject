@@ -1,0 +1,1516 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "CountryCode": "US",
+            "PostalCode": "76040",
+            "Regions": [
+                "Tx"
+            ],
+            "Municipality": "Euless",
+            "GeoCoordinates": {
+                "Latitude": 32.80646896362305,
+                "Longitude": -97.12943267822266
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "Associate of Applied Arts in Graphic Design",
+                "Normalized": "Associate of Applied Arts in Graphic Design"
+            },
+            "Type": "associates"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "The Art Institute of Dallas\tBilingual:\nAssociate of Applied Arts in Graphic Design\tEnglish and Fluent in Spanish",
+                "SchoolName": {
+                    "Raw": "The Art Institute of Dallas",
+                    "Normalized": "The Art Institute of Dallas"
+                },
+                "SchoolType": "community",
+                "Degree": {
+                    "Name": {
+                        "Raw": "Associate of Applied Arts in Graphic Design",
+                        "Normalized": "Associate of Applied Arts in Graphic Design"
+                    },
+                    "Type": "associates"
+                },
+                "Majors": [
+                    "English and Fluent"
+                ]
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~   is experienced in:  Marketing; and Information Technology.    ~~~~~~   has 24 years of work experience.",
+            "MonthsOfWorkExperience": 288,
+            "MonthsOfManagementExperience": 16,
+            "ExecutiveType": "EXECUTIVE",
+            "AverageMonthsPerEmployer": 41,
+            "FulltimeDirectHirePredictiveIndex": 85,
+            "ManagementStory": "Starting on 3\/1\/2006, the candidate held the following low-level management position for 16 months:\n\tTitle: Account Executive\/Pre-Press for NationWide Disc",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 30
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "AVO Training Institute by Megger",
+                        "Normalized": "AVO Training Institute by Megger"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "Texas"
+                        ],
+                        "Municipality": "Dallas"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "GMC Inspire Designer",
+                    "Normalized": "GMC Inspire Designer",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2019-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Advertising",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Marketing Graphics Specialist\n\u2022 Designed marketing campaigns across multiple advertising platforms.\n\u2022 Designed marketing e-mail content.\n\u2022 Manage social media sites and digital advertising\n\u2022 Trade show planning, scheduling, delivery and vetting\n\u2022 Design and layout multi-page product catalogs"
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Megger",
+                        "Normalized": "Megger"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "Texas"
+                        ],
+                        "Municipality": "Dallas"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Multi-Media Graphic Designer",
+                    "Normalized": "Multi Media Graphic Designer",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2016-02-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2019-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Sales",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2022 Design and produce on a variety of print and web materials\n\u2022 Work with other Marketing and Dev team members closely to conceptualize and create designs\n\u2022 Designed work for signage, t-shirts, tags, labels, and other promotional content.\n\u2022 Managed outside print vendors (from bid to press check)\n\u2022 Establish corporate brand standards\n\u2022 Maintained a digital asset library"
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Allied Electronics",
+                        "Normalized": "Allied Electronics"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "Texas"
+                        ],
+                        "Municipality": "Fort Worth"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Graphic Designer",
+                    "Normalized": "Graphic Designer",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2014-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2016-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Internet",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2022 Responsible\tfor\tcreating\tproduction\tready\tfiles, ensured\tmaterials\tmaintained\tgraphic\tstandards, from\tconcept\tto completion\n\u2022 Generated\tcomps, creating\tlayouts, and\tfinal\tart\tworking\tunderstanding\tof\tlayout, type\tand\tcolor\tand\tcreate\ta\ncompleted layout.\n\u2022 Produced\tfinal\tfiles\tthat\timaged\tproperly\tin\tregard\tto\tprint\tand\tdigital\tformats.\n\u2022 Provide support for the intranet and Internet redesigns.\n\u2022 Managed content and requests for web publishing support."
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "World Marketing Inc",
+                        "Normalized": "World Marketing"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "Texas"
+                        ],
+                        "Municipality": "Dallas"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Graphics Technician",
+                    "Normalized": "Graphics Technician",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2007-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2014-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Healthcare Non-physician Non-nurse",
+                "SubTaxonomyName": "Administration",
+                "JobLevel": "Low Level",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2022 Prepared\tclient\tdata\tand\tgraphic\tfiles\tto\toutput\ton\tprinters\tper\tclient\tspecification\n\u2022 Utilized\tspecialized\tsoftware\ttools\tto\t\"merge\"\tdata\tto\tspecific\toutput\tfile.\n\u2022 Produce high-resolution layouts, which will be used for press.\n\u2022 Develop\/Design internal corporate brands, supporting brochures, posters and direct mail campaigns.\n\u2022 Act as creative studio for outside clients such as: Google, Wells Fargo, Blue Cross Blue Shield, and American Airlines"
+            },
+            {
+                "Id": "POS-5",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "NationWide Disc",
+                        "Normalized": "NationWide Disc"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "Texas"
+                        ],
+                        "Municipality": "Fort Worth"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Account Executive\/Pre-Press",
+                    "Normalized": "Account Executive\/Pre Press",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Account Executive"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2006-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2007-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Administrative or Clerical",
+                "SubTaxonomyName": "Document-centric",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2022 Prepare for customer inquiries through knowledge of company products (Print\/CD replication\/CD duplication)\n\u2022 Process orders in a timely and expeditious manner\n\u2022 Direct design and production staff to ensure quality while working within deadlines.\n\u2022 Perform proofreading checks on typographical, format and graphic elements\n\u2022 Preflight\tand\ttroubleshoot\tdigital\tfiles, fonts, images\tand\tartwork\n\u2022 Make suggestions on how to improve job processes and quality."
+            },
+            {
+                "Id": "POS-6",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Alcon Laboratories",
+                        "Normalized": "Alcon Laboratories"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "Texas"
+                        ],
+                        "Municipality": "Fort Worth"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Pre-Press Technician I",
+                    "Normalized": "Pre Press Technician I",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2001-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2006-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0
+            },
+            {
+                "Id": "POS-7",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Dupont",
+                        "Normalized": "Dupont"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "image-setter",
+                    "Normalized": "image setter",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "1996-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2001-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Administrative or Clerical",
+                "SubTaxonomyName": "Document-centric",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "color system\n\u2022 Operated\tAgfa\timage-setter\tto\toutput\tfilm\tfor\toutside\tvendors\n\u2022 Made revisions to package design by preparing layouts, typing and copying text; creating and importing graphics\n\u2022 Scanned\tand\tfixed\texisting\tlogos\tof\tnation\twide\tOptometry\toffices\tinto\tcamera\tready\tartwork\tfor\tscreen\tprinting\n\u2022 Maintained a log of ink draw downs from outside vendors\n\u2022 Collaborated in writing new Standard Operating procedures\n8\/96 to 12\/01\t\u2022 Experience in signage design, production installation.\n\u2022 Created computer generated vinyl and\/or full color graphics output that can be weeded, cut, and applied or\nand mounted to a substrate."
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 38,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 23,
+                            "PercentOfParent": 62,
+                            "Skills": [
+                                {
+                                    "Id": "024552",
+                                    "Name": "Direct Mail",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 86
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-09-01"
+                                    }
+                                },
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 54
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "595",
+                            "SubTaxonomyName": "Advertising",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 15,
+                            "Skills": [
+                                {
+                                    "Id": "1400380",
+                                    "Name": "Digital Campaign",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400382",
+                                            "Name": "Digital Advertising",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 13
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-08-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1400213",
+                                    "Name": "Direct Mail",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 86
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-09-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "592",
+                            "SubTaxonomyName": "Marketing Communications",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "1400153",
+                                    "Name": "Advertising",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "250",
+                            "SubTaxonomyName": "Events",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "009786",
+                                    "Name": "Trade Show",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-08-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 18,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "204",
+                            "SubTaxonomyName": "Programming",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "019115",
+                                    "Name": "HTML",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "025394",
+                                    "Name": "Javascript",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "196",
+                            "SubTaxonomyName": "Internet",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 49,
+                            "Skills": [
+                                {
+                                    "Id": "014705",
+                                    "Name": "CSS",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "024782",
+                                    "Name": "Intranet",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-01-31"
+                                    }
+                                },
+                                {
+                                    "Id": "011017",
+                                    "Name": "WEB Publishing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-01-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "553",
+                            "SubTaxonomyName": "Big Data",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "5531054",
+                                    "Name": "Replication",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 16
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2007-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "193",
+                            "SubTaxonomyName": "Database",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "025246",
+                                    "Name": "Replication",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 16
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2007-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 14,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 14,
+                            "PercentOfParent": 99
+                        },
+                        {
+                            "SubTaxonomyId": "104",
+                            "SubTaxonomyName": "Account Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "030175",
+                                    "Name": "Account Executive",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 16
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2007-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "1",
+                    "Name": "Administrative or Clerical",
+                    "PercentOfOverall": 7,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "945",
+                            "SubTaxonomyName": "Machines",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 47,
+                            "Skills": [
+                                {
+                                    "Id": "0054452",
+                                    "Name": "Printers",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 86
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-09-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "115",
+                            "SubTaxonomyName": "Computer Related",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 39,
+                            "Skills": [
+                                {
+                                    "Id": "006027",
+                                    "Name": "Publishing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 81
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-01-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "109",
+                            "SubTaxonomyName": "Document-centric",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "023057",
+                                    "Name": "Proofreading",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 16
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2007-07-01"
+                                    }
+                                },
+                                {
+                                    "Id": "020766",
+                                    "Name": "Typing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 64
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2001-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "112",
+                            "SubTaxonomyName": "Messages and Contact",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "015462",
+                                    "Name": "Direct Mail",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 86
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-09-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "110",
+                            "SubTaxonomyName": "Billing and Collections",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "005535",
+                                    "Name": "Process Orders",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 16
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2007-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "95",
+                    "Name": "Healthcare Non-physician Non-nurse",
+                    "PercentOfOverall": 6,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "157",
+                            "SubTaxonomyName": "Administration",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "011719",
+                                    "Name": "Blue Cross",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 86
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-09-01"
+                                    }
+                                },
+                                {
+                                    "Id": "011723",
+                                    "Name": "Blue Cross Blue Shield",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 86
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-09-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "31",
+                    "Name": "Written Communications",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "430",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "023058",
+                                    "Name": "Proofreading",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 16
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2007-07-01"
+                                    }
+                                },
+                                {
+                                    "Id": "006029",
+                                    "Name": "Publishing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 81
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-01-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "33",
+                    "Name": "Graphic Design",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "433",
+                            "SubTaxonomyName": "Techniques and Activities",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 87,
+                            "Skills": [
+                                {
+                                    "Id": "555154496",
+                                    "Name": "3D Rendering",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "024422",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "432",
+                            "SubTaxonomyName": "Software",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 13,
+                            "Skills": [
+                                {
+                                    "Id": "013418",
+                                    "Name": "Adobe Illustrator",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555154316",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "026056",
+                                    "Name": "Indesign",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "025873",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "13",
+                    "Name": "Manufacturing",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "208",
+                            "SubTaxonomyName": "Planning",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 92,
+                            "Skills": [
+                                {
+                                    "Id": "022739",
+                                    "Name": "Scheduling",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "365",
+                            "SubTaxonomyName": "Printing",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 8,
+                            "Skills": [
+                                {
+                                    "Id": "005345",
+                                    "Name": "PRE-Press",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 67
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2007-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "569",
+                            "SubTaxonomyName": "Graphic Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 54,
+                            "Skills": [
+                                {
+                                    "Id": "5570264",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "5570122",
+                                    "Name": "Illustration",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570123",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "566",
+                            "SubTaxonomyName": "Industrial Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 23,
+                            "Skills": [
+                                {
+                                    "Id": "5570095",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 23,
+                            "Skills": [
+                                {
+                                    "Id": "5570072",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "529",
+                            "SubTaxonomyName": "Languages",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "025179",
+                                    "Name": "BI-Lingual",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "0251792",
+                                            "Name": "Bilingual",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "EDUCATION"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "71",
+                    "Name": "Strategy and Planning",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "876",
+                            "SubTaxonomyName": "Workflow and Processes",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "024213",
+                                    "Name": "Workflow",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 64
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2001-12-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "134",
+                            "SubTaxonomyName": "Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "004211",
+                                    "Name": "Package Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 64
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2001-12-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "46",
+                    "Name": "Call Center or Help Desk or Customer Service",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "130",
+                            "SubTaxonomyName": "Customer Facing",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "014741",
+                                    "Name": "Customer Inquiries",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 16
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2007-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "300",
+                            "SubTaxonomyName": "Mac",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "020979",
+                                    "Name": "MAC",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 64
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2001-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "020068",
+                                    "Name": "Intranet",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-01-31"
+                                    }
+                                },
+                                {
+                                    "Id": "004729",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "229",
+                            "SubTaxonomyName": "Visual",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "019533",
+                                    "Name": "Illustrator",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "Applied Arts in Graphic Design\tEnglish and Fluent in Spanish"
+        },
+        {
+            "Language": "Spanish",
+            "LanguageCode": "es",
+            "FoundInContext": "Design\tEnglish and Fluent in Spanish"
+        }
+    ],
+    "QualificationsSummary": "Skills:\n\u2022   Expert-level skills in InDesign, Photoshop, Illustrator. Working knowledge with the rest of Adobe Creative Cloud suite\n\u2022   Expert\tlevel\tof\toffset\tprint\tproduction,\tPre-Press,\tCMYK\tseparation,\tRGB\tcolor\tspaces,\tproofing,\tand\tdigital\tprint\tproduction.",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 3,
+                "LastLineNumber": 5,
+                "SectionType": "SKILLS",
+                "HeaderTextFound": "Skills"
+            },
+            {
+                "FirstLineNumber": 6,
+                "LastLineNumber": 59,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "Experience"
+            },
+            {
+                "FirstLineNumber": 60,
+                "LastLineNumber": 70,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "Experience"
+            },
+            {
+                "FirstLineNumber": 71,
+                "LastLineNumber": 72,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "Education"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    },
+                    {
+                        "QualityCode": "323",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY"
+                            }
+                        ],
+                        "Message": "Each section type should only appear once in a resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "112",
+                        "Message": "The following section was identified as a skills section type: 'Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+                    },
+                    {
+                        "QualityCode": "151",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "1"
+                            },
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "2"
+                            },
+                            {
+                                "SectionType": "EDUCATION",
+                                "Id": "3"
+                            }
+                        ],
+                        "Message": "Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~  \nGRAPHIC DESIGNER\n   ~~~~~~~~~~~~~~~   Euless, Tx 76040 |    ~~~~~~~   |    ~~~~~~~~~~~~~~~~~   |    ~~~~~~~~~~~~~~~~~~~~~~~~~~~  \nSkills:\n\u2022   Expert-level skills in InDesign, Photoshop, Illustrator. Working knowledge with the rest of Adobe Creative Cloud suite\n\u2022   Expert\tlevel\tof\toffset\tprint\tproduction,\tPre-Press,\tCMYK\tseparation,\tRGB\tcolor\tspaces,\tproofing,\tand\tdigital\tprint\tproduction.\n\u2022   Experience\twith\tpackage\tdesign\tand\tproduction,\tdie\tlines,\tproducing\tready\tprint\tfiles\tfor\tdie\tcutting\n\u2022   Data Merge Printing Software: FusionPro 8.2, GMC Inspire Designer 8.1\n\u2022   Basic Programing knowledge of HTML, CSS and basic structure of JavaScript applets.\n\u2022   Strong knowledge of Macintosh based equipment within a network environment.\n\u2022   Basic 3D rendering abilities for presentation\n\u2022   Superb illustrative skills with both traditional and digital\nExperience:\n7\/19 to 8\/20\tAVO Training Institute by Megger\t  Dallas, Texas\nMarketing Graphics Specialist\n\u2022 Designed marketing campaigns across multiple advertising platforms.\n\u2022 Designed marketing e-mail content.\n\u2022 Manage social media sites and digital advertising\n\u2022 Trade show planning, scheduling, delivery and vetting\n\u2022 Design and layout multi-page product catalogs\n\n2\/16 to 7\/19\tMegger\tDallas, Texas\nMulti-Media Graphic Designer\n\u2022 Design and produce on a variety of print and web materials\n\u2022 Work with other Marketing and Dev team members closely to conceptualize and create designs\n\u2022 Designed work for signage, t-shirts, tags, labels, and other promotional content.\n\u2022 Managed outside print vendors (from bid to press check)\n\u2022 Establish corporate brand standards\n\u2022 Maintained a digital asset library\n\n9\/14 to 1\/16\tAllied Electronics\t  Fort Worth, Texas\nGraphic Designer\n\u2022 Responsible\tfor\tcreating\tproduction\tready\tfiles,\tensured\tmaterials\tmaintained\tgraphic\tstandards,\tfrom\tconcept\tto\ncompletion\n\u2022 Generated\tcomps,\tcreating\tlayouts,\tand\tfinal\tart\tworking\tunderstanding\tof\tlayout,\ttype\tand\tcolor\tand\tcreate\ta\ncompleted layout.\n\u2022 Produced\tfinal\tfiles\tthat\timaged\tproperly\tin\tregard\tto\tprint\tand\tdigital\tformats.\n\u2022 Provide support for the intranet and Internet redesigns.\n\u2022 Managed content and requests for web publishing support.\n\n7\/07 to 9\/14\tWorld Marketing Inc\t Dallas, Texas\nGraphics Technician\n\u2022 Prepared\tclient\tdata\tand\tgraphic\tfiles\tto\toutput\ton\tprinters\tper\tclient\tspecification\n\u2022 Utilized\tspecialized\tsoftware\ttools\tto\t\"merge\"\tdata\tto\tspecific\toutput\tfile.\n\u2022 Produce high-resolution layouts, which will be used for press.\n\u2022 Develop\/Design internal corporate brands, supporting brochures, posters and direct mail campaigns.\n\u2022 Act as creative studio for outside clients such as: Google, Wells Fargo, Blue Cross Blue Shield, and\nAmerican Airlines\n\n3\/06 to 7\/07\tNationWide Disc\tFort Worth, Texas\nAccount Executive\/Pre-Press\n\u2022 Prepare for customer inquiries through knowledge of company products (Print\/CD replication\/CD duplication)\n\u2022 Process orders in a timely and expeditious manner\n\u2022 Direct design and production staff to ensure quality while working within deadlines.\n\u2022 Perform proofreading checks on typographical, format and graphic elements\n\u2022 Preflight\tand\ttroubleshoot\tdigital\tfiles,\tfonts,\timages\tand\tartwork\n\u2022 Make suggestions on how to improve job processes and quality.\n\n12\/01 to 3\/06\tAlcon Laboratories\t  Fort Worth, Texas\nPre-Press Technician I\n\u2022 Experience\twith\tdesktop\tpublishing\tapplication\t(Mac\tand\tPC),\ttrapping,\tand\tRIP\t(Esko\tgraphics)\tworkflow\n\u2022 Produced color proofs (contract proofs) utilizing Dupont color system\n\u2022 Operated\tAgfa\timage-setter\tto\toutput\tfilm\tfor\toutside\tvendors\n\u2022 Made revisions to package design by preparing layouts, typing and copying text; creating and importing graphics\n\u2022 Scanned\tand\tfixed\texisting\tlogos\tof\tnation\twide\tOptometry\toffices\tinto\tcamera\tready\tartwork\tfor\tscreen\tprinting\n\u2022 Maintained a log of ink draw downs from outside vendors\n\u2022 Collaborated in writing new Standard Operating procedures\n8\/96 to 12\/01\t\u2022 Experience in signage design, production installation.\n\u2022 Created computer generated vinyl and\/or full color graphics output that can be weeded, cut, and applied or\nand mounted to a substrate.\n\nEducation: The Art Institute of Dallas\tBilingual:\nAssociate of Applied Arts in Graphic Design\tEnglish and Fluent in Spanish",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-10-02",
+        "SovrenSignature": [
+            "\/nEDAAAAAAA="
+        ]
+    }
+}

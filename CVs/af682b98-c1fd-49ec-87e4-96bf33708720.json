@@ -1,0 +1,2890 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "CountryCode": "US",
+            "Regions": [
+                "Texas"
+            ],
+            "Municipality": "Dallas",
+            "GeoCoordinates": {
+                "Latitude": 32.77666091918945,
+                "Longitude": -96.79698944091797
+            }
+        }
+    },
+    "ProfessionalSummary": "I LOVE THE CHALLENGE of researching, crafting and constructing UX product\/designs, CX journeys and infor-\nmation architecture flows for cloud products, search, analytics, metadata, mobile apps, and enterprise applications\n\nMY SPECIALTY IS using my imagination, creativity, and divergent thinking skills in my UX toolbox along with\nuser research and testing to solve problems and devise intuitive user flows and visual designs for great companies\nincluding IBM Cloud, AT&T Innovation Labs (the Foundry), AT&T U-verse TV, Texas Instruments, Mary Kay\nWeb Portfolio:    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \n\nAs an INNOVATOR and INVENTOR, I use my imagination and problem solving skills to:\n\u2022   Transform complex tasks for IBM Cloud to intuitive, easy to use designs from end-to-end service design research \/\nInnovate new UX design and information architecture from research recommendations including a GUI status update\nbox to track data transfers \/ Create new IA designs to combine several data migration services into one Cloud site \/\nDevise a \"plug and play\" solution with technical architect enabling a user to push a button to connect and move data\n\u2022   Reinvent UX designs for AT&T Innovation Lab collapsing several pages of forms to a 3-Clicks to Config solution \/\nReimagine the buyflow, transforming form-heavy pages to an interactive Google Maps Meets Tinker Toys approach\n\u2022   Design workflows for data rich content innovating an advanced search box solution, Search\/CLI, for IBM Cloud \/\nThe UX solution helps users to find and organize their data and includes a dashboard-styled landing page enabling a\nquick path to a desired task, a user-defined widget opening a saved configuration page and data visualization module\n\n\nAs a UX PRODUCT DESIGNER, RESEARCHER and INFORMATION ARCHITECT, I have a passion for:\n\u2022   Working with Product Owners to gather requirements, write use cases, flesh out new ideas and work flows including\nstrategizing IA approaches and UX designs to align with business goals and direction\n\u2022   Creating new complex animated workflows, data flows, user flows, sitemaps wireframes, for all digital touchpoints\nand prototyping designs using various software programs including prototyping tools, Invision, Sketch, Zeplin, Bal-\nsamic, Adobe Suite, OmniGraffle, HTML5, CSS3, Javascript (familiarity with Axure)\n\u2022   Conducting complex UX research including end-to-end service design research, user testing, interviews surveys and\nheuristic evaluations to understand customer needs, identify problem touchpoints and create user-centric designs\n\u2022   Tweaking Object-Oriented UX design process to assist in responsive design implementations\n\u2022   Designing with and contributing to UX components and visual designs for IBM's Carbon Design System patterns\n\u2022   Deliver designs to engineering team, steering development to match design specifications\n\u2022   Collaborating with a cross-disciplinary team to enrich the UX designs, back-end scalability and API interfaces\n\u2022   Following Agile methodology, participating in sprints and meeting defined critical milestones and deadlines",
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "B.A. in Journalism",
+                "Normalized": "bachelors"
+            },
+            "Type": "bachelors"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "University of Texas at Austin: B.A. in Journalism, Department of Photo Journalism, School of Communications\nBrookhaven College: Visual Communications Department",
+                "SchoolName": {
+                    "Raw": "Department of Photo Journalism, School of Communications",
+                    "Normalized": "Department of Photo Journalism School of Communications"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "B.A. in Journalism",
+                        "Normalized": "bachelors"
+                    },
+                    "Type": "bachelors"
+                },
+                "Majors": [
+                    "Communications"
+                ]
+            },
+            {
+                "Id": "DEG-2",
+                "Text": "University of North Texas: Department of Learning Technologies: Studied with Regents Professor Dr. Gerald Knezek;\napplied learning theories to formulate intuitive and data-driven understandings of how humans interface with machines and translating those complexities into simple user designs; co-authored paper for journal",
+                "SchoolName": {
+                    "Raw": "University of North Texas",
+                    "Normalized": "University of North Texas"
+                },
+                "SchoolType": "university",
+                "Degree": []
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~~~~   is experienced in:  Information Technology; and User Experience (User Research).    ~~~~~~~~~   has 11 years of work experience.",
+            "MonthsOfWorkExperience": 131,
+            "MonthsOfManagementExperience": 0,
+            "ExecutiveType": "NONE",
+            "AverageMonthsPerEmployer": 43,
+            "FulltimeDirectHirePredictiveIndex": 85,
+            "ManagementStory": "",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 0
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Visual Time Studio Consulting",
+                        "Normalized": "Visual Time Studio Consulting"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Sr. UX Designer Mobile & Cloud Products",
+                    "Normalized": "Senior UX Designer Mobile AND Cloud Products",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "UX Designer Mobile & Cloud Products"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2018-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-02-14",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Big Data",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "Designing data and user flows with wireframes for revenue tracking pipeline for Stronghold Resource Partners\n\u2022   Freelance contracting with Stronghold Resource Partners to build the IA and UX designs to enable an efficient and orga-\nnized tracking of the data rich workflows and user task completion for an in-house app in Salesforce;\n\u2022   Creating rapid prototyping, low fidelity wireframes to gather data and move toward automated solution\nGELPHMAN, - 2\nInventing a new customer service business model, PersonalConnect (patent pending) for the Mary Kay iShop Mobile app\n\u2022 Innovated the PersonalConnect feature for the Mary Kay mobile app; the app serves as a personal communication\ndevice and social network between a Mary Kay consultant and a group of clients\n\u2022 Designed the web app to economically utilize the existing Mary Kay corporate website's backend structure\nCreating imaginative IA and UX design for the Digital Data Habitat for Cloud developers\n\u2022 With a technical architect, designing a new product that enables developers to create distributed, digital spaces that\nare intrinsically buildable, searchable and deployable; a new Cloud distribution model called Core as a Service\n\u2022 Product includes a method for creating metadata on the fly that then correlates and distributes information (metadata)\nacross a cloud app or through an IOT device and beyond, potentially feeding a Machine Learning or AI system"
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "IBM Cloud",
+                        "Normalized": "IBM"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "User-Experience Designer, Researcher & Architect",
+                    "Normalized": "User Experience Designer Researcher AND Architect",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "User-Experience Designer",
+                        "Designer, Researcher & Architect"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2015-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2018-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Big Data",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "Designing delightful user experiences for a variety of cloud infrastructure storage offerings\n\u2022 Worked with global team at IBM Cloud to redesign the catalogue\/ordering\/shopping cart workflows and navigation\nfor products and services; created custom web pages including plug-ins, forms and custom shopping cart style design\n\u2022 Collaborated with Product Owners and Engineers to delivered mixed fidelity, InVision animated prototypes, user\nflows, IA diagrams and responsive designs for Cloud offerings\n\u2022 Presented designs and animated prototypes to leadership including VPs and Directors\n\u2022 Innovated new UX designs and solutions from research for Cloud-based Object Storage and Data Migration services\nincluding an advanced search box (Search\/CLI) and a status update feature with \"plug-&-play\" data connections to move their data; combined all IBM Data Migration services into one cloud site\n\u2022 Developed UX and visual design components for IBM Carbon Design System and pattern library\n\u2022 Participated in Agile processes and sprints; implemented branding and produced style guidelines as needed\n\nConducting qualitative user testing and service design research on existing offerings and new designs\n\u2022 Conducted heuristic evaluations, interviews surveys and usability studies with customers to validate existing sites\nand new designs; wrote user stories for roadmap from results; conducted prototype testing and design revisions\n\u2022 Completed comprehensive, end-to-end service design research of live, Data Transfer Service; identified points of failure, developed interactive, end-to-end flow diagram, mapped the customer's journey and created data visualiza-\ntions from survey results; developed research report and evaluation of findings and presented to leadership\n\nForming an informal innovation team to implement a novel way to utilize metadata in a cloud environment\n\u2022 Led an informal innovation team with technical architects to create a proof of concept for my novel way to correlate\nand troubleshoot with metadata; led to metadata curation product, IBM Metaocean; feeds AI or Machine Learning\n\u2022 Reviewed plans, drawings and concepts with direct report, IBM Softlayer CTO Marc Jones, who approved our work"
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "AT&T Contracts",
+                        "Normalized": "AT&T Contracts"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "User-Experience Designer and Architect",
+                    "Normalized": "User Experience Designer and Architect",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Designer and Architect"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2009-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2014-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Programming",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Converting drop-downs and form fields into an interactive, visual buy-flow process for the iPad on Salesforce platform\n\u2022 In an iPad enterprise application deployed in the Salesforce environment, created wireframes and visual designs for ATOM app, the Partner Exchange (PE) application with an Agile development process (InVision in portfolio)\n\u2022 Designed the Welcome Tour, dashboard, and data mapping utility; redesigned the existing PE buy-flow for ATOM\n\u2022 Created wireframes, visual design and style guidelines for Salesforce iPad application; includes a Quick Quotes link\nfrom the Dashboard, a 3-Clicks to Config screen innovation\n\u2022 Conceptualized and created low fidelity wireframes for conversion of the form-heavy buy-flow to an interactive and visual, one-screen process; users build a plan\/map utilizing familiar icons and symbols much like an architect or\nengineer; with functionality similar to Google Maps, the user can zoom out to view the plan with hundreds of sites\n\nAT&T U-verse TV Training -- Lead User Experience & Visual Designer \/ Information Architect\nCreating state of the art user experience and visual design for the U-verse TV technical training template (iPad mLearning)\n\u2022 Created an intuitive user-interface design for tablets with responsive design for U-verse TV streaming media\n\u2022 Incorporated elements of the iPad GUI to enable end-users to navigate seamlessly through the app\nGELPHMAN, - 3\n\nDeveloping a simulated, virtual machine interface with photography to teach complex mechanized processes on an iPad\n\u2022 Created an interactive photographic interface for the SAI Crossbox for U-verse TV streaming media\n\u2022 Utilized photography, color, and animation as metaphors to simulate machine and network processes\n\u2022 Employed photographic animation interface as content for the learner, as interactive media to trigger engagement,\nand as navigation and instrument of interaction\n\nUser experience inventions, innovations and honors for AT&T training projects\n\u2022 Invented and developed the concept of \"crowdsourcing\" to update the performance support tool for U-verse Prem\nTechs; Technicians in the field use the video and photographic functions of the iPad to create scenarios and training\n\u2022 Selected by the executive director of training group to present visual and UI design of two projects at the quarterly\nDesigner Showcase; the Showcase is virtually attended by an AT&T VP and the entire Learning Services community\n\n\nTexas Instrument's Education Division -- Contract Visual Designer \/ Interaction Designer\nCreating visual designs and promotional materials for TI's education website\n\u2022 Created visual design for company webpages, banner ads, promos, targeted emails, and videos; executed TI brand\n\u2022 Worked with the marketing team, designed, illustrated and edited animated videos to introduce new features of TI\nNspired Navigator System and the Interactive Math Classroom (IMC); integrated voice-over narration into the video"
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 44,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "553",
+                            "SubTaxonomyName": "Big Data",
+                            "PercentOfOverall": 10,
+                            "PercentOfParent": 22,
+                            "Skills": [
+                                {
+                                    "Id": "5530953",
+                                    "Name": "Data Migration",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 40
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-07-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5530962",
+                                    "Name": "Data Visualization",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "5531016",
+                                    "Name": "Machine Learning",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 59
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-14"
+                                    }
+                                },
+                                {
+                                    "Id": "5531026",
+                                    "Name": "Metadata",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 59
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-14"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "199",
+                            "SubTaxonomyName": "Project Management",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 13,
+                            "Skills": [
+                                {
+                                    "Id": "555154520",
+                                    "Name": "Agile",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "555154521",
+                                            "Name": "Agile Methodology",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SUMMARY"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 112
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-07-01"
+                                    }
+                                },
+                                {
+                                    "Id": "018150",
+                                    "Name": "Gather Requirements",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "204",
+                            "SubTaxonomyName": "Programming",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "021194",
+                                    "Name": "API",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "022450",
+                                    "Name": "Enterprise Application",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "1004755",
+                                    "Name": "Git",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "018626",
+                                    "Name": "GUI",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "025394",
+                                    "Name": "Javascript",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "0253941",
+                                    "Name": "Javascript Frameworks and Libraries",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "3391101",
+                                            "Name": "Bootstrap",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "023329",
+                                    "Name": "Object-Oriented",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "024873",
+                                    "Name": "Scripting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "024480",
+                                    "Name": "User Interface Design",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "0103232",
+                                            "Name": "Interface Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 72
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2014-12-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "022692",
+                                    "Name": "Visio",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "023530",
+                                    "Name": "WEB UI",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "010125",
+                                            "Name": "UI Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 72
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2014-12-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "011476",
+                                    "Name": "XML",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "193",
+                            "SubTaxonomyName": "Database",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 9,
+                            "Skills": [
+                                {
+                                    "Id": "014989",
+                                    "Name": "Data Mapping",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "014990",
+                                    "Name": "Data Migration",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 40
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "731",
+                            "SubTaxonomyName": "User Interface",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 8,
+                            "Skills": [
+                                {
+                                    "Id": "7310031",
+                                    "Name": "Graphical User Interface",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "7310032",
+                                            "Name": "GUI",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SUMMARY"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 72
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2014-12-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "7310035",
+                                    "Name": "Information Architecture",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "7310067",
+                                    "Name": "User Interface",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "7310068",
+                                            "Name": "UI",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 72
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2014-12-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "200",
+                            "SubTaxonomyName": "QA and QC",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "2000006",
+                                    "Name": "JIRA",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "010313",
+                                    "Name": "Usability",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 40
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "552",
+                            "SubTaxonomyName": "Mobile Applications",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "5520505",
+                                    "Name": "Angularjs",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "5520522",
+                                    "Name": "Bootstrap",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "5520541",
+                                    "Name": "HTML5",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "5520547",
+                                    "Name": "IPAD",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "203",
+                            "SubTaxonomyName": "UNIX and LINUX",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "01026309",
+                                    "Name": "UNIX",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "010377",
+                                            "Name": "UX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SUMMARY"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 59
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-02-14"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 59
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-14"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "555",
+                            "SubTaxonomyName": "Enterprise Storage",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "5551150",
+                                    "Name": "HP-UX",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555115001",
+                                            "Name": "UX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SUMMARY"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 59
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-02-14"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 59
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-14"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "338",
+                            "SubTaxonomyName": "Security",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "3380002",
+                                    "Name": "Machine Learning",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 59
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-14"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "720",
+                            "SubTaxonomyName": "Machine Learning",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "7200149",
+                                    "Name": "Machine Learning",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 59
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-14"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "351",
+                            "SubTaxonomyName": "Multimedia",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "017649",
+                                    "Name": "Flash",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "5510073",
+                                    "Name": "Interactive Media",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "198",
+                            "SubTaxonomyName": "Network",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "010563",
+                                    "Name": "Virtual Machine",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "718",
+                            "SubTaxonomyName": "Distributed Systems",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "7180107",
+                                    "Name": "Virtual Machine",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "719",
+                            "SubTaxonomyName": "Compiler & Runtime",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "7190065",
+                                    "Name": "Virtual Machine",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "201",
+                            "SubTaxonomyName": "Architecture",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "019774",
+                                    "Name": "Information Architecture",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "010312",
+                                    "Name": "USE Cases",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "010321",
+                                    "Name": "User Centered Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "551",
+                            "SubTaxonomyName": "Gaming",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "5510002",
+                                    "Name": "Actionscript",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "196",
+                            "SubTaxonomyName": "Internet",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "026624",
+                                    "Name": "Dreamweaver",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "342",
+                            "SubTaxonomyName": "Workflow and Imaging",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "019548",
+                                    "Name": "Imaging",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 24,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "558",
+                            "SubTaxonomyName": "User Research",
+                            "PercentOfOverall": 10,
+                            "PercentOfParent": 43,
+                            "Skills": [
+                                {
+                                    "Id": "5570206",
+                                    "Name": "Heuristic Evaluations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 40
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-07-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5570201",
+                                    "Name": "Usability Studies",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 40
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-07-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5570211",
+                                    "Name": "User Research",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "5570208",
+                                    "Name": "User Testing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 40
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "571",
+                            "SubTaxonomyName": "Web Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 9,
+                            "Skills": [
+                                {
+                                    "Id": "5570152848",
+                                    "Name": "Wireframe",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570152849",
+                                            "Name": "Wireframes",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SUMMARY"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 97
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-02-14"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 97
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-14"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "565",
+                            "SubTaxonomyName": "Visual Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 8,
+                            "Skills": [
+                                {
+                                    "Id": "5570075",
+                                    "Name": "User Experience Design",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570076",
+                                            "Name": "UX Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SUMMARY"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 25
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-02-14"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-14"
+                                    }
+                                },
+                                {
+                                    "Id": "5570080",
+                                    "Name": "User Interface Design",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570081",
+                                            "Name": "UI Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 72
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2014-12-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "5570243",
+                                    "Name": "Visual Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 112
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-07-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5570073",
+                                    "Name": "Visualization",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 8,
+                            "Skills": [
+                                {
+                                    "Id": "5570058",
+                                    "Name": "Animation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "5570060",
+                                    "Name": "User Experience Design",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570061",
+                                            "Name": "UX Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SUMMARY"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 25
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-02-14"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-14"
+                                    }
+                                },
+                                {
+                                    "Id": "5570065",
+                                    "Name": "Visual Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 112
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-07-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5570059",
+                                    "Name": "Visualization",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "573",
+                            "SubTaxonomyName": "Product Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "5570165",
+                                    "Name": "UI Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "5570161",
+                                    "Name": "User Experience Design",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570162",
+                                            "Name": "UX Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SUMMARY"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 25
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-02-14"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-14"
+                                    }
+                                },
+                                {
+                                    "Id": "5570164",
+                                    "Name": "Visual Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 112
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "560",
+                            "SubTaxonomyName": "UX Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "5570023",
+                                    "Name": "UI Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "5570017",
+                                    "Name": "User Experience Design",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570018",
+                                            "Name": "UX Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SUMMARY"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 25
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-02-14"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-14"
+                                    }
+                                },
+                                {
+                                    "Id": "5570022",
+                                    "Name": "Visual Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 112
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "561",
+                            "SubTaxonomyName": "Human Computer Interaction",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "5570029",
+                                    "Name": "Information Architecture",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570031",
+                                            "Name": "Information Architect",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SUMMARY"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 72
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2014-12-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "567",
+                            "SubTaxonomyName": "Information Architect",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "5570105",
+                                    "Name": "Information Architect",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "562",
+                            "SubTaxonomyName": "Interaction Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "5570047",
+                                    "Name": "Visual Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 112
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "569",
+                            "SubTaxonomyName": "Graphic Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "5570118",
+                                    "Name": "Animation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "5570122",
+                                    "Name": "Illustration",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570123",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "5570120",
+                                    "Name": "Visualization",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "572",
+                            "SubTaxonomyName": "Interactive Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "5570156",
+                                    "Name": "Animation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "5570157",
+                                    "Name": "Visualization",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 9,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 41,
+                            "Skills": [
+                                {
+                                    "Id": "1400246",
+                                    "Name": "Information Architecture",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "1400262",
+                                    "Name": "Interactive Media",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "1400241",
+                                    "Name": "User Experience",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "1400245",
+                                    "Name": "User Interface",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "1400247",
+                                    "Name": "Visual Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 112
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-07-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1400248",
+                                    "Name": "Wireframes",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 97
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-14"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "227",
+                            "SubTaxonomyName": "Brand Management",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 32,
+                            "Skills": [
+                                {
+                                    "Id": "011888",
+                                    "Name": "Branding",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 40
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 24,
+                            "Skills": [
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "594",
+                            "SubTaxonomyName": "Media",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "1400181",
+                                    "Name": "Interactive Media",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "33",
+                    "Name": "Graphic Design",
+                    "PercentOfOverall": 7,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "432",
+                            "SubTaxonomyName": "Software",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 98,
+                            "Skills": [
+                                {
+                                    "Id": "013418",
+                                    "Name": "Adobe Illustrator",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555154316",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "555154491",
+                                    "Name": "Axure",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "026625",
+                                    "Name": "Dreamweaver",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "026056",
+                                    "Name": "Indesign",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "555154489",
+                                    "Name": "InVision",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 112
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-07-01"
+                                    }
+                                },
+                                {
+                                    "Id": "025873",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "555154318",
+                                    "Name": "Zeplin",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "433",
+                            "SubTaxonomyName": "Techniques and Activities",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "022091",
+                                    "Name": "Animation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "298",
+                            "SubTaxonomyName": "Surveying",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 45,
+                            "Skills": [
+                                {
+                                    "Id": "023035",
+                                    "Name": "TOPO",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "021224",
+                                            "Name": "Mapping",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 72
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2014-12-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "134",
+                            "SubTaxonomyName": "Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "005611",
+                                    "Name": "Product Designer",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "080932",
+                                    "Name": "Prototyping",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-14"
+                                    }
+                                },
+                                {
+                                    "Id": "024481",
+                                    "Name": "User Interface Design",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "0103222",
+                                            "Name": "Interface Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 72
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2014-12-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "307",
+                            "SubTaxonomyName": "General Engineering",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 15,
+                            "Skills": [
+                                {
+                                    "Id": "080476",
+                                    "Name": "Prototyping",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-14"
+                                    }
+                                },
+                                {
+                                    "Id": "080426",
+                                    "Name": "Robotic",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "022232",
+                                    "Name": "Steering",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "144",
+                            "SubTaxonomyName": "Computer Hardware",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 13,
+                            "Skills": [
+                                {
+                                    "Id": "026422",
+                                    "Name": "Flash",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "080751",
+                                    "Name": "Prototyping",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-14"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "310",
+                            "SubTaxonomyName": "Software and Tools",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "025431",
+                                    "Name": "Imaging",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "137",
+                            "SubTaxonomyName": "Industrial",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "080863",
+                                    "Name": "Robotic",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "97",
+                    "Name": "Supply Chain and Logistics",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "458",
+                            "SubTaxonomyName": "Purchasing",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "024878",
+                                    "Name": "Ordering",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 40
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "461",
+                            "SubTaxonomyName": "Supply Chain",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "014311",
+                                    "Name": "Contracts",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "13",
+                    "Name": "Manufacturing",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "362",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 99,
+                            "Skills": [
+                                {
+                                    "Id": "006438",
+                                    "Name": "Rapid Prototyping",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-14"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "364",
+                            "SubTaxonomyName": "Equipment",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "007173",
+                                    "Name": "Robotic",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "27",
+                    "Name": "Light Technical\/Trades\/Skilled Labor",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "634",
+                            "SubTaxonomyName": "Audio",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "555154638",
+                                    "Name": "Narration",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100
+                        }
+                    ]
+                },
+                {
+                    "Id": "45",
+                    "Name": "Transmission & Distribution",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "326",
+                            "SubTaxonomyName": "Transmission",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "004805",
+                                    "Name": "Pipeline",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-14"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "1",
+                    "Name": "Administrative or Clerical",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "112",
+                            "SubTaxonomyName": "Messages and Contact",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "023735",
+                                    "Name": "Customer Service Oriented",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "013326",
+                                            "Name": "Customer Service",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 25
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-02-14"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-14"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "78",
+                    "Name": "Retail",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "511",
+                            "SubTaxonomyName": "Positions",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022943",
+                                    "Name": "Retail Sales",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "006920",
+                                            "Name": "Customer Service",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 25
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-02-14"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 25
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-14"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "12",
+                    "Name": "Legal",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "395",
+                            "SubTaxonomyName": "Intellectual Property",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 95,
+                            "Skills": [
+                                {
+                                    "Id": "200094",
+                                    "Name": "Patent",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "004332",
+                                    "Name": "Patents",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "396",
+                            "SubTaxonomyName": "Contracts",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "014309",
+                                    "Name": "Contracts",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022274",
+                                    "Name": "Contracts",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "005482",
+                                    "Name": "Problem Solving",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "31",
+                    "Name": "Written Communications",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "430",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "009845",
+                                    "Name": "Translating",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "229",
+                            "SubTaxonomyName": "Visual",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "019533",
+                                    "Name": "Illustrator",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "024751",
+                                    "Name": "Visio",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "012099",
+                                    "Name": "Acrobat",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "004729",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "Achievements": [
+        "User experience inventions, innovations and honors for AT&T training projects"
+    ],
+    "QualificationsSummary": "SKILLS & PROFICIENCIES\nApplications: Sketch, InVision, Zeplin, Balsamiq, Illustrator, Photoshop Professional, Dreamweaver, Flash,\nOmnigraffle, Visio, DrawIO. Acrobat X Pro, InDesign, Lectora, Key, limited Axure\nProject Tracking Tools: Jira, Confluence, Git Hub, Aha\nScripting: HTML5, CSS3, XML, ActionScript 3, limited AngularJS and Bootstrap",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 5,
+                "LastLineNumber": 39,
+                "SectionType": "SUMMARY",
+                "HeaderTextFound": "STRENGTHS AND QUALIFICATIONS"
+            },
+            {
+                "FirstLineNumber": 40,
+                "LastLineNumber": 119,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "EXPERIENCE"
+            },
+            {
+                "FirstLineNumber": 120,
+                "LastLineNumber": 138,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "Other Work Experience"
+            },
+            {
+                "FirstLineNumber": 139,
+                "LastLineNumber": 144,
+                "SectionType": "SKILLS",
+                "HeaderTextFound": "SKILLS & PROFICIENCIES"
+            },
+            {
+                "FirstLineNumber": 145,
+                "LastLineNumber": 150,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "EDUCATION"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    },
+                    {
+                        "QualityCode": "323",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY"
+                            }
+                        ],
+                        "Message": "Each section type should only appear once in a resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    },
+                    {
+                        "QualityCode": "231",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "DEG-2"
+                            }
+                        ],
+                        "Message": "Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "161",
+                        "Message": "High school (or lower) education should not be included on resumes that contain higher-level education."
+                    },
+                    {
+                        "QualityCode": "112",
+                        "Message": "The following section was identified as a skills section type: 'SKILLS & PROFICIENCIES'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~~~~~~~~~  \n   ~~~~~~~~~~~~~~~~~~~~~~~  \nDallas, Texas\n\n\nSTRENGTHS AND QUALIFICATIONS\nI LOVE THE CHALLENGE of researching, crafting and constructing UX product\/designs, CX journeys and infor-\nmation architecture flows for cloud products, search, analytics, metadata, mobile apps, and enterprise applications\n\nMY SPECIALTY IS using my imagination, creativity, and divergent thinking skills in my UX toolbox along with\nuser research and testing to solve problems and devise intuitive user flows and visual designs for great companies\nincluding IBM Cloud, AT&T Innovation Labs (the Foundry), AT&T U-verse TV, Texas Instruments, Mary Kay\nWeb Portfolio:    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \n\nAs an INNOVATOR and INVENTOR, I use my imagination and problem solving skills to:\n\u2022   Transform complex tasks for IBM Cloud to intuitive, easy to use designs from end-to-end service design research \/\nInnovate new UX design and information architecture from research recommendations including a GUI status update\nbox to track data transfers \/ Create new IA designs to combine several data migration services into one Cloud site \/\nDevise a \"plug and play\" solution with technical architect enabling a user to push a button to connect and move data\n\u2022   Reinvent UX designs for AT&T Innovation Lab collapsing several pages of forms to a 3-Clicks to Config solution \/\nReimagine the buyflow, transforming form-heavy pages to an interactive Google Maps Meets Tinker Toys approach\n\u2022   Design workflows for data rich content innovating an advanced search box solution, Search\/CLI, for IBM Cloud \/\nThe UX solution helps users to find and organize their data and includes a dashboard-styled landing page enabling a\nquick path to a desired task, a user-defined widget opening a saved configuration page and data visualization module\n\n\nAs a UX PRODUCT DESIGNER, RESEARCHER and INFORMATION ARCHITECT, I have a passion for:\n\u2022   Working with Product Owners to gather requirements, write use cases, flesh out new ideas and work flows including\nstrategizing IA approaches and UX designs to align with business goals and direction\n\u2022   Creating new complex animated workflows, data flows, user flows, sitemaps wireframes, for all digital touchpoints\nand prototyping designs using various software programs including prototyping tools, Invision, Sketch, Zeplin, Bal-\nsamic, Adobe Suite, OmniGraffle, HTML5, CSS3, Javascript (familiarity with Axure)\n\u2022   Conducting complex UX research including end-to-end service design research, user testing, interviews surveys and\nheuristic evaluations to understand customer needs, identify problem touchpoints and create user-centric designs\n\u2022   Tweaking Object-Oriented UX design process to assist in responsive design implementations\n\u2022   Designing with and contributing to UX components and visual designs for IBM's Carbon Design System patterns\n\u2022   Deliver designs to engineering team, steering development to match design specifications\n\u2022   Collaborating with a cross-disciplinary team to enrich the UX designs, back-end scalability and API interfaces\n\u2022   Following Agile methodology, participating in sprints and meeting defined critical milestones and deadlines\n\nEXPERIENCE\nVisual Time Studio Consulting (2018 to present) \u2022 Sr. UX Designer Mobile & Cloud Products\nDesigning data and user flows with wireframes for revenue tracking pipeline for Stronghold Resource Partners\n\u2022   Freelance contracting with Stronghold Resource Partners to build the IA and UX designs to enable an efficient and orga-\nnized tracking of the data rich workflows and user task completion for an in-house app in Salesforce;\n\u2022   Creating rapid prototyping, low fidelity wireframes to gather data and move toward automated solution\nGELPHMAN,\t- 2\nInventing a new customer service business model, PersonalConnect (patent pending) for the Mary Kay iShop Mobile app\n\u2022 Innovated the PersonalConnect feature for the Mary Kay mobile app; the app serves as a personal communication\ndevice and social network between a Mary Kay consultant and a group of clients\n\u2022 Designed the web app to economically utilize the existing Mary Kay corporate website's backend structure\nCreating imaginative IA and UX design for the Digital Data Habitat for Cloud developers\n\u2022 With a technical architect, designing a new product that enables developers to create distributed, digital spaces that\nare intrinsically buildable, searchable and deployable; a new Cloud distribution model called Core as a Service\n\u2022 Product includes a method for creating metadata on the fly that then correlates and distributes information (metadata)\nacross a cloud app or through an IOT device and beyond, potentially feeding a Machine Learning or AI system\n\nIBM Cloud (March 2015 to July 2018) \u2022 User-Experience Designer, Researcher & Architect\nDesigning delightful user experiences for a variety of cloud infrastructure storage offerings\n\u2022 Worked with global team at IBM Cloud to redesign the catalogue\/ordering\/shopping cart workflows and navigation\nfor products and services; created custom web pages including plug-ins, forms and custom shopping cart style design\n\u2022 Collaborated with Product Owners and Engineers to delivered mixed fidelity, InVision animated prototypes, user\nflows, IA diagrams and responsive designs for Cloud offerings\n\u2022 Presented designs and animated prototypes to leadership including VPs and Directors\n\u2022 Innovated new UX designs and solutions from research for Cloud-based Object Storage and Data Migration services\nincluding an advanced search box (Search\/CLI) and a status update feature with \"plug-&-play\" data connections to\nmove their data; combined all IBM Data Migration services into one cloud site\n\u2022 Developed UX and visual design components for IBM Carbon Design System and pattern library\n\u2022 Participated in Agile processes and sprints; implemented branding and produced style guidelines as needed\n\nConducting qualitative user testing and service design research on existing offerings and new designs\n\u2022 Conducted heuristic evaluations, interviews surveys and usability studies with customers to validate existing sites\nand new designs; wrote user stories for roadmap from results; conducted prototype testing and design revisions\n\u2022 Completed comprehensive, end-to-end service design research of live, Data Transfer Service; identified points of\nfailure, developed interactive, end-to-end flow diagram, mapped the customer's journey and created data visualiza-\ntions from survey results; developed research report and evaluation of findings and presented to leadership\n\nForming an informal innovation team to implement a novel way to utilize metadata in a cloud environment\n\u2022 Led an informal innovation team with technical architects to create a proof of concept for my novel way to correlate\nand troubleshoot with metadata; led to metadata curation product, IBM Metaocean; feeds AI or Machine Learning\n\u2022 Reviewed plans, drawings and concepts with direct report, IBM Softlayer CTO Marc Jones, who approved our work\n\nAT&T Contracts (2009 to 2014)\nAT&T Foundry (innovation lab) & Digital Deloitte -- User-Experience Designer and Architect\nConverting drop-downs and form fields into an interactive, visual buy-flow process for the iPad on Salesforce platform\n\u2022 In an iPad enterprise application deployed in the Salesforce environment, created wireframes and visual designs for\nATOM app, the Partner Exchange (PE) application with an Agile development process (InVision in portfolio)\n\u2022 Designed the Welcome Tour, dashboard, and data mapping utility; redesigned the existing PE buy-flow for ATOM\n\u2022 Created wireframes, visual design and style guidelines for Salesforce iPad application; includes a Quick Quotes link\nfrom the Dashboard, a 3-Clicks to Config screen innovation\n\u2022 Conceptualized and created low fidelity wireframes for conversion of the form-heavy buy-flow to an interactive and\nvisual, one-screen process; users build a plan\/map utilizing familiar icons and symbols much like an architect or\nengineer; with functionality similar to Google Maps, the user can zoom out to view the plan with hundreds of sites\n\nAT&T U-verse TV Training -- Lead User Experience & Visual Designer \/ Information Architect\nCreating state of the art user experience and visual design for the U-verse TV technical training template (iPad mLearning)\n\u2022 Created an intuitive user-interface design for tablets with responsive design for U-verse TV streaming media\n\u2022 Incorporated elements of the iPad GUI to enable end-users to navigate seamlessly through the app\nGELPHMAN,\t- 3\n\nDeveloping a simulated, virtual machine interface with photography to teach complex mechanized processes on an iPad\n\u2022 Created an interactive photographic interface for the SAI Crossbox for U-verse TV streaming media\n\u2022 Utilized photography, color, and animation as metaphors to simulate machine and network processes\n\u2022 Employed photographic animation interface as content for the learner, as interactive media to trigger engagement,\nand as navigation and instrument of interaction\n\nUser experience inventions, innovations and honors for AT&T training projects\n\u2022 Invented and developed the concept of \"crowdsourcing\" to update the performance support tool for U-verse Prem\nTechs; Technicians in the field use the video and photographic functions of the iPad to create scenarios and training\n\u2022 Selected by the executive director of training group to present visual and UI design of two projects at the quarterly\nDesigner Showcase; the Showcase is virtually attended by an AT&T VP and the entire Learning Services community\n\n\nTexas Instrument's Education Division -- Contract Visual Designer \/ Interaction Designer\nCreating visual designs and promotional materials for TI's education website\n\u2022 Created visual design for company webpages, banner ads, promos, targeted emails, and videos; executed TI brand\n\u2022 Worked with the marketing team, designed, illustrated and edited animated videos to introduce new features of TI\nNspired Navigator System and the Interactive Math Classroom (IMC); integrated voice-over narration into the video\n\n\nOther Work Experience\nGelphman Camera Company, Inc. -- Product Inventor, Prototype Developer, User Experience Designer\nProduct and Software Invention and Development for the Topocam camera \/ User Centered Design\n\u2022\tInvented and patented digital-imaging, robotic camera (Topocam) that makes motion and time visible\n\u2022\tDeveloped two prototypes as a new educational technology; managed a team to develop and program the software\n\u2022\tDistilled a complicated process, operating a robotic machine, into a simple and intuitive user interface\n\u2022\tUsed camera\/software experimentally in math\/science elementary, middle school, and high schools classrooms,\nincluding two National Science Foundation (NSF) projects and Department of Education SBIR grant\n\nTechnology and Cognition - children learn advanced math and science concepts with the Topocam MicroWorld\n\u2022\tDeveloped the camera's educational process as a \"micro-world\", a learning system where children use \"objects-to-\nthink-with\" to stimulate extraordinary thinking and as an incubator of knowledge (from personal communication\nwith Seymour Papert, Lego Chair for Learning Research, MIT Media Lab, author of Mindstorms)\nPATENTS FOR THE TOPOLOGICAL PANORAMA CAMERA (TOPOCAM)\n(U.S. Patent Number 4,943,821) Topological Panorama Camera\n(U.S. Patent Number 5,920,735) Method and Apparatus to Observe the Geometry of Relative Motion\n(U.S. Patent Number 6,536, 783) Method and Apparatus for Three Dimensional Modeling of an Object\n\n\nSKILLS & PROFICIENCIES\nApplications: Sketch, InVision, Zeplin, Balsamiq, Illustrator, Photoshop Professional, Dreamweaver, Flash,\nOmnigraffle, Visio, DrawIO. Acrobat X Pro, InDesign, Lectora, Key, limited Axure\nProject Tracking Tools: Jira, Confluence, Git Hub, Aha\nScripting: HTML5, CSS3, XML, ActionScript 3, limited AngularJS and Bootstrap\n\nEDUCATION\nUniversity of Texas at Austin: B.A. in Journalism, Department of Photo Journalism, School of Communications\nBrookhaven College: Visual Communications Department\nUniversity of North Texas: Department of Learning Technologies: Studied with Regents Professor Dr. Gerald Knezek;\napplied learning theories to formulate intuitive and data-driven understandings of how humans interface with machines and\ntranslating those complexities into simple user designs; co-authored paper for journal",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-02-14",
+        "SovrenSignature": [
+            "XWX8\/\/\/\/\/\/8="
+        ]
+    }
+}

@@ -1,0 +1,892 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "GeoCoordinates": {
+                "Latitude": 33.019840240478516,
+                "Longitude": -96.69888305664062
+            }
+        }
+    },
+    "ProfessionalSummary": "A dedicated, hard-working, creative,\nout-of-the box student looking to\napply my education and experience\nwith a strong motivation to succeed.",
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "Master of Arts in Journalism",
+                "Normalized": "masters"
+            },
+            "Type": "masters"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "University of North Texas\t2019- Present\nMaster of Arts in Journalism",
+                "SchoolName": {
+                    "Raw": "University of North Texas",
+                    "Normalized": "University of North Texas"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "Master of Arts in Journalism",
+                        "Normalized": "masters"
+                    },
+                    "Type": "masters"
+                },
+                "Majors": [
+                    "Journalism"
+                ],
+                "LastEducationDate": {
+                    "Date": "2020-10-06",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "Graduated": {
+                    "Value": false
+                }
+            },
+            {
+                "Id": "DEG-2",
+                "Text": "University of North Texas\t2017- 2020\nBachelor's Degree in Advertising\n\nMinor in Marketing",
+                "SchoolName": {
+                    "Raw": "University of North Texas",
+                    "Normalized": "University of North Texas"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "Bachelor's Degree in Advertising",
+                        "Normalized": "bachelors"
+                    },
+                    "Type": "bachelors"
+                },
+                "Majors": [
+                    "Advertising"
+                ],
+                "Minors": [
+                    "Marketing"
+                ],
+                "LastEducationDate": {
+                    "Date": "2020-10-06",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "Graduated": {
+                    "Value": false
+                }
+            },
+            {
+                "Id": "DEG-3",
+                "Text": "Collin College\t  2013 - 2016\nAssociates of Arts; Business Field of Study",
+                "SchoolName": {
+                    "Raw": "Collin College",
+                    "Normalized": "Collin College"
+                },
+                "SchoolType": "college",
+                "Degree": {
+                    "Name": {
+                        "Raw": "Associates of Arts",
+                        "Normalized": "associates"
+                    },
+                    "Type": "associates"
+                },
+                "Majors": [
+                    "Business"
+                ],
+                "LastEducationDate": {
+                    "Date": "2016-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "ELENA CORRES is experienced in:  Marketing (Marketing Communications); and User Experience. ELENA CORRES appears to be a low-to-mid level candidate, with 4 years of experience, with 2 years of management experience, including a mid-level position.",
+            "MonthsOfWorkExperience": 50,
+            "MonthsOfManagementExperience": 21,
+            "ExecutiveType": "GENERAL",
+            "AverageMonthsPerEmployer": 12,
+            "FulltimeDirectHirePredictiveIndex": 33,
+            "ManagementStory": "Current position is a low-level management role: Art Director Intern\nStarting on 1\/1\/2019, the candidate held the following low-level management position for 21 months:\n\tTitle: Art Director Intern for Swoop Agency, Student-Run Agency",
+            "CurrentManagementLevel": "low-level",
+            "ManagementScore": 30
+        },
+        "Positions": [
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "University of North Texas",
+                        "Normalized": "University of North Texas"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Communication Strategist Assistant",
+                    "Normalized": "Communication Strategist Assistant",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2018-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-10-06",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "User Experience",
+                "SubTaxonomyName": "Graphic Design",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "Assisted with photography, videography,\nstoryboarding, social media, website content and\n\ngraphic design for internal and external\ncommunications."
+            },
+            {
+                "Id": "POS-5",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "University of North Texas",
+                        "Normalized": "University of North Texas"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Customer Service Representative",
+                    "Normalized": "Customer Service Representative",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2017-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2018-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Administrative or Clerical",
+                "SubTaxonomyName": "Messages and Contact",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Received students and parents providing exceptional\n\ncustomer service and addressed their inquiries in a\n\nprofessional manner."
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "North Texas Television",
+                        "Normalized": "North Texas Television"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Graphic Designer",
+                    "Normalized": "Graphic Designer",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2018-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2018-11-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Developed artwork and layouts for social media."
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Student-Run Agency",
+                        "Normalized": "Student Run Agency"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Art Director Intern",
+                    "Normalized": "Art Director Intern",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2019-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-10-06",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "internship",
+                "TaxonomyName": "Sales",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Responsible for the visual execution of promotional\nbrand content such as flyers, lawnsigns, postcards,\nposters and more."
+            },
+            {
+                "Id": "POS-1",
+                "IsSelfEmployed": false,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Graphic Designer",
+                    "Normalized": "Graphic Designer",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2020-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-10-06",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "User Experience",
+                "SubTaxonomyName": "Graphic Design",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Develop and sketching ideas and designs based on clients requirements."
+            },
+            {
+                "Id": "POS-6",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "Cre8 World",
+                        "Normalized": "Cre8 World"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Marketing Intern",
+                    "Normalized": "Marketing Intern",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2016-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2016-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "internship",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Worked on a variety of assignments from t-shirt and sticker printing to creating designs."
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 49,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 28,
+                            "PercentOfParent": 56,
+                            "Skills": [
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 48
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-06"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "592",
+                            "SubTaxonomyName": "Marketing Communications",
+                            "PercentOfOverall": 22,
+                            "PercentOfParent": 44,
+                            "Skills": [
+                                {
+                                    "Id": "1400153",
+                                    "Name": "Advertising",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 45
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-06"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 22,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "569",
+                            "SubTaxonomyName": "Graphic Design",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "5570264",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 33
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-06"
+                                    }
+                                },
+                                {
+                                    "Id": "5570121",
+                                    "Name": "Sketching",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 9
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-06"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "566",
+                            "SubTaxonomyName": "Industrial Design",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "5570095",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 33
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-06"
+                                    }
+                                },
+                                {
+                                    "Id": "5570087",
+                                    "Name": "Sketching",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 9
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-06"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 24,
+                            "Skills": [
+                                {
+                                    "Id": "5570072",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 33
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-06"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "565",
+                            "SubTaxonomyName": "Visual Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 9,
+                            "Skills": [
+                                {
+                                    "Id": "5570074",
+                                    "Name": "Sketching",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 9
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-06"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "46",
+                    "Name": "Call Center or Help Desk or Customer Service",
+                    "PercentOfOverall": 15,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "130",
+                            "SubTaxonomyName": "Customer Facing",
+                            "PercentOfOverall": 15,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "014744",
+                                    "Name": "Customer Service",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 24
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "014753",
+                                    "Name": "Customer Service Representative",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 24
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 10,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 10,
+                            "PercentOfParent": 100
+                        }
+                    ]
+                },
+                {
+                    "Id": "1",
+                    "Name": "Administrative or Clerical",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "112",
+                            "SubTaxonomyName": "Messages and Contact",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "023735",
+                                    "Name": "Customer Service Oriented",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "013326",
+                                            "Name": "Customer Service",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-5"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 24
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2018-12-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 24
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "78",
+                    "Name": "Retail",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "511",
+                            "SubTaxonomyName": "Positions",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022943",
+                                    "Name": "Retail Sales",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "006920",
+                                            "Name": "Customer Service",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-5"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 24
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2018-12-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 24
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "528",
+                            "SubTaxonomyName": "Attitude",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 55,
+                            "Skills": [
+                                {
+                                    "Id": "026529",
+                                    "Name": "Team Player",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "529",
+                            "SubTaxonomyName": "Languages",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 45,
+                            "Skills": [
+                                {
+                                    "Id": "025179",
+                                    "Name": "BI-Lingual",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "0251792",
+                                            "Name": "Bilingual",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "024467",
+                                    "Name": "Microsoft Office",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "Spanish",
+            "LanguageCode": "es",
+            "FoundInContext": "Bilingual (Spanish and English)"
+        },
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "Bilingual (Spanish and English)"
+        }
+    ],
+    "Achievements": [
+        "Dean's List - Collin College",
+        "International Dean's List",
+        "Outstanding Team Player Award",
+        "Nominated for \"Best Student Assistant of the Year\"",
+        "President's List - University of North Texas",
+        "Kappa Tau Alpha"
+    ],
+    "QualificationsSummary": "SKILLS\tAND\tABILITIES\n\nBilingual (Spanish and English)\nMicrosoft Office\nGoogle AdWords\nAdobe Creative\nVideo and Photography",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 9,
+                "LastLineNumber": 16,
+                "SectionType": "SUMMARY",
+                "HeaderTextFound": "PERSONAL\tPROFILE"
+            },
+            {
+                "FirstLineNumber": 17,
+                "LastLineNumber": 28,
+                "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+                "HeaderTextFound": "AWARDS"
+            },
+            {
+                "FirstLineNumber": 29,
+                "LastLineNumber": 37,
+                "SectionType": "SKILLS",
+                "HeaderTextFound": "SKILLS"
+            },
+            {
+                "FirstLineNumber": 38,
+                "LastLineNumber": 43,
+                "SectionType": "CONTACT INFO",
+                "HeaderTextFound": "CONTACT"
+            },
+            {
+                "FirstLineNumber": 44,
+                "LastLineNumber": 84,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "CAREER"
+            },
+            {
+                "FirstLineNumber": 85,
+                "LastLineNumber": 96,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "EDUCATION"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Fatal Problems Found",
+                "Findings": [
+                    {
+                        "QualityCode": "433",
+                        "Message": "We detected that this document contained at least some data that was laid out as columns or tables. We rearranged that data to make it more usable. NEVER use columns or tables in a resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    },
+                    {
+                        "QualityCode": "311",
+                        "Message": "The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    },
+                    {
+                        "QualityCode": "222",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-1"
+                            }
+                        ],
+                        "Message": "Every position in a resume should have an employer name."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "112",
+                        "Message": "The following section was identified as a skills section type: 'SKILLS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+                    }
+                ]
+            }
+        ],
+        "PlainText": "ELENA\n   ~~\n\n\n~~~~  \n\nCREATIVE\n\n\nPERSONAL\tPROFILE\n\nA dedicated, hard-working, creative,\nout-of-the box student looking to\napply my education and experience\nwith a strong motivation to succeed.\n\n\nAWARDS &\nACHIEVEMENTS\nPresident's List - University of North Texas\nDean's List - Collin College\nInternational Dean's List\nKappa Tau Alpha\n\nOutstanding Team Player Award\n\nNominated for \"Best Student Assistant of the Year\"\n\n\nSKILLS\tAND\tABILITIES\n\nBilingual (Spanish and English)\nMicrosoft Office\nGoogle AdWords\nAdobe Creative\nVideo and Photography\n\n\nCONTACT\t  INFORMATION\n\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \n\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~  \n   ~~~~~~~~~~~~~~~~~  \nCAREER\tHISTORY\nGraphic Designer\nAd 2 Dallas\t2020 - Present\n\nDevelop and sketching ideas and designs based\non clients requirements.\n\nArt Director Intern\nSwoop Agency (Student-Run Agency)\t2019 - 2020\nResponsible for the visual execution of promotional\nbrand content such as flyers, lawnsigns, postcards,\nposters and more.\n\nCommunication Strategist Assistant\nUniversity of North Texas   2018 - 2020\nAssisted with photography, videography,\nstoryboarding, social media, website content and\n\ngraphic design for internal and external\ncommunications.\n\nGraphic Designer\nNorth Texas Television\tFall 2018\nDeveloped artwork and layouts for social media.\n\nCustomer Service Representative\nUniversity of North Texas   2017-2018\nReceived students and parents providing exceptional\n\ncustomer service and addressed their inquiries in a\n\nprofessional manner.\n\n\nMarketing Intern\nCre8 World\t\t Summer 2016\n\nWorked on a variety of assignments from t-shirt and\nsticker printing to creating designs.\n\n\nEDUCATION\n\nUniversity of North Texas\t2019- Present\nMaster of Arts in Journalism\n\nUniversity of North Texas\t2017- 2020\nBachelor's Degree in Advertising\n\nMinor in Marketing\n\nCollin College\t  2013 - 2016\n   ~~~~~~~  \t\t Associates of Arts; Business Field of Study",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-10-06",
+        "SovrenSignature": [
+            "Iaz\/\/\/\/\/\/\/8="
+        ]
+    }
+}

@@ -1,0 +1,635 @@
+{
+    "CurrentJobIsManagement": false,
+    "HighestManagementScore": {
+        "Value": 0
+    },
+    "ManagementLevel": "None",
+    "ExecutiveType": "NONE",
+    "MinimumYears": {
+        "Value": 2
+    },
+    "RequiredDegree": "bachelors",
+    "JobTitles": {
+        "MainJobTitle": "Audience Specialist",
+        "JobTitle": [
+            "Audience Specialist (Remote)"
+        ]
+    },
+    "Degrees": [
+        {
+            "Name": "Bachelor's degree",
+            "Type": "bachelors"
+        }
+    ],
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 40,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "553",
+                            "SubTaxonomyName": "Big Data",
+                            "PercentOfOverall": 18,
+                            "PercentOfParent": 45,
+                            "Skills": [
+                                {
+                                    "Id": "5530944",
+                                    "Name": "Data Collection",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "5530948",
+                                    "Name": "Data Governance",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "5530949",
+                                    "Name": "Data Integration",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "5530951",
+                                    "Name": "Data Management",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "5530959",
+                                    "Name": "Datasets",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "199",
+                            "SubTaxonomyName": "Project Management",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 18,
+                            "Skills": [
+                                {
+                                    "Id": "009222",
+                                    "Name": "Team Lead",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "026266",
+                                    "Name": "Project Plans",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "550",
+                            "SubTaxonomyName": "Cloud Computing",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 9,
+                            "Skills": [
+                                {
+                                    "Id": "3391154",
+                                    "Name": "Amazon Web Services",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555121760",
+                                            "Name": "AWS",
+                                            "ExistsInText": false,
+                                            "Required": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "554",
+                            "SubTaxonomyName": "Business Intelligence",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 9,
+                            "Skills": [
+                                {
+                                    "Id": "5540985",
+                                    "Name": "Tableau Software",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "55409852",
+                                            "Name": "Tableau",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "196",
+                            "SubTaxonomyName": "Internet",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 9,
+                            "Skills": [
+                                {
+                                    "Id": "015603",
+                                    "Name": "Doubleclick",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "204",
+                            "SubTaxonomyName": "Programming",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 9,
+                            "Skills": [
+                                {
+                                    "Id": "006823",
+                                    "Name": "Reporting Tools",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "193",
+                            "SubTaxonomyName": "Database",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "014961",
+                                    "Name": "Data Analysis",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 16,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "586",
+                            "SubTaxonomyName": "Technical Product Marketing",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 45,
+                            "Skills": [
+                                {
+                                    "Id": "1400032",
+                                    "Name": "Subject Matter Expert",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "1400034",
+                                    "Name": "Thought Leadership",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 22,
+                            "Skills": [
+                                {
+                                    "Id": "555154300",
+                                    "Name": "Google Analytics",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "223",
+                            "SubTaxonomyName": "Market Research",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 22,
+                            "Skills": [
+                                {
+                                    "Id": "1400046",
+                                    "Name": "Audience Insights",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "588",
+                            "SubTaxonomyName": "Data & Analytics",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "1400068",
+                                    "Name": "Marketing Analysis",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400327",
+                                            "Name": "Data Analysis",
+                                            "ExistsInText": false,
+                                            "Required": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "1400080",
+                                    "Name": "Business Intelligence",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 13,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 70,
+                            "Skills": [
+                                {
+                                    "Id": "005482",
+                                    "Name": "Problem Solving",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "014960",
+                                    "Name": "Data Analysis",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "021737",
+                                    "Name": "Metrics",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "022274",
+                                    "Name": "Contracts",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "436",
+                            "SubTaxonomyName": "Management Activities or Functions",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 30,
+                            "Skills": [
+                                {
+                                    "Id": "003875",
+                                    "Name": "Operations",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "012210",
+                                    "Name": "Business Intelligence",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "91",
+                    "Name": "Translations and Language Work",
+                    "PercentOfOverall": 7,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "902",
+                            "SubTaxonomyName": "Semantics",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "200013",
+                                    "Name": "Taxonomy",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "901",
+                            "SubTaxonomyName": "Translation",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "200002",
+                                    "Name": "Translate",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "7",
+                    "Name": "Finance",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "235",
+                            "SubTaxonomyName": "Financial Planning & Analysis",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 75,
+                            "Skills": [
+                                {
+                                    "Id": "013778",
+                                    "Name": "Collection",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "237",
+                            "SubTaxonomyName": "Operations",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "7000125",
+                                    "Name": "Business Intelligence",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "12",
+                    "Name": "Legal",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "727",
+                            "SubTaxonomyName": "Corporate",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 80,
+                            "Skills": [
+                                {
+                                    "Id": "7270003",
+                                    "Name": "Governance",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "396",
+                            "SubTaxonomyName": "Contracts",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 20,
+                            "Skills": [
+                                {
+                                    "Id": "014309",
+                                    "Name": "Contracts",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 4,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "572",
+                            "SubTaxonomyName": "Interactive Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "5570157",
+                                    "Name": "Visualization",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "569",
+                            "SubTaxonomyName": "Graphic Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "5570120",
+                                    "Name": "Visualization",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "565",
+                            "SubTaxonomyName": "Visual Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "5570073",
+                                    "Name": "Visualization",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "5570059",
+                                    "Name": "Visualization",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 4,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "528",
+                            "SubTaxonomyName": "Attitude",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "007739",
+                                    "Name": "Self Motivated",
+                                    "ExistsInText": false,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "010514",
+                                    "Name": "Very Organized",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "0105142",
+                                            "Name": "Highly Organized",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 4,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "143",
+                            "SubTaxonomyName": "Process",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "006270",
+                                    "Name": "Quality Control",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "72",
+                    "Name": "Installation, Maintenance, Repair",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "452",
+                            "SubTaxonomyName": "General Repair",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022117",
+                                    "Name": "Maintenance",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "13",
+                    "Name": "Manufacturing",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "364",
+                            "SubTaxonomyName": "Equipment",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022116",
+                                    "Name": "Maintenance",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "022841",
+                                    "Name": "Excel",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "023613",
+                                    "Name": "Microsoft Powerpoint",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "021977",
+                                            "Name": "Powerpoint",
+                                            "ExistsInText": false,
+                                            "Required": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "JobMetadata": {
+        "PlainText": " JobTitle: (Canada) Audience Specialist Description:\r\nAudience Specialist (Remote)\r\n\r\n\r\nDescription\r\n\r\nThe Audience Specialist will be a key member of the Data and Analytics teams and reports to the Head of Data Operations for Reuters. This candidate will manage all aspects of Reuters audience insight and audience growth initiatives across platforms, globally.\r\n\r\n\r\nResponsibilities include understanding and analyzing user behavior\/trends, audience composition and engagement to gain a 360-degree understanding of the Reuters customer, across all touchpoints. This role will leverage available datasets, technology and partnerships to support business KPIs. The candidate will work across product, editorial, and sales teams to distribute deterministic audience insights & recommendations all interested parties.\r\n\r\n\r\nOur ideal candidate is someone with an intense curiosity and passion for problem solving, the ability to envision solutions, a positive can-do-attitude, along with strong communications and interpersonal skills.\r\n\r\n\r\nResponsibilities:\r\n\r\n\u2022 Ownership and responsibility for managing one or more work streams across multiple business units\r\n\r\n\u2022 Hands-on-keys DMP operational administration\r\n\r\n\u2022 Lead DMP taxonomy initiatives building and maintenance to ensure maximum data collection\r\n\r\n\u2022 Develop and maintain project plans\r\n\r\n\u2022 Oversee and maintain audience platforms and manage relationships with vendor counterparts\r\n\r\n\u2022 Facilitate onboarding of online and offline client data into DMP\r\n\r\n\u2022 Serve as digital audience eco-system technical integration subject matter expert\r\n\r\n\u2022 Manage relationships & contracts with third party data vendors\r\n\r\n\u2022 Proactively research and troubleshoot with internal and external partners\/vendors\r\n\r\n\u2022 Work with extended team to solve for gaps in technology stack, and proactively propose solutions and workarounds\r\n\r\n\u2022 Maintain detailed and up to date status of work streams for team lead and other stakeholders\r\n\r\n\u2022 Analyze and identify insights, summarizing and preparing for internal and external presentations\r\n\r\n\u2022 Implement and maintain quality control measures both internally and with vendor partners\r\n\r\n\u2022 Question the status quo ? ensure audience operations grow with the expanding larger business\r\n\r\n\r\nRequired Skills:\r\n\r\n\u2022 Bachelor's degree required\r\n\r\n\u2022 Minimum 2 years? experience working with audience analytics or data management platform(s) for a major web publisher or agency\r\n\r\n\u2022 Excellent understanding of media fundamentals and industry knowledge, including media metrics, GDPR compliance and quantitative business measures\r\n\r\n\u2022 Strong analytical skills with the ability to apply audience insights and data analysis into actionable business strategy recommendations\r\n\r\n\u2022 Hands on experience with DMPs such as BlueKai, Salesforce DMP, Lotame. Experience with Adobe Audience Manager a plus\r\n\r\n\u2022 Experience with data onboarding of offline and online data\r\n\r\n\u2022 Strong understanding of traditional data providers, types of audience data and collection methodologies\r\n\r\n\u2022 Ability to properly interpret audience insights and trends to translate into report iterations & trend graphs\r\n\r\n\u2022 Capable of managing multiple projects within a deadline-driven environment\r\n\r\n\u2022 Knack to for building relationships with cross-functional teams by influencing with sound logic\r\n\r\n\u2022 Excellent communication and collaboration skills\r\n\r\n\u2022 Proactive and highly organized\r\n\r\n\u2022 Excellent PowerPoint & Excel skills\r\n\r\n\r\nDesired Skills:\r\n\r\n\u2022 Experience in the streaming media industry or other subscription-based service\r\n\r\n\u2022 Proficient in Site Analytics Platforms such as Google Analytics, Amplitude or Adobe Analytics\r\n\r\n\u2022 Understanding of Data Governance policies globally\r\n\r\n\u2022 Experience working for a media publisher or agency a plus\r\n\r\n\u2022 Basic knowledge of AWS or Google Big Query\r\n\r\n\u2022 Experience with data integration and data transfer processes\r\n\r\n\u2022 Some familiarity with business intelligence platforms\/ visualization tools (e.g., Tableau, Chartio, etc.)\r\n\r\n\u2022 Basic understanding of ad serving, tracking and reporting tools including DoubleClick, DART, Google Ad Manager (GAM)\r\n\r\n\u2022 Thought leadership and creativity in solving challenging, and potentially ambiguous, business problems....\r\n Skills: Taxonomy, Data Management",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = Invariant Language (Invariant Country); Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-11-11",
+        "SovrenSignature": [
+            "3PX\/\/\/\/\/\/\/8="
+        ]
+    }
+}

@@ -1,0 +1,1846 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "CountryCode": "CA",
+            "PostalCode": "M5R 2P7",
+            "Regions": [
+                "ON"
+            ],
+            "Municipality": "Toronto",
+            "GeoCoordinates": {
+                "Latitude": 43.67401123046875,
+                "Longitude": -79.40318298339844
+            }
+        }
+    },
+    "ProfessionalSummary": "Digital advertising specialist with over six-years-experience in the development, launching and reportng of\ndigital ad campaigns, with product implementation, digital analysis skills and great problem-solving abilities.\nWith professional experience spanning agency, publisher and vendor sides of the advertising industry, I am\nlooking for new opportunities to work with like-minded individuals to solve real business problems for clients.",
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "Post-Graduate Certificate",
+                "Normalized": "vocational"
+            },
+            "Type": "somePostgraduate"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "Post-Graduate Certificate, Strategic Relationship Marketing | George Brown College, Toronto, ON | 2014",
+                "SchoolName": {
+                    "Raw": "George Brown College",
+                    "Normalized": "George Brown College"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "Post-Graduate Certificate",
+                        "Normalized": "vocational"
+                    },
+                    "Type": "somePostgraduate"
+                },
+                "Majors": [
+                    "Strategic Relationship Marketing"
+                ],
+                "LastEducationDate": {
+                    "Date": "2014-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Id": "DEG-2",
+                "Text": "Bachelor of Business Administration,  Marketing | Memorial University, St. John's, NL | 2013\n\nAccomplishments and Certifications",
+                "SchoolName": {
+                    "Raw": "Memorial University",
+                    "Normalized": "Memorial University"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "Bachelor of Business Administration",
+                        "Normalized": "bachelors"
+                    },
+                    "Type": "bachelors"
+                },
+                "Majors": [
+                    "Business Administration, Marketing"
+                ],
+                "LastEducationDate": {
+                    "Date": "2013-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~   is experienced in the management of:  Sales; and Business Operations and General Business (Management Activities or Functions).    ~~~~~~   has 5 years of work experience, with 2 years of management experience, including a high-level position.",
+            "MonthsOfWorkExperience": 65,
+            "MonthsOfManagementExperience": 23,
+            "ExecutiveType": "EXECUTIVE",
+            "AverageMonthsPerEmployer": 13,
+            "FulltimeDirectHirePredictiveIndex": 50,
+            "ManagementStory": "Starting on 8\/1\/2018, the candidate held the following low-level management position for 10 months:\n\tTitle: Account Manager \/ Ad Ops Specialist for CBC\nStarting on 7\/1\/2017, the candidate held the following executive-level management position for 13 months:\n\tTitle: Ad Operations Executive for MiQ",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 100,
+            "AttentionNeeded": "ATTENTION: The candidate appears to have been in management in a past role (Account Manager \/ Ad Ops Specialist for CBC), but was not in management in the most recent role as Ad Operations Specialist for Leafly."
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Leafly",
+                        "Normalized": "Leafly"
+                    },
+                    "Location": {
+                        "CountryCode": "CA",
+                        "Regions": [
+                            "ON"
+                        ],
+                        "Municipality": "Toronto"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Ad Operations Specialist",
+                    "Normalized": "Ad Operations Specialist",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2019-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-02-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Marketing Communications",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Managed all ad operations activities for Leafly Canada and assist with the overall development of Ad\nOperations processes for North America, including but not limited to sales support, inventory\nmanagement, campaign management, campaign reporting and data analysis\n\u25cf Collaborated with cross-functional teams, i.e. Engineering, Sales, Program Managers and Editorial, to ensure the successful launch of all brand partnership executions, and collaborating with Program\nManagers and finance to ensure ad revenue is maximized month over month\n\u25cf Executed the launch and development of new ad products, including launching a programmatic audience\nextension for our clients through partners at StackAdapt to increase traffic to    ~~~~   and client websites\n\u25cf Trained new members of the North American Ad Ops team on ad-server workflow, forecasting inventory\nfor direct sold campaigns, how to inspect web pages for targeting capabilities, nuances of cannabis\nadvertising laws in Canada and the general landscape of advertising opportunities available at Leafly\n\u25cf Provided monthly and weekly campaign reporting for all Canadian clients, including the development of insights for client check-ins and campaign wrap reports"
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "CBC",
+                        "Normalized": "CBC"
+                    },
+                    "Location": {
+                        "CountryCode": "CA",
+                        "Regions": [
+                            "ON"
+                        ],
+                        "Municipality": "Toronto"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Account Manager \/ Ad Ops Specialist",
+                    "Normalized": "Account Manager Ad Ops Specialist",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Account Manager",
+                        "Ad Ops Specialist"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2018-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2019-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Sales",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "\u25cf Maintained and strengthened ongoing relationships with agency, client direct and non-profit clients\n\u25cf Successful booking, delivery, optimization, campaign reporting and monthly revenue reconciliation of all\ndigital ad campaigns, managing yearly budgets of over $2MM and an average of 40 campaigns per month\n\u25cf Worked with the Sales and Marketing departments to ensure brand-integration sponsorships and\nactivations on CBC and Radio Canada were set up for success from the booking stage straight through to reporting; Collaborate with Sales and Data Solutions teams to find relevant solutions to KPI requests\n\u25cf QA the English services team's campaign set up for large scale Share of Voice campaigns, ie. Homepage\nTakeovers, CBC Olympic Sport sponsorships, etc, ensuring proper targeting attributes were included\n\u25cf Assisted with the training of new team members and other internal departments as needed to ensure all\nemployees follow the same standard of execution across digital campaigns\n\n\n1"
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "MiQ",
+                        "Normalized": "MiQ"
+                    },
+                    "Location": {
+                        "CountryCode": "CA",
+                        "Regions": [
+                            "ON"
+                        ],
+                        "Municipality": "Toronto"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Ad Operations Executive",
+                    "Normalized": "Ad Operations Executive",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2017-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2018-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Mobile Applications",
+                "JobLevel": "Senior Executive (President, C-level)",
+                "TaxonomyPercentage": 0,
+                "Description": "QA, test, traffic and troubleshoot HTML5, Javascript, VAST, VPAID, Mobile and Rich Media ads across\nvarious ad servers and DSP's for programmatic campaigns\n\u25cf Completed 40% of all tasks that were submitted to the four person North American Ad Ops team in Q1\nand Q2 of 2018, including trafficking hosted and third-party display and video creative, screenshots on\nmultiple devices, and tracking pixel application for various 3rd party providers such as DoubleVerify, IAS,\nand MOAT\n\u25cf Successfully trafficked a $2M campaign for a client based out of NYC, including manually applying tracking\npixels to over 200 pieces of creatives\n\u25cf Assisted with the development of creative copy for the CiQ website (MiQ's creative portfolio) and provided native ad copy headlines and creative mockups as needed for Canadian clients"
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Oath, now Verizon Media",
+                        "Normalized": "Oath now Verizon Media"
+                    },
+                    "Location": {
+                        "CountryCode": "CA",
+                        "Regions": [
+                            "ON"
+                        ],
+                        "Municipality": "Toronto"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Ad Operations Specialist",
+                    "Normalized": "Ad Operations Specialist",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2016-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2017-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Gaming",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Managed AOL's Owned and Operated properties digital ad inventory: AOL, Huffington Post, TechCrunch,\nEngadget, MSN, Outlook, Skype, Windows Ads-in-Apps, and Xbox, including training account managers on\nnew booking and reservation technology and changes to ad products\n\u25cf Forecasted inventory availability and collaborated with yield management to determine product pricing\nand identify revenue opportunities and first-to-market opportunities for clients\n\u25cf Worked with sales executives and account managers to ensure media plans were accurate, identified\ninventory challenges and proactively alerted key stakeholders of potential delivery issues\n\u25cf Creative manager for in-house builds, providing creative recommendations to internal and external\nstakeholders, investigating and escalating technical and user experience issues to developers, ensuring\ncreatives met client approval and were launched successfully"
+            },
+            {
+                "Id": "POS-5",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "GroupM",
+                        "Normalized": "GroupM"
+                    },
+                    "Location": {
+                        "CountryCode": "CA",
+                        "Regions": [
+                            "ON"
+                        ],
+                        "Municipality": "Toronto"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Ad Operations Specialist",
+                    "Normalized": "Ad Operations Specialist",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2014-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2016-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Business Operations and General Business",
+                "SubTaxonomyName": "General Skills and Activities",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "\u25cf Promoted from Digital Traffic Coordinator to Ad Operations Specialist in July 2015\n\u25cf Managed the day-to-day trafficking for several large automotive, CPG and financial accounts acting as the primary trafficker for Ford Canada and Lincoln Canada; Worked closely with sales planners, creative\nagencies and publishers to provide ongoing support for third-party tag and pixel implementation\n\u25cf Trained junior members on digital trafficking best practices and nuances across ad servers\n\u25cf Generated and distributed third-party assets to vendors and publishers and to provide ongoing account\nmaintenance during the campaign lifecycle\n\u25cf Worked closely with post-production teams to QA assets, ensure functionality across browsers and mobile\ndevices, and that creatives adhered to IAB specifications and troubleshoot technical issues as needed"
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 29,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 26,
+                            "PercentOfParent": 92,
+                            "Skills": [
+                                {
+                                    "Id": "030827",
+                                    "Name": "Sales Support",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 8
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "104",
+                            "SubTaxonomyName": "Account Management",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 8,
+                            "Skills": [
+                                {
+                                    "Id": "030183",
+                                    "Name": "Account Manager",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 26,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "436",
+                            "SubTaxonomyName": "Management Activities or Functions",
+                            "PercentOfOverall": 23,
+                            "PercentOfParent": 90,
+                            "Skills": [
+                                {
+                                    "Id": "017857",
+                                    "Name": "Forecasting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 8
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-01"
+                                    }
+                                },
+                                {
+                                    "Id": "003875",
+                                    "Name": "Operations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 55
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "011365",
+                                    "Name": "Best Practices",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 22
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-07-01"
+                                    }
+                                },
+                                {
+                                    "Id": "014960",
+                                    "Name": "Data Analysis",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 8
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-01"
+                                    }
+                                },
+                                {
+                                    "Id": "006624",
+                                    "Name": "Reconciliation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 20,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 36,
+                            "Skills": [
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "TRAINING"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "592",
+                            "SubTaxonomyName": "Marketing Communications",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 21,
+                            "Skills": [
+                                {
+                                    "Id": "1400153",
+                                    "Name": "Advertising",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 8
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1400143",
+                                    "Name": "Campaign Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 8
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "594",
+                            "SubTaxonomyName": "Media",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "1400180",
+                                    "Name": "Share of Voice",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 8,
+                            "Skills": [
+                                {
+                                    "Id": "555154300",
+                                    "Name": "Google Analytics",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "1400241",
+                                    "Name": "User Experience",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "227",
+                            "SubTaxonomyName": "Brand Management",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "012543",
+                                    "Name": "Campaign Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 8
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-01"
+                                    }
+                                },
+                                {
+                                    "Id": "005626",
+                                    "Name": "Product Implementation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "585",
+                            "SubTaxonomyName": "Product",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "1400305",
+                                    "Name": "Product Pricing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "588",
+                            "SubTaxonomyName": "Data & Analytics",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "1400068",
+                                    "Name": "Marketing Analysis",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400327",
+                                            "Name": "Data Analysis",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 8
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-02-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 8
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "595",
+                            "SubTaxonomyName": "Advertising",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "1400380",
+                                    "Name": "Digital Campaign",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400382",
+                                            "Name": "Digital Advertising",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SUMMARY"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "1400210",
+                                    "Name": "Relationship Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "2014-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "222",
+                            "SubTaxonomyName": "Direct",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "003814",
+                                    "Name": "Online Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        },
+                                        {
+                                            "SectionType": "TRAINING"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "590",
+                            "SubTaxonomyName": "Channel, Partner & Ecosystem Marketing",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "1400103",
+                                    "Name": "Ecosystem",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "591",
+                            "SubTaxonomyName": "Audience",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "1400120",
+                                    "Name": "Relationship Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "2014-01-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 10,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "552",
+                            "SubTaxonomyName": "Mobile Applications",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 31,
+                            "Skills": [
+                                {
+                                    "Id": "5520541",
+                                    "Name": "HTML5",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "204",
+                            "SubTaxonomyName": "Programming",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 31,
+                            "Skills": [
+                                {
+                                    "Id": "025394",
+                                    "Name": "Javascript",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "193",
+                            "SubTaxonomyName": "Database",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 17,
+                            "Skills": [
+                                {
+                                    "Id": "013650",
+                                    "Name": "ADS",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                },
+                                {
+                                    "Id": "014961",
+                                    "Name": "Data Analysis",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 8
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "551",
+                            "SubTaxonomyName": "Gaming",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "5510095",
+                                    "Name": "Microsoft Xbox",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "551009501",
+                                            "Name": "XBOX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 12
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2017-07-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "196",
+                            "SubTaxonomyName": "Internet",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "014705",
+                                    "Name": "CSS",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "015603",
+                                    "Name": "Doubleclick",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "200",
+                            "SubTaxonomyName": "QA and QC",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "2000006",
+                                    "Name": "JIRA",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "7",
+                    "Name": "Finance",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "243",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "023147",
+                                    "Name": "Finance",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 8
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "237",
+                            "SubTaxonomyName": "Operations",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "011511",
+                                    "Name": "Yield Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "705",
+                            "SubTaxonomyName": "Accounting",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "7000318",
+                                    "Name": "Forecasting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 8
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "245",
+                            "SubTaxonomyName": "Compliance",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "023164",
+                                    "Name": "Forecasting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 8
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "246",
+                            "SubTaxonomyName": "Treasury",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "026948",
+                                    "Name": "Budgets",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "235",
+                            "SubTaxonomyName": "Financial Planning & Analysis",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "022800",
+                                    "Name": "Reconciliation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "71",
+                    "Name": "Strategy and Planning",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "876",
+                            "SubTaxonomyName": "Workflow and Processes",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 96,
+                            "Skills": [
+                                {
+                                    "Id": "024213",
+                                    "Name": "Workflow",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 8
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "502",
+                            "SubTaxonomyName": "Planning and Estimating",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "017858",
+                                    "Name": "Forecasting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 8
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "80",
+                    "Name": "General Management",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "516",
+                            "SubTaxonomyName": "Budget Related",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "026949",
+                                    "Name": "Budgets",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                },
+                                {
+                                    "Id": "005394",
+                                    "Name": "Pricing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "32",
+                    "Name": "Degreed Accounting",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "257",
+                            "SubTaxonomyName": "Reconciliations",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 40,
+                            "Skills": [
+                                {
+                                    "Id": "081000",
+                                    "Name": "Reconciliation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "960",
+                            "SubTaxonomyName": "Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 40,
+                            "Skills": [
+                                {
+                                    "Id": "080997",
+                                    "Name": "Reconciliation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "962",
+                            "SubTaxonomyName": "Reporting",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "026947",
+                                    "Name": "Budgets",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "256",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 8,
+                            "Skills": [
+                                {
+                                    "Id": "023163",
+                                    "Name": "Forecasting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 8
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "97",
+                    "Name": "Supply Chain and Logistics",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "459",
+                            "SubTaxonomyName": "Inventory",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "020086",
+                                    "Name": "Inventory",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 20
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "69",
+                    "Name": "QA and QC",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "941",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "006125",
+                                    "Name": "QA",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 45
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "72",
+                    "Name": "Installation, Maintenance, Repair",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "452",
+                            "SubTaxonomyName": "General Repair",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022117",
+                                    "Name": "Maintenance",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 22
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "89",
+                    "Name": "Bookkeeping, Office Management",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "533",
+                            "SubTaxonomyName": "Bookeeping Tasks",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "026950",
+                                    "Name": "Budgets",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                },
+                                {
+                                    "Id": "022801",
+                                    "Name": "Reconciliation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-06-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "13",
+                    "Name": "Manufacturing",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "364",
+                            "SubTaxonomyName": "Equipment",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022116",
+                                    "Name": "Maintenance",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 22
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "528",
+                            "SubTaxonomyName": "Attitude",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "005483",
+                                    "Name": "Problem-Solving",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "16",
+                    "Name": "Telecommunications",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "318",
+                            "SubTaxonomyName": "Network",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "010491",
+                                    "Name": "Verizon",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "1",
+                    "Name": "Administrative or Clerical",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "115",
+                            "SubTaxonomyName": "Computer Related",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "003730",
+                                    "Name": "Office Skills",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "024467",
+                                    "Name": "Microsoft Office",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Certifications": [
+        {
+            "Name": "DoubleClick Campaign Manager Certification",
+            "MatchedFromList": false,
+            "IsVariation": false
+        },
+        {
+            "Name": "Google Bid Manager Certification",
+            "MatchedFromList": false,
+            "IsVariation": false
+        },
+        {
+            "Name": "Google Ad Manager Certification",
+            "MatchedFromList": false,
+            "IsVariation": false
+        },
+        {
+            "Name": "Google Ads Search Certification",
+            "MatchedFromList": false,
+            "IsVariation": false
+        },
+        {
+            "Name": "Google Analytics Certification",
+            "MatchedFromList": false,
+            "IsVariation": false
+        },
+        {
+            "Name": "Post-Graduate Certificate, Strategic Relationship Marketing",
+            "MatchedFromList": false,
+            "IsVariation": false
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "\u25cf QA the English services team's campaign set"
+        }
+    ],
+    "Achievements": [
+        "Google Online Marketing Challenge, 2nd Place Award (Global) | 2012"
+    ],
+    "Training": {
+        "Text": "",
+        "Trainings": [
+            {
+                "Text": "Google Online Marketing Challenge, 2nd Place Award (Global) | 2012",
+                "Entity": "Google Online Marketing Challenge",
+                "EndDate": {
+                    "Date": "2012-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            }
+        ]
+    },
+    "QualificationsSummary": "Skill Highlights\n\n\u25cf Strong knowledge of the ad operations ecosystem and user behaviour across publisher platforms\n\u25cf Highly experienced with ad servers, DSP's and DMP's including: AppNexus, Google, Lotame, Sizmek,\nStackAdapt, and TripleLift, as well as web site analysis tools ie. Google Analytics\n\u25cf Excellent Google Suite and Microsoft Office skills with a strong aptitude to learn new technologies\n\u25cf Knowledgeable in HTML5, JavaScript, and CSS and experienced with debugging and web inspection tools\n\u25cf Experienced using project management and ticketing systems including Trello, Salesforce and JIRA",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 4,
+                "LastLineNumber": 10,
+                "SectionType": "SUMMARY",
+                "HeaderTextFound": "Summary"
+            },
+            {
+                "FirstLineNumber": 11,
+                "LastLineNumber": 19,
+                "SectionType": "SKILLS",
+                "HeaderTextFound": "Skill Highlights"
+            },
+            {
+                "FirstLineNumber": 20,
+                "LastLineNumber": 96,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "Professional Experience"
+            },
+            {
+                "FirstLineNumber": 97,
+                "LastLineNumber": 109,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "Education"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "112",
+                        "Message": "The following section was identified as a skills section type: 'Skill Highlights'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~  \n   ~~~~~~~~~~~~  , Toronto ON, M5R 2P7 |    ~~~~~~~  \n   ~~~~~~~~~~~~   | \/in\/   ~~~~~  \n\nSummary\n\nDigital advertising specialist with over six-years-experience in the development, launching and reportng of\ndigital ad campaigns, with product implementation, digital analysis skills and great problem-solving abilities.\nWith professional experience spanning agency, publisher and vendor sides of the advertising industry, I am\nlooking for new opportunities to work with like-minded individuals to solve real business problems for clients.\n\nSkill Highlights\n\n\u25cf Strong knowledge of the ad operations ecosystem and user behaviour across publisher platforms\n\u25cf Highly experienced with ad servers, DSP's and DMP's including: AppNexus, Google, Lotame, Sizmek,\nStackAdapt, and TripleLift, as well as web site analysis tools ie. Google Analytics\n\u25cf Excellent Google Suite and Microsoft Office skills with a strong aptitude to learn new technologies\n\u25cf Knowledgeable in HTML5, JavaScript, and CSS and experienced with debugging and web inspection tools\n\u25cf Experienced using project management and ticketing systems including Trello, Salesforce and JIRA\n\nProfessional Experience\n\nLeafly | Toronto, ON\t06\/2019 - 02\/2020\nAd Operations Specialist\n\n\u25cf Managed all ad operations activities for Leafly Canada and assist with the overall development of Ad\nOperations processes for North America, including but not limited to sales support, inventory\nmanagement, campaign management, campaign reporting and data analysis\n\u25cf Collaborated with cross-functional teams, i.e. Engineering, Sales, Program Managers and Editorial, to\nensure the successful launch of all brand partnership executions, and collaborating with Program\nManagers and finance to ensure ad revenue is maximized month over month\n\u25cf Executed the launch and development of new ad products, including launching a programmatic audience\nextension for our clients through partners at StackAdapt to increase traffic to    ~~~~   and client websites\n\u25cf Trained new members of the North American Ad Ops team on ad-server workflow, forecasting inventory\nfor direct sold campaigns, how to inspect web pages for targeting capabilities, nuances of cannabis\nadvertising laws in Canada and the general landscape of advertising opportunities available at Leafly\n\u25cf Provided monthly and weekly campaign reporting for all Canadian clients, including the development of\ninsights for client check-ins and campaign wrap reports\n\nCBC | Toronto, ON\t08\/2018 - 06\/2019\nAccount Manager \/ Ad Ops Specialist\n\n\u25cf Maintained and strengthened ongoing relationships with agency, client direct and non-profit clients\n\u25cf Successful booking, delivery, optimization, campaign reporting and monthly revenue reconciliation of all\ndigital ad campaigns, managing yearly budgets of over $2MM and an average of 40 campaigns per month\n\u25cf Worked with the Sales and Marketing departments to ensure brand-integration sponsorships and\nactivations on CBC and Radio Canada were set up for success from the booking stage straight through to\nreporting; Collaborate with Sales and Data Solutions teams to find relevant solutions to KPI requests\n\u25cf QA the English services team's campaign set up for large scale Share of Voice campaigns, ie. Homepage\nTakeovers, CBC Olympic Sport sponsorships, etc, ensuring proper targeting attributes were included\n\u25cf Assisted with the training of new team members and other internal departments as needed to ensure all\nemployees follow the same standard of execution across digital campaigns\n\n\n1\nMedia IQ Digital (MiQ) | Toronto ON\t07\/2017 - 08\/2018\nAd Operations Executive\n\n\u25cf QA, test, traffic and troubleshoot HTML5, Javascript, VAST, VPAID, Mobile and Rich Media ads across\nvarious ad servers and DSP's for programmatic campaigns\n\u25cf Completed 40% of all tasks that were submitted to the four person North American Ad Ops team in Q1\nand Q2 of 2018, including trafficking hosted and third-party display and video creative, screenshots on\nmultiple devices, and tracking pixel application for various 3rd party providers such as DoubleVerify, IAS,\nand MOAT\n\u25cf Successfully trafficked a $2M campaign for a client based out of NYC, including manually applying tracking\npixels to over 200 pieces of creatives\n\u25cf Assisted with the development of creative copy for the CiQ website (MiQ's creative portfolio) and\nprovided native ad copy headlines and creative mockups as needed for Canadian clients\n\n\nAOL (formerly Oath, now Verizon Media) | Toronto, ON\t07\/2016 - 07\/2017\nAd Operations Specialist\n\n\u25cf Managed AOL's Owned and Operated properties digital ad inventory: AOL, Huffington Post, TechCrunch,\nEngadget, MSN, Outlook, Skype, Windows Ads-in-Apps, and Xbox, including training account managers on\nnew booking and reservation technology and changes to ad products\n\u25cf Forecasted inventory availability and collaborated with yield management to determine product pricing\nand identify revenue opportunities and first-to-market opportunities for clients\n\u25cf Worked with sales executives and account managers to ensure media plans were accurate, identified\ninventory challenges and proactively alerted key stakeholders of potential delivery issues\n\u25cf Creative manager for in-house builds, providing creative recommendations to internal and external\nstakeholders, investigating and escalating technical and user experience issues to developers, ensuring\ncreatives met client approval and were launched successfully\n\nGroupM | Toronto ON\t09\/2014 - 07\/2016\nAd Operations Specialist\n\n\u25cf Promoted from Digital Traffic Coordinator to Ad Operations Specialist in July 2015\n\u25cf Managed the day-to-day trafficking for several large automotive, CPG and financial accounts acting as the\nprimary trafficker for Ford Canada and Lincoln Canada; Worked closely with sales planners, creative\nagencies and publishers to provide ongoing support for third-party tag and pixel implementation\n\u25cf Trained junior members on digital trafficking best practices and nuances across ad servers\n\u25cf Generated and distributed third-party assets to vendors and publishers and to provide ongoing account\nmaintenance during the campaign lifecycle\n\u25cf Worked closely with post-production teams to QA assets, ensure functionality across browsers and mobile\ndevices, and that creatives adhered to IAB specifications and troubleshoot technical issues as needed\n\nEducation\n\nPost-Graduate Certificate, Strategic Relationship Marketing | George Brown College, Toronto, ON | 2014\nBachelor of Business Administration,  Marketing | Memorial University, St. John's, NL | 2013\n\nAccomplishments and Certifications\n\nGoogle Analytics Certification | 2020\nGoogle Ads Search Certification | 2020\nGoogle Ad Manager Certification | 2018\nGoogle Bid Manager Certification | 2017\nDoubleClick Campaign Manager Certification | 2014\nGoogle Online Marketing Challenge, 2nd Place Award (Global) | 2012\n\n2\n3",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-CA",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = CA; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-11-06",
+        "SovrenSignature": [
+            "DZEBAAAAAAA="
+        ]
+    }
+}

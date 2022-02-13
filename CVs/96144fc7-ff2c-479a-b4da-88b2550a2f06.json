@@ -1,0 +1,1191 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "GeoCoordinates": {
+                "Latitude": 40.7127799987793,
+                "Longitude": -74.00596618652344
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "MBA",
+                "Normalized": "MBA"
+            },
+            "Type": "masters"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "UX Research for Business Innovation - Mini-MBA for Applied Social Scientists, December 20, 2017.",
+                "SchoolType": "UNSPECIFIED",
+                "Degree": {
+                    "Name": {
+                        "Raw": "MBA",
+                        "Normalized": "MBA"
+                    },
+                    "Type": "masters"
+                },
+                "Majors": [
+                    "Applied Social Scientists"
+                ],
+                "LastEducationDate": {
+                    "Date": "2017-12-20",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": true
+                }
+            },
+            {
+                "Id": "DEG-2",
+                "Text": "Human-Computer Interaction, Service Design, Focus Groups Moderation - University of Washington, Seattle, 2012.",
+                "SchoolName": {
+                    "Raw": "University of Washington",
+                    "Normalized": "University of Washington"
+                },
+                "SchoolType": "university",
+                "Degree": [],
+                "Majors": [
+                    "Service Design"
+                ],
+                "LastEducationDate": {
+                    "Date": "2012-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Id": "DEG-3",
+                "Text": "MS - Information Science, University of North Carolina, Chapel Hill",
+                "SchoolName": {
+                    "Raw": "University of North Carolina",
+                    "Normalized": "University of North Carolina"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "MS",
+                        "Normalized": "masters"
+                    },
+                    "Type": "masters"
+                },
+                "Majors": [
+                    "Information Science"
+                ]
+            },
+            {
+                "Id": "DEG-4",
+                "Text": "MS, BS - Applied Anthropology, Moscow University, Moscow, Russia",
+                "SchoolName": {
+                    "Raw": "Moscow University",
+                    "Normalized": "Moscow University"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "MS",
+                        "Normalized": "masters"
+                    },
+                    "Type": "masters"
+                },
+                "Majors": [
+                    "Applied Anthropology"
+                ]
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "Maria Mueller is experienced in:  User Experience (User Research); and Marketing (Digital). Maria Mueller appears to be a low-to-mid level candidate, with 4 years of experience.",
+            "MonthsOfWorkExperience": 50,
+            "MonthsOfManagementExperience": 0,
+            "ExecutiveType": "NONE",
+            "AverageMonthsPerEmployer": 12,
+            "FulltimeDirectHirePredictiveIndex": 50,
+            "ManagementStory": "The following management-related items were found:\nI have uncovered business needs, developed strategies, methodologies, recruited participants, organized",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 0
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Life Nome by Wellness Traits",
+                        "Normalized": "Life Nome by Wellness Traits"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "NY"
+                        ],
+                        "Municipality": "New York"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "User Experience Researcher",
+                    "Normalized": "User Experience Researcher",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2020-09-21",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-09-21",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Enterprise Storage",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "User Experience Researcher\nCity of Fort Lauderdale Government - part-time remote project for COVID-19 relief initiatives\n\u2022 Leading discovery and evaluative research on virtual meeting practices and policies for a government office\noperating within Sunshine laws and regulations.\n\nUser Experience Researcher\nLife Nome by Wellness Traits, New York, NY, December 2020 - expected completion second week of September 2020\n\u2022 Passion project leading foundational research, establishing UX metrics and strategy from the ground up for a\nbrand new wellness company."
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "NY"
+                        ],
+                        "Municipality": "New York"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Senior User Experience Researcher",
+                    "Normalized": "Senior User Experience Researcher",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "User Experience Researcher"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2018-11-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2019-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "User Experience",
+                "SubTaxonomyName": "User Research",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "Led the charge in planning and executing discovery UX research for FactSet's enterprise products with an\ninternational client base.\n\u2022 Led discussions with an international team of product development to prioritize product design problems.\n\u2022 Identify and describe user issues, pain points, and future must-haves.\n\u2022 Translate research insights into concrete feature insights, initiatives, successful product designs, and strategies.\n\u2022 Evangelize user research throughout the organization."
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "ADP",
+                        "Normalized": "ADP"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "NY"
+                        ],
+                        "Municipality": "New York"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "User Experience Researcher",
+                    "Normalized": "User Experience Researcher",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2017-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2018-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "User Experience",
+                "SubTaxonomyName": "User Research",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2022 Design and conduct end-to-end user research studies on shared products.\n\u2022 Analyze, describe, and promote research findings to product teams and senior executive stakeholders.\n\u2022 Ensure UX Research insights have an impact on product strategy and development by workshopping with teams to collectively determine actions to address each issue or insight uncovered by research.\n\u2022 Advocate for the value of UX research throughout the organization."
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "ServiceLab",
+                        "Normalized": "ServiceLab"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "NY"
+                        ],
+                        "Municipality": "New York"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "UX Researcher, UX Strategist",
+                    "Normalized": "UX Researcher UX Strategist",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2015-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2017-05-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "User Experience",
+                "SubTaxonomyName": "User Research",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Design and conduct research using a wide variety of qualitative methods and a subset of quantitative methods,\nsuch as surveys, user and stakeholder interviews, expert reviews guided by data and analytics. Adopt appropriate\nuser research methods, approaches to translating research insights into successful product strategy."
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 37,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "558",
+                            "SubTaxonomyName": "User Research",
+                            "PercentOfOverall": 33,
+                            "PercentOfParent": 87,
+                            "Skills": [
+                                {
+                                    "Id": "5570207",
+                                    "Name": "Ethnographic",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "5570201",
+                                    "Name": "Usability Studies",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "5570211",
+                                    "Name": "User Research",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PROFESSIONAL AFFILIATIONS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 49
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "573",
+                            "SubTaxonomyName": "Product Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "5570168",
+                                    "Name": "Product Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "566",
+                            "SubTaxonomyName": "Industrial Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "5570092",
+                                    "Name": "Product Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-12-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 24,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 19,
+                            "PercentOfParent": 78,
+                            "Skills": [
+                                {
+                                    "Id": "1400241",
+                                    "Name": "User Experience",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PROFESSIONAL AFFILIATIONS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 29
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-21"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "585",
+                            "SubTaxonomyName": "Product",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "1400022",
+                                    "Name": "Product Development",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "227",
+                            "SubTaxonomyName": "Brand Management",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "005612",
+                                    "Name": "Product Development",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-12-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "223",
+                            "SubTaxonomyName": "Market Research",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "1400060",
+                                    "Name": "Market Analysis",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "027121",
+                                    "Name": "SPSS",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PROFESSIONAL AFFILIATIONS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 20,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "555",
+                            "SubTaxonomyName": "Enterprise Storage",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 47,
+                            "Skills": [
+                                {
+                                    "Id": "5551150",
+                                    "Name": "HP-UX",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555115001",
+                                            "Name": "UX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "EDUCATION",
+                                                    "Id": "DEG-1"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 50
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-09-21"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 50
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-21"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "203",
+                            "SubTaxonomyName": "UNIX and LINUX",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 47,
+                            "Skills": [
+                                {
+                                    "Id": "01026309",
+                                    "Name": "UNIX",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "010377",
+                                            "Name": "UX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "EDUCATION",
+                                                    "Id": "DEG-1"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 50
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-09-21"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 50
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-21"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "200",
+                            "SubTaxonomyName": "QA and QC",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "2000006",
+                                    "Name": "JIRA",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PROFESSIONAL AFFILIATIONS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "010313",
+                                    "Name": "Usability",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "199",
+                            "SubTaxonomyName": "Project Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "005812",
+                                    "Name": "Project Lifecycle",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "348",
+                            "SubTaxonomyName": "Service Providers",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "013477",
+                                    "Name": "ADP",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "91",
+                    "Name": "Translations and Language Work",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "901",
+                            "SubTaxonomyName": "Translation",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "200002",
+                                    "Name": "Translate",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-12-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 4,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "021737",
+                                    "Name": "Metrics",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 1
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-21"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "31",
+                    "Name": "Written Communications",
+                    "PercentOfOverall": 4,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "430",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "009845",
+                                    "Name": "Translating",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 21
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-05-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "11",
+                    "Name": "General Non-Skilled Labor",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "303",
+                            "SubTaxonomyName": "Construction Labor",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "014143",
+                                    "Name": "Concrete",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-12-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "27",
+                    "Name": "Light Technical\/Trades\/Skilled Labor",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "293",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "014141",
+                                    "Name": "Concrete",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-12-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "33",
+                    "Name": "Graphic Design",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "432",
+                            "SubTaxonomyName": "Software",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "555154313",
+                                    "Name": "Figma",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PROFESSIONAL AFFILIATIONS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "555154489",
+                                    "Name": "InVision",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PROFESSIONAL AFFILIATIONS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "69",
+                    "Name": "QA and QC",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "446",
+                            "SubTaxonomyName": "Techniques",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "009431",
+                                    "Name": "Test Development",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "9",
+                    "Name": "Human Resources",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "577",
+                            "SubTaxonomyName": "HR Analytics",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 75,
+                            "Skills": [
+                                {
+                                    "Id": "9000110",
+                                    "Name": "SPSS",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PROFESSIONAL AFFILIATIONS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "185",
+                            "SubTaxonomyName": "Payroll",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "013475",
+                                    "Name": "ADP",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "7",
+                    "Name": "Finance",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "728",
+                            "SubTaxonomyName": "Payroll",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 75,
+                            "Skills": [
+                                {
+                                    "Id": "7000231",
+                                    "Name": "ADP",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "233",
+                            "SubTaxonomyName": "Mortgage",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "027122",
+                                    "Name": "SPSS",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PROFESSIONAL AFFILIATIONS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "023613",
+                                    "Name": "Microsoft Powerpoint",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "021977",
+                                            "Name": "Powerpoint",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "PROFESSIONAL AFFILIATIONS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Associations": [
+        {
+            "Organization": "AnthroDesign, Design User Research, User Experience Professionals Association",
+            "Role": ""
+        },
+        {
+            "Organization": "RESEARCH TOOLS",
+            "Role": ""
+        },
+        {
+            "Organization": "Optimal Workshop, UserTesting, User Interviews, Lookback, Loop11, Dscout, Qualtrics, Morae, Pendo, ClickHeat",
+            "Role": ""
+        },
+        {
+            "Organization": "DynoMapper, Mixpanel, R, SPSS, WebEx, BlueJeans, GoToMeeting, Camtasia, Miro, Invision, Sketch, Figma",
+            "Role": ""
+        },
+        {
+            "Organization": "KeyNote, PowerPoint, Prezi, Airtable, Salesforce, Jira",
+            "Role": ""
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 16,
+                "LastLineNumber": 45,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "EXPERIENCE"
+            },
+            {
+                "FirstLineNumber": 46,
+                "LastLineNumber": 50,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "RECENT EDUCATION"
+            },
+            {
+                "FirstLineNumber": 51,
+                "LastLineNumber": 55,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "ADDITIONAL EXPERIENCE"
+            },
+            {
+                "FirstLineNumber": 56,
+                "LastLineNumber": 58,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "FORMAL EDUCATION"
+            },
+            {
+                "FirstLineNumber": 59,
+                "LastLineNumber": 64,
+                "SectionType": "PROFESSIONAL AFFILIATIONS",
+                "HeaderTextFound": "PROFESSIONAL ASSOCIATIONS"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    },
+                    {
+                        "QualityCode": "323",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY"
+                            },
+                            {
+                                "SectionType": "EDUCATION"
+                            }
+                        ],
+                        "Message": "Each section type should only appear once in a resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    },
+                    {
+                        "QualityCode": "222",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-2"
+                            }
+                        ],
+                        "Message": "Every position in a resume should have an employer name."
+                    },
+                    {
+                        "QualityCode": "231",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "DEG-2"
+                            }
+                        ],
+                        "Message": "Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                    },
+                    {
+                        "QualityCode": "232",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "DEG-1"
+                            }
+                        ],
+                        "Message": "Every degree in a resume should be associated with a school."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "161",
+                        "Message": "High school (or lower) education should not be included on resumes that contain higher-level education."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \nDetail-oriented, diligent professional with strong communication skills, technological background, and applied\nresearch and project management training. Passionate about understanding users and uncovering their reality,\nidentifying root-causes, and problem-solving. Eager to empower teams to make informed, empathy-driven decisions\nthat lead to innovative, usable, and solution-oriented products. Dedicated to collaborative work.\nIn my work, I have uncovered business needs, developed strategies, methodologies, recruited participants, organized\nresearch processes, analyzed research findings for stakeholders, and promoted actionable research results.\nExperienced in planning and leading exploratory, concept, and usability studies. Trained in focus group facilitation\nand ethnographic research.\n\nSKILLS AND METHODS\nConcept Prototype Testing\tCard Sorting\/IA\tInterviewing\/IDis\tContextual Inquiry\nUsability\tCreating Personas\t  Consumer\/User Journeys\tA\/B Testing\nHeuristics Analysis\t  Collective Use Mapping\tJobs-to-be-done\tMultivariate Testing\nFocus Groups\tEthnography\t  Workshopping\t  Feature Analysis\nQuantitative Data Analysis\t Insights Generation\tReports\/Discussion Guides\t Survey Programming\nEXPERIENCE\nUser Experience Researcher\nCity of Fort Lauderdale Government - part-time remote project for COVID-19 relief initiatives\n\u2022 Leading discovery and evaluative research on virtual meeting practices and policies for a government office\noperating within Sunshine laws and regulations.\n\nUser Experience Researcher\nLife Nome by Wellness Traits, New York, NY, December 2020 - expected completion second week of September 2020\n\u2022 Passion project leading foundational research, establishing UX metrics and strategy from the ground up for a\nbrand new wellness company.\nSenior User Experience Researcher\nFactSet, New York, New York, NY, November 2018 - December 2019\n\u2022 Led the charge in planning and executing discovery UX research for FactSet's enterprise products with an\ninternational client base.\n\u2022 Led discussions with an international team of product development to prioritize product design problems.\n\u2022 Identify and describe user issues, pain points, and future must-haves.\n\u2022 Translate research insights into concrete feature insights, initiatives, successful product designs, and strategies.\n\u2022 Evangelize user research throughout the organization.\nUser Experience Researcher\nUser Experience Innovation Lab at ADP, New York, NY, June 2017 - September 2018\n\u2022 Design and conduct end-to-end user research studies on shared products.\n\u2022 Analyze, describe, and promote research findings to product teams and senior executive stakeholders.\n\u2022 Ensure UX Research insights have an impact on product strategy and development by workshopping with teams to\ncollectively determine actions to address each issue or insight uncovered by research.\n\u2022 Advocate for the value of UX research throughout the organization.\nUX Researcher, UX Strategist\nServiceLab, New York, NY, September 2015 - May 2017\n\u2022 Design and conduct research using a wide variety of qualitative methods and a subset of quantitative methods,\nsuch as surveys, user and stakeholder interviews, expert reviews guided by data and analytics. Adopt appropriate\nuser research methods, approaches to translating research insights into successful product strategy.\nRECENT EDUCATION\n\nUX Research for Business Innovation - Mini-MBA for Applied Social Scientists, December 20, 2017.\nUX Research, Lean User Experience Strategy - Ethnographic Praxis, 2016, 2017.\nHuman-Computer Interaction, Service Design, Focus Groups Moderation - University of Washington, Seattle, 2012.\nADDITIONAL EXPERIENCE\nProject Management and Test Development, Microsoft Corporation, Redmond, WA\nManaged development and coordination of key components in new Windows feature applications throughout the\nentire project lifecycle; managed project team members; created specifications for new products using data from\nmarket analysis; instigated and coordinated usability studies and focus groups; presented results of these studies.\nFORMAL EDUCATION\nMS - Information Science, University of North Carolina, Chapel Hill\nMS, BS - Applied Anthropology, Moscow University, Moscow, Russia\nPROFESSIONAL ASSOCIATIONS\nAnthroDesign, Design User Research, User Experience Professionals Association\nRESEARCH TOOLS\nOptimal Workshop, UserTesting, User Interviews, Lookback, Loop11, Dscout, Qualtrics, Morae, Pendo, ClickHeat,\nDynoMapper, Mixpanel, R, SPSS, WebEx, BlueJeans, GoToMeeting, Camtasia, Miro, Invision, Sketch, Figma,\nKeyNote, PowerPoint, Prezi, Airtable, Salesforce, Jira",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-09-21",
+        "SovrenSignature": [
+            "veICAAAAAAA="
+        ]
+    }
+}

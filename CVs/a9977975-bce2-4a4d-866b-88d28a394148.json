@@ -1,0 +1,1396 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "GeoCoordinates": {
+                "Latitude": 33.185279846191406,
+                "Longitude": -96.70124053955078
+            }
+        }
+    },
+    "ProfessionalSummary": "Creative Senior Graphic Designer with over 10\nyears of experience in developing engaging and\ninnovative digital and print designs for clients in a\t   ~~~~~~~~  \nbroad range of industries. Highly adept at visual\nstrategy, layout development, branding, and print\nand new media advertising. Demonstrated success\nin working in collaborative environments. Seeking\nhelp clients achieve business development and\tMcKinney, TX 75072\nbusiness growth goals through forward-thinking\ngraphic designs and strategies.",
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "MASTER'S DEGREE IN GRAPHIC DESIGN",
+                "Normalized": "masters"
+            },
+            "Type": "masters"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "MASTER'S DEGREE IN GRAPHIC DESIGN\nFaculty of Art and Architecture of Islamic Azad University Tehran Center Branch\n2016 to 2018 - Tehran - Iran",
+                "SchoolName": {
+                    "Raw": "Art and Architecture of Islamic Azad University Tehran Center Branch",
+                    "Normalized": "Art and Architecture of Islamic Azad University Tehran Center Branch"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "MASTER'S DEGREE IN GRAPHIC DESIGN",
+                        "Normalized": "masters"
+                    },
+                    "Type": "masters"
+                },
+                "Majors": [
+                    "Faculty"
+                ],
+                "LastEducationDate": {
+                    "Date": "2018-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Id": "DEG-2",
+                "Text": "BACHELOR'S IN GRAPHIC DESIGN\nFaculty of Art and Architecture of Islamic Azad University Tehran Center Branch\n2001 to 2004 - Tehran - Iran",
+                "SchoolName": {
+                    "Raw": "Art and Architecture of Islamic Azad University Tehran Center Branch",
+                    "Normalized": "Art and Architecture of Islamic Azad University Tehran Center Branch"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "BACHELOR'S IN GRAPHIC DESIGN",
+                        "Normalized": "bachelors"
+                    },
+                    "Type": "bachelors"
+                },
+                "Majors": [
+                    "Faculty"
+                ],
+                "LastEducationDate": {
+                    "Date": "2004-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~~~   is experienced in:  Marketing (Marketing Communications); and Graphic Design (Software).    ~~~~~~~~   appears to be a low-to-mid level candidate, with 4 years of experience.",
+            "MonthsOfWorkExperience": 45,
+            "MonthsOfManagementExperience": 0,
+            "ExecutiveType": "NONE",
+            "AverageMonthsPerEmployer": 22,
+            "FulltimeDirectHirePredictiveIndex": 50,
+            "ManagementStory": "",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 0
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "FSGS CO",
+                        "Normalized": "FSGS"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "TX"
+                        ],
+                        "Municipality": "Lewisville"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "Senior Graphic Designer",
+                    "Normalized": "Senior Graphic Designer",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Graphic Designer"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2019-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-10-05",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Graphic Design",
+                "SubTaxonomyName": "Software",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2022 MONUMENT SIGNS DESIGN\n\u2022 ARCHITECTURAL AND ADA SIGNS DESIGN\n\u2022 COSTOM INTERIOR SIGNS DESIGN\n\u2022 EXTERIOR BUILDING SIGNS\n\u2022 BANNERS AND TRADESHOW GRAPHICS DESIGN\tTECHNICAL SKILLS\n\u2022 VEHICLE WRAPS & FLEET GRAPHICS DESIGN\n\u2022 Adobe Photoshop\n\u2022 WINDOW & WALL GRAPHICS DESIGN\n\u2022 REAL ESTATE LEASING SIGNS DESIGN\t\u2022 Adobe Illustrator\n\u2022 Adobe Indesign\n\nFREELANCER AT HOME\t\u2022 Adobe Acrobat\nArt Director & Senior Graphic Designer\t \u2022 Web Graphic Design\n\nDallas, TX - August 2019 to December 2019\n\u2022 Social media Design\n\nCREATE INNOVATIVE DESIGN PACKAGES TO\n\u2022 Keynote\nELEVATE AND DIFFERENTIATE BRANDING AND\n\u2022 Photography\nMARKETING AND ADVERTISING INITIATIVES.\n\u2022 VISUAL IDENTITY GRAPHIC DESIGN\t\u2022 Offset and Digital Printing\n\n\u2022 MARKETING & ADVERTISING GRAPHIC DESIGN\t\u2022 Adobe After Effects\n\n\u2022 PACKAGING GRAPHIC DESIGN\t\u2022 Adobe Premiere\n\n\u2022 ENVIRONMENTAL GRAPHIC DESIGN\t\t\u2022 Adobe Media Encoder\n- MONUMENT SIGNAGE.\n\n\nINTEREST AND HOBBY\nSketching, Calligraphy, Photography, Painting\nGym workout, Cycling, Swimming, Gardening\nNEXT PAGE\tBaking, Reading, Travelling"
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "NAVAND ADVERTISING AGENCY",
+                        "Normalized": "NAVAND ADVERTISING AGENCY"
+                    },
+                    "Location": {
+                        "CountryCode": "IR",
+                        "Municipality": "Tehran"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Senior Graphic Designer",
+                    "Normalized": "Senior Graphic Designer",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Graphic Designer"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2016-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2019-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Marketing Communications",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "IMPROVE BIG IDEAS AT BRAINSTORMING MEETINGS AND CREATE VISUAL\nELEMENTS TO COVER THE IDEAS AND CONCEPTS.\n\n\u2022 VISUAL IDENTITY GRAPHIC DESIGN:\n- LETTERHEAD, BUSINESS CARDS, BRAND GUIDES, LOGOS AND MOCKUPS FOR\nPRESENT IT.\n\n\u2022 MARKETING & ADVERTISING GRAPHIC DESIGN:\n- BILLBOARDS\n-"
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 39,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "592",
+                            "SubTaxonomyName": "Marketing Communications",
+                            "PercentOfOverall": 17,
+                            "PercentOfParent": 44,
+                            "Skills": [
+                                {
+                                    "Id": "1400153",
+                                    "Name": "Advertising",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 45
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 14,
+                            "PercentOfParent": 37,
+                            "Skills": [
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 45
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "227",
+                            "SubTaxonomyName": "Brand Management",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 11,
+                            "Skills": [
+                                {
+                                    "Id": "011888",
+                                    "Name": "Branding",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                },
+                                {
+                                    "Id": "004215",
+                                    "Name": "Packaging",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "250",
+                            "SubTaxonomyName": "Events",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 9,
+                            "Skills": [
+                                {
+                                    "Id": "009786",
+                                    "Name": "Trade Show",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "009787",
+                                    "Name": "Tradeshow",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "33",
+                    "Name": "Graphic Design",
+                    "PercentOfOverall": 30,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "432",
+                            "SubTaxonomyName": "Software",
+                            "PercentOfOverall": 26,
+                            "PercentOfParent": 87,
+                            "Skills": [
+                                {
+                                    "Id": "013418",
+                                    "Name": "Adobe Illustrator",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "555154316",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 10
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-10-05"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                },
+                                {
+                                    "Id": "013452",
+                                    "Name": "Adobe Premiere",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "555154600",
+                                            "Name": "Premiere",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 10
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-10-05"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                },
+                                {
+                                    "Id": "024922",
+                                    "Name": "After Effects",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "013380",
+                                            "Name": "Adobe after Effects",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 10
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-10-05"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                },
+                                {
+                                    "Id": "026056",
+                                    "Name": "Indesign",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "013431",
+                                            "Name": "Adobe Indesign",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 10
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-10-05"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                },
+                                {
+                                    "Id": "025873",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "013441",
+                                            "Name": "Adobe Photoshop",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 10
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-10-05"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "433",
+                            "SubTaxonomyName": "Techniques and Activities",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 13,
+                            "Skills": [
+                                {
+                                    "Id": "024422",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "02442202",
+                                            "Name": "Graphics Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 10
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-10-05"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 88
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 13,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "569",
+                            "SubTaxonomyName": "Graphic Design",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 39,
+                            "Skills": [
+                                {
+                                    "Id": "5570264",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 45
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                },
+                                {
+                                    "Id": "5570122",
+                                    "Name": "Illustration",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570123",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 10
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-10-05"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                },
+                                {
+                                    "Id": "5570121",
+                                    "Name": "Sketching",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "566",
+                            "SubTaxonomyName": "Industrial Design",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 31,
+                            "Skills": [
+                                {
+                                    "Id": "5570095",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 45
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                },
+                                {
+                                    "Id": "5570087",
+                                    "Name": "Sketching",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 23,
+                            "Skills": [
+                                {
+                                    "Id": "5570072",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 45
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "565",
+                            "SubTaxonomyName": "Visual Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 8,
+                            "Skills": [
+                                {
+                                    "Id": "5570074",
+                                    "Name": "Sketching",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 4,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "134",
+                            "SubTaxonomyName": "Design",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 75,
+                            "Skills": [
+                                {
+                                    "Id": "019834",
+                                    "Name": "Innovative Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "144",
+                            "SubTaxonomyName": "Computer Hardware",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "080793",
+                                    "Name": "Packaging",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "27",
+                    "Name": "Light Technical\/Trades\/Skilled Labor",
+                    "PercentOfOverall": 4,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "286",
+                            "SubTaxonomyName": "Carpentry and Painting",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 90,
+                            "Skills": [
+                                {
+                                    "Id": "004273",
+                                    "Name": "Painting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "293",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "022189",
+                                    "Name": "Packaging",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 4,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "196",
+                            "SubTaxonomyName": "Internet",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 91,
+                            "Skills": [
+                                {
+                                    "Id": "024982",
+                                    "Name": "WEB Graphics",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "02498201",
+                                            "Name": "WEB Graphic Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 10
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-10-05"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "193",
+                            "SubTaxonomyName": "Database",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 9,
+                            "Skills": [
+                                {
+                                    "Id": "013650",
+                                    "Name": "ADS",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "7",
+                    "Name": "Finance",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "710",
+                            "SubTaxonomyName": "Real Estate & Facilities",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "7000118",
+                                    "Name": "Leasing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "12",
+                    "Name": "Legal",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "399",
+                            "SubTaxonomyName": "Real Estate",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "3990000",
+                                    "Name": "Real Estate",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "1",
+                    "Name": "Administrative or Clerical",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "109",
+                            "SubTaxonomyName": "Document-centric",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "026160",
+                                    "Name": "Encoder",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "37",
+                    "Name": "Recruiting",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "492",
+                            "SubTaxonomyName": "Recruiting Tasks and Activities",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "012449",
+                                    "Name": "ADA",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "82",
+                    "Name": "Hotel and Hospitality",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "512",
+                            "SubTaxonomyName": "Cooking and Food",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "009804",
+                                    "Name": "Baking",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "023757",
+                                    "Name": "Business Development",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "103",
+                            "SubTaxonomyName": "Channel Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "021513",
+                                    "Name": "Media Advertising",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "229",
+                            "SubTaxonomyName": "Visual",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "014688",
+                                    "Name": "After Effects",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                },
+                                {
+                                    "Id": "019533",
+                                    "Name": "Illustrator",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "012099",
+                                    "Name": "Acrobat",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "0120992",
+                                            "Name": "Adobe Acrobat",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 10
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-10-05"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                },
+                                {
+                                    "Id": "004729",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-10-05"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "Achievements": [
+        "   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ",
+        "PORTFOLIO LINK"
+    ],
+    "Publications": "- BOOKS\t- ANNUAL REPORTS\n- NEWSPAPERS\t- MAGAZINES\n- PACKAGE\t - CATALOGS\n\n\u2022 MOTION GRAPHIC DESIGN\n- ADVERTISEMENTS\t  - VIDEO EDITE\n- ANIMATED LOGOS\t  - BANNERS AND GIFS\n\n\u2022 ENVIRONMENTAL GRAPHIC DESIGN\n- EXHIBITIONS\t- PUBLIC TRANSPORTATION\n- MONUMENT SIGNAGE. - RETAIL STORE INTERIORS\n- OFFICE BRANDING   - EVENT AND CONFERENCE SPACES\n\n\nWHITE SPACE BRANDING AGENCY\nArt Director and Senior Graphic Designer\n\nTehran, Iran - January 2011 to May 2015\n\nCREATE INNOVATIVE DESIGN PACKAGES TO ELEVATE AND DIFFERENTIATE\nBRANDING AND MARKETING AND ADVERTISING INITIATIVES.\n\u2022 VISUAL IDENTITY GRAPHIC DESIGN:\n- LETTERHEAD, BUSINESS CARDS, BRAND GUIDES, LOGOS AND MOCKUPS FOR\nPRESENT IT.\n\n\u2022 MARKETING & ADVERTISING GRAPHIC DESIGN:\n- BOOKS, MAGAZINES, CATALOGS, NEWSPAPERS.\n- FLYERS, BROCHURES, POSTCARDS, POSTERS.\n- DESIGN AND LAYOUT PRESENTATIONS AND REPORTS.\n- SIGNAGE AND TRADE SHOW DISPLAYS.\n- IMAGES FOR WEBSITES AND BLOGS\n\n\u2022 PACKAGING GRAPHIC DESIGN\n\u2022 PUBLICATION GRAPHIC DESIGN\n- BOOKS\n- ANNUAL REPORTS\n- MAGAZINES\n- CATALOGS\n- PACKAGE\n\n\nNEXT PAGE\nTSI GROUP\nArt Director & Senior Graphic Designer\n\nTehran, Iran - February 2009 to December 2011\nCOORDINATED WITH TEAMS TO DEVELOP ENGAGING AND INNOVATIVE GRAPHIC DESIGNS\nFOR LOGOS, FLYERS, POSTERS, AND PAGE LAYOUTS; PROVIDED GUIDANCE AND\nDIRECTION TO JUNIOR GRAPHIC DESIGNERS ON COMPLEX AND LARGE-SCALE PROJECTS.\n\u2022 VISUAL IDENTITY GRAPHIC DESIGN:\n- LETTERHEAD, BUSINESS CARDS, BRAND GUIDES, LOGOS.\n\n\u2022 MARKETING & ADVERTISING GRAPHIC DESIGN:\n- BOOKS, MAGAZINES, CATALOGS.\n- FLYERS, BROCHURES, POSTCARDS, POSTERS.\n- DESIGN AND LAYOUT PRESENTATIONS AND REPORTS.\n- INFOGRAPHICS.\n- SIGNAGE AND TRADE SHOW DISPLAYS.\n- VEHICLE WRAPS.\n- IMAGES FOR WEBSITES AND BLOGS.\n\n\u2022 PUBLICATION GRAPHIC DESIGN\n- MAGAZINES.\n- CATALOGED..\n\n\u2022 ENVIRONMENTAL GRAPHIC DESIGN\n- MONUMENT SIGNAGE.\n- OFFICE BRANDING\n\n\nADVERTISING ENGINEERING COMPANY\nGraphic Designer\n\nTehran, Iran - April 2006 to February 2009\n\nDESIGNED NEW, ON-BRAND VISUAL ELEMENTS FOCUSING ON\nMESSAGING AND BRAND.\n\n\u2022 VISUAL IDENTITY GRAPHIC DESIGN:\n\u2022 MARKETING & ADVERTISING GRAPHIC DESIGN\n\u2022 PUBLICATION GRAPHIC DESIGN",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 3,
+                "LastLineNumber": 15,
+                "SectionType": "SUMMARY",
+                "HeaderTextFound": "SUMMERY"
+            },
+            {
+                "FirstLineNumber": 16,
+                "LastLineNumber": 82,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "WORK EXPERIENCE"
+            },
+            {
+                "FirstLineNumber": 83,
+                "LastLineNumber": 165,
+                "SectionType": "BOOKS",
+                "HeaderTextFound": "BOOKS"
+            },
+            {
+                "FirstLineNumber": 166,
+                "LastLineNumber": 176,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "EDUCATION"
+            },
+            {
+                "FirstLineNumber": 177,
+                "LastLineNumber": 182,
+                "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+                "HeaderTextFound": "ADDITIONAL INFORMATION"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    },
+                    {
+                        "QualityCode": "303",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "BOOKS",
+                                "Id": "2"
+                            }
+                        ],
+                        "Message": "These sections are longer than the work history and education sections combined. This may indicate a problem with section headers, formatting, or content."
+                    },
+                    {
+                        "QualityCode": "312",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "BOOKS",
+                                "Id": "2"
+                            }
+                        ],
+                        "Message": "These section should be less than 10 lines long as it can cause errors in parsing the resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "151",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "1"
+                            },
+                            {
+                                "SectionType": "BOOKS",
+                                "Id": "2"
+                            }
+                        ],
+                        "Message": "Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~~  \nSENIOR GRAPHIC DESIGNER\n\nSUMMERY\nCreative Senior Graphic Designer with over 10\nyears of experience in developing engaging and\ninnovative digital and print designs for clients in a\t   ~~~~~~~~  \nbroad range of industries. Highly adept at visual\nstrategy, layout development, branding, and print\nand new media advertising. Demonstrated success\nin working in collaborative environments. Seeking\nhelp clients achieve business development and\tMcKinney, TX 75072\nbusiness growth goals through forward-thinking\ngraphic designs and strategies.\n\n\nWORK EXPERIENCE\t   ~~~~~~~~~~~~~~~~~~~  \nFSGS CO.\nSenior Graphic Designer\n\nLewisville, TX - December 2019 up to now\n   ~~~~~~~~  \n\u2022 MONUMENT SIGNS DESIGN\n\u2022 ARCHITECTURAL AND ADA SIGNS DESIGN\n\u2022 COSTOM INTERIOR SIGNS DESIGN\n\u2022 EXTERIOR BUILDING SIGNS\n\u2022 BANNERS AND TRADESHOW GRAPHICS DESIGN\tTECHNICAL SKILLS\n\u2022 VEHICLE WRAPS & FLEET GRAPHICS DESIGN\n\u2022 Adobe Photoshop\n\u2022 WINDOW & WALL GRAPHICS DESIGN\n\u2022 REAL ESTATE LEASING SIGNS DESIGN\t\u2022 Adobe Illustrator\n\u2022 Adobe Indesign\n\nFREELANCER AT HOME\t\u2022 Adobe Acrobat\nArt Director & Senior Graphic Designer\t \u2022 Web Graphic Design\n\nDallas, TX - August 2019 to December 2019\n\u2022 Social media Design\n\nCREATE INNOVATIVE DESIGN PACKAGES TO\n\u2022 Keynote\nELEVATE AND DIFFERENTIATE BRANDING AND\n\u2022 Photography\nMARKETING AND ADVERTISING INITIATIVES.\n\u2022 VISUAL IDENTITY GRAPHIC DESIGN\t\u2022 Offset and Digital Printing\n\n\u2022 MARKETING & ADVERTISING GRAPHIC DESIGN\t\u2022 Adobe After Effects\n\n\u2022 PACKAGING GRAPHIC DESIGN\t\u2022 Adobe Premiere\n\n\u2022 ENVIRONMENTAL GRAPHIC DESIGN\t\t\u2022 Adobe Media Encoder\n- MONUMENT SIGNAGE.\n\n\nINTEREST AND HOBBY\nSketching, Calligraphy, Photography, Painting\nGym workout, Cycling, Swimming, Gardening\nNEXT PAGE\tBaking, Reading, Travelling\nNAVAND ADVERTISING AGENCY\nSenior Graphic Designer\n\nTehran, Iran - August 2016 to July 2019\n\nIMPROVE BIG IDEAS AT BRAINSTORMING MEETINGS AND CREATE VISUAL\nELEMENTS TO COVER THE IDEAS AND CONCEPTS.\n\n\u2022 VISUAL IDENTITY GRAPHIC DESIGN:\n- LETTERHEAD, BUSINESS CARDS, BRAND GUIDES, LOGOS AND MOCKUPS FOR\nPRESENT IT.\n\n\u2022 MARKETING & ADVERTISING GRAPHIC DESIGN:\n- BILLBOARDS\n- BOOKS, MAGAZINES, CATALOGS, NEWSPAPERS.\n- FLYERS, BROCHURES, POSTCARDS, POSTERS.\n- DESIGN AND LAYOUT PRESENTATIONS AND REPORTS.\n- ILLUSTRATIONS & INFOGRAPHICS.\n- SIGNAGE AND TRADE SHOW DISPLAYS.\n- VEHICLE WRAPS\n- SOCIAL MEDIA ADS, BANNERS AND GRAPHICS BANNER AND RETARGETING ADS\n- IMAGES FOR WEBSITES AND BLOGS\n\n\u2022 PACKAGING GRAPHIC DESIGN\n\u2022 PUBLICATION GRAPHIC DESIGN\n- BOOKS\t- ANNUAL REPORTS\n- NEWSPAPERS\t- MAGAZINES\n- PACKAGE\t - CATALOGS\n\n\u2022 MOTION GRAPHIC DESIGN\n- ADVERTISEMENTS\t  - VIDEO EDITE\n- ANIMATED LOGOS\t  - BANNERS AND GIFS\n\n\u2022 ENVIRONMENTAL GRAPHIC DESIGN\n- EXHIBITIONS\t- PUBLIC TRANSPORTATION\n- MONUMENT SIGNAGE. - RETAIL STORE INTERIORS\n- OFFICE BRANDING   - EVENT AND CONFERENCE SPACES\n\n\nWHITE SPACE BRANDING AGENCY\nArt Director and Senior Graphic Designer\n\nTehran, Iran - January 2011 to May 2015\n\nCREATE INNOVATIVE DESIGN PACKAGES TO ELEVATE AND DIFFERENTIATE\nBRANDING AND MARKETING AND ADVERTISING INITIATIVES.\n\u2022 VISUAL IDENTITY GRAPHIC DESIGN:\n- LETTERHEAD, BUSINESS CARDS, BRAND GUIDES, LOGOS AND MOCKUPS FOR\nPRESENT IT.\n\n\u2022 MARKETING & ADVERTISING GRAPHIC DESIGN:\n- BOOKS, MAGAZINES, CATALOGS, NEWSPAPERS.\n- FLYERS, BROCHURES, POSTCARDS, POSTERS.\n- DESIGN AND LAYOUT PRESENTATIONS AND REPORTS.\n- SIGNAGE AND TRADE SHOW DISPLAYS.\n- IMAGES FOR WEBSITES AND BLOGS\n\n\u2022 PACKAGING GRAPHIC DESIGN\n\u2022 PUBLICATION GRAPHIC DESIGN\n- BOOKS\n- ANNUAL REPORTS\n- MAGAZINES\n- CATALOGS\n- PACKAGE\n\n\nNEXT PAGE\nTSI GROUP\nArt Director & Senior Graphic Designer\n\nTehran, Iran - February 2009 to December 2011\nCOORDINATED WITH TEAMS TO DEVELOP ENGAGING AND INNOVATIVE GRAPHIC DESIGNS\nFOR LOGOS, FLYERS, POSTERS, AND PAGE LAYOUTS; PROVIDED GUIDANCE AND\nDIRECTION TO JUNIOR GRAPHIC DESIGNERS ON COMPLEX AND LARGE-SCALE PROJECTS.\n\u2022 VISUAL IDENTITY GRAPHIC DESIGN:\n- LETTERHEAD, BUSINESS CARDS, BRAND GUIDES, LOGOS.\n\n\u2022 MARKETING & ADVERTISING GRAPHIC DESIGN:\n- BOOKS, MAGAZINES, CATALOGS.\n- FLYERS, BROCHURES, POSTCARDS, POSTERS.\n- DESIGN AND LAYOUT PRESENTATIONS AND REPORTS.\n- INFOGRAPHICS.\n- SIGNAGE AND TRADE SHOW DISPLAYS.\n- VEHICLE WRAPS.\n- IMAGES FOR WEBSITES AND BLOGS.\n\n\u2022 PUBLICATION GRAPHIC DESIGN\n- MAGAZINES.\n- CATALOGED..\n\n\u2022 ENVIRONMENTAL GRAPHIC DESIGN\n- MONUMENT SIGNAGE.\n- OFFICE BRANDING\n\n\nADVERTISING ENGINEERING COMPANY\nGraphic Designer\n\nTehran, Iran - April 2006 to February 2009\n\nDESIGNED NEW, ON-BRAND VISUAL ELEMENTS FOCUSING ON\nMESSAGING AND BRAND.\n\n\u2022 VISUAL IDENTITY GRAPHIC DESIGN:\n\u2022 MARKETING & ADVERTISING GRAPHIC DESIGN\n\u2022 PUBLICATION GRAPHIC DESIGN\n\n\nEDUCATION\n\nMASTER'S DEGREE IN GRAPHIC DESIGN\nFaculty of Art and Architecture of Islamic Azad University Tehran Center Branch\n2016 to 2018 - Tehran - Iran\n\nBACHELOR'S IN GRAPHIC DESIGN\nFaculty of Art and Architecture of Islamic Azad University Tehran Center Branch\n2001 to 2004 - Tehran - Iran\n\n\nADDITIONAL INFORMATION\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \n\n\nPORTFOLIO LINK\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-10-05",
+        "SovrenSignature": [
+            "QCT+\/\/\/\/\/\/8="
+        ]
+    }
+}

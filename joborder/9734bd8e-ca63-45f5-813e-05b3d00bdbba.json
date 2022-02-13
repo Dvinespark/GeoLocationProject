@@ -1,0 +1,442 @@
+{
+    "CurrentJobIsManagement": false,
+    "HighestManagementScore": {
+        "Value": 0
+    },
+    "ManagementLevel": "None",
+    "ExecutiveType": "NONE",
+    "MinimumYears": {
+        "Value": 5
+    },
+    "RequiredDegree": "bachelors",
+    "JobTitles": {
+        "MainJobTitle": "Software Developer - Sr",
+        "JobTitle": []
+    },
+    "Degrees": [
+        {
+            "Name": "Bachelor's degree",
+            "Type": "bachelors"
+        },
+        {
+            "Name": "Bachelor's degree in Computer Science",
+            "Type": "bachelors"
+        }
+    ],
+    "CurrentLocation": {
+        "GeoCoordinates": {
+            "Latitude": 44.82535,
+            "Longitude": -93.11342
+        }
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 73,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "204",
+                            "SubTaxonomyName": "Programming",
+                            "PercentOfOverall": 33,
+                            "PercentOfParent": 46,
+                            "Skills": [
+                                {
+                                    "Id": "008220",
+                                    "Name": "Software Engineer",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "013739",
+                                    "Name": "Coding",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "021194",
+                                    "Name": "API",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "021556",
+                                    "Name": "Application Development",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "022594",
+                                    "Name": "Structured Software",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "008213",
+                                            "Name": "Software Development",
+                                            "ExistsInText": false,
+                                            "Required": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "023039",
+                                    "Name": ".NET",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "023446",
+                                    "Name": "B2B Software",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "008221",
+                                            "Name": "Software Engineering",
+                                            "ExistsInText": false,
+                                            "Required": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "0253941",
+                                    "Name": "Javascript Frameworks and Libraries",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "339002002",
+                                            "Name": "Node.JS",
+                                            "ExistsInText": false,
+                                            "Required": true
+                                        },
+                                        {
+                                            "Id": "555154583",
+                                            "Name": "NodeJS",
+                                            "ExistsInText": false,
+                                            "Required": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "555121771",
+                                    "Name": "Continuous Integration\/Delivery",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5551217722",
+                                            "Name": "CI\/CD",
+                                            "ExistsInText": false,
+                                            "Required": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "718",
+                            "SubTaxonomyName": "Distributed Systems",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "555121754",
+                                    "Name": "Microservice",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555121755",
+                                            "Name": "Microservices",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "7180010",
+                                    "Name": "REST",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "199",
+                            "SubTaxonomyName": "Project Management",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "005820",
+                                    "Name": "Project Planning",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "555121751",
+                                    "Name": "Scrum",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "338",
+                            "SubTaxonomyName": "Security",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "005912",
+                                    "Name": "Authentication",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "008513",
+                                    "Name": "SSO",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "550",
+                            "SubTaxonomyName": "Cloud Computing",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "3391154",
+                                    "Name": "Amazon Web Services",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555121760",
+                                            "Name": "AWS",
+                                            "ExistsInText": false,
+                                            "Required": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "339",
+                            "SubTaxonomyName": "Java",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "023328",
+                                    "Name": "JAVA",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "251",
+                            "SubTaxonomyName": "Config Deploy Upgrade Migrate",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "022159",
+                                    "Name": "Change Management",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "014175",
+                                            "Name": "Configuration Management",
+                                            "ExistsInText": false,
+                                            "Required": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "194",
+                            "SubTaxonomyName": "Help Desk",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "009271",
+                                    "Name": "Technical Support",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "201",
+                            "SubTaxonomyName": "Architecture",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "008227",
+                                    "Name": "Software Life Cycle",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "0082272",
+                                            "Name": "Software Development Process",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "31",
+                    "Name": "Written Communications",
+                    "PercentOfOverall": 14,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "429",
+                            "SubTaxonomyName": "Specs and Documentation",
+                            "PercentOfOverall": 11,
+                            "PercentOfParent": 75,
+                            "Skills": [
+                                {
+                                    "Id": "009242",
+                                    "Name": "Technical Documentation",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "009269",
+                                    "Name": "Technical Specifications",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "022620",
+                                    "Name": "Documentation",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "430",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "022776",
+                                    "Name": "Writing Technical",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "28",
+                    "Name": "Clinical",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "277",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 67,
+                            "Skills": [
+                                {
+                                    "Id": "018185",
+                                    "Name": "GCP",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "270",
+                            "SubTaxonomyName": "Coding",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "013742",
+                                    "Name": "Coding",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 4,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "011365",
+                                    "Name": "Best Practices",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 4,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "528",
+                            "SubTaxonomyName": "Attitude",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "005483",
+                                    "Name": "Problem-Solving",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "JobMetadata": {
+        "PlainText": "    JobTitle: Software Developer - Sr\r\n    Description: <p><strong>Job Title & Location:<\/strong><\/p><p>Senior Software Engineer<\/p><p><strong>Description:<\/strong><\/p><p>The Thomson Reuters Platform API team is looking for a talented, experienced and motivated software engineer to join our group.\u00a0Do you want to help lead a transformation at TR to an API-First architecture and build the microservices-based platform that supports it?\u00a0In this role, you will collaborate with technology peers to design, build and deploy the foundation for the next generation of modern cloud native software applications and services for Thomson Reuters.<\/p><p>You will be part of the cross-functional team that builds tools to allow multiple language integrations to TR APIs, develops automated systems to ensure API quality, integrity and performance, and helps global teams at TR follow the common best practices and standards for API development.<\/p><p><strong>Job Responsibilities:<\/strong><\/p><ul><li>Write new software, make modifications to existing software, and integrate software applications and modules as part of an agile software development process<\/li><li>Write well-designed, well-constructed, and well-tested code<\/li><li>Participate in project planning sessions with team members to analyze development requirements, provide design options, and provide work breakdown and estimates of work<\/li><li>Provide status updates for own scope of work within projects<\/li><li>Participate in internal team and status meetings<\/li><li>Research and recommend enhancements and new features, working closely with development leads<\/li><li>Provide technical support and resolution for customer-related issues<\/li><li>Provide creative and elegant solutions to complex problems<\/li><li>Prepare technical specifications and documentation<\/li><li>Participate in software releases<\/li><\/ul><p><strong>Basic\u00a0Qualifications:<\/strong><\/p><ul><li>Bachelor's degree in Computer Science, Software Engineering, or related field<\/li><li>5+ years of experience in a software engineering role, with most or all of the following technical skills:<\/li><li class=\"ql-indent-1\">Coding in Java, NodeJS and\/or .NET<\/li><li class=\"ql-indent-1\">Cloud development on AWS, Azure or GCP required<\/li><li class=\"ql-indent-1\">Developing REST APIs with a good understand of security principles and JWT related standards<\/li><li class=\"ql-indent-1\">CI\/CD automation<\/li><li class=\"ql-indent-1\">API Management systems<\/li><li class=\"ql-indent-1\">Identity and Access Management \u2013 user authentication and authorization, SSO and federation<\/li><li class=\"ql-indent-1\">Configuration management tools<\/li><li class=\"ql-indent-1\">Computer science principles and algorithms<\/li><li>Able to demonstrate experience and skills in software development best practices, such as:<\/li><li class=\"ql-indent-1\">Understanding agile\/scrum development methodologies<\/li><li class=\"ql-indent-1\">Working in a team environment to solve problems, identify solutions and improve continuously<\/li><li class=\"ql-indent-1\">Communicate effectively verbally and in writing to different audiences<\/li><li class=\"ql-indent-1\">Writing technical documentation for developers<\/li><li class=\"ql-indent-1\">Problem-solving and critical thinking<\/li><li class=\"ql-indent-1\">Continuously learning new skills and technologies\u00a0.<\/li><\/ul>\r\n    Skills: Azure, node.js, AWS, API, REST, nodejs, Application Development",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = Invariant Language (Invariant Country); Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-11-16",
+        "SovrenSignature": [
+            "5LX\/\/\/\/\/\/\/8="
+        ]
+    }
+}

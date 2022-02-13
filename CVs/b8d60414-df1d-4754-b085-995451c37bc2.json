@@ -1,0 +1,1035 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "GeoCoordinates": {
+                "Latitude": 44.95370101928711,
+                "Longitude": -93.08995819091797
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "CERTIFICATE",
+                "Normalized": "certification"
+            },
+            "Type": "certification"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "UX CERTIFICATE\n(INTERACTION DESIGN + UX MANAGEMENT SPECIALTIES)\nNielsen Norman Group\n\nART DIRECTION\nThe Creative Circus\n\n\nENGLISH LITERATURE + HUMANITIES\nGeorgia State University",
+                "SchoolName": {
+                    "Raw": "Georgia State University",
+                    "Normalized": "Georgia State University"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "CERTIFICATE",
+                        "Normalized": "certification"
+                    },
+                    "Type": "certification"
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~   is experienced in the management of:  Marketing (Data & Analytics); and Legal (Litigation).    ~~~~~   has 9 years of work experience, with 8 years of management experience, including a mid-level position.",
+            "MonthsOfWorkExperience": 104,
+            "MonthsOfManagementExperience": 96,
+            "ExecutiveType": "GENERAL",
+            "AverageMonthsPerEmployer": 20,
+            "FulltimeDirectHirePredictiveIndex": 20,
+            "ManagementStory": "Starting on 1\/1\/2017, the candidate held the following low-level management position for 3 years:\n\tTitle: In Home Advisor, Vivint Smart Home for Vendor Portal\nStarting on 1\/1\/2015, the candidate held the following low-level management position for 3 years:\n\tTitle: Coach for Coca-Cola, H&M\nStarting on 1\/1\/2012, the candidate held the following mid-level management position for 3 years:\n\tTitle: SENIOR ART DIRECTOR for Water\/Suez Environnement, US Chamber of Commerce",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 55,
+            "AttentionNeeded": "ATTENTION: The candidate appears to have been in management in a past role (In Home Advisor, Vivint Smart Home for Vendor Portal), but was not in management in the most recent role as SENIOR USER EXPERIENCE DESIGNER for Minneapolis."
+        },
+        "Positions": [
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "Minneapolis",
+                        "Normalized": "Minneapolis"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "SENIOR USER EXPERIENCE DESIGNER",
+                    "Normalized": "SENIOR USER EXPERIENCE DESIGNER",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "USER EXPERIENCE DESIGNER"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2019-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-07-30",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Enterprise Storage",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "\"Let me know if you ever need a\nBest Buy\treference\tor if you're interviewing\nAPPLICATION +\tI'll go with you to the interview.\"\nUSER EXPERIENCE DESIGNER\tRich Hultman\nInternal Teams such as: Services, Strategic Growth, Minneapolis\tSenior UX Manager, Best Buy"
+            },
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "Minneapolis",
+                        "Normalized": "Minneapolis"
+                    }
+                },
+                "IsSelfEmployed": true,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "UX CONSULTANT \/ RESEARCHER",
+                    "Normalized": "UX CONSULTANT RESEARCHER",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2020-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-07-30",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "contract",
+                "TaxonomyName": "Legal",
+                "SubTaxonomyName": "Intellectual Property",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Clients such as: a multi-national open source IT monitoring\nsolution, and Fortune 500 agribusiness company\t2020-\n\n\nPointClickCare"
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "Vendor Portal",
+                        "Normalized": "Vendor Portal"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "In Home Advisor, Vivint Smart Home",
+                    "Normalized": "In Home Advisor Vivint Smart Home",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "In Home Advisor",
+                        "Home Advisor",
+                        "Home Advisor, Vivint Smart Home"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2017-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2019-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Legal",
+                "SubTaxonomyName": "Litigation",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "\"Dan's design, thinking\nBI Worldwide\tand responsiveness is great.\nPRODUCT DESIGNER\tHe knocks it out of the park.\"\nClients such as: Abbott, A&W Canada, Capella University, Minneapolis\tHugh MacNiven"
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Coca-Cola, H&M",
+                        "Normalized": "Coca Cola H&M"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Coach",
+                    "Normalized": "Coach",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2015-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2017-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Data & Analytics",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "Director of Learning Strategy,\nBI Worldwide"
+            },
+            {
+                "Id": "POS-5",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Crosby Marketing Communications",
+                        "Normalized": "Crosby Marketing Communications"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "DC"
+                        ],
+                        "Municipality": "Washington"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "SENIOR DIGITAL DESIGNER",
+                    "Normalized": "SENIOR DIGITAL DESIGNER",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "DIGITAL DESIGNER"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2014-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2015-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Data & Analytics",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "and trends has really allowed us\nClients: Energy Star, Kaiser Permanente, Washington DC\tto push the envelope. The whole\nUS Department of Health and Human Services\t2014-2015\tUI of our product is in SUCH a better\nplace thanks to him.\"\nZach Kahn\nBurson Marsteller\tCTO + Product Manager,\nBI Worldwide"
+            },
+            {
+                "Id": "POS-6",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Water\/Suez Environnement, US Chamber of Commerce",
+                        "Normalized": "Water\/Suez Environnement US Chamber of Commerce"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "DC"
+                        ],
+                        "Municipality": "Washington"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "SENIOR ART DIRECTOR",
+                    "Normalized": "SENIOR ART DIRECTOR",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "ART DIRECTOR"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2012-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2014-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Legal",
+                "SubTaxonomyName": "Litigation",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Clients: Dominion Energy, Entergy\/Long Island Power\nAuthority, TNEM: The Northeast Maglev Rail Line, United\tWashington DC\nWater\/Suez Environnement, US Chamber of Commerce\t2012-2014\n\nClients"
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 38,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "588",
+                            "SubTaxonomyName": "Data & Analytics",
+                            "PercentOfOverall": 27,
+                            "PercentOfParent": 71,
+                            "Skills": [
+                                {
+                                    "Id": "1400080",
+                                    "Name": "Business Intelligence",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400081",
+                                            "Name": "BI",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-5"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 72
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2019-12-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 72
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 16,
+                            "Skills": [
+                                {
+                                    "Id": "1400241",
+                                    "Name": "User Experience",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-07-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "227",
+                            "SubTaxonomyName": "Brand Management",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "081160",
+                                    "Name": "Product Manager",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 24
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "592",
+                            "SubTaxonomyName": "Marketing Communications",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "1400355",
+                                    "Name": "Marketing Communications",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "223",
+                            "SubTaxonomyName": "Market Research",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "1400054",
+                                    "Name": "Nielsen",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "12",
+                    "Name": "Legal",
+                    "PercentOfOverall": 29,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "400",
+                            "SubTaxonomyName": "Litigation",
+                            "PercentOfOverall": 27,
+                            "PercentOfParent": 94,
+                            "Skills": [
+                                {
+                                    "Id": "200081",
+                                    "Name": "Clients",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 91
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-07-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "395",
+                            "SubTaxonomyName": "Intellectual Property",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "3950001",
+                                    "Name": "Open Source",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 7
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-07-30"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 11,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "134",
+                            "SubTaxonomyName": "Design",
+                            "PercentOfOverall": 11,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "005611",
+                                    "Name": "Product Designer",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 36
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-12-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 11,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "731",
+                            "SubTaxonomyName": "User Interface",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 35,
+                            "Skills": [
+                                {
+                                    "Id": "7310067",
+                                    "Name": "User Interface",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "7310068",
+                                            "Name": "UI",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-5"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 24
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2015-12-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 24
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "555",
+                            "SubTaxonomyName": "Enterprise Storage",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 28,
+                            "Skills": [
+                                {
+                                    "Id": "5551150",
+                                    "Name": "HP-UX",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555115001",
+                                            "Name": "UX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "CERTIFICATIONS"
+                                                },
+                                                {
+                                                    "SectionType": "EDUCATION",
+                                                    "Id": "DEG-1"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 19
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-07-30"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-07-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "203",
+                            "SubTaxonomyName": "UNIX and LINUX",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 28,
+                            "Skills": [
+                                {
+                                    "Id": "01026309",
+                                    "Name": "UNIX",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "010377",
+                                            "Name": "UX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "CERTIFICATIONS"
+                                                },
+                                                {
+                                                    "SectionType": "EDUCATION",
+                                                    "Id": "DEG-1"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 19
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-07-30"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-07-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "253",
+                            "SubTaxonomyName": "Protocols and Standards",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 9,
+                            "Skills": [
+                                {
+                                    "Id": "003842",
+                                    "Name": "Open Source",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 7
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-07-30"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "37",
+                    "Name": "Recruiting",
+                    "PercentOfOverall": 6,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "492",
+                            "SubTaxonomyName": "Recruiting Tasks and Activities",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "026321",
+                                    "Name": "Interviewing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-07-30"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "97",
+                    "Name": "Supply Chain and Logistics",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "460",
+                            "SubTaxonomyName": "Logistics",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022740",
+                                    "Name": "Scheduling",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-07-30"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "13",
+                    "Name": "Manufacturing",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "208",
+                            "SubTaxonomyName": "Planning",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022739",
+                                    "Name": "Scheduling",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 19
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-07-30"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "573",
+                            "SubTaxonomyName": "Product Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 17,
+                            "Skills": [
+                                {
+                                    "Id": "5570163",
+                                    "Name": "Interaction Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "566",
+                            "SubTaxonomyName": "Industrial Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 17,
+                            "Skills": [
+                                {
+                                    "Id": "5570088",
+                                    "Name": "Interaction Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "565",
+                            "SubTaxonomyName": "Visual Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 17,
+                            "Skills": [
+                                {
+                                    "Id": "5570077",
+                                    "Name": "Interaction Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 17,
+                            "Skills": [
+                                {
+                                    "Id": "5570062",
+                                    "Name": "Interaction Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "562",
+                            "SubTaxonomyName": "Interaction Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 17,
+                            "Skills": [
+                                {
+                                    "Id": "5570046",
+                                    "Name": "Interaction Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "560",
+                            "SubTaxonomyName": "UX Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 17,
+                            "Skills": [
+                                {
+                                    "Id": "5570020",
+                                    "Name": "Interaction Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Certifications": [
+        {
+            "Name": "UX CERTIFICATE",
+            "MatchedFromList": false,
+            "IsVariation": false
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 5,
+                "LastLineNumber": 52,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": ""
+            },
+            {
+                "FirstLineNumber": 53,
+                "LastLineNumber": 68,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "Studies"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Fatal Problems Found",
+                "Findings": [
+                    {
+                        "QualityCode": "415",
+                        "Message": "We found no WORK HISTORY section header for the candidate, but we calculated where we thought WORK HISTORY was located in the resume. The work history section should have a header such as 'Work History' before listing the content."
+                    }
+                ]
+            },
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    },
+                    {
+                        "QualityCode": "223",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-2"
+                            },
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-1"
+                            }
+                        ],
+                        "Message": "It is very rare to be currently employed at the same company under two different jobs. One of these positions is likely missing an end date or formatted poorly."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~  \nUser Experience + Product Designer\nStrategic. Conceptual. Systematic.\n\n   ~~~~~~~      ~~~~~~~~~~~~~~~      ~~~~~~~  \n\n\nWork\tTools\nIndependent\nUX CONSULTANT \/ RESEARCHER\nMinneapolis\nClients such as: a multi-national open source IT monitoring\nsolution, and Fortune 500 agribusiness company\t2020-\n\n\nPointClickCare\nSENIOR USER EXPERIENCE DESIGNER\nMinneapolis\nPraise\nInternal Teams such as: Analytics + Insights, Design System,\nIntake, Scheduling\t2019-2020\n\n\n\"Let me know if you ever need a\nBest Buy\treference\tor if you're interviewing\nAPPLICATION +\tI'll go with you to the interview.\"\nUSER EXPERIENCE DESIGNER\tRich Hultman\nInternal Teams such as: Services, Strategic Growth,\tMinneapolis\tSenior UX Manager, Best Buy\nVendor Portal, In Home Advisor, Vivint Smart Home\t2017-2019\n\n\n\"Dan's design, thinking\nBI Worldwide\tand responsiveness is great.\nPRODUCT DESIGNER\tHe knocks it out of the park.\"\nClients such as: Abbott, A&W Canada, Capella University,\tMinneapolis\tHugh MacNiven\nCoach, Coca-Cola, H&M, Metlife, Medtronic, Xfinity\t2015-2017\t Director of Learning Strategy,\nBI Worldwide\n\n\nCrosby Marketing Communications\t\t\"Dan's grasp of web development\nSENIOR DIGITAL DESIGNER\t\t\tand trends has really allowed us\nClients: Energy Star, Kaiser Permanente,\tWashington DC\tto push the envelope. The whole\nUS Department of Health and Human Services\t2014-2015\tUI of our product is in SUCH a better\nplace thanks to him.\"\nZach Kahn\nBurson Marsteller\tCTO + Product Manager,\nBI Worldwide\nSENIOR ART DIRECTOR\nClients: Dominion Energy, Entergy\/Long Island Power\nAuthority, TNEM: The Northeast Maglev Rail Line, United\tWashington DC\nWater\/Suez Environnement, US Chamber of Commerce\t2012-2014\n\nClients\nStudies\nUX CERTIFICATE\n(INTERACTION DESIGN +\nUX MANAGEMENT SPECIALTIES)\nNielsen Norman Group\n\nART DIRECTION\nThe Creative Circus\n\n\nENGLISH LITERATURE +\nHUMANITIES\nGeorgia State University\n\n\n   ~~~~~~~  ",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-07-30",
+        "SovrenSignature": [
+            "q5z\/\/\/\/\/\/\/8="
+        ]
+    }
+}

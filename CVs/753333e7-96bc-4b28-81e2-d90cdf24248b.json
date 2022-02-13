@@ -1,0 +1,626 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "GeoCoordinates": {
+                "Latitude": 32.940208435058594,
+                "Longitude": -96.66282653808594
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "MASTERS OF SCIENCE IN COMMUNICATIONS",
+                "Normalized": "masters"
+            },
+            "Type": "masters"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "MASTERS OF SCIENCE IN COMMUNICATIONS\n2003, VIRGINIA COMMONWEALTH UNIVERSITY ADCENTER",
+                "SchoolName": {
+                    "Raw": "VIRGINIA COMMONWEALTH UNIVERSITY ADCENTER",
+                    "Normalized": "VIRGINIA COMMONWEALTH UNIVERSITY ADCENTER"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "MASTERS OF SCIENCE IN COMMUNICATIONS",
+                        "Normalized": "masters"
+                    },
+                    "Type": "masters"
+                },
+                "Majors": [
+                    "COMMUNICATIONS"
+                ],
+                "LastEducationDate": {
+                    "Date": "2003-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Id": "DEG-2",
+                "Text": "BACHELORS IN ENGLISH\n1998, UNIVERSITY OF TEXAS AT ARLINGTON",
+                "SchoolName": {
+                    "Raw": "UNIVERSITY OF TEXAS AT ARLINGTON",
+                    "Normalized": "University of Texas at Arlington"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "BACHELORS IN ENGLISH",
+                        "Normalized": "bachelors"
+                    },
+                    "Type": "bachelors"
+                },
+                "Majors": [
+                    "ENGLISH"
+                ],
+                "LastEducationDate": {
+                    "Date": "1998-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~   is experienced in the management of:  Marketing (Marketing Communications; Advertising; Digital).    ~~~~~~   has 17 years of work experience, with 9 years of management experience, including a mid-level position.",
+            "MonthsOfWorkExperience": 202,
+            "MonthsOfManagementExperience": 110,
+            "ExecutiveType": "GENERAL",
+            "AverageMonthsPerEmployer": 50,
+            "FulltimeDirectHirePredictiveIndex": 75,
+            "ManagementStory": "Starting on 12\/1\/2008, the candidate held the following mid-level management position for 3 years and 8 months:\n\tTitle: FREELANCE SENIOR ART DIRECTOR for SELF EMPLOYED\nStarting on 6\/1\/2007, the candidate held the following mid-level management position for 18 months:\n\tTitle: ART DIRECTOR for ENGAUGE\nStarting on 6\/1\/2003, the candidate held the following mid-level management position for 4 years:\n\tTitle: ART DIRECTOR for DDB CHICAGO",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 55,
+            "AttentionNeeded": "ATTENTION: The candidate appears to have been in management in a past role (FREELANCE SENIOR ART DIRECTOR for SELF EMPLOYED), but was not in management in the most recent role as    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ."
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ",
+                    "Normalized": "GRAPHIC DESIGNER THE LEGACY SENIOR COMMUNITIES",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "GRAPHIC DESIGNER"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2012-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-04-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Marketing Communications",
+                "JobLevel": "Low Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Designed and wrote fundraising campaigns that included direct mail, logo design, digital design, video, newspaper,\nevent design and email advertisements that raised millions of dollars for non-profit senior living organization\n\u2022  Responsible for designing and writing all internal and external brand communications including digital, direct-mail,\nprint, outdoor, email and environmental graphics (event graphics)\n\u2022  Worked closely with CEO, CCO and department managers to provide high-level strategic guidance and brand\nstewardship\n\u2022  Managed relationships with junior staff, freelance creative talent, and advertising agency partners\n\u2022  Wrote and designed quarterly newsletter\/blog on WordPress platform\n\u2022  Redesigned and wrote corporate WordPress website and all related entities with agency partner (   ~~~~~~~~~~  )"
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "SELF EMPLOYED",
+                        "Normalized": "SELF EMPLOYED"
+                    }
+                },
+                "IsSelfEmployed": true,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "FREELANCE SENIOR ART DIRECTOR",
+                    "Normalized": "FREELANCE SENIOR ART DIRECTOR",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2008-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2012-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "contract",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Freelance Senior Art Director working at agencies in Chicago and Dallas\/Fort Worth area."
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "ENGAUGE",
+                        "Normalized": "ENGAUGE"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "ART DIRECTOR",
+                    "Normalized": "ART DIRECTOR",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2007-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2008-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Marketing Communications",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Mid level art director responsible for regional and national advertising creative. Accounts included Huntington Bank,\nAmerican Electric Power, Zone Perfect and new business."
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "DDB CHICAGO",
+                        "Normalized": "DDB CHICAGO"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "ART DIRECTOR",
+                    "Normalized": "ART DIRECTOR",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2003-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2007-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Marketing Communications",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Art director working on national level branding and advertising for Dell, State Farm, McDonald's and Anheuser Busch."
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 92,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "592",
+                            "SubTaxonomyName": "Marketing Communications",
+                            "PercentOfOverall": 27,
+                            "PercentOfParent": 29,
+                            "Skills": [
+                                {
+                                    "Id": "1400153",
+                                    "Name": "Advertising",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 158
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-04-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1400150",
+                                    "Name": "Agency Partners",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 92
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-04-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "595",
+                            "SubTaxonomyName": "Advertising",
+                            "PercentOfOverall": 24,
+                            "PercentOfParent": 26,
+                            "Skills": [
+                                {
+                                    "Id": "1400213",
+                                    "Name": "Direct Mail",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 92
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-04-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1400197",
+                                    "Name": "Logo Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 92
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-04-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 18,
+                            "PercentOfParent": 19,
+                            "Skills": [
+                                {
+                                    "Id": "1400244",
+                                    "Name": "Digital Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 92
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-04-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "224",
+                            "SubTaxonomyName": "Public Relations",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "1400162",
+                                    "Name": "Agency Partners",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 92
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-04-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "250",
+                            "SubTaxonomyName": "Events",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "026546",
+                                    "Name": "Fundraising",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 92
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-04-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "024552",
+                                    "Name": "Direct Mail",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 92
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-04-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "227",
+                            "SubTaxonomyName": "Brand Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "011888",
+                                    "Name": "Branding",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 48
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2007-06-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "1",
+                    "Name": "Administrative or Clerical",
+                    "PercentOfOverall": 6,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "112",
+                            "SubTaxonomyName": "Messages and Contact",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "015462",
+                                    "Name": "Direct Mail",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 92
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-04-01"
+                                    }
+                                },
+                                {
+                                    "Id": "026545",
+                                    "Name": "Fundraising",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 92
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-04-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "571",
+                            "SubTaxonomyName": "Web Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "3391111",
+                                    "Name": "Wordpress",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 92
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-04-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "104",
+                            "SubTaxonomyName": "Account Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "BACHELORS IN ENGLISH"
+        }
+    ],
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 2,
+                "LastLineNumber": 32,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": ""
+            },
+            {
+                "FirstLineNumber": 33,
+                "LastLineNumber": 39,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "EDUCATION"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Fatal Problems Found",
+                "Findings": [
+                    {
+                        "QualityCode": "415",
+                        "Message": "We found no WORK HISTORY section header for the candidate, but we calculated where we thought WORK HISTORY was located in the resume. The work history section should have a header such as 'Work History' before listing the content."
+                    }
+                ]
+            },
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    },
+                    {
+                        "QualityCode": "222",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-1"
+                            }
+                        ],
+                        "Message": "Every position in a resume should have an employer name."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~~~~~~~~~~~~~~~~~~  \n   ~~~~~~~   \u2022    ~~~~~~~~~~~~~~  \n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \nAug 2012 to Apr 2020\n\n\u2022  Designed and wrote fundraising campaigns that included direct mail, logo design, digital design, video, newspaper,\nevent design and email advertisements that raised millions of dollars for non-profit senior living organization\n\u2022  Responsible for designing and writing all internal and external brand communications including digital, direct-mail,\nprint, outdoor, email and environmental graphics (event graphics)\n\u2022  Worked closely with CEO, CCO and department managers to provide high-level strategic guidance and brand\nstewardship\n\u2022  Managed relationships with junior staff, freelance creative talent, and advertising agency partners\n\u2022  Wrote and designed quarterly newsletter\/blog on WordPress platform\n\u2022  Redesigned and wrote corporate WordPress website and all related entities with agency partner (   ~~~~~~~~~~  )\n\nFREELANCE SENIOR ART DIRECTOR, SELF EMPLOYED\nDec 2008 - Aug 2012\n\n\u2022  Freelance Senior Art Director working at agencies in Chicago and Dallas\/Fort Worth area.\n\nART DIRECTOR, ENGAUGE\nJun 2007 - Dec 2008\n\n\u2022  Mid level art director responsible for regional and national advertising creative. Accounts included Huntington Bank,\nAmerican Electric Power, Zone Perfect and new business.\n\nART DIRECTOR, DDB CHICAGO\nJun 2003 - Jun 2007\n\n\u2022  Art director working on national level branding and advertising for Dell, State Farm, McDonald's and Anheuser Busch.\n\nEDUCATION\n\nMASTERS OF SCIENCE IN COMMUNICATIONS\n2003, VIRGINIA COMMONWEALTH UNIVERSITY ADCENTER\n\nBACHELORS IN ENGLISH\n1998, UNIVERSITY OF TEXAS AT ARLINGTON",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-10-03",
+        "SovrenSignature": [
+            "CdX\/\/\/\/\/\/\/8="
+        ]
+    }
+}

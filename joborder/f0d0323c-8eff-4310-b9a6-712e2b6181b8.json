@@ -1,0 +1,28 @@
+{
+    "CurrentJobIsManagement": false,
+    "HighestManagementScore": {
+        "Value": 0
+    },
+    "ManagementLevel": "None",
+    "ExecutiveType": "NONE",
+    "JobTitles": {
+        "MainJobTitle": "Software Architect",
+        "JobTitle": []
+    },
+    "CurrentLocation": {
+        "GeoCoordinates": {
+            "Latitude": 40.71278,
+            "Longitude": -74.00597
+        }
+    },
+    "JobMetadata": {
+        "PlainText": "    JobTitle: Software Architect\r\n    Description: <p>Software Architect.<\/p>\r\n    Skills: .net",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = Invariant Language (Invariant Country); Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-11-05",
+        "SovrenSignature": [
+            "ZcoAAAAAAAA="
+        ]
+    }
+}

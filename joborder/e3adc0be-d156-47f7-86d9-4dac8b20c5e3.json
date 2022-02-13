@@ -1,0 +1,425 @@
+{
+    "CurrentJobIsManagement": false,
+    "HighestManagementScore": {
+        "Value": 0
+    },
+    "ManagementLevel": "None",
+    "ExecutiveType": "NONE",
+    "JobTitles": {
+        "MainJobTitle": "User Experience Designer (UX)",
+        "JobTitle": [
+            "User Experience Designer",
+            "Designer"
+        ]
+    },
+    "EmployerNames": {
+        "MainEmployerName": "Central XD) of the Tax & Accounting Business of Thomson Reuters",
+        "EmployerName": [
+            "Central XD",
+            "Tax & Accounting Business of Thomson Reuters",
+            "Thomson Reuters"
+        ]
+    },
+    "CertificationsAndLicenses": [
+        "Proficiency in Axure, Invision and Sketch"
+    ],
+    "CurrentLocation": {
+        "GeoCoordinates": {
+            "Latitude": 40.71278,
+            "Longitude": -74.00597
+        }
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 20,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "200",
+                            "SubTaxonomyName": "QA and QC",
+                            "PercentOfOverall": 11,
+                            "PercentOfParent": 56,
+                            "Skills": [
+                                {
+                                    "Id": "010300",
+                                    "Name": "Usability Testing",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "010313",
+                                    "Name": "Usability",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "203",
+                            "SubTaxonomyName": "UNIX and LINUX",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 22,
+                            "Skills": [
+                                {
+                                    "Id": "01026309",
+                                    "Name": "UNIX",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "010377",
+                                            "Name": "UX",
+                                            "ExistsInText": false,
+                                            "Required": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "555",
+                            "SubTaxonomyName": "Enterprise Storage",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 22,
+                            "Skills": [
+                                {
+                                    "Id": "5551150",
+                                    "Name": "HP-UX",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555115001",
+                                            "Name": "UX",
+                                            "ExistsInText": false,
+                                            "Required": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 17,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "571",
+                            "SubTaxonomyName": "Web Design",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "5570152848",
+                                    "Name": "Wireframe",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570152849",
+                                            "Name": "Wireframes",
+                                            "ExistsInText": false,
+                                            "Required": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "558",
+                            "SubTaxonomyName": "User Research",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "5570006",
+                                    "Name": "Usability Testing",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "573",
+                            "SubTaxonomyName": "Product Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "5570161",
+                                    "Name": "User Experience Design",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570162",
+                                            "Name": "UX Design",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "565",
+                            "SubTaxonomyName": "Visual Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "5570075",
+                                    "Name": "User Experience Design",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570076",
+                                            "Name": "UX Design",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "5570060",
+                                    "Name": "User Experience Design",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570061",
+                                            "Name": "UX Design",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "560",
+                            "SubTaxonomyName": "UX Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "5570017",
+                                    "Name": "User Experience Design",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570018",
+                                            "Name": "UX Design",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "33",
+                    "Name": "Graphic Design",
+                    "PercentOfOverall": 17,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "432",
+                            "SubTaxonomyName": "Software",
+                            "PercentOfOverall": 17,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "555154489",
+                                    "Name": "InVision",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "555154491",
+                                    "Name": "Axure",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 11,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 11,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "1400241",
+                                    "Name": "User Experience",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "1400248",
+                                    "Name": "Wireframes",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "32",
+                    "Name": "Degreed Accounting",
+                    "PercentOfOverall": 9,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "950",
+                            "SubTaxonomyName": "CPA",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "7000058",
+                                    "Name": "Accounting",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "944",
+                            "SubTaxonomyName": "Bookkeeping",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "022499",
+                                    "Name": "Accounting",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 9,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "532",
+                            "SubTaxonomyName": "Aptitudes",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "031029",
+                                    "Name": "Detail-Oriented",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "528",
+                            "SubTaxonomyName": "Attitude",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "015338",
+                                    "Name": "Detail-Oriented",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 9,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "298",
+                            "SubTaxonomyName": "Surveying",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "023035",
+                                    "Name": "TOPO",
+                                    "ExistsInText": false,
+                                    "Required": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "021224",
+                                            "Name": "Mapping",
+                                            "ExistsInText": false,
+                                            "Required": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "31",
+                    "Name": "Written Communications",
+                    "PercentOfOverall": 9,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "430",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "011409",
+                                    "Name": "Writing Skills",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "JobMetadata": {
+        "PlainText": " JobTitle: User Experience Designer (UX) Description:\r\nDescription:\r\n\r\nHere is the job description:\r\n\r\n\r\nAs an Experience Designer you would join the Central Experience Design Group (Central XD) of the Tax & Accounting Business of Thomson Reuters, which is engaged in reshaping entire market-leading product lines. Our fun and diverse group, which reports into the office of the CTO, works across disciplines, practices Design Thinking and applies lean methodologies. We have a large product portfolio in the Enterprise space that we are unifying with a new, top-to-bottom design. Our clients are professionals from around the world who are accustomed to using sophisticated applications with rich interaction models.\r\n\r\n\r\nResponsibilities\r\n\r\n\u2022 Work closely with product teams to uncover business needs, develop design strategies and communicate your design solutions\r\n\r\n\u2022 Design and specify the product experience using iterative design techniques including persona creation, journey mapping, design studios, customer interviews and usability testing\r\n\r\n\u2022 Produce design artifacts such as personas, journey maps, sketches, scenarios, wireframes, mental models and prototypes\r\n\r\n\u2022 Effectively communicate research findings, conceptual ideas and detailed design rationale both verbally and visually\r\n\r\n\u2022 Help define and maintain a global patterns and guidelines library\r\n\r\n\u2022 Evangelize experience design throughout the organization\r\n\r\n\r\nQualifications\r\n\r\n\u2022 Proven ability to work in a cross-discipline, open and creative team\r\n\r\n\u2022 Highly creative, detail-oriented, passionate about delivering the best user experience possible\r\n\r\n\u2022 Excellent communication and writing skills\r\n\r\n\u2022 Ability to work independently and juggle multiple UX projects at a time\r\n\r\n\u2022 Proficiency in Axure, Invision and Sketch\r\n\r\n\u2022 Familiarity with modern web technologies\r\n\r\n\u2022 A portfolio demonstrating relevant experience in user-centric design.\r\n Skills: Wireframes, UX Design, User Centric Design, Prototypes, User Experience",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = Invariant Language (Invariant Country); Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-11-04",
+        "SovrenSignature": [
+            "CPn+\/\/\/\/\/\/8="
+        ]
+    }
+}

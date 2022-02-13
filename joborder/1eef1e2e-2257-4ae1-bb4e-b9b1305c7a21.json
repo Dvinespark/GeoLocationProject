@@ -1,0 +1,392 @@
+{
+    "CurrentJobIsManagement": false,
+    "HighestManagementScore": {
+        "Value": 0
+    },
+    "ManagementLevel": "None",
+    "ExecutiveType": "NONE",
+    "MinimumYears": {
+        "Value": 3
+    },
+    "RequiredDegree": "bachelors",
+    "JobTitles": {
+        "MainJobTitle": "Graphic Design Specialist",
+        "JobTitle": [
+            "Graphic Designer"
+        ]
+    },
+    "EmployerNames": {
+        "MainEmployerName": "Brand Marketing, Agency Management",
+        "EmployerName": [
+            "Brand Marketing, Agency Management",
+            "Agency Management"
+        ]
+    },
+    "Degrees": [
+        {
+            "Name": "B.A.",
+            "Type": "bachelors"
+        }
+    ],
+    "CurrentLocation": {
+        "GeoCoordinates": {
+            "Latitude": 32.97538,
+            "Longitude": -96.84476
+        }
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "33",
+                    "Name": "Graphic Design",
+                    "PercentOfOverall": 37,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "432",
+                            "SubTaxonomyName": "Software",
+                            "PercentOfOverall": 29,
+                            "PercentOfParent": 79,
+                            "Skills": [
+                                {
+                                    "Id": "024922",
+                                    "Name": "After Effects",
+                                    "ExistsInText": true,
+                                    "Required": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "013380",
+                                            "Name": "Adobe after Effects",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "025873",
+                                    "Name": "Photoshop",
+                                    "ExistsInText": true,
+                                    "Required": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "013441",
+                                            "Name": "Adobe Photoshop",
+                                            "ExistsInText": false,
+                                            "Required": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "026056",
+                                    "Name": "Indesign",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "433",
+                            "SubTaxonomyName": "Techniques and Activities",
+                            "PercentOfOverall": 8,
+                            "PercentOfParent": 21,
+                            "Skills": [
+                                {
+                                    "Id": "024422",
+                                    "Name": "Graphic Design",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "555154514",
+                                    "Name": "Typography",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 36,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "595",
+                            "SubTaxonomyName": "Advertising",
+                            "PercentOfOverall": 12,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "1400192",
+                                    "Name": "Creative Design",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "1400205",
+                                    "Name": "Agency Management",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "1400371",
+                                    "Name": "Marketing Collateral",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "227",
+                            "SubTaxonomyName": "Brand Management",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 20,
+                            "Skills": [
+                                {
+                                    "Id": "022503",
+                                    "Name": "Brand Marketing",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 20,
+                            "Skills": [
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "592",
+                            "SubTaxonomyName": "Marketing Communications",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 13,
+                            "Skills": [
+                                {
+                                    "Id": "1400147",
+                                    "Name": "Agency Management",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                },
+                                {
+                                    "Id": "1400350",
+                                    "Name": "Marketing Collateral",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "585",
+                            "SubTaxonomyName": "Product",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "1400310",
+                                    "Name": "Marketing Collateral",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "224",
+                            "SubTaxonomyName": "Public Relations",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "1400161",
+                                    "Name": "Agency Management",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 13,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "569",
+                            "SubTaxonomyName": "Graphic Design",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 43,
+                            "Skills": [
+                                {
+                                    "Id": "5570122",
+                                    "Name": "Illustration",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                },
+                                {
+                                    "Id": "5570264",
+                                    "Name": "Graphic Design",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "572",
+                            "SubTaxonomyName": "Interactive Design",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 29,
+                            "Skills": [
+                                {
+                                    "Id": "5570158",
+                                    "Name": "Illustration",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "566",
+                            "SubTaxonomyName": "Industrial Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 14,
+                            "Skills": [
+                                {
+                                    "Id": "5570095",
+                                    "Name": "Graphic Design",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 14,
+                            "Skills": [
+                                {
+                                    "Id": "5570072",
+                                    "Name": "Graphic Design",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 7,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "011365",
+                                    "Name": "Best Practices",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 7,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "528",
+                            "SubTaxonomyName": "Attitude",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "005483",
+                                    "Name": "Problem-Solving",
+                                    "ExistsInText": true,
+                                    "Required": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "300",
+                            "SubTaxonomyName": "Mac",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "020979",
+                                    "Name": "MAC",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "229",
+                            "SubTaxonomyName": "Visual",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "014688",
+                                    "Name": "After Effects",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "004729",
+                                    "Name": "Photoshop",
+                                    "ExistsInText": true,
+                                    "Required": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "JobMetadata": {
+        "PlainText": " JobTitle: Graphic Design Specialist Description:\r\nBrand Marketing, Agency Management\r\n\r\n\r\nOVERVIEW\r\n\r\n\r\nAs a Graphic Design Specialist, you will be leading the charge to produce and oversee digital and print creative design to address the marketing needs within Thomson Reuters. With an in-depth knowledge of graphic design, styles and layout techniques you will use your craft to create visual assets that bring the Thomson Reuters brand to life. Your experience in executing creative marketing projects from conception to production including deliverables such as digital graphics and animations, marketing collateral, and virtual event support will be core to your success. Ultimately, you will ensure the design team promotes our brand by delivering high-quality designed pieces on tight deadlines.\r\n\r\n\r\nRESPONSIBILITIES\r\n\r\n\r\nThe Graphic Designer is responsible for delivering the best-in-class design for our marketing teams while demonstrating strong problem-solving skills and a deep understanding of Thomson Reuters and its customers.\r\n\r\n\r\n\u2022 Act as the primary conceptors for Thomson Reuters Studio teams\r\n\r\n\u2022 Provide design and production for large, multi-faceted events to smaller, single tactic projects\r\n\r\n\u2022 Deliver work that is technically accurate in its use of the Thomson Reuters brand guidelines\r\n\r\n\u2022 Deliver consistent client satisfaction.\r\n\r\n\u2022 Simultaneously manage multiple projects with short deadlines\r\n\r\n\u2022 Consistent demonstration of the ability to accomplish tasks for numerous projects\r\n\r\n\u2022 Demonstrate a relentless pursuit of knowledge as it relates to industry best practices\r\n\r\n\r\nEDUCATION\r\n\r\n\r\nB.A. Degree in Graphic Design (or related degree).\r\n\r\n\r\nEXPERIENCE\r\n\r\n\r\n\u2022 Three years+ of experience as a graphic designer (or equivalent), preferably in an industry or industries identical to those at Thomson Reuters\r\n\r\n\u2022 Strong graphic design skills with emphasis on standard industry tools including Mac skills and expertise in Adobe Creative Suite including Indesign, Illustration, Photoshop\r\n\r\n\u2022 Experience in After Effects is a plus\r\n\r\n\u2022 Superior knowledge of design techniques, typography, photography, and digital file preparation\r\n\r\n\u2022 Ability to create original, conceptual designs for a wide variety of tactics and deliverables\r\n\r\n\u2022 Project management skills and the ability to work within project management and DAM tools\r\n\r\n\r\nAt Thomson Reuters, we believe what we do matters. We are passionate about our work, inspired by the impact it has on our business and our customers. As a marketing team, we believe in winning as one - collaborating to reach shared goals, and developing through challenging and meaningful experiences to produce cutting-edge marketing campaigns that promote Thomson Reuters.\r\n\r\n\r\nWith over 50,000 employees in more than 100 countries, we work flexibly across boundaries and realize innovations that help shape industries around the world. Bring your ambition to make a difference. We'll bring a world of opportunities.\r\n Skills: Graphic Design, Adobe after effects, Adobe Photoshop, Adobe Creative Cloud",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = Invariant Language (Invariant Country); Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-10-14",
+        "SovrenSignature": [
+            "TAsAAAAAAAA="
+        ]
+    }
+}

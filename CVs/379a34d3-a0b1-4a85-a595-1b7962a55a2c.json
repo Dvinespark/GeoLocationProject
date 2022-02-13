@@ -1,0 +1,864 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "GeoCoordinates": {
+                "Latitude": 32.77666091918945,
+                "Longitude": -96.79698944091797
+            }
+        }
+    },
+    "ProfessionalSummary": "I am your go-to creative thinker\/problem solver who thrives on design challenges. As a seasoned and\ntalented designer with a proven track record and excellent work ethic, I'm equally confident working\nsolo, and in a collaborative team environment. My design style is clean and professional. Let's talk!",
+    "Education": {
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "Des Moines Area Community College\t|  Commercial Art",
+                "SchoolName": {
+                    "Raw": "Des Moines Area Community College",
+                    "Normalized": "Des Moines Area Community College"
+                },
+                "SchoolType": "community",
+                "Degree": {
+                    "Type": "someCollege"
+                },
+                "Majors": [
+                    "Commercial Art"
+                ]
+            },
+            {
+                "Id": "DEG-2",
+                "Text": "Kirkwood Community College \t| Floriculture\/Marketing",
+                "SchoolName": {
+                    "Raw": "Kirkwood Community College",
+                    "Normalized": "Kirkwood Community College"
+                },
+                "SchoolType": "community",
+                "Degree": {
+                    "Type": "someCollege"
+                },
+                "Majors": [
+                    "Floriculture\/Marketing"
+                ]
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "The candidate is experienced in:  Marketing; and Graphic Design (Software). The candidate has 20 years of work experience, with 11 years of management experience, including a mid-level position.",
+            "MonthsOfWorkExperience": 237,
+            "MonthsOfManagementExperience": 129,
+            "ExecutiveType": "GENERAL",
+            "AverageMonthsPerEmployer": 59,
+            "FulltimeDirectHirePredictiveIndex": 100,
+            "ManagementStory": "Starting on 1\/1\/2006, the candidate held the following low-level management position for 10 years and 10 months:\n\tTitle: ART DIRECTOR\/SENIOR GRAPHIC DESIGNER for Heritage Auctions",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 30
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Arteriors",
+                        "Normalized": "Arteriors"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "TX"
+                        ],
+                        "Municipality": "Carrollton"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "SENIOR GRAPHIC DESIGNER",
+                    "Normalized": "SENIOR GRAPHIC DESIGNER",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "GRAPHIC DESIGNER"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2016-10-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-05-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": true
+                },
+                "JobType": "directHire",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Heritage Auctions",
+                        "Normalized": "Heritage Auctions"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "TX"
+                        ],
+                        "Municipality": "Dallas"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "ART DIRECTOR\/SENIOR GRAPHIC DESIGNER",
+                    "Normalized": "ART DIRECTOR\/SENIOR GRAPHIC DESIGNER",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "ART DIRECTOR",
+                        "SENIOR GRAPHIC DESIGNER",
+                        "GRAPHIC DESIGNER"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2006-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": true
+                },
+                "EndDate": {
+                    "Date": "2016-10-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Senior Manager (more than 5 years management experience)",
+                "TaxonomyPercentage": 0
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Ivie & Associates",
+                        "Normalized": "Ivie"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "TX"
+                        ],
+                        "Municipality": "Flower Mound"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "GRAPHIC DESIGNER",
+                    "Normalized": "GRAPHIC DESIGNER",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2004-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": true
+                },
+                "EndDate": {
+                    "Date": "2005-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "EDITORIAL DESIGN",
+                        "Normalized": "EDITORIAL DESIGN"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "FL"
+                        ],
+                        "Municipality": "West Palm Beach"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "GRAPHIC DESIGNER",
+                    "Normalized": "GRAPHIC DESIGNER",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "1998-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": true
+                },
+                "EndDate": {
+                    "Date": "2002-05-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": true
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "FL\n\nskills\nPRINT DESIGN\tEDITORIAL DESIGN\tBRANDING\n\nDIGITAL DESIGN\tDIRECT MAIL\t\tSIGNAGE\nPREPRESS\/PRODUCTION\tTRAINING\/MENTORING   PACKAGE DESIGN\nLOGOS\tPHOTO\/ART DIRECTION\t TYPOGRAPHY\nexpertise\nINDESIGN   PHOTOSHOP\tILLUSTRATOR\n\nACROBAT   POWERPOINT\tKEYNOTE\nOUTLOOK   EXCEL   WORD"
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 37,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 20,
+                            "PercentOfParent": 53,
+                            "Skills": [
+                                {
+                                    "Id": "024552",
+                                    "Name": "Direct Mail",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 46
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2002-05-01"
+                                    }
+                                },
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "026852",
+                                    "Name": "Prepress",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 46
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2002-05-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 19,
+                            "Skills": [
+                                {
+                                    "Id": "1400244",
+                                    "Name": "Digital Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 46
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2002-05-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "227",
+                            "SubTaxonomyName": "Brand Management",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 19,
+                            "Skills": [
+                                {
+                                    "Id": "011888",
+                                    "Name": "Branding",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 46
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2002-05-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "595",
+                            "SubTaxonomyName": "Advertising",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 9,
+                            "Skills": [
+                                {
+                                    "Id": "1400213",
+                                    "Name": "Direct Mail",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 46
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2002-05-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "33",
+                    "Name": "Graphic Design",
+                    "PercentOfOverall": 18,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "432",
+                            "SubTaxonomyName": "Software",
+                            "PercentOfOverall": 11,
+                            "PercentOfParent": 62,
+                            "Skills": [
+                                {
+                                    "Id": "013418",
+                                    "Name": "Adobe Illustrator",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555154316",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 46
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2002-05-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 46
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2002-05-01"
+                                    }
+                                },
+                                {
+                                    "Id": "026056",
+                                    "Name": "Indesign",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 46
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2002-05-01"
+                                    }
+                                },
+                                {
+                                    "Id": "025873",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 46
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2002-05-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "433",
+                            "SubTaxonomyName": "Techniques and Activities",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 38,
+                            "Skills": [
+                                {
+                                    "Id": "555154514",
+                                    "Name": "Typography",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 46
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2002-05-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 18,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "532",
+                            "SubTaxonomyName": "Aptitudes",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "031022",
+                                    "Name": "Confident",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "528",
+                            "SubTaxonomyName": "Attitude",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "023877",
+                                    "Name": "Problem Solver",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SUMMARY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 12,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "569",
+                            "SubTaxonomyName": "Graphic Design",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 60,
+                            "Skills": [
+                                {
+                                    "Id": "5570122",
+                                    "Name": "Illustration",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570123",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 46
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2002-05-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 46
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2002-05-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5570260",
+                                    "Name": "Print Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "565",
+                            "SubTaxonomyName": "Visual Design",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 40,
+                            "Skills": [
+                                {
+                                    "Id": "5570238",
+                                    "Name": "Print Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "92",
+                    "Name": "Knowledge and Learning Management",
+                    "PercentOfOverall": 7,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "903",
+                            "SubTaxonomyName": "General Knowledge and Learning Management",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "200051",
+                                    "Name": "Mentoring",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 46
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2002-05-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 7,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "134",
+                            "SubTaxonomyName": "Design",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "004211",
+                                    "Name": "Package Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 46
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2002-05-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "012099",
+                                    "Name": "Acrobat",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 46
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2002-05-01"
+                                    }
+                                },
+                                {
+                                    "Id": "022841",
+                                    "Name": "Excel",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 46
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2002-05-01"
+                                    }
+                                },
+                                {
+                                    "Id": "023613",
+                                    "Name": "Microsoft Powerpoint",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "021977",
+                                            "Name": "Powerpoint",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 46
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2002-05-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 46
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2002-05-01"
+                                    }
+                                },
+                                {
+                                    "Id": "004729",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 46
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2002-05-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "229",
+                            "SubTaxonomyName": "Visual",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "019533",
+                                    "Name": "Illustrator",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 46
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2002-05-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 5,
+                "LastLineNumber": 34,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": ""
+            },
+            {
+                "FirstLineNumber": 35,
+                "LastLineNumber": 39,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "education"
+            },
+            {
+                "FirstLineNumber": 40,
+                "LastLineNumber": 43,
+                "SectionType": "SUMMARY",
+                "HeaderTextFound": "profile"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Fatal Problems Found",
+                "Findings": [
+                    {
+                        "QualityCode": "415",
+                        "Message": "We found no WORK HISTORY section header for the candidate, but we calculated where we thought WORK HISTORY was located in the resume. The work history section should have a header such as 'Work History' before listing the content."
+                    }
+                ]
+            },
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    },
+                    {
+                        "QualityCode": "302",
+                        "Message": "A first and last name was not found in the contact information. A resume should always include the candidate's first and last name."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    },
+                    {
+                        "QualityCode": "231",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "DEG-1"
+                            },
+                            {
+                                "SectionType": "DEG-2"
+                            }
+                        ],
+                        "Message": "Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "lisa fox\tCREATIVE GRAPHIC DESIGN\n\n1602 Clearbrook Dr\t|  Allen, TX\t     ~~~~~~~  \n\n   ~~~~~~~~~~~~  \tPortfolio\t LinkedIn\n\nwork\nSENIOR GRAPHIC DESIGNER\n10.2016 - 5.2020   |  Arteriors  |  Carrollton, TX\n\nART DIRECTOR\/SENIOR GRAPHIC DESIGNER\n1.2006 - 10.2016   |  Heritage Auctions  |  Dallas, TX\n\nGRAPHIC DESIGNER\n6.2004 - 12.2005   |  Ivie & Associates  |  Flower Mound, TX\n\nGRAPHIC DESIGNER\n7.1998 - 5.2002   |  BSE Design & Communications\t|  West Palm Beach, FL\n\nskills\nPRINT DESIGN\tEDITORIAL DESIGN\tBRANDING\n\nDIGITAL DESIGN\tDIRECT MAIL\t\tSIGNAGE\n\nPREPRESS\/PRODUCTION\tTRAINING\/MENTORING\t  PACKAGE DESIGN\n\nLOGOS\tPHOTO\/ART DIRECTION\t TYPOGRAPHY\n\nexpertise\nINDESIGN   PHOTOSHOP\tILLUSTRATOR\n\nACROBAT   POWERPOINT\tKEYNOTE\n\nOUTLOOK   EXCEL\t\t\tWORD\n\neducation\nDes Moines Area Community College\t|  Commercial Art\n\nKirkwood Community College \t| Floriculture\/Marketing\n\nprofile\nI am your go-to creative thinker\/problem solver who thrives on design challenges. As a seasoned and\ntalented designer with a proven track record and excellent work ethic, I'm equally confident working\nsolo, and in a collaborative team environment. My design style is clean and professional. Let's talk!",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-09-30",
+        "SovrenSignature": [
+            "s\/f+\/\/\/\/\/\/8="
+        ]
+    }
+}

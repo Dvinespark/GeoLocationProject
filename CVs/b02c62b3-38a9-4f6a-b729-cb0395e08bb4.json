@@ -1,0 +1,2111 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "GeoCoordinates": {
+                "Latitude": 33.04623031616211,
+                "Longitude": -96.99417114257812
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "Diploma in Creative Writing",
+                "Normalized": "unspecified"
+            },
+            "Type": "professional"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "4 Year Degree in Commercial Art\n2 Year Diploma in Creative Writing",
+                "SchoolType": "UNSPECIFIED",
+                "Degree": {
+                    "Name": {
+                        "Raw": "Diploma in Creative Writing",
+                        "Normalized": "unspecified"
+                    },
+                    "Type": "professional"
+                },
+                "Majors": [
+                    "Art"
+                ]
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "The candidate is experienced in:  Marketing; and Information Technology. The candidate appears to be an entry-level candidate, with 0 months of experience.",
+            "MonthsOfWorkExperience": 0,
+            "MonthsOfManagementExperience": 0,
+            "ExecutiveType": "NONE",
+            "AverageMonthsPerEmployer": 0,
+            "FulltimeDirectHirePredictiveIndex": 0,
+            "ManagementStory": "Title: ART DIRECTOR for RISKAFRICA MAGAZINE\/RISK AFRICA TV\/LANDROVER MAGAZINE\n\tTitle: Head of Creative for PHOENIX CREATIVE",
+            "CurrentManagementLevel": "mid-level",
+            "ManagementScore": 0
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "RISKAFRICA MAGAZINE\/RISK AFRICA TV\/LANDROVER MAGAZINE",
+                        "Normalized": "RISKAFRICA MAGAZINE\/RISK AFRICA TV\/LANDROVER MAGAZINE"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "ART DIRECTOR",
+                    "Normalized": "ART DIRECTOR",
+                    "Probability": "Confident"
+                },
+                "JobType": "directHire",
+                "JobLevel": "Manager",
+                "TaxonomyPercentage": 0,
+                "Description": "Working on design, development, art direction, creation, writing, photography,\n\nvideography and all creative aspects throughout the company."
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "PHOENIX CREATIVE",
+                        "Normalized": "PHOENIX CREATIVE"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Head of Creative",
+                    "Normalized": "Head of Creative",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Head"
+                    ]
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Digital",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "concept, design, layout and pre-press of full print magazines. Re-formatting, design and layout of digital versions. for Joomag and Wordpress. Updating of blogs and SEO tagging. Traffic, sourcing\nof and preparation of artwork for client advertisements and magazine content. Design of new ads, internal\n\nmarketing material and online material. Copy writing and wordsmithing for both print and digital content.\n\n\nE3 GROUP OF COMPANIES\n\u2022   Rebranding of entire company, from marketing strategy - through all marketing deliverables. Art direction,\nbrand development, launch video, launch event. The scope of this project has covered concept, planning,\ndesign, development, print, video, web and other media. I have been involved with the cient and all\nexternal vendors on this project in terms of managing and directing flow and implementation of varying\nstages of the brand development and launch, right through to completion. Photography as required.\n\n\u2022   Contracted to re-brand the entire group. Assist and co-ordinate in launch of new brand, as well as directing\nand creating material for the E3 CBC, Thermal Launch Event\". Revise and re-design of all marketing material,\nincluding vehicle branding, corporate wear and design of new website.\n\nPANACHE PARTNERS (also previously fulltime when in the USA)\n\n\u2022   Contracted to work on various Coffee Table Books, from concept, design, development through to print\npreparation, as well as preparing files for online viewing. Books go to Amazon, Barnes and Noble, and various other distributors\/retailers. I worked remotely on this project as the client is in the USA.\n\n\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~   |    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   |    ~~~~~~~~~~~~~~~~~~~~~~  \ndesign by mish\n\n\nMAIN PROFICIENCY\nAdobe Creative Cloud\nAdobe Photoshop CC\nAdobe Illustrator CC\nAdobe InDesign CC\n\nAcrobat Professional\nPhotography\n\nWriting\n\nSECONDARY\nWordpress\niMovie\nFlash\n\nPower Point\nMicrosoft Office\nAsana"
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 27,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 18,
+                            "Skills": [
+                                {
+                                    "Id": "1400261",
+                                    "Name": "Digital Media",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "1400234",
+                                    "Name": "Search Engine Optimization",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400235",
+                                            "Name": "SEO",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "1400245",
+                                    "Name": "User Interface",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "1400242",
+                                    "Name": "WEB Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "224",
+                            "SubTaxonomyName": "Public Relations",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "1400176",
+                                    "Name": "Copy Writing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "023378",
+                                    "Name": "Public Relations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "005288",
+                                            "Name": "PR",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "585",
+                            "SubTaxonomyName": "Product",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 11,
+                            "Skills": [
+                                {
+                                    "Id": "1400008",
+                                    "Name": "Content Development",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "1400003",
+                                    "Name": "Marketing Strategy",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "226",
+                            "SubTaxonomyName": "Channel Management",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 11,
+                            "Skills": [
+                                {
+                                    "Id": "1400217",
+                                    "Name": "Point of Purchase",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400218",
+                                            "Name": "POP",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "1400215",
+                                    "Name": "Retail Marketing",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400216",
+                                            "Name": "Retail",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "026567",
+                                    "Name": "Copywriting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "223",
+                            "SubTaxonomyName": "Market Research",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "1400326",
+                                    "Name": "Market Research",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "021254",
+                                    "Name": "Marketing Strategy",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "227",
+                            "SubTaxonomyName": "Brand Management",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 8,
+                            "Skills": [
+                                {
+                                    "Id": "011888",
+                                    "Name": "Branding",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "004215",
+                                    "Name": "Packaging",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "595",
+                            "SubTaxonomyName": "Advertising",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "1400195",
+                                    "Name": "Copy Writing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "1400193",
+                                    "Name": "Creative Direction",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "250",
+                            "SubTaxonomyName": "Events",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "009786",
+                                    "Name": "Trade Show",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "700",
+                            "SubTaxonomyName": "Production Studios",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "1400265",
+                                    "Name": "Creative Direction",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "592",
+                            "SubTaxonomyName": "Marketing Communications",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "1400141",
+                                    "Name": "Marketing Strategy",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 12,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "731",
+                            "SubTaxonomyName": "User Interface",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 28,
+                            "Skills": [
+                                {
+                                    "Id": "7310067",
+                                    "Name": "User Interface",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "7310068",
+                                            "Name": "UI",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "196",
+                            "SubTaxonomyName": "Internet",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 22,
+                            "Skills": [
+                                {
+                                    "Id": "010994",
+                                    "Name": "WEB Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "024982",
+                                    "Name": "WEB Graphics",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "198",
+                            "SubTaxonomyName": "Network",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 20,
+                            "Skills": [
+                                {
+                                    "Id": "1007292",
+                                    "Name": "E-Carrier",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "100729204",
+                                            "Name": "E3",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "555",
+                            "SubTaxonomyName": "Enterprise Storage",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 8,
+                            "Skills": [
+                                {
+                                    "Id": "5551150",
+                                    "Name": "HP-UX",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555115001",
+                                            "Name": "UX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "203",
+                            "SubTaxonomyName": "UNIX and LINUX",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 8,
+                            "Skills": [
+                                {
+                                    "Id": "01026309",
+                                    "Name": "UNIX",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "010377",
+                                            "Name": "UX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "252",
+                            "SubTaxonomyName": "Prebuilt Software",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "022475",
+                                    "Name": "Billing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "199",
+                            "SubTaxonomyName": "Project Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "025953",
+                                    "Name": "Team Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "351",
+                            "SubTaxonomyName": "Multimedia",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "017649",
+                                    "Name": "Flash",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 10,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "134",
+                            "SubTaxonomyName": "Design",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 32,
+                            "Skills": [
+                                {
+                                    "Id": "080908",
+                                    "Name": "Concept Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "023556",
+                                    "Name": "Packaging Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "143",
+                            "SubTaxonomyName": "Process",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 23,
+                            "Skills": [
+                                {
+                                    "Id": "006270",
+                                    "Name": "Quality Control",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "132",
+                            "SubTaxonomyName": "Chemical",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 19,
+                            "Skills": [
+                                {
+                                    "Id": "004033",
+                                    "Name": "Organics",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "144",
+                            "SubTaxonomyName": "Computer Hardware",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 16,
+                            "Skills": [
+                                {
+                                    "Id": "026422",
+                                    "Name": "Flash",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "080793",
+                                    "Name": "Packaging",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "307",
+                            "SubTaxonomyName": "General Engineering",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "080400",
+                                    "Name": "Concept Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 9,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 95,
+                            "Skills": [
+                                {
+                                    "Id": "023757",
+                                    "Name": "Business Development",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "003437",
+                                            "Name": "NEW Business Development",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "030018",
+                                    "Name": "Retail",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "104",
+                            "SubTaxonomyName": "Account Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "025223",
+                                    "Name": "Account Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "33",
+                    "Name": "Graphic Design",
+                    "PercentOfOverall": 9,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "432",
+                            "SubTaxonomyName": "Software",
+                            "PercentOfOverall": 9,
+                            "PercentOfParent": 99,
+                            "Skills": [
+                                {
+                                    "Id": "013418",
+                                    "Name": "Adobe Illustrator",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "555154316",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "026056",
+                                    "Name": "Indesign",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "013431",
+                                            "Name": "Adobe Indesign",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "025873",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "013441",
+                                            "Name": "Adobe Photoshop",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "433",
+                            "SubTaxonomyName": "Techniques and Activities",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "024422",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 7,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "571",
+                            "SubTaxonomyName": "Web Design",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 29,
+                            "Skills": [
+                                {
+                                    "Id": "3391111",
+                                    "Name": "Wordpress",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "569",
+                            "SubTaxonomyName": "Graphic Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 17,
+                            "Skills": [
+                                {
+                                    "Id": "5570264",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "5570122",
+                                    "Name": "Illustration",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570123",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 15,
+                            "Skills": [
+                                {
+                                    "Id": "5570072",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "5570060",
+                                    "Name": "User Experience Design",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570061",
+                                            "Name": "UX Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "568",
+                            "SubTaxonomyName": "Integration Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "5570110",
+                                    "Name": "WEB Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "573",
+                            "SubTaxonomyName": "Product Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "5570161",
+                                    "Name": "User Experience Design",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570162",
+                                            "Name": "UX Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "566",
+                            "SubTaxonomyName": "Industrial Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "5570095",
+                                    "Name": "Graphic Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "565",
+                            "SubTaxonomyName": "Visual Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "5570075",
+                                    "Name": "User Experience Design",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570076",
+                                            "Name": "UX Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "560",
+                            "SubTaxonomyName": "UX Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "5570017",
+                                    "Name": "User Experience Design",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570018",
+                                            "Name": "UX Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "1",
+                    "Name": "Administrative or Clerical",
+                    "PercentOfOverall": 4,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "945",
+                            "SubTaxonomyName": "Machines",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 43,
+                            "Skills": [
+                                {
+                                    "Id": "0054452",
+                                    "Name": "Printers",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "115",
+                            "SubTaxonomyName": "Computer Related",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 25,
+                            "Skills": [
+                                {
+                                    "Id": "006027",
+                                    "Name": "Publishing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "006822",
+                                    "Name": "Report Writing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "112",
+                            "SubTaxonomyName": "Messages and Contact",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 22,
+                            "Skills": [
+                                {
+                                    "Id": "023735",
+                                    "Name": "Customer Service Oriented",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "013326",
+                                            "Name": "Customer Service",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "114",
+                            "SubTaxonomyName": "Closing and Processing",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "023262",
+                                    "Name": "Closing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "110",
+                            "SubTaxonomyName": "Billing and Collections",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "022474",
+                                    "Name": "Billing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "31",
+                    "Name": "Written Communications",
+                    "PercentOfOverall": 4,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "430",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "026568",
+                                    "Name": "Copywriting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "014609",
+                                    "Name": "Creative Writing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "006029",
+                                    "Name": "Publishing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "006821",
+                                    "Name": "Report Writing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "71",
+                    "Name": "Strategy and Planning",
+                    "PercentOfOverall": 4,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "876",
+                            "SubTaxonomyName": "Workflow and Processes",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 99,
+                            "Skills": [
+                                {
+                                    "Id": "024213",
+                                    "Name": "Workflow",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "011362",
+                                    "Name": "Workflow Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "502",
+                            "SubTaxonomyName": "Planning and Estimating",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "012137",
+                                    "Name": "Budgeting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "27",
+                    "Name": "Light Technical\/Trades\/Skilled Labor",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "289",
+                            "SubTaxonomyName": "Printing",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 92,
+                            "Skills": [
+                                {
+                                    "Id": "005344",
+                                    "Name": "PRE-Press",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "293",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 8,
+                            "Skills": [
+                                {
+                                    "Id": "022189",
+                                    "Name": "Packaging",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "7",
+                    "Name": "Finance",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "704",
+                            "SubTaxonomyName": "Investor Relations",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 29,
+                            "Skills": [
+                                {
+                                    "Id": "7000027",
+                                    "Name": "Public Relations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "233",
+                            "SubTaxonomyName": "Mortgage",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 29,
+                            "Skills": [
+                                {
+                                    "Id": "080232",
+                                    "Name": "Closing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "237",
+                            "SubTaxonomyName": "Operations",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 29,
+                            "Skills": [
+                                {
+                                    "Id": "013548",
+                                    "Name": "Closing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "705",
+                            "SubTaxonomyName": "Accounting",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 13,
+                            "Skills": [
+                                {
+                                    "Id": "7000315",
+                                    "Name": "Budgeting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "12",
+                    "Name": "Legal",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "400",
+                            "SubTaxonomyName": "Litigation",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 90,
+                            "Skills": [
+                                {
+                                    "Id": "200081",
+                                    "Name": "Clients",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "396",
+                            "SubTaxonomyName": "Contracts",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "014309",
+                                    "Name": "Contracts",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 98,
+                            "Skills": [
+                                {
+                                    "Id": "025224",
+                                    "Name": "Account Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "022274",
+                                    "Name": "Contracts",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "006010",
+                                    "Name": "Public Relations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "006820",
+                                    "Name": "Report Writing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "436",
+                            "SubTaxonomyName": "Management Activities or Functions",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "024511",
+                                    "Name": "Budgeting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "92",
+                    "Name": "Knowledge and Learning Management",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "903",
+                            "SubTaxonomyName": "General Knowledge and Learning Management",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "200051",
+                                    "Name": "Mentoring",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "80",
+                    "Name": "General Management",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "517",
+                            "SubTaxonomyName": "People Oriented",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 96,
+                            "Skills": [
+                                {
+                                    "Id": "025955",
+                                    "Name": "Team Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "516",
+                            "SubTaxonomyName": "Budget Related",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "012134",
+                                    "Name": "Budgeting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "32",
+                    "Name": "Degreed Accounting",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "962",
+                            "SubTaxonomyName": "Reporting",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022891",
+                                    "Name": "Budget",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "012135",
+                                    "Name": "Budgeting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "89",
+                    "Name": "Bookkeeping, Office Management",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "533",
+                            "SubTaxonomyName": "Bookeeping Tasks",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "011553",
+                                    "Name": "Billing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "012120",
+                                    "Name": "Budget",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "012132",
+                                    "Name": "Budgeting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "78",
+                    "Name": "Retail",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "511",
+                            "SubTaxonomyName": "Positions",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "022943",
+                                    "Name": "Retail Sales",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "006920",
+                                            "Name": "Customer Service",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "SKILLS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "22",
+                    "Name": "Construction Non-Laborer",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "394",
+                            "SubTaxonomyName": "Office, Admin and Clerical",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 84,
+                            "Skills": [
+                                {
+                                    "Id": "022273",
+                                    "Name": "Contracts",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "380",
+                            "SubTaxonomyName": "Estimating",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 16,
+                            "Skills": [
+                                {
+                                    "Id": "012133",
+                                    "Name": "Budgeting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "012099",
+                                    "Name": "Acrobat",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "024467",
+                                    "Name": "Microsoft Office",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "004729",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "229",
+                            "SubTaxonomyName": "Visual",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "019533",
+                                    "Name": "Illustrator",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Certifications": [
+        {
+            "Name": "MAIN PROFICIENCY",
+            "MatchedFromList": false,
+            "IsVariation": false
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "QualificationsSummary": "BUSINESS SKILLS\n\n\nExcellent at working to\n\ndeadline\nArt\/Creative Direction\n\nWriting Editing & Proofing\n\nTeam Management\nMarketing skills\n\n\nSales\nGeneral Management\n\nExcellent communication\nskills\ndesign by mish\n\n\nCOZA PRODUCTIONS\n\n\u2022\tContracted to do PR write up for the E3 Group of Companies \"CBC, Thermal Launch Event\", for various\nmedia groups and publications.\n\n\nACTIVE ORGANICS | ART SQUAD | IMPRIMIS | DALLAS MORNING NEWS\n\nCREATIVE | ART DIRECTOR\n\n\u2022\tCONCEPT AND DESIGN OF NEW PRODUCT PIECES\n\u2022\tPROOF READING AND EDITING\n\u2022\tAD DEVELOPMENT\n\u2022\tBROCHURES AND MARKETING PIECE DEVELOPMENT\n\u2022\tPRODUCT PHOTOGRAPHY\n\u2022\tPRE-PRESS\n\u2022\tQUALITY CONTROL\n\u2022\tTRADE SHOW GRAPHICS\n\u2022\tPACKAGING DESIGN\n\u2022\tPOP\n\u2022\tLENTICULAR DESIGN\n\u2022\tMAGAZINE INSERTS AND ADVERTS\n\nWorking on individual contracts, on a client to client basis, involved taking full initiative in researching,\ncopywriting, checking current trends in various markets, designing marketable and informative through the line\npieces, packaging for retail. Working with outside vendors in print, public relations, material sourcing etc.\nWorking with upper management, company owners and marketing staff. Developing pieces that can easily\ncrossover onto different media platforms, while maintaining relevancy and impact.\n\n\nFULL TIME POSITIONS\n\nPANACHE PARTNERS | 2004-2008 (as well as current contract) | Dallas, | CREATIVE | ART DIRECTOR\n\n\u2022\tART DIRECTION\n\u2022\tPROJECT MANAGEMENT\n\u2022\tTEAM MANAGEMENT\n\u2022\tCONCEPT DESIGN OF NEW PRODUCTS LAYOUT OF COFFEE TABLE BOOKS\n\u2022\tPHOTOGRAPHY\n\u2022\tAD DEVELOPMENT\n\u2022\tBROCHURES AND MARKETING PIECES\n\u2022\tPRE-PRESS LOCAL AND OFF-SHORE QUALITY CONTROL\n\nMy position at Panache involved a high degree of project management, and adhering to strict design protocols,\nwhich I was integral in developing. As a new company, I was brought in at ground level, and started out as a\ndesigner, quickly moving up the ranks to Senior Designer, and then Art Director. Hiring and training of new staff,\nas well as working closely with marketing, management, and editorial staff; preparing quarterly staff reviews\nand yearly departmental projection; being a part of the concept and design process, and working directly with\nclientele were all a part of the many hats I wore.\n\n\nwww.designbymish.carbonmade.com | www.wix.com\/designbymish\/designbymish | www.flickr.com\/designbymish\ndesign by mish\n\n\nAVIDGOLFER MAGAZINE | 2001-2004 | Irving, TX | SR. GRAPHIC DESIGNER\n\n\u2022\tGRAPHIC DESIGN\n\u2022\tWEBMASTER\n\u2022\tNEW ADVERTISEMENT DESIGN\n\u2022\tSPECIAL PROJECTS\n\u2022\tCONTENT LAYOUT\n\u2022\tCONTENT RESEARCH\n\nI started out as a designer and was soon promoted to Senior Designer. As a senior designer for Avidgolfer\nmagazine, I was heavily involved in the production, timely receipt, and design of materials involved in a monthly\neditorial. Part and parcel was working closely with the Art Director, being involved in photo-shoots, researching\ncurrent trends, special interest pieces, new products and stories for inclusion. I was also responsible for the\ndesign, production and proofing of the special segment portion.\n\n\nFINE PRINT INC | 1999-2001 Dallas, TX | LEAD\/SENIOR DESIGNER\n\n\u2022\tPRINT AND WEB DESIGN\n\u2022\tE-FLYERS\n\u2022\tPROMOTIONAL MATERIAL\n\u2022\tPRE PRESS\n\u2022\tPRODUCTION\n\u2022\tPHOTOGRAPHY\n\u2022\tMANAGING BILLING\n\u2022\tMANAGING ADDITIONAL DESIGNER ART DIRECTION\n\nI started out as a Junior Designer and was promoted to Head Designer after 4 months. This position involved a large\namount of self management and timely distribution and management of workload. Large volumes of time sensitive\nmaterial, each needing to be priced and worked within budget on a daily basis. Development of new material, and\nenhancing and re-development of existing materials with limited time and resources was not uncommon, leading\nto a need for thinking outside the box and coming up with new and fresh ways to achieve high end goals.\n\n*NOTABLE | Future repeat client contracts were aquired through this position.\n\nLAST POSITION PRIOR TO USA MOVE | South Africa | 1996-1998\n\nNEWSCLIP MEDIA MONITORING AGENCY\t  Johannesburg, SA\n\n\u2022\tTOP 100 ACCOUNT MANAGEMENT\n\u2022\tQUALITY CONTROL\n\u2022\tNEW BUSINESS DEVELOPMENT\n\u2022\tFOLLOWING MEDIA COVERAGE ON TOP 100 CLIENTS\n\u2022\tREPORT WRITING\n\u2022\tPRESENTATION OF STATISTIC MATERIAL\n\u2022\tPREPARATION OF PRESENTATION MATERIAL & CUSTOMER SERVICE\n\nSENIOR MARKETING\/CLIENT LIASON\n\n* NOTABLE | Top performing Cliant Liason in both existing and new business development.",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 7,
+                "LastLineNumber": 11,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "EDUCATION"
+            },
+            {
+                "FirstLineNumber": 12,
+                "LastLineNumber": 95,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "RELATED EXPERIENCE"
+            },
+            {
+                "FirstLineNumber": 96,
+                "LastLineNumber": 223,
+                "SectionType": "SKILLS",
+                "HeaderTextFound": "BUSINESS SKILLS"
+            },
+            {
+                "FirstLineNumber": 224,
+                "LastLineNumber": 255,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "ADDITIONAL EXPERIENCE"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Fatal Problems Found",
+                "Findings": [
+                    {
+                        "QualityCode": "433",
+                        "Message": "We detected that this document contained at least some data that was laid out as columns or tables. We rearranged that data to make it more usable. NEVER use columns or tables in a resume."
+                    },
+                    {
+                        "QualityCode": "419",
+                        "Message": "We found no valid start and end dates for the jobs in your work history. Each job must have a start date and an end date, preferably at the start of the line, and written as MONTH YYYY - MONTH YYYY. Never use dates that include the 'day' part."
+                    }
+                ]
+            },
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    },
+                    {
+                        "QualityCode": "302",
+                        "Message": "A first and last name was not found in the contact information. A resume should always include the candidate's first and last name."
+                    },
+                    {
+                        "QualityCode": "303",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "SKILLS",
+                                "Id": "2"
+                            }
+                        ],
+                        "Message": "These sections are longer than the work history and education sections combined. This may indicate a problem with section headers, formatting, or content."
+                    },
+                    {
+                        "QualityCode": "323",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY"
+                            }
+                        ],
+                        "Message": "Each section type should only appear once in a resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "212",
+                        "Message": "A phone number was not found in the contact information. A resume should always include a phone number."
+                    },
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    },
+                    {
+                        "QualityCode": "224",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-1"
+                            },
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-2"
+                            }
+                        ],
+                        "Message": "Every position in a resume should have a start date."
+                    },
+                    {
+                        "QualityCode": "225",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-1"
+                            },
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "POS-2"
+                            }
+                        ],
+                        "Message": "Every position in a resume should have an end date, unless it is a currently held position."
+                    },
+                    {
+                        "QualityCode": "226",
+                        "Message": "We found no work history positions within the past year. A resume should include work history information, including time off, for the most recent year."
+                    },
+                    {
+                        "QualityCode": "232",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "DEG-1"
+                            }
+                        ],
+                        "Message": "Every degree in a resume should be associated with a school."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "112",
+                        "Message": "The following section was identified as a skills section type: 'BUSINESS SKILLS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+                    },
+                    {
+                        "QualityCode": "151",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "EDUCATION",
+                                "Id": "0"
+                            },
+                            {
+                                "SectionType": "WORK HISTORY",
+                                "Id": "1"
+                            }
+                        ],
+                        "Message": "Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "\"I seek out challenge, within a dynamic organization, that will present\nme with opportunities to leverage my skills in a manner that will be\nmutually beneficial, producing results that have creative longevity.\"\n\nmichele cunningham-scott \u2022    ~~~~~~~~~~~~~~~  \n\n\nEDUCATION\n\n4 Year Degree in Commercial Art\n2 Year Diploma in Creative Writing\n\nRELATED EXPERIENCE | CONTRACT AND FULL TIME\n\nI have done freelance work for various companies and institutions over the span of my career, ranging from logo\ndesign, packaging, branding, web graphics, web design, posters, trade-show graphics, publications, booklets,\nfliers, editorial content development, photography, art direction, creative direction, project management,\nhiring of staff, promotional material, book covers, magazine development, book layout and training materials\namongst other things.\n\n| CURRENT FULL TIME | PHOTODELI & NETSPORT MOBILE MEDIA\n\n\u2022   ART DIRECTOR \/ SENIOR DESIGNER & HEAD OF DIGITAL PUBLISHING \/ UI AND UX DESIGN\nMy responsibilities include all new concept design of both print and digital media, including personalised\ncoffee table books for high end customers for both print and digital. On the strictly mobile side, I\nhave designed a mobile platform, from branding through to user interface, scrolling video banners, and\nvisualy stimulating iconography. My work appears online, on coffee tables, and in magazines, including\nWorld Swimsuit - previously Sports Illustrated.\n\nFREELANCE WORK TO VARIOUS ORGANIZATIONS -\n\nRISKAFRICA MAGAZINE\/RISK AFRICA TV\/LANDROVER MAGAZINE\n\n\u2022   ART DIRECTOR - Working on design, development, art direction, creation, writing, photography,\n\nvideography and all creative aspects throughout the company.\n\n\nPHOENIX CREATIVE\n\n\u2022   Head of Creative. concept, design, layout and pre-press of full print magazines. Re-formatting, design and\nlayout of digital versions. for Joomag and Wordpress. Updating of blogs and SEO tagging. Traffic, sourcing\nof and preparation of artwork for client advertisements and magazine content. Design of new ads, internal\n\nmarketing material and online material. Copy writing and wordsmithing for both print and digital content.\n\n\nE3 GROUP OF COMPANIES\n\n\u2022   Rebranding of entire company, from marketing strategy - through all marketing deliverables. Art direction,\nbrand development, launch video, launch event. The scope of this project has covered concept, planning,\ndesign, development, print, video, web and other media. I have been involved with the cient and all\nexternal vendors on this project in terms of managing and directing flow and implementation of varying\nstages of the brand development and launch, right through to completion. Photography as required.\n\n\u2022   Contracted to re-brand the entire group. Assist and co-ordinate in launch of new brand, as well as directing\nand creating material for the E3 CBC, Thermal Launch Event\". Revise and re-design of all marketing material,\nincluding vehicle branding, corporate wear and design of new website.\n\nPANACHE PARTNERS (also previously fulltime when in the USA)\n\n\u2022   Contracted to work on various Coffee Table Books, from concept, design, development through to print\npreparation, as well as preparing files for online viewing. Books go to Amazon, Barnes and Noble, and\nvarious other distributors\/retailers. I worked remotely on this project as the client is in the USA.\n\n\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~   |    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   |    ~~~~~~~~~~~~~~~~~~~~~~  \ndesign by mish\n\n\nMAIN PROFICIENCY\n\nAdobe Creative Cloud\n\nAdobe Photoshop CC\nAdobe Illustrator CC\nAdobe InDesign CC\n\nAcrobat Professional\nPhotography\n\nWriting\n\n\nSECONDARY\n\nWordpress\n\niMovie\nFlash\n\nPower Point\nMicrosoft Office\nAsana\n\n\nBUSINESS SKILLS\n\n\nExcellent at working to\n\ndeadline\nArt\/Creative Direction\n\nWriting Editing & Proofing\n\nTeam Management\nMarketing skills\n\n\nSales\nGeneral Management\n\nExcellent communication\nskills\ndesign by mish\n\n\nCOZA PRODUCTIONS\n\n\u2022\tContracted to do PR write up for the E3 Group of Companies \"CBC, Thermal Launch Event\", for various\nmedia groups and publications.\n\n\nACTIVE ORGANICS | ART SQUAD | IMPRIMIS | DALLAS MORNING NEWS\n\nCREATIVE | ART DIRECTOR\n\n\u2022\tCONCEPT AND DESIGN OF NEW PRODUCT PIECES\n\u2022\tPROOF READING AND EDITING\n\u2022\tAD DEVELOPMENT\n\u2022\tBROCHURES AND MARKETING PIECE DEVELOPMENT\n\u2022\tPRODUCT PHOTOGRAPHY\n\u2022\tPRE-PRESS\n\u2022\tQUALITY CONTROL\n\u2022\tTRADE SHOW GRAPHICS\n\u2022\tPACKAGING DESIGN\n\u2022\tPOP\n\u2022\tLENTICULAR DESIGN\n\u2022\tMAGAZINE INSERTS AND ADVERTS\n\nWorking on individual contracts, on a client to client basis, involved taking full initiative in researching,\ncopywriting, checking current trends in various markets, designing marketable and informative through the line\npieces, packaging for retail. Working with outside vendors in print, public relations, material sourcing etc.\nWorking with upper management, company owners and marketing staff. Developing pieces that can easily\ncrossover onto different media platforms, while maintaining relevancy and impact.\n\n\nFULL TIME POSITIONS\n\nPANACHE PARTNERS | 2004-2008 (as well as current contract) | Dallas, | CREATIVE | ART DIRECTOR\n\n\u2022\tART DIRECTION\n\u2022\tPROJECT MANAGEMENT\n\u2022\tTEAM MANAGEMENT\n\u2022\tCONCEPT DESIGN OF NEW PRODUCTS LAYOUT OF COFFEE TABLE BOOKS\n\u2022\tPHOTOGRAPHY\n\u2022\tAD DEVELOPMENT\n\u2022\tBROCHURES AND MARKETING PIECES\n\u2022\tPRE-PRESS LOCAL AND OFF-SHORE QUALITY CONTROL\n\nMy position at Panache involved a high degree of project management, and adhering to strict design protocols,\nwhich I was integral in developing. As a new company, I was brought in at ground level, and started out as a\ndesigner, quickly moving up the ranks to Senior Designer, and then Art Director. Hiring and training of new staff,\nas well as working closely with marketing, management, and editorial staff; preparing quarterly staff reviews\nand yearly departmental projection; being a part of the concept and design process, and working directly with\nclientele were all a part of the many hats I wore.\n\n\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~   |    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   |    ~~~~~~~~~~~~~~~~~~~~~~  \ndesign by mish\n\n\nAVIDGOLFER MAGAZINE | 2001-2004 | Irving, TX | SR. GRAPHIC DESIGNER\n\n\u2022\tGRAPHIC DESIGN\n\u2022\tWEBMASTER\n\u2022\tNEW ADVERTISEMENT DESIGN\n\u2022\tSPECIAL PROJECTS\n\u2022\tCONTENT LAYOUT\n\u2022\tCONTENT RESEARCH\n\nI started out as a designer and was soon promoted to Senior Designer. As a senior designer for Avidgolfer\nmagazine, I was heavily involved in the production, timely receipt, and design of materials involved in a monthly\neditorial. Part and parcel was working closely with the Art Director, being involved in photo-shoots, researching\ncurrent trends, special interest pieces, new products and stories for inclusion. I was also responsible for the\ndesign, production and proofing of the special segment portion.\n\n\nFINE PRINT INC | 1999-2001 Dallas, TX | LEAD\/SENIOR DESIGNER\n\n\u2022\tPRINT AND WEB DESIGN\n\u2022\tE-FLYERS\n\u2022\tPROMOTIONAL MATERIAL\n\u2022\tPRE PRESS\n\u2022\tPRODUCTION\n\u2022\tPHOTOGRAPHY\n\u2022\tMANAGING BILLING\n\u2022\tMANAGING ADDITIONAL DESIGNER ART DIRECTION\n\nI started out as a Junior Designer and was promoted to Head Designer after 4 months. This position involved a large\namount of self management and timely distribution and management of workload. Large volumes of time sensitive\nmaterial, each needing to be priced and worked within budget on a daily basis. Development of new material, and\nenhancing and re-development of existing materials with limited time and resources was not uncommon, leading\nto a need for thinking outside the box and coming up with new and fresh ways to achieve high end goals.\n\n*NOTABLE | Future repeat client contracts were aquired through this position.\n\nLAST POSITION PRIOR TO USA MOVE | South Africa | 1996-1998\n\nNEWSCLIP MEDIA MONITORING AGENCY\t  Johannesburg, SA\n\n\u2022\tTOP 100 ACCOUNT MANAGEMENT\n\u2022\tQUALITY CONTROL\n\u2022\tNEW BUSINESS DEVELOPMENT\n\u2022\tFOLLOWING MEDIA COVERAGE ON TOP 100 CLIENTS\n\u2022\tREPORT WRITING\n\u2022\tPRESENTATION OF STATISTIC MATERIAL\n\u2022\tPREPARATION OF PRESENTATION MATERIAL & CUSTOMER SERVICE\n\nSENIOR MARKETING\/CLIENT LIASON\n\n* NOTABLE | Top performing Cliant Liason in both existing and new business development.\n\nADDITIONAL EXPERIENCE\n\nAdditional work experience gathered over a nineteen-year work span includes marketing skills, promotional\nskills, sales, project management, proof reading, editing, and workflow management, staff management and\ntraining, mentoring, art and creative direction, photography, budgeting, market research, packaging design,\nand a can do attitude!\n\n\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~   |    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   |    ~~~~~~~~~~~~~~~~~~~~~~  \ndesign by mish\n\n\nIN CLOSING\n\nI offer old-fashioned work-ethic, spiced liberally with modern perspective, as well as excellent prioritization and\nleadership abilities developed over years of local, and international work experience--and through balancing\nrigorous academic and employment objectives.\n\nI am professionally committed and responsible, adapt easily to new situations, and successfully handle a wide\nrange of functions, using a combination of creative, organizational, writing, marketing, and management skills.\n\nI maintain focus in demanding work environments and under deadline conditions. I meet challenges head-on\nand always find ways to effectively complete multiple assignments or tasks.\n\nFor the past ten years I have been immersed in the publishing and print industry. I have worked closely with\ndesigners, editors, marketing staff, local and off-shore printers, members of management, and company owners. I\nhave helped develop company systems, strategies and have implemented essential quality control procedures.\n\nMy commitment is one of ownership and integrity.\n\n\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~   |    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   |    ~~~~~~~~~~~~~~~~~~~~~~  ",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-10-02",
+        "SovrenSignature": [
+            "CakAAAAAAAA="
+        ]
+    }
+}

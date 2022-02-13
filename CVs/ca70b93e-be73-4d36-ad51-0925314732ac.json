@@ -1,0 +1,2229 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "GeoCoordinates": {
+                "Latitude": 45.03274154663086,
+                "Longitude": -93.3602294921875
+            }
+        }
+    },
+    "Education": {
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "\u2022 Nielsen Norman Group - Certified User Experience Professional courses - 2016\n\u2022 Brown College, Minneapolis, MN - Computer Programming",
+                "SchoolName": {
+                    "Raw": "Brown College",
+                    "Normalized": "Brown College"
+                },
+                "SchoolType": "college",
+                "Degree": [],
+                "Majors": [
+                    "Computer Programming"
+                ],
+                "LastEducationDate": {
+                    "Date": "2016-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            },
+            {
+                "Id": "DEG-2",
+                "Text": "\u2022 Berklee College of Music, Boston, Massachusetts - Music Performance Major\n\u2022 MS Project - project management software course, ExecuTrain, Inc.\n\u2022 \"Projex\" Project Planning and Management Methodologies course and workshop, Constell Group, Inc\n\u2022 Visual Basic course and workshop, Connect Education Services\n\u2022 Beginning Visual Basic course and workshop, Watermark Technical Services\n\u2022 Object-Oriented Analysis and Design course, Office Information Systems\n\u2022 Introduction to Object-Oriented Programming course, Office Information Systems\n\u2022 Logical Database Design and Development course, Office Information Systems\n\u2022 C++ Programming Workshop, Office Information Systems",
+                "SchoolName": {
+                    "Raw": "Berklee College of Music",
+                    "Normalized": "Berklee College of Music"
+                },
+                "SchoolType": "college",
+                "Degree": [],
+                "Majors": [
+                    "Music Performance"
+                ]
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "William Gaskill is experienced in:  Information Technology (QA and QC); and User Experience (User Research). William Gaskill has 14 years of work experience, with 2 years of management experience, including a low-level position.",
+            "MonthsOfWorkExperience": 168,
+            "MonthsOfManagementExperience": 27,
+            "ExecutiveType": "NONE",
+            "AverageMonthsPerEmployer": 24,
+            "FulltimeDirectHirePredictiveIndex": 14,
+            "ManagementStory": "Starting on 8\/1\/2019, the candidate held the following low-level management position for 6 months:\n\tTitle: Lead Employee Experience Strategist for Best Buy\nStarting on 3\/1\/2018, the candidate held the following low-level management position for 10 months:\n\tTitle: Lead UX Researcher for Best Buy\nStarting on 2\/1\/2014, the candidate held the following low-level management position for 11 months:\n\tTitle: UX Lead for MakeMusic",
+            "CurrentManagementLevel": "low-level",
+            "ManagementScore": 20
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Best Buy",
+                        "Normalized": "Best Buy"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Lead Employee Experience Strategist",
+                    "Normalized": "Lead Employee Experience Strategist",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2019-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-02-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "temp",
+                "TaxonomyName": "User Experience",
+                "SubTaxonomyName": "User Research",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Innovated and defined processes for user research at Best Buy to include:\n\u2022 Empathy mapping workshops\n\u2022 Journey mapping workshops\n\u2022 Leveraging past persona work to speed time to delivery\n\u2022 Experience mapping workshops\n\u2022 Presentations to business and tech partners\n\u2022 Operationalizing processes on the research and strategy team"
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Best Buy",
+                        "Normalized": "Best Buy"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Lead UX Researcher",
+                    "Normalized": "Lead UX Researcher",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2018-03-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2018-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "temp",
+                "TaxonomyName": "User Experience",
+                "SubTaxonomyName": "User Research",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Conducted and designed processes for user research to include:\n\u2022 Stakeholder interviews\n\u2022 Usability Testing\n\u2022 Contextual interviews\n\u2022 Persona Workshops\n\u2022 Solution software evaluations\n\u2022 Journey mapping\n\u2022 Presentations to business and tech partners\n\u2022 Introduce processes to other researchers"
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "US Bank",
+                        "Normalized": "US Bank"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "UX Design Researcher",
+                    "Normalized": "UX Design Researcher",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2019-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2019-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "temp",
+                "TaxonomyName": "User Experience",
+                "SubTaxonomyName": "User Research",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Led and conducted the following user research events for the Personalization Journey team:\n\u2022 Generative research\n\u2022 Primary and secondary research\n\u2022 Contextual interviews\n\u2022 Persona workshops\/co-creations\n\u2022 Remote and in person user interviews\n\u2022 Presentations to business leaders\n\u2022 Coordinating across teams to utilize past learnings"
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "Taylor Digital",
+                        "Normalized": "Taylor Digital"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "User Experience \/ Strategic Researcher",
+                    "Normalized": "User Experience Strategic Researcher",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Strategic Researcher"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2017-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2018-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "temp",
+                "TaxonomyName": "User Experience",
+                "SubTaxonomyName": "User Research",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "\"Operationalized\" UX research and expanded it to include strategic product research for the new Klic Marketplace e-commerce application using:\n\u2022 Contextual interviews\n\u2022 Customer journey mapping\n\u2022 UX Pin to document processes interactively\n\u2022 Presenting processes to improve communication to the strategy and planning team\n\u2022 Remote user testing of early semi-interactive prototypes\n\u2022 In person testing of advanced prototypes\n\u2022 Drove processes on Planning and Strategy Team to operationalize input from SME's and verifying assumptions about future work"
+            },
+            {
+                "Id": "POS-5",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Proto Labs",
+                        "Normalized": "Proto Labs"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "User Experience Specialist",
+                    "Normalized": "User Experience Specialist",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2015-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2017-04-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "QA and QC",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "Drove B2B e-commerce research efforts and created interactive prototypes to demonstrate parallel design ideas from that research including:\n\u2022 Heuristic evaluations\n\u2022 Card sorting\n\u2022 Persona creation\n\u2022 Contextual interviews and observations\n\u2022 A\/B testing\n\u2022 Led a five-country remote and in-person international usability research effort, managing outside vendors in four languages, collating into one accessible report\n\u2022 Created a corporate style guide, interaction guidelines, collected design patterns which had been tested and proven\n\u2022 Transformed the product management group's thinking from guessing about users to making evidence-based decisions"
+            },
+            {
+                "Id": "POS-6",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "MakeMusic",
+                        "Normalized": "MakeMusic"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "UX Lead",
+                    "Normalized": "UX Lead",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2014-02-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2015-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Internet",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Led the research effort for the redesign of a major web-based education product using:\n\u2022 Heuristic evaluations\n\u2022 In person usability testing\n\u2022 Contextual interviews\n\u2022 Persona creation\n\u2022 Style guides\n\u2022 Feeding research findings to designers and developers in a timely and effective manner\n\u2022 Created and tested a complete interactive prototype redesign of the SmartMusic product which was launched in 2017\n\u2022  Helped the UX team grow and flourish with support from vice president of products and supply evidence of which design works best and why\n\u2022 UX Guidelines were published on SharePoint"
+            },
+            {
+                "Id": "POS-7",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Fifth Element Solutions",
+                        "Normalized": "Fifth Element Solutions"
+                    }
+                },
+                "IsSelfEmployed": true,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Freelance Consultant",
+                    "Normalized": "Freelance Consultant",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Consultant"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2008-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2014-02-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "contract",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "Project Management",
+                "JobLevel": "Low Level",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2022 Redesigned the UX for an e-commerce website at a leading fitness company\n\u2022 Implemented an informal user study methodology to test concepts and collect user artifacts for a major fitness company's C2C e-commerce project\n\u2022  Merged best practices of both Agile and User Experience to form a truly lean and less-do-over development environment while delighting the user base through direct engagement at an e-learning company\n\u2022 Partnered with the University of Minnesota's design program to provide a real world UX experience for students; mentored class groups and spoke at the University several times"
+            },
+            {
+                "Id": "POS-8",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Minnetronix, Inc",
+                        "Normalized": "Minnetronix"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Senior Usability \/Human Factors Engineer",
+                    "Normalized": "Senior Usability Human Factors Engineer",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Senior Usability",
+                        "Human Factors Engineer",
+                        "Usability \/Human Factors Engineer"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2005-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2008-05-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Information Technology",
+                "SubTaxonomyName": "QA and QC",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2022 Re-wrote the Standard Operating Procedure for User Centered Design based on Human Factors research and upcoming FDA guideline changes\n\u2022 Conducted on-site user research and usability testing in hospital, lab and business environments, and reported the findings to the client.\n\u2022 Designed, developed and tested UI prototypes and iterated Usability Specifications and Design Documents meeting or exceeding government quality standards.\n\u2022 Evangelized the benefits of usability to the larger internal organization and introduced the IT department to these techniques.\n\u2022 Participated in the international AAMI Human Factors conference and reviewed documents for use in the international HE 75 standard.\n\n\nEducation, Training & Accomplishments"
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 35,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "200",
+                            "SubTaxonomyName": "QA and QC",
+                            "PercentOfOverall": 15,
+                            "PercentOfParent": 43,
+                            "Skills": [
+                                {
+                                    "Id": "025582",
+                                    "Name": "Maestro",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "014127",
+                                            "Name": "Compuware",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "010313",
+                                    "Name": "Usability",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-8"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 82
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "010300",
+                                    "Name": "Usability Testing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-8"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 55
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-12-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "555",
+                            "SubTaxonomyName": "Enterprise Storage",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 15,
+                            "Skills": [
+                                {
+                                    "Id": "5551150",
+                                    "Name": "HP-UX",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555115001",
+                                            "Name": "UX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-6"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-7"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 101
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2019-07-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 101
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-07-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "203",
+                            "SubTaxonomyName": "UNIX and LINUX",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 15,
+                            "Skills": [
+                                {
+                                    "Id": "01026309",
+                                    "Name": "UNIX",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "010377",
+                                            "Name": "UX",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-6"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-7"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 101
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2019-07-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 101
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-07-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "204",
+                            "SubTaxonomyName": "Programming",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 9,
+                            "Skills": [
+                                {
+                                    "Id": "012287",
+                                    "Name": "C++",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "024748",
+                                    "Name": "Computer Programming",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "2016-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "015257",
+                                    "Name": "Design Patterns",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-04-01"
+                                    }
+                                },
+                                {
+                                    "Id": "018626",
+                                    "Name": "GUI",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "022952",
+                                    "Name": "MS Project",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "023329",
+                                    "Name": "Object-Oriented",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "003631",
+                                            "Name": "Object-Oriented Programming",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "EDUCATION",
+                                                    "Id": "DEG-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "022210",
+                                    "Name": "Visual Basic",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "199",
+                            "SubTaxonomyName": "Project Management",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "555154520",
+                                    "Name": "Agile",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 68
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-02-01"
+                                    }
+                                },
+                                {
+                                    "Id": "005633",
+                                    "Name": "Product Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-04-01"
+                                    }
+                                },
+                                {
+                                    "Id": "005820",
+                                    "Name": "Project Planning",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "196",
+                            "SubTaxonomyName": "Internet",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "022195",
+                                    "Name": "Sharepoint",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "024402",
+                                    "Name": "WEB Based",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "02440201",
+                                            "Name": "WEB-Based",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-6"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 11
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2015-01-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "731",
+                            "SubTaxonomyName": "User Interface",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 4,
+                            "Skills": [
+                                {
+                                    "Id": "7310026",
+                                    "Name": "Design Patterns",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-04-01"
+                                    }
+                                },
+                                {
+                                    "Id": "7310031",
+                                    "Name": "Graphical User Interface",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "7310032",
+                                            "Name": "GUI",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "7310067",
+                                    "Name": "User Interface",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "7310068",
+                                            "Name": "UI",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-8"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 34
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2008-05-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 34
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2008-05-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "554",
+                            "SubTaxonomyName": "Business Intelligence",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "5540950",
+                                    "Name": "Microsoft Project",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "554095002",
+                                            "Name": "MS Project",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "EDUCATION",
+                                                    "Id": "DEG-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "5540951",
+                                    "Name": "Microsoft Sharepoint",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "554095101",
+                                            "Name": "Sharepoint",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-6"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 11
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2015-01-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 11
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2015-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "193",
+                            "SubTaxonomyName": "Database",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "022486",
+                                    "Name": "Database",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "026777",
+                                    "Name": "Database Modeling",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "015032",
+                                            "Name": "Database Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "EDUCATION",
+                                                    "Id": "DEG-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "194",
+                            "SubTaxonomyName": "Help Desk",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "009265",
+                                    "Name": "Technical Services",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "201",
+                            "SubTaxonomyName": "Architecture",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "010321",
+                                    "Name": "User Centered Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-8"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 34
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2008-05-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "253",
+                            "SubTaxonomyName": "Protocols and Standards",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "019134",
+                                    "Name": "Human Factors",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-8"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 34
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2008-05-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 29,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "558",
+                            "SubTaxonomyName": "User Research",
+                            "PercentOfOverall": 27,
+                            "PercentOfParent": 92,
+                            "Skills": [
+                                {
+                                    "Id": "5570010",
+                                    "Name": "Card Sorting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-04-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5570206",
+                                    "Name": "Heuristic Evaluations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 38
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-04-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5570006",
+                                    "Name": "Usability Testing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-6"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-8"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 55
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-12-31"
+                                    }
+                                },
+                                {
+                                    "Id": "5570211",
+                                    "Name": "User Research",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-8"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 57
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-01"
+                                    }
+                                },
+                                {
+                                    "Id": "5570208",
+                                    "Name": "User Testing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 5
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "565",
+                            "SubTaxonomyName": "Visual Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "5570075",
+                                    "Name": "User Experience Design",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570076",
+                                            "Name": "UX Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 7
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2019-07-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 7
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-07-31"
+                                    }
+                                },
+                                {
+                                    "Id": "5570243",
+                                    "Name": "Visual Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "573",
+                            "SubTaxonomyName": "Product Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "5570161",
+                                    "Name": "User Experience Design",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570162",
+                                            "Name": "UX Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 7
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2019-07-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 7
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-07-31"
+                                    }
+                                },
+                                {
+                                    "Id": "5570164",
+                                    "Name": "Visual Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "5570060",
+                                    "Name": "User Experience Design",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570061",
+                                            "Name": "UX Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 7
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2019-07-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 7
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-07-31"
+                                    }
+                                },
+                                {
+                                    "Id": "5570065",
+                                    "Name": "Visual Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "560",
+                            "SubTaxonomyName": "UX Design",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "5570017",
+                                    "Name": "User Experience Design",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570018",
+                                            "Name": "UX Design",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 7
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2019-07-31"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 7
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-07-31"
+                                    }
+                                },
+                                {
+                                    "Id": "5570022",
+                                    "Name": "Visual Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "562",
+                            "SubTaxonomyName": "Interaction Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "5570047",
+                                    "Name": "Visual Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "567",
+                            "SubTaxonomyName": "Information Architect",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "5570102",
+                                    "Name": "Human Factors",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-8"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 34
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2008-05-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "561",
+                            "SubTaxonomyName": "Human Computer Interaction",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "5570027",
+                                    "Name": "Human Factors",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-8"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 34
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2008-05-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 23,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "599",
+                            "SubTaxonomyName": "Digital",
+                            "PercentOfOverall": 18,
+                            "PercentOfParent": 81,
+                            "Skills": [
+                                {
+                                    "Id": "1400241",
+                                    "Name": "User Experience",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 100
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-01-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1400247",
+                                    "Name": "Visual Design",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "595",
+                            "SubTaxonomyName": "Advertising",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "1400202",
+                                    "Name": "B2B",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-04-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "590",
+                            "SubTaxonomyName": "Channel, Partner & Ecosystem Marketing",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "1400117",
+                                    "Name": "B2B",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-04-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "223",
+                            "SubTaxonomyName": "Market Research",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "1400054",
+                                    "Name": "Nielsen",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION",
+                                            "Id": "DEG-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "LastUsed": {
+                                        "Value": "2016-01-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "585",
+                            "SubTaxonomyName": "Product",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "1400021",
+                                    "Name": "Product Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-04-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "227",
+                            "SubTaxonomyName": "Brand Management",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "081161",
+                                    "Name": "Product Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-04-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 6,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "298",
+                            "SubTaxonomyName": "Surveying",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 96,
+                            "Skills": [
+                                {
+                                    "Id": "023035",
+                                    "Name": "TOPO",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "021224",
+                                            "Name": "Mapping",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-1"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-3"
+                                                },
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 21
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2020-02-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 21
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-02-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "138",
+                            "SubTaxonomyName": "Mechanical",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "080849",
+                                    "Name": "Human Factors",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-8"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 34
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2008-05-31"
+                                    }
+                                },
+                                {
+                                    "Id": "019136",
+                                    "Name": "Human Factors Engineer",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-8"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 34
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2008-05-31"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "146",
+                            "SubTaxonomyName": "Telecom",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 2,
+                            "Skills": [
+                                {
+                                    "Id": "022258",
+                                    "Name": "Product Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-04-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "264",
+                            "SubTaxonomyName": "Techniques",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "080633",
+                                    "Name": "Human Factors",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-8"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 34
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2008-05-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "64",
+                    "Name": "Training",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "359",
+                            "SubTaxonomyName": "Computer-Based",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 84,
+                            "Skills": [
+                                {
+                                    "Id": "015921",
+                                    "Name": "E-Learning",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 68
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-02-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "361",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 16,
+                            "Skills": [
+                                {
+                                    "Id": "019876",
+                                    "Name": "Instructor",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 99,
+                            "Skills": [
+                                {
+                                    "Id": "011365",
+                                    "Name": "Best Practices",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-7"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 68
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2014-02-01"
+                                    }
+                                },
+                                {
+                                    "Id": "005634",
+                                    "Name": "Product Management",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-04-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "436",
+                            "SubTaxonomyName": "Management Activities or Functions",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "017857",
+                                    "Name": "Forecasting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "27",
+                    "Name": "Light Technical\/Trades\/Skilled Labor",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "289",
+                            "SubTaxonomyName": "Printing",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "013777",
+                                    "Name": "Collating",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-04-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "15",
+                    "Name": "Scientific",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "376",
+                            "SubTaxonomyName": "Basic",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "010299",
+                                    "Name": "Usability Research",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-04-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "13",
+                    "Name": "Manufacturing",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "364",
+                            "SubTaxonomyName": "Equipment",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "024719",
+                                    "Name": "Sorting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-04-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "11",
+                    "Name": "General Non-Skilled Labor",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "304",
+                            "SubTaxonomyName": "Non-Construction Labor",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "024718",
+                                    "Name": "Sorting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-04-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "1",
+                    "Name": "Administrative or Clerical",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "109",
+                            "SubTaxonomyName": "Document-centric",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "008387",
+                                    "Name": "Sorting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-5"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 27
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-04-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "7",
+                    "Name": "Finance",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "705",
+                            "SubTaxonomyName": "Accounting",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "7000318",
+                                    "Name": "Forecasting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "245",
+                            "SubTaxonomyName": "Compliance",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 50,
+                            "Skills": [
+                                {
+                                    "Id": "023164",
+                                    "Name": "Forecasting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "28",
+                    "Name": "Clinical",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "278",
+                            "SubTaxonomyName": "Regulatory",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "017215",
+                                    "Name": "FDA",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-8"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 34
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2008-05-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "86",
+                    "Name": "Government",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "524",
+                            "SubTaxonomyName": "Regulatory",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "017214",
+                                    "Name": "FDA",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-8"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 34
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2008-05-31"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "230",
+                            "SubTaxonomyName": "Planning and Analysis",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "024342",
+                                    "Name": "Microsoft Project",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "022951",
+                                            "Name": "MS Project",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "EDUCATION",
+                                                    "Id": "DEG-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Certifications": [
+        {
+            "Name": "Certified Software Instructor",
+            "MatchedFromList": false,
+            "IsVariation": false
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "Achievements": [
+        "Minnesota Music Awards - Nominated for \"Best Horns\", 1980",
+        "Featured saxophonist on the compilation \"Purple Snow: Forecasting the Minneapolis Sound\" on Numero records",
+        "Design of Fifth Element Solutions process and attending materials, 2001",
+        "Certified Software Instructor - Compuware, Inc, 1997",
+        "Dayton-Hudson (Target) Corporation Visual Design Guide GUI Standards booklet and poster, published in 1997",
+        "Prudential Preferred GUI Standards booklet, published in 1996"
+    ],
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 23,
+                "LastLineNumber": 113,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "Project History"
+            },
+            {
+                "FirstLineNumber": 114,
+                "LastLineNumber": 127,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "Education and Training"
+            },
+            {
+                "FirstLineNumber": 128,
+                "LastLineNumber": 135,
+                "SectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+                "HeaderTextFound": "Other Accomplishments"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "211",
+                        "Message": "An email address was not found in the contact information. A resume should always include an email address."
+                    },
+                    {
+                        "QualityCode": "212",
+                        "Message": "A phone number was not found in the contact information. A resume should always include a phone number."
+                    },
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    },
+                    {
+                        "QualityCode": "231",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "DEG-1"
+                            },
+                            {
+                                "SectionType": "DEG-2"
+                            }
+                        ],
+                        "Message": "Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~~~~~~~~~~~~  \n\nBill has innovated strategic user experience solutions to solve customer problems and design challenges for nearly 30 years.\nHe has driven to great outcomes in the software and web industries, e-commerce, e-learning, medical systems, on customer\/consumer facing and B2B web sites and personal devices.\n\nHighlights of Bill's Experience\n\u2022 Leading and mentoring UX Design and research teams\n\u2022 Pioneering UX Strategy in multiple organizations\n\u2022 Producing unique and valuable insights in user research and analysis of findings\n\u2022 Driver of best practices in User Centered Design\n\u2022 Reports and tools which motivate clients to act\n\u2022 Moderated and unmoderated studies in a diverse portfolio of techniques\n\u2022 Led studies at dedicated usability labs since 1995\n\u2022 Ongoing education and interest in design patterns, emerging technologies, project management tools, web analytics remote testing and employee mentoring\n\n\nBill has worked in full lifecycle development environments on multiple platforms, including handheld devices, touch screens, kiosks, embedded systems, IT applications, digital manufacturing, music software, and supply chain systems.  He is familiar with and knows when to apply responsive design versus targeted device design.\n\nBill has led complex UX efforts and user experience teams at multiple engagements and lectured at colleges and universities on the subject of User Centered Design. Bill participated in the usability conference on medical device association called AAMI and contributed in reviewing FDA and international standards for ease of use and product safety.\n\nMany of Bill's projects are complex, data driven applications using diverse platforms to deliver successful user and client-centric solutions.  In addition to his technical accomplishments, Bill enjoys writing and performing music in his spare time.\n\n\nProject History\n\n(Contract) Best Buy\nLead Employee Experience Strategist\t\t\tAugust 2019 - February 2020\nInnovated and defined processes for user research at Best Buy to include:\n\u2022 Empathy mapping workshops\n\u2022 Journey mapping workshops\n\u2022 Leveraging past persona work to speed time to delivery\n\u2022 Experience mapping workshops\n\u2022 Presentations to business and tech partners\n\u2022 Operationalizing processes on the research and strategy team\n\n(Contract) US Bank\nUX Design Researcher\tJanuary 2019 - July 2019\nLed and conducted the following user research events for the Personalization Journey team:\n\u2022 Generative research\n\u2022 Primary and secondary research\n\u2022 Contextual interviews\n\u2022 Persona workshops\/co-creations\n\u2022 Remote and in person user interviews\n\u2022 Presentations to business leaders\n\u2022 Coordinating across teams to utilize past learnings\n\n\n(Contract) Best Buy\nLead UX Researcher\tMarch 2018 - December 2018\nConducted and designed processes for user research to include:\n\u2022 Stakeholder interviews\n\u2022 Usability Testing\n\u2022 Contextual interviews\n\u2022 Persona Workshops\n\u2022 Solution software evaluations\n\u2022 Journey mapping\n\u2022 Presentations to business and tech partners\n\u2022 Introduce processes to other researchers\n\n\n(Contract) Taylor Digital\nUser Experience \/ Strategic Researcher\t\tAugust 2017 - January 2018\n\"Operationalized\" UX research and expanded it to include strategic product research for the new Klic Marketplace e-commerce application using:\n\u2022 Contextual interviews\n\u2022 Customer journey mapping\n\u2022 UX Pin to document processes interactively\n\u2022 Presenting processes to improve communication to the strategy and planning team\n\u2022 Remote user testing of early semi-interactive prototypes\n\u2022 In person testing of advanced prototypes\n\u2022 Drove processes on Planning and Strategy Team to operationalize input from SME's and verifying assumptions about future work\n\n\nProto Labs\nUser Experience Specialist\tJanuary 2015 - April 2017\nDrove B2B e-commerce research efforts and created interactive prototypes to demonstrate parallel design ideas from that research including:\n\u2022 Heuristic evaluations\n\u2022 Card sorting\n\u2022 Persona creation\n\u2022 Contextual interviews and observations\n\u2022 A\/B testing\n\u2022 Led a five-country remote and in-person international usability research effort, managing outside vendors in four languages, collating into one accessible report\n\u2022 Created a corporate style guide, interaction guidelines, collected design patterns which had been tested and proven\n\u2022 Transformed the product management group's thinking from guessing about users to making evidence-based decisions\n\nMakeMusic\nUX Lead\tFebruary 2014 - January 2015\nLed the research effort for the redesign of a major web-based education product using:\n\u2022 Heuristic evaluations\n\u2022 In person usability testing\n\u2022 Contextual interviews\n\u2022 Persona creation\n\u2022 Style guides\n\u2022 Feeding research findings to designers and developers in a timely and effective manner\n\u2022 Created and tested a complete interactive prototype redesign of the SmartMusic product which was launched in 2017\n\u2022  Helped the UX team grow and flourish with support from vice president of products and supply evidence of which design works best and why\n\u2022 UX Guidelines were published on SharePoint\n\nFreelance Consultant\/Fifth Element Solutions\nConsultant\tJune 2008 - February 2014\n\u2022 Redesigned the UX for an e-commerce website at a leading fitness company\n\u2022 Implemented an informal user study methodology to test concepts and collect user artifacts for a major fitness company's C2C e-commerce project\n\u2022  Merged best practices of both Agile and User Experience to form a truly lean and less-do-over development environment while delighting the user base through direct engagement at an e-learning company\n\u2022 Partnered with the University of Minnesota's design program to provide a real world UX experience for students; mentored class groups and spoke at the University several times\n\nMinnetronix, Inc.\nSenior Usability \/Human Factors Engineer\t\t\tAugust 2005 -May 2008\n\u2022 Re-wrote the Standard Operating Procedure for User Centered Design based on Human Factors research and upcoming FDA guideline changes\n\u2022 Conducted on-site user research and usability testing in hospital, lab and business environments, and reported the findings to the client.\n\u2022 Designed, developed and tested UI prototypes and iterated Usability Specifications and Design Documents meeting or exceeding government quality standards.\n\u2022 Evangelized the benefits of usability to the larger internal organization and introduced the IT department to these techniques.\n\u2022 Participated in the international AAMI Human Factors conference and reviewed documents for use in the international HE 75 standard.\n\n\nEducation, Training & Accomplishments\nEducation and Training\n\n\u2022 Nielsen Norman Group - Certified User Experience Professional courses - 2016\n\u2022 Brown College, Minneapolis, MN - Computer Programming\n\u2022 Berklee College of Music, Boston, Massachusetts - Music Performance Major\n\u2022 MS Project - project management software course, ExecuTrain, Inc.\n\u2022 \"Projex\" Project Planning and Management Methodologies course and workshop, Constell Group, Inc\n\u2022 Visual Basic course and workshop, Connect Education Services\n\u2022 Beginning Visual Basic course and workshop, Watermark Technical Services\n\u2022 Object-Oriented Analysis and Design course, Office Information Systems\n\u2022 Introduction to Object-Oriented Programming course, Office Information Systems\n\u2022 Logical Database Design and Development course, Office Information Systems\n\u2022 C++ Programming Workshop, Office Information Systems\n\nOther Accomplishments\n\n\u2022 Featured saxophonist on the compilation \"Purple Snow: Forecasting the Minneapolis Sound\" on Numero records.\n\u2022 Design of Fifth Element Solutions process and attending materials, 2001\n\u2022 Certified Software Instructor - Compuware, Inc, 1997\n\u2022 Dayton-Hudson (Target) Corporation Visual Design Guide GUI Standards booklet and poster, published in 1997\n\u2022 Prudential Preferred GUI Standards booklet, published in 1996\n\u2022 Minnesota Music Awards - Nominated for \"Best Horns\", 1980",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-11-03",
+        "SovrenSignature": [
+            "KcQCAAAAAAA="
+        ]
+    }
+}

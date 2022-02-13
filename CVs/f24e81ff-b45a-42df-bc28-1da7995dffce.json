@@ -1,0 +1,1466 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "CountryCode": "US",
+            "PostalCode": "48188",
+            "Regions": [
+                "MI"
+            ],
+            "Municipality": "Canton",
+            "GeoCoordinates": {
+                "Latitude": 40.7127799987793,
+                "Longitude": -74.00596618652344
+            }
+        }
+    },
+    "Education": {
+        "HighestDegree": {
+            "Name": {
+                "Raw": "BACHELOR OF BUSINESS ADMINISTRATION",
+                "Normalized": "bachelors"
+            },
+            "Type": "bachelors"
+        },
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "BACHELOR OF BUSINESS ADMINISTRATION, Eastern Michigan University\nConcentration: Accounting Information Systems",
+                "SchoolName": {
+                    "Raw": "Eastern Michigan University",
+                    "Normalized": "Eastern Michigan University"
+                },
+                "SchoolType": "university",
+                "Degree": {
+                    "Name": {
+                        "Raw": "BACHELOR OF BUSINESS ADMINISTRATION",
+                        "Normalized": "bachelors"
+                    },
+                    "Type": "bachelors"
+                },
+                "Majors": [
+                    "Accounting Information Systems"
+                ]
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~~~~~~~   is experienced in:  Degreed Accounting (Accounts Payable).    ~~~~~~~~~~~~   has 5 years of work experience.",
+            "MonthsOfWorkExperience": 64,
+            "MonthsOfManagementExperience": 10,
+            "ExecutiveType": "NONE",
+            "AverageMonthsPerEmployer": 16,
+            "FulltimeDirectHirePredictiveIndex": 25,
+            "ManagementStory": "Starting on 10\/1\/2016, the candidate held the following low-level management position for 10 months:\n\tTitle: PART-TIME ACCOUNTANT\/SUPERVISOR for City of Wayne",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 25
+        },
+        "Positions": [
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "ZF North America",
+                        "Normalized": "ZF North America"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "MI"
+                        ],
+                        "Municipality": "Northville"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "ACCOUNTS PAYABLE SPECIALIST",
+                    "Normalized": "ACCOUNTS PAYABLE SPECIALIST",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2017-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2018-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Personal Attributes",
+                "SubTaxonomyName": "Attitude",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Skills:\n\u2022   Responsible for three-way invoice matching and payments, Accounts payable using SAP, on behalf of my four assigned plants\n\u2022   Collaborated with plant buyers to ensure invoices are\t Audit coordination processed, posted, and paid in a timely manner\n\u2022   Proposed changes within plant invoicing structure to improve   Detail-Oriented\nprocessing efficiency\n\u2022   Generated monthly accrual reporting, within SAP, for the\tFast Learner\nPlant Controllers\nFile and database"
+            },
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "City of Wayne",
+                        "Normalized": "City of Wayne"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "MI"
+                        ],
+                        "Municipality": "Wayne"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "PART-TIME ACCOUNTANT\/SUPERVISOR",
+                    "Normalized": "PART TIME ACCOUNTANT\/SUPERVISOR",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "PART-TIME ACCOUNTANT",
+                        "SUPERVISOR",
+                        "ACCOUNTANT\/SUPERVISOR",
+                        "ACCOUNTANT"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2016-10-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2017-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "temp",
+                "TaxonomyName": "Degreed Accounting",
+                "SubTaxonomyName": "Reconciliations",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Highly Organized\n\u2022   Established and documented procedures that were initially\nnon-existent\tInvoice and payment\n\u2022   Audited bi-weekly payroll reports to ensure pay, taxes, and\tprocessing retirement numbers were correct\n\u2022   Point of contact for banking paperwork and primary signer\tMicrosoft Access on all city checks\n\u2022   Reconciled daily cash deposit with end of day business\tMicrosoft Excel reports\n\u2022   Calculated and processed final retirement payments based\tMicrosoft PowerPoint\non contract terms\n\u2022   Security Administrator for all employees with access to BS&A   Microsoft Word\nSoftware\n\u2022   Worked with Plante Moran consultants to fix discrepancies in   Payroll and expense\nGeneral Ledger and Bank Reconciliations\tprocessing"
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "District Court",
+                        "Normalized": "District Court"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "MI"
+                        ],
+                        "Municipality": "Plymouth"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "PART-TIME ACCOUNTING CLERK",
+                    "Normalized": "PART TIME ACCOUNTING CLERK",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "ACCOUNTING CLERK"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2013-12-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2016-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "temp",
+                "TaxonomyName": "Degreed Accounting",
+                "SubTaxonomyName": "Accounts Payable",
+                "JobLevel": "Experienced (non-manager)",
+                "TaxonomyPercentage": 0,
+                "Description": "Reconciliations\n\u2022   Collaborated with IT to research software programs, which\nwould allow the Court to track fixed assets and calculate\tSage Accounting\ndepreciation.\n\u2022   Processed biweekly account payables\tSAP\nACCOUNTING CLERK,\n35th District Court, Plymouth, MI\n\n\u2022   Reconciled all activity between the Judicial Information Services Program, Sage 50\nAccounting, and bank statements\n\u2022   Compiled all necessary documents for the annual audit\n\u2022   Completed Payroll General Ledger entries when needed\n\u2022   Human Resource responsibility included health care calculations, travel\/expense\nreimbursement, and PTO tracking"
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Deloitte Tax LLP",
+                        "Normalized": "Deloitte Tax"
+                    },
+                    "Location": {
+                        "CountryCode": "US",
+                        "Regions": [
+                            "MI"
+                        ],
+                        "Municipality": "Ann Arbor"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "TAX PARAPROFESSIONAL",
+                    "Normalized": "TAX PARAPROFESSIONAL",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2006-02-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2007-06-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Finance",
+                "SubTaxonomyName": "Tax",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "\u2022   Setup of client data using Deloitte's tax procedures and Deloitte's computer programs\n\u2022   Initiated tax return data transfers, between US and India Deloitte offices\n\u2022   Preparation of 1040 tax returns for Tax Managers\n\u2022   Generated invoices for assigned Deloitte clients"
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "32",
+                    "Name": "Degreed Accounting",
+                    "PercentOfOverall": 47,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "933",
+                            "SubTaxonomyName": "Accounts Payable",
+                            "PercentOfOverall": 16,
+                            "PercentOfParent": 35,
+                            "Skills": [
+                                {
+                                    "Id": "004953",
+                                    "Name": "Account Payables",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 32
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "024735",
+                                    "Name": "Payables",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 32
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "004363",
+                                    "Name": "Payments",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 16
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-06-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "942",
+                            "SubTaxonomyName": "Auditing",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 16,
+                            "Skills": [
+                                {
+                                    "Id": "005584",
+                                    "Name": "Audit",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 38
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-06-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "257",
+                            "SubTaxonomyName": "Reconciliations",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 14,
+                            "Skills": [
+                                {
+                                    "Id": "010007",
+                                    "Name": "Bank Reconciliations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "023971",
+                                    "Name": "Reconciliations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 42
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "961",
+                            "SubTaxonomyName": "Payroll",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 13,
+                            "Skills": [
+                                {
+                                    "Id": "013437",
+                                    "Name": "Clerk",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 32
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "950",
+                            "SubTaxonomyName": "CPA",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 9,
+                            "Skills": [
+                                {
+                                    "Id": "025800",
+                                    "Name": "Accountant",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "7000058",
+                                    "Name": "Accounting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 32
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "932",
+                            "SubTaxonomyName": "Accounting",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "024145",
+                                    "Name": "Fixed Assets",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 32
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "944",
+                            "SubTaxonomyName": "Bookkeeping",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 6,
+                            "Skills": [
+                                {
+                                    "Id": "022499",
+                                    "Name": "Accounting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 32
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "022404",
+                                    "Name": "General Ledger",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 42
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "255",
+                            "SubTaxonomyName": "Tax",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "009196",
+                                    "Name": "Tax Returns",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 16
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2007-06-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "89",
+                    "Name": "Bookkeeping, Office Management",
+                    "PercentOfOverall": 15,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "533",
+                            "SubTaxonomyName": "Bookeeping Tasks",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 44,
+                            "Skills": [
+                                {
+                                    "Id": "005856",
+                                    "Name": "Accounting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        },
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 32
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "022291",
+                                    "Name": "Accounts Payable",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 6
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-06-01"
+                                    }
+                                },
+                                {
+                                    "Id": "022406",
+                                    "Name": "General Ledger",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 42
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "020123",
+                                    "Name": "Invoices",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 22
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-06-01"
+                                    }
+                                },
+                                {
+                                    "Id": "023641",
+                                    "Name": "Invoicing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 6
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-06-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "536",
+                            "SubTaxonomyName": "Bookeeping Software",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 42,
+                            "Skills": [
+                                {
+                                    "Id": "023646",
+                                    "Name": "Quickbooks",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 32
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "535",
+                            "SubTaxonomyName": "Payroll Tasks",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 14,
+                            "Skills": [
+                                {
+                                    "Id": "004365",
+                                    "Name": "Payroll",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 42
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-08-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 12,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "195",
+                            "SubTaxonomyName": "ERP and CRM",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 61,
+                            "Skills": [
+                                {
+                                    "Id": "007436",
+                                    "Name": "SAP",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 38
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-06-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "193",
+                            "SubTaxonomyName": "Database",
+                            "PercentOfOverall": 5,
+                            "PercentOfParent": 39,
+                            "Skills": [
+                                {
+                                    "Id": "022486",
+                                    "Name": "Database",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 6
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-06-01"
+                                    }
+                                },
+                                {
+                                    "Id": "021809",
+                                    "Name": "Microsoft Access",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-08-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "1",
+                    "Name": "Administrative or Clerical",
+                    "PercentOfOverall": 11,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "110",
+                            "SubTaxonomyName": "Billing and Collections",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 62,
+                            "Skills": [
+                                {
+                                    "Id": "022289",
+                                    "Name": "Accounts Payable",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 6
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-06-01"
+                                    }
+                                },
+                                {
+                                    "Id": "020120",
+                                    "Name": "Invoice",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 16
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-06-01"
+                                    }
+                                },
+                                {
+                                    "Id": "020124",
+                                    "Name": "Invoices",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 22
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-06-01"
+                                    }
+                                },
+                                {
+                                    "Id": "023639",
+                                    "Name": "Invoicing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 6
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-06-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "117",
+                            "SubTaxonomyName": "Accounting Related",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 38,
+                            "Skills": [
+                                {
+                                    "Id": "022783",
+                                    "Name": "Payroll",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 42
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-08-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 7,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "528",
+                            "SubTaxonomyName": "Attitude",
+                            "PercentOfOverall": 6,
+                            "PercentOfParent": 83,
+                            "Skills": [
+                                {
+                                    "Id": "015338",
+                                    "Name": "Detail-Oriented",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 6
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-06-01"
+                                    }
+                                },
+                                {
+                                    "Id": "017194",
+                                    "Name": "Fast Learner",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 6
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-06-01"
+                                    }
+                                },
+                                {
+                                    "Id": "010514",
+                                    "Name": "Very Organized",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "0105142",
+                                            "Name": "Highly Organized",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 10
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2017-08-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "532",
+                            "SubTaxonomyName": "Aptitudes",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 17,
+                            "Skills": [
+                                {
+                                    "Id": "031029",
+                                    "Name": "Detail-Oriented",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 6
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-06-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "7",
+                    "Name": "Finance",
+                    "PercentOfOverall": 6,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "235",
+                            "SubTaxonomyName": "Financial Planning & Analysis",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 66,
+                            "Skills": [
+                                {
+                                    "Id": "022290",
+                                    "Name": "Accounts Payable",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 6
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2018-06-01"
+                                    }
+                                },
+                                {
+                                    "Id": "017570",
+                                    "Name": "Fixed Assets",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 32
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "006625",
+                                    "Name": "Reconciliations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 42
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "243",
+                            "SubTaxonomyName": "Other",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 16,
+                            "Skills": [
+                                {
+                                    "Id": "006181",
+                                    "Name": "Accounting Information Systems",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "EDUCATION"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "023147",
+                                    "Name": "Finance",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "PROFESSIONAL AFFILIATIONS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "242",
+                            "SubTaxonomyName": "Admin and Customer Service",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 15,
+                            "Skills": [
+                                {
+                                    "Id": "022405",
+                                    "Name": "General Ledger",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 42
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "702",
+                            "SubTaxonomyName": "Tax",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "555121726",
+                                    "Name": "Tax Returns",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "555121727",
+                                            "Name": "Tax Return",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 16
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2007-06-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 16
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2007-06-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "144",
+                            "SubTaxonomyName": "Computer Hardware",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "005997",
+                                    "Name": "PTO",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 32
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2016-08-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "12",
+                    "Name": "Legal",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "399",
+                            "SubTaxonomyName": "Real Estate",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "3990000",
+                                    "Name": "Real Estate",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "CERTIFICATIONS"
+                                        },
+                                        {
+                                            "SectionType": "LICENSES"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "022841",
+                                    "Name": "Excel",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "024810",
+                                    "Name": "Microsoft Excel",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "023613",
+                                    "Name": "Microsoft Powerpoint",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "021977",
+                                            "Name": "Powerpoint",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-2"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 10
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2017-08-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "022961",
+                                    "Name": "Microsoft Word",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 10
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2017-08-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Licenses": [
+        {
+            "Name": "LICENSED REAL ESTATE AGENT, Keller Williams Realty (August 2018)",
+            "MatchedFromList": false
+        },
+        {
+            "Name": "LICENSED REAL ESTATE AGENT, Keller Williams Realty",
+            "MatchedFromList": false
+        }
+    ],
+    "Associations": [
+        {
+            "Organization": "Social Media Coordinator for Canton High School Soccer Boosters",
+            "Role": ""
+        },
+        {
+            "Organization": "Canton Cup Tournament Registrar and Finance Committee",
+            "Role": "member"
+        },
+        {
+            "Organization": "Team Manager for Canton Soccer Club",
+            "Role": ""
+        },
+        {
+            "Organization": "Former Lead Chaperone for Plymouth-Canton Marching Band and Winter Guard",
+            "Role": ""
+        },
+        {
+            "Organization": "Bentley Elementary School Event Chairperson, which raised $1500 annually",
+            "Role": ""
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 8,
+                "LastLineNumber": 64,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "Work Experience"
+            },
+            {
+                "FirstLineNumber": 65,
+                "LastLineNumber": 69,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "Education"
+            },
+            {
+                "FirstLineNumber": 70,
+                "LastLineNumber": 72,
+                "SectionType": "LICENSES",
+                "HeaderTextFound": "Licenses"
+            },
+            {
+                "FirstLineNumber": 73,
+                "LastLineNumber": 78,
+                "SectionType": "PROFESSIONAL AFFILIATIONS",
+                "HeaderTextFound": "Volunteering"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    },
+                    {
+                        "QualityCode": "226",
+                        "Message": "We found no work history positions within the past year. A resume should include work history information, including time off, for the most recent year."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "-\n   ~~~~~~~~~~~~  \nTech-savvy, Accounting Professional with a strong work ethic and willingness to Contact:\nlearn new skills. Equipped with a broad range of knowledge for accounting\nprocesses and procedures, with over 7 years of experience. Proficient with Address:\nproblem-solving, multi-tasking, communication, and accounting software Canton, MI 48188\nprograms.\n   ~~~\n~~~~~~~~~~  \nWork Experience\nEmail:\n   ~~~~~~~~~~~~~~  \n12\/2017 -\tACCOUNTS PAYABLE SPECIALIST\n06\/2018\tZF North America, Northville, MI\tSkills:\n\u2022   Responsible for three-way invoice matching and payments,\tAccounts payable\nusing SAP, on behalf of my four assigned plants\n\u2022   Collaborated with plant buyers to ensure invoices are\t Audit coordination\nprocessed, posted, and paid in a timely manner\n\u2022   Proposed changes within plant invoicing structure to improve   Detail-Oriented\nprocessing efficiency\n\u2022   Generated monthly accrual reporting, within SAP, for the\tFast Learner\nPlant Controllers\nFile and database\n10\/2016 -\tPART-TIME ACCOUNTANT\/SUPERVISOR\tmanagement\n08\/2017\tCity of Wayne, Wayne, MI\nHighly Organized\n\u2022   Established and documented procedures that were initially\nnon-existent\tInvoice and payment\n\u2022   Audited bi-weekly payroll reports to ensure pay, taxes, and\tprocessing\nretirement numbers were correct\n\u2022   Point of contact for banking paperwork and primary signer\tMicrosoft Access\non all city checks\n\u2022   Reconciled daily cash deposit with end of day business\tMicrosoft Excel\nreports\n\u2022   Calculated and processed final retirement payments based\tMicrosoft PowerPoint\non contract terms\n\u2022   Security Administrator for all employees with access to BS&A   Microsoft Word\nSoftware\n\u2022   Worked with Plante Moran consultants to fix discrepancies in   Payroll and expense\nGeneral Ledger and Bank Reconciliations\tprocessing\n\n12\/2013-\tPART-TIME ACCOUNTING CLERK\t\t QuickBooks\n08\/2016\t35th District Court, Plymouth, MI\nReconciliations\n\u2022   Collaborated with IT to research software programs, which\nwould allow the Court to track fixed assets and calculate\tSage Accounting\ndepreciation.\n\u2022   Processed biweekly account payables\tSAP\nACCOUNTING CLERK,\n35th District Court, Plymouth, MI\n\n\u2022   Reconciled all activity between the Judicial Information Services Program, Sage 50\nAccounting, and bank statements\n\u2022   Compiled all necessary documents for the annual audit\n\u2022   Completed Payroll General Ledger entries when needed\n\u2022   Human Resource responsibility included health care calculations, travel\/expense\nreimbursement, and PTO tracking\n\n02\/2006-\tTAX PARAPROFESSIONAL\n06\/2007\tDeloitte Tax LLP, Ann Arbor, MI\n\n\u2022   Setup of client data using Deloitte's tax procedures and Deloitte's computer programs\n\u2022   Initiated tax return data transfers, between US and India Deloitte offices\n\u2022   Preparation of 1040 tax returns for Tax Managers\n\u2022   Generated invoices for assigned Deloitte clients\n\nEducation\nBACHELOR OF BUSINESS ADMINISTRATION, Eastern Michigan University\nConcentration: Accounting Information Systems\n\n\nLicenses\nLICENSED REAL ESTATE AGENT, Keller Williams Realty (August 2018)\n\nVolunteering\n\u2022   Social Media Coordinator for Canton High School Soccer Boosters\n\u2022   Canton Cup Tournament Registrar and Finance Committee member\n\u2022   Team Manager for Canton Soccer Club\n\u2022   Former Lead Chaperone for Plymouth-Canton Marching Band and Winter Guard\n\u2022   Bentley Elementary School Event Chairperson, which raised $1500 annually",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2021-11-25",
+        "SovrenSignature": [
+            "egkAAAAAAAA="
+        ]
+    }
+}

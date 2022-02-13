@@ -1,0 +1,1428 @@
+{
+    "ContactInformation": {
+        "Location": {
+            "CountryCode": "US",
+            "Regions": [
+                "TX"
+            ],
+            "Municipality": "Garland",
+            "GeoCoordinates": {
+                "Latitude": 32.912620544433594,
+                "Longitude": -96.6388931274414
+            }
+        }
+    },
+    "Education": {
+        "EducationDetails": [
+            {
+                "Id": "DEG-1",
+                "Text": "UNIVERSITY OF NORTH TEXAS\tDenton, Texas\nInterdisciplinary Art and Design Studies\t2012-2017",
+                "SchoolName": {
+                    "Raw": "UNIVERSITY OF NORTH TEXAS",
+                    "Normalized": "University of North Texas"
+                },
+                "SchoolType": "university",
+                "Degree": [],
+                "Majors": [
+                    "Interdisciplinary Art and Design Studies"
+                ],
+                "LastEducationDate": {
+                    "Date": "2017-01-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": false,
+                    "FoundDay": false
+                }
+            }
+        ]
+    },
+    "EmploymentHistory": {
+        "ExperienceSummary": {
+            "Description": "   ~~~~~~   is experienced in:  Marketing (Marketing Communications); and Sales.    ~~~~~~   appears to be a low-to-mid level candidate, with 3 years of experience.",
+            "MonthsOfWorkExperience": 32,
+            "MonthsOfManagementExperience": 0,
+            "ExecutiveType": "NONE",
+            "AverageMonthsPerEmployer": 10,
+            "FulltimeDirectHirePredictiveIndex": 37,
+            "ManagementStory": "",
+            "CurrentManagementLevel": "",
+            "ManagementScore": 0
+        },
+        "Positions": [
+            {
+                "Id": "POS-2",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Pressplay Film Festival",
+                        "Normalized": "Pressplay Film Festival"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": true,
+                "JobTitle": {
+                    "Raw": "EVENT COORDINATOR INTERN",
+                    "Normalized": "EVENT COORDINATOR INTERN",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2019-09-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-09-30",
+                    "IsCurrentDate": true,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "internship",
+                "TaxonomyName": "Supply Chain and Logistics",
+                "SubTaxonomyName": "Logistics",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Helped plan the Film Festival event as well as associated meetings, awards show, and conferences.\n\nSupported senior leadership by developing status reports on activities related to planning, scheduling,\ncancellation, inquiries, resourcing, risk mitigation and proposal development for the events.\n\n\nConducted live and taped interviews of filmmakers and festival goers for promotional materials.\n\nManaged event logistics and operations, including support staff, vendor services and volunteers.\nProviding creative counsel via email, video and voice calls, or in person."
+            },
+            {
+                "Id": "POS-1",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Confident",
+                        "Raw": "Lynne Malkoff Promotions, Inc",
+                        "Normalized": "Lynne Malkoff Promotions"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "Multitalented  Graphic  Designer  and  Marketing  Specialist",
+                    "Normalized": "Multitalented Graphic Designer and Marketing Specialist",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Multitalented  Graphic  Designer  and  Marketing",
+                        "Graphic  Designer  and  Marketing  Specialist",
+                        "Designer",
+                        "Specialist"
+                    ]
+                },
+                "StartDate": {
+                    "Date": "2019-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2020-08-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "Marketing Communications",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Multitalented  Graphic  Designer  and  Marketing  Specialist  with  extensive  experience  in multimedia marketing and video production. Passionate and driven to develop successful\n\ncampaigns that both satisfy clients and meet demanding growth objectives.\n\nWORK\tEXPERIENCE\n\nSALES AND MARKETING SPECIALIST\nLynne Malkoff Promotions, Inc\t|\tAugust 2019 - August 2020\n\nManaged full-cycle marketing and advertising strategies including estimating costs, managing resource\n\nallocation and adjusting production schedules.\n\nMaintain ed professional and technical knowledge by attending educational workshops; reviewing\npublications; establishing personal networks; participating in networking organizations\n\nWrote, created and designed engaging and successful marketing, advertising and website copy.\nWorked with manufacturers in the sourcing of PPE products for facilities across the nation increasing the company's profitability and success.\nCreated a wide range of graphics and layouts for product illustrations, product artwork, and websites\ngraphics with software such as photoshop."
+            },
+            {
+                "Id": "POS-3",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "SOCIAL MEDIA MARKETER",
+                        "Normalized": "SOCIAL MEDIA MARKETER"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "GRAPHIC DESIGNER",
+                    "Normalized": "GRAPHIC DESIGNER",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2018-02-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2019-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Marketing",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Created successful videos and other promotional graphics that led to thousands of views and increased engagement on social media.\n\nAssisted with the successful charity event Canvas4Kids that featured Kiefer Sutherland, Ray Wylie\nHubbard, Zane Williams and many other country musicians.\no\tWORKS INDEPENDENTLY OR AS PART OF A\t Worked within tight time constraints under a fast paced and chaotic environment.\n\nTEAM   Creat ed design elements for a successful social media and event marketing strategy.\n\no\tSTRONG ORGANIZATIONAL SKILLS\tWorked the soundboard and remote broadcast equipment during  live broadcasts."
+            },
+            {
+                "Id": "POS-4",
+                "Employer": {
+                    "Name": {
+                        "Probability": "Probable",
+                        "Raw": "CONTENT CREATION",
+                        "Normalized": "CONTENT CREATION"
+                    }
+                },
+                "IsSelfEmployed": false,
+                "IsCurrent": false,
+                "JobTitle": {
+                    "Raw": "SALES ASSOCIATE",
+                    "Normalized": "SALES ASSOCIATE",
+                    "Probability": "Confident"
+                },
+                "StartDate": {
+                    "Date": "2018-02-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "EndDate": {
+                    "Date": "2019-07-01",
+                    "IsCurrentDate": false,
+                    "FoundYear": true,
+                    "FoundMonth": true,
+                    "FoundDay": false
+                },
+                "JobType": "directHire",
+                "TaxonomyName": "Sales",
+                "SubTaxonomyName": "General",
+                "JobLevel": "Entry Level",
+                "TaxonomyPercentage": 0,
+                "Description": "Worked alongside retail representatives to boost sales by enhancing product presentations and advertising collateral.\nTrained new employees on up-selling, cross-selling, and customer service techniques Successfully\nassisted hundreds of customers per day in-person and via telephone with purchase decisions,\ntransactions, returns, and inquiries.\nApplied security and loss prevention training toward recognizing risks and reducing store theft.\n\nMaintained records related to sales, returns and inventory availability."
+            }
+        ]
+    },
+    "SkillsData": [
+        {
+            "Root": "Sovren",
+            "Taxonomies": [
+                {
+                    "Id": "14",
+                    "Name": "Marketing",
+                    "PercentOfOverall": 30,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "592",
+                            "SubTaxonomyName": "Marketing Communications",
+                            "PercentOfOverall": 12,
+                            "PercentOfParent": 40,
+                            "Skills": [
+                                {
+                                    "Id": "1400153",
+                                    "Name": "Advertising",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 29
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1400152",
+                                    "Name": "Marketing Specialist",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "1400141",
+                                    "Name": "Marketing Strategy",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "249",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 10,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "021241",
+                                    "Name": "Marketing",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 29
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "025743",
+                                    "Name": "Video Production",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "HOBBIES"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "223",
+                            "SubTaxonomyName": "Market Research",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 10,
+                            "Skills": [
+                                {
+                                    "Id": "1400061",
+                                    "Name": "Marketing Specialist",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "021254",
+                                    "Name": "Marketing Strategy",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "226",
+                            "SubTaxonomyName": "Channel Management",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 7,
+                            "Skills": [
+                                {
+                                    "Id": "1400215",
+                                    "Name": "Retail Marketing",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "1400216",
+                                            "Name": "Retail",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 17
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2019-07-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "585",
+                            "SubTaxonomyName": "Product",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 5,
+                            "Skills": [
+                                {
+                                    "Id": "1400003",
+                                    "Name": "Marketing Strategy",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "700",
+                            "SubTaxonomyName": "Production Studios",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 3,
+                            "Skills": [
+                                {
+                                    "Id": "1400264",
+                                    "Name": "Video Production",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "HOBBIES"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "224",
+                            "SubTaxonomyName": "Public Relations",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "1400175",
+                                    "Name": "Content Creation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "20",
+                    "Name": "Sales",
+                    "PercentOfOverall": 30,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "105",
+                            "SubTaxonomyName": "General",
+                            "PercentOfOverall": 30,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "030018",
+                                    "Name": "Retail",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-07-01"
+                                    }
+                                },
+                                {
+                                    "Id": "030684",
+                                    "Name": "Sales Associate",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "97",
+                    "Name": "Supply Chain and Logistics",
+                    "PercentOfOverall": 11,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "460",
+                            "SubTaxonomyName": "Logistics",
+                            "PercentOfOverall": 7,
+                            "PercentOfParent": 60,
+                            "Skills": [
+                                {
+                                    "Id": "022309",
+                                    "Name": "Logistics",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                },
+                                {
+                                    "Id": "022740",
+                                    "Name": "Scheduling",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "459",
+                            "SubTaxonomyName": "Inventory",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 40,
+                            "Skills": [
+                                {
+                                    "Id": "020086",
+                                    "Name": "Inventory",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "34",
+                    "Name": "Business Operations and General Business",
+                    "PercentOfOverall": 8,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "437",
+                            "SubTaxonomyName": "General Skills and Activities",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 55,
+                            "Skills": [
+                                {
+                                    "Id": "016936",
+                                    "Name": "Estimating",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-08-01"
+                                    }
+                                },
+                                {
+                                    "Id": "005880",
+                                    "Name": "Proposal Development",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "436",
+                            "SubTaxonomyName": "Management Activities or Functions",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 45,
+                            "Skills": [
+                                {
+                                    "Id": "003875",
+                                    "Name": "Operations",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "78",
+                    "Name": "Retail",
+                    "PercentOfOverall": 6,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "217",
+                            "SubTaxonomyName": "Safety and Loss Prevention",
+                            "PercentOfOverall": 4,
+                            "PercentOfParent": 80,
+                            "Skills": [
+                                {
+                                    "Id": "020921",
+                                    "Name": "Loss Prevention",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-4"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "511",
+                            "SubTaxonomyName": "Positions",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 20,
+                            "Skills": [
+                                {
+                                    "Id": "022943",
+                                    "Name": "Retail Sales",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "006920",
+                                            "Name": "Customer Service",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 17
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2019-07-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "5",
+                    "Name": "Engineering",
+                    "PercentOfOverall": 5,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "136",
+                            "SubTaxonomyName": "Environmental",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 68,
+                            "Skills": [
+                                {
+                                    "Id": "002580",
+                                    "Name": "Mitigation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-2"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 13
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-09-30"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "307",
+                            "SubTaxonomyName": "General Engineering",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 32,
+                            "Skills": [
+                                {
+                                    "Id": "080519",
+                                    "Name": "Estimating",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-08-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "1",
+                    "Name": "Administrative or Clerical",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "112",
+                            "SubTaxonomyName": "Messages and Contact",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 67,
+                            "Skills": [
+                                {
+                                    "Id": "023735",
+                                    "Name": "Customer Service Oriented",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "013326",
+                                            "Name": "Customer Service",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "WORK HISTORY",
+                                                    "Id": "POS-4"
+                                                }
+                                            ],
+                                            "ExistsInText": true,
+                                            "MonthsExperience": {
+                                                "Value": 17
+                                            },
+                                            "LastUsed": {
+                                                "Value": "2019-07-01"
+                                            }
+                                        }
+                                    ],
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "113",
+                            "SubTaxonomyName": "Admin",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 33,
+                            "Skills": [
+                                {
+                                    "Id": "004041",
+                                    "Name": "Organizational Skills",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-07-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "90",
+                    "Name": "Personal Attributes",
+                    "PercentOfOverall": 3,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "532",
+                            "SubTaxonomyName": "Aptitudes",
+                            "PercentOfOverall": 3,
+                            "PercentOfParent": 89,
+                            "Skills": [
+                                {
+                                    "Id": "031014",
+                                    "Name": "Detail Oriented",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "022714",
+                                    "Name": "Organizational Skills",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-3"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 17
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2019-07-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "528",
+                            "SubTaxonomyName": "Attitude",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 11,
+                            "Skills": [
+                                {
+                                    "Id": "026353",
+                                    "Name": "Self-Starter",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "SKILLS"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "33",
+                    "Name": "Graphic Design",
+                    "PercentOfOverall": 2,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "432",
+                            "SubTaxonomyName": "Software",
+                            "PercentOfOverall": 2,
+                            "PercentOfParent": 99,
+                            "Skills": [
+                                {
+                                    "Id": "013418",
+                                    "Name": "Adobe Illustrator",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "555154316",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "HOBBIES"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "013452",
+                                    "Name": "Adobe Premiere",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "HOBBIES"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "Variations": [
+                                        {
+                                            "Id": "555154600",
+                                            "Name": "Premiere",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "HOBBIES"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "024922",
+                                    "Name": "After Effects",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "HOBBIES"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "025873",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "433",
+                            "SubTaxonomyName": "Techniques and Activities",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 1,
+                            "Skills": [
+                                {
+                                    "Id": "022091",
+                                    "Name": "Animation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "HOBBIES"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "10",
+                    "Name": "Information Technology",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "349",
+                            "SubTaxonomyName": "Operations, Monitoring and Software Management",
+                            "PercentOfOverall": 1,
+                            "PercentOfParent": 100,
+                            "Skills": [
+                                {
+                                    "Id": "3490044",
+                                    "Name": "Networking",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-08-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "27",
+                    "Name": "Light Technical\/Trades\/Skilled Labor",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "294",
+                            "SubTaxonomyName": "Electronic",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 53,
+                            "Skills": [
+                                {
+                                    "Id": "025744",
+                                    "Name": "Video Production",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "HOBBIES"
+                                        },
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-08-01"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "286",
+                            "SubTaxonomyName": "Carpentry and Painting",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 47,
+                            "Skills": [
+                                {
+                                    "Id": "004273",
+                                    "Name": "Painting",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "HOBBIES"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "93",
+                    "Name": "User Experience",
+                    "PercentOfOverall": 1,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "569",
+                            "SubTaxonomyName": "Graphic Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 44,
+                            "Skills": [
+                                {
+                                    "Id": "5570118",
+                                    "Name": "Animation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "HOBBIES"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "5570122",
+                                    "Name": "Illustration",
+                                    "ExistsInText": false,
+                                    "Variations": [
+                                        {
+                                            "Id": "5570123",
+                                            "Name": "Illustrator",
+                                            "FoundIn": [
+                                                {
+                                                    "SectionType": "HOBBIES"
+                                                }
+                                            ],
+                                            "ExistsInText": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Id": "5570121",
+                                    "Name": "Sketching",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "HOBBIES"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "566",
+                            "SubTaxonomyName": "Industrial Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 16,
+                            "Skills": [
+                                {
+                                    "Id": "5570087",
+                                    "Name": "Sketching",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "HOBBIES"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "565",
+                            "SubTaxonomyName": "Visual Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 16,
+                            "Skills": [
+                                {
+                                    "Id": "5570074",
+                                    "Name": "Sketching",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "HOBBIES"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "572",
+                            "SubTaxonomyName": "Interactive Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "5570156",
+                                    "Name": "Animation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "HOBBIES"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "564",
+                            "SubTaxonomyName": "Motion Design",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 12,
+                            "Skills": [
+                                {
+                                    "Id": "5570058",
+                                    "Name": "Animation",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "HOBBIES"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "0",
+                    "Name": "Common End-user Software",
+                    "PercentOfOverall": 0,
+                    "SubTaxonomies": [
+                        {
+                            "SubTaxonomyId": "229",
+                            "SubTaxonomyName": "Visual",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "014688",
+                                    "Name": "After Effects",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "HOBBIES"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                },
+                                {
+                                    "Id": "019533",
+                                    "Name": "Illustrator",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "HOBBIES"
+                                        }
+                                    ],
+                                    "ExistsInText": true
+                                }
+                            ]
+                        },
+                        {
+                            "SubTaxonomyId": "108",
+                            "SubTaxonomyName": "Core Office",
+                            "PercentOfOverall": 0,
+                            "PercentOfParent": 0,
+                            "Skills": [
+                                {
+                                    "Id": "004729",
+                                    "Name": "Photoshop",
+                                    "FoundIn": [
+                                        {
+                                            "SectionType": "WORK HISTORY",
+                                            "Id": "POS-1"
+                                        }
+                                    ],
+                                    "ExistsInText": true,
+                                    "MonthsExperience": {
+                                        "Value": 12
+                                    },
+                                    "LastUsed": {
+                                        "Value": "2020-08-01"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "LanguageCompetencies": [
+        {
+            "Language": "English",
+            "LanguageCode": "en",
+            "FoundInContext": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "Achievements": [
+        "Helped plan the Film Festival event as well as associated meetings, awards show, and conferences"
+    ],
+    "QualificationsSummary": "PERSONAL\tSKILLS\n\no\tADAPTABILITY\n\no\tMOTIVATED SELF-STARTER\n\no\tDETAIL ORIENTED + ANALYTICAL\nSPECIALIST",
+    "Hobbies": "MOTION GRAPHICS ARTIST\nTrevor Something \"Feel the Waves\" Music Video\t|\tMay 2018 - July 2018\no\tFILMMAKING\nCreated graphics and animation for the music video for the song, \"Feel the Waves\"\no\tHEALTH\/FITNESS\tCompleted all project assignments according to strict deadlines and developed creative materials,\nfrom conceptualization through execution\no\nPAINTING\tCreated backgrounds and edited key frames throughout the animation\n\no\tSKETCHING\tUsed multiple computer programs, including Adobe Premiere Pro, After Effects, and Animate to\nachieve  the artist 's desired aesthetic\no\t\t\tGained over 50,000 views on Youtube as well as other social media platforms\nLITERATURE\tand Illustrator to achieve the artist's desired aesthetic\nVIDEO PRODUCTION ASSISTANT\n\n\"Love Breaks\" - Independent Short Film\t|\tApril 2017 - August 2017\n\nCommunicated with cast and crew and help the director implement his ideas for each scene shoot\nCatered to the needs of the cast and crew and making sure everyone is working efficiently working\nunder a fast-paced environment with strict deadlines.\n\nApplied general beauty makeup and SFX makeup to the talent.\n\nDesigned and executed strategies for implementing the shooting schedule in an effective manner\n\nAssisted costume designers, directors, camera people and other crew members",
+    "ResumeMetadata": {
+        "FoundSections": [
+            {
+                "FirstLineNumber": 4,
+                "LastLineNumber": 40,
+                "SectionType": "CONTACT INFO",
+                "HeaderTextFound": "CONTACT"
+            },
+            {
+                "FirstLineNumber": 41,
+                "LastLineNumber": 50,
+                "SectionType": "SKILLS",
+                "HeaderTextFound": "PERSONAL\tSKILLS"
+            },
+            {
+                "FirstLineNumber": 51,
+                "LastLineNumber": 114,
+                "SectionType": "WORK HISTORY",
+                "HeaderTextFound": "PROFILE"
+            },
+            {
+                "FirstLineNumber": 115,
+                "LastLineNumber": 141,
+                "SectionType": "HOBBIES",
+                "HeaderTextFound": "INTERESTS"
+            },
+            {
+                "FirstLineNumber": 142,
+                "LastLineNumber": 146,
+                "SectionType": "EDUCATION",
+                "HeaderTextFound": "EDUCATION"
+            },
+            {
+                "FirstLineNumber": 147,
+                "LastLineNumber": 159,
+                "SectionType": "REFERENCES",
+                "HeaderTextFound": "REFERENCES"
+            }
+        ],
+        "ResumeQuality": [
+            {
+                "Level": "Fatal Problems Found",
+                "Findings": [
+                    {
+                        "QualityCode": "433",
+                        "Message": "We detected that this document contained at least some data that was laid out as columns or tables. We rearranged that data to make it more usable. NEVER use columns or tables in a resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Major Issues Found",
+                "Findings": [
+                    {
+                        "QualityCode": "300",
+                        "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+                    }
+                ]
+            },
+            {
+                "Level": "Data Missing",
+                "Findings": [
+                    {
+                        "QualityCode": "213",
+                        "Message": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                    },
+                    {
+                        "QualityCode": "231",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "DEG-1"
+                            }
+                        ],
+                        "Message": "Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                    }
+                ]
+            },
+            {
+                "Level": "Suggested Improvements",
+                "Findings": [
+                    {
+                        "QualityCode": "111",
+                        "Message": "Your resume includes a References section. References should NEVER be included in a resume."
+                    },
+                    {
+                        "QualityCode": "112",
+                        "Message": "The following section was identified as a skills section type: 'PERSONAL\tSKILLS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education. THIS IS INCREDIBLY IMPORTANT FOR AI MATCHING ALGORITHMS"
+                    },
+                    {
+                        "QualityCode": "151",
+                        "SectionIdentifiers": [
+                            {
+                                "SectionType": "CONTACT INFO",
+                                "Id": "0"
+                            }
+                        ],
+                        "Message": "Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                    }
+                ]
+            }
+        ],
+        "PlainText": "   ~~~~~~  \nG RAPHIC DESIGNER\t\/  MARKETING\n\n\nCONTACT\n\n   ~~~~~~~~~  \n\n   ~~~~~~~~~~~~~~~~~~  \n\nGarland, TX\n   ~~~~~~~~~~~~~~~~~~~~~~~~~  \n\n\nPicholi.pb.online\n\n\nTECHNICAL\tSKILLS\n\n\no\tADOBE PREMIERE PRO: 7+ YEARS\n\no\tADOBE   AFTER EFFECTS: 7+ YEARS\n\no\tADOBE PHOTOSHOP: 7+ YEARS\n\no\tADOBE ILLUSTRATOR\n\no\tFINAL CUT PRO\n\no\tWORDPRESS\n\no\tGRAPHIC DESIGN\n\n\no\nVISUAL  DESIGN\n\no\tCONTENT AND LAYOUT DESIGN\n\n\nPERSONAL\tSKILLS\n\no\tADAPTABILITY\n\no\tMOTIVATED SELF-STARTER\n\no\tDETAIL ORIENTED + ANALYTICAL\nSPECIALIST\n\n\nPROFILE\n\nMultitalented  Graphic  Designer  and  Marketing  Specialist  with  extensive  experience  in\nmultimedia marketing and video production. Passionate and driven to develop successful\n\ncampaigns that both satisfy clients and meet demanding growth objectives.\n\nWORK\tEXPERIENCE\n\n\nSALES AND MARKETING SPECIALIST\nLynne Malkoff Promotions, Inc\t|\tAugust 2019 - August 2020\n\nManaged full-cycle marketing and advertising strategies including estimating costs, managing resource\n\nallocation and adjusting production schedules.\n\nMaintain ed professional and technical knowledge by attending educational workshops; reviewing\npublications; establishing personal networks; participating in networking organizations\n\nWrote, created and designed engaging and successful marketing, advertising and website copy.\nWorked with manufacturers in the sourcing of PPE products for facilities across the nation increasing\nthe company's profitability and success.\nCreated a wide range of graphics and layouts for product illustrations, product artwork, and websites\ngraphics with software such as photoshop.\n\nEVENT COORDINATOR INTERN\nPressplay Film Festival\t|\tSeptember 2019 to Present\nHelped plan the Film Festival event as well as associated meetings, awards show, and conferences.\n\nSupported senior leadership by developing status reports on activities related to planning, scheduling,\ncancellation, inquiries, resourcing, risk mitigation and proposal development for the events.\n\n\nConducted live and taped interviews of filmmakers and festival goers for promotional materials.\n\nManaged event logistics and operations, including support staff, vendor services and volunteers.\nProviding creative counsel via email, video and voice calls, or in person.\n\nGRAPHIC DESIGNER - SOCIAL MEDIA MARKETER\nKHYI 95.3 The Range\t|\tFebruary 2018 - July 2019\nCreated successful videos and other promotional graphics that led to thousands of views and\nincreased engagement on social media.\n\nAssisted with the successful charity event Canvas4Kids that featured Kiefer Sutherland, Ray Wylie\nHubbard, Zane Williams and many other country musicians.\no\tWORKS INDEPENDENTLY OR AS PART OF A\t Worked within tight time constraints under a fast paced and chaotic environment.\n\nTEAM\t\t Creat ed design elements for a successful social media and event marketing strategy.\n\no\tSTRONG ORGANIZATIONAL SKILLS\tWorked the soundboard and remote broadcast equipment during  live broadcasts.\n\nSALES ASSOCIATE\no\tCONTENT CREATION\nDillard's, Inc\t|\tFebruary 2018 - July 2019\n\nWorked alongside retail representatives to boost sales by enhancing product presentations and\nadvertising collateral.\nTrained new employees on up-selling, cross-selling, and customer service techniques Successfully\nassisted hundreds of customers per day in-person and via telephone with purchase decisions,\ntransactions, returns, and inquiries.\nApplied security and loss prevention training toward recognizing risks and reducing store theft.\n\nMaintained records related to sales, returns and inventory availability.\nINTERESTS\tMOTION GRAPHICS ARTIST\nTrevor Something \"Feel the Waves\" Music Video\t|\tMay 2018 - July 2018\no\tFILMMAKING\nCreated graphics and animation for the music video for the song, \"Feel the Waves\"\no\tHEALTH\/FITNESS\tCompleted all project assignments according to strict deadlines and developed creative materials,\nfrom conceptualization through execution\no\nPAINTING\tCreated backgrounds and edited key frames throughout the animation\n\no\tSKETCHING\tUsed multiple computer programs, including Adobe Premiere Pro, After Effects, and Animate to\nachieve  the artist 's desired aesthetic\no\t\t\tGained over 50,000 views on Youtube as well as other social media platforms\nLITERATURE\tand Illustrator to achieve the artist's desired aesthetic\nVIDEO PRODUCTION ASSISTANT\n\n\"Love Breaks\" - Independent Short Film\t|\tApril 2017 - August 2017\n\nCommunicated with cast and crew and help the director implement his ideas for each scene shoot\nCatered to the needs of the cast and crew and making sure everyone is working efficiently working\nunder a fast-paced environment with strict deadlines.\n\nApplied general beauty makeup and SFX makeup to the talent.\n\nDesigned and executed strategies for implementing the shooting schedule in an effective manner\n\nAssisted costume designers, directors, camera people and other crew members\n\nEDUCATION\n\nUNIVERSITY OF NORTH TEXAS\tDenton, Texas\nInterdisciplinary Art and Design Studies\t2012-2017\n\n          \n\n                      \n                                      \n                                          \n                             \n              \n\n\n             \n                         \n                   \n                                ",
+        "DocumentLanguage": "en",
+        "DocumentCulture": "en-US",
+        "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "DocumentLastModified": "2020-09-30",
+        "SovrenSignature": [
+            "2TX+\/\/\/\/\/\/8="
+        ]
+    }
+}
