@@ -152,6 +152,7 @@ if __name__ == '__main__':
                 temp['filename'] = file_name
                 temp['geoCoordinates'] = geoCoordinates
                 temp['country'] = get_country(geoCoordinates)
+                temp['plain_text'] = json_data['ResumeMetadata']['PlainText']
                 output.append(temp)
 
             if len(output) > 0:
