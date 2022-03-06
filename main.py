@@ -7,36 +7,27 @@ import geopy.geocoders
 from geopy.geocoders import Nominatim
 
 
-JOB_FIELDS = {
-    'CurrentJobIsManagement': "bool",
-    'HighestManagementScore': {
-        'Value': "int"
-    },
-    'ManagementLevel': "str",
-    'ExecutiveType': "str",
-    'MinimumYears': {
-        'Value': "int"
-    },
-    'RequiredDegree': "str",
-    'JobTitles': {
-        'MainEmployerName': "str",
-        'JobTitle': "list"
-    },
-    'EmployerNames': {
-        "MainEmployerName": "str",
-        "EmployerName": "list"
-    },
-    'Degrees': "list",
-    'SkillsData': "list",
-    'JobMetadata': {
-        'PlainText': "str",
-        'DocumentLanguage': "str",
-        'ParserSettings': 'str',
-        'DocumentLastModified': "str",
-        "SovrenSignature": "list"
-    }
 
-}
+# CV config
+
+# {
+#     "dir_path": "C:\\Users\\longe\\Documents\\Projects\\CollegeProject\\JsonProject\\CVs",
+#     "dir_path": "C:\\Users\\longe\\Documents\\Projects\\CollegeProject\\JsonProject\\CVs",
+#     "files": [],
+#     "file_extension": "json",
+#     "output_directory": "",
+#     "output_file": "applicant_info.json"
+# }
+
+# job order
+
+# {
+#     "dir_path": "C:\\Users\\longe\\Documents\\Projects\\CollegeProject\\JsonProject\\joborder",
+#     "files": [],
+#     "file_extension": "json",
+#     "output_directory": "",
+#     "output_file": "joborder_info.json"
+# }
 
 
 # initializing geoapi
@@ -152,9 +143,17 @@ if __name__ == '__main__':
                 temp['filename'] = file_name
                 #temp['geoCoordinates'] = geoCoordinates
                 #temp['country'] = get_country(geoCoordinates)
-                temp['plain_text'] = json_data['ResumeMetadata']['PlainText']
-                temp['professional_summary'] = json_data.get('ProfessionalSummary', None)
-                temp['qualification_summary'] = json_data.get('QualificationSummary', None)
+
+                ##################### CV
+
+                # temp['plain_text'] = json_data['ResumeMetadata']['PlainText']
+                # temp['professional_summary'] = json_data.get('ProfessionalSummary', None)
+                # temp['qualification_summary'] = json_data.get('QualificationSummary', None)
+
+                ############################ Job order
+
+                temp['plain_text'] = json_data['JobMetadata']['PlainText']
+                temp['job_title'] = json_data.get('JobTitles', None)
                 output.append(temp)
 
             if len(output) > 0:

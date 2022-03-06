@@ -1,7 +1,8 @@
+
 {
-  "dir_path": "C:\\Users\\longe\\Documents\\Projects\\CollegeProject\\JsonProject\\CVs",
+  "dir_path": "C:\\Users\\longe\\Documents\\Projects\\CollegeProject\\JsonProject\\joborder",
   "files": [],
   "file_extension": "json",
   "output_directory": "",
-  "output_file": "applicant_info.json"
+  "output_file": "joborder_info.json"
 }
