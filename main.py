@@ -147,12 +147,14 @@ if __name__ == '__main__':
                 temp = {}
                 json_data = read_json_file(file)
                 file_name = os.path.basename(file)
-                geoCoordinates = json_data['ContactInformation']['Location']['GeoCoordinates']
+                #geoCoordinates = json_data['ContactInformation']['Location']['GeoCoordinates']
                 # write in output file
                 temp['filename'] = file_name
-                temp['geoCoordinates'] = geoCoordinates
-                temp['country'] = get_country(geoCoordinates)
+                #temp['geoCoordinates'] = geoCoordinates
+                #temp['country'] = get_country(geoCoordinates)
                 temp['plain_text'] = json_data['ResumeMetadata']['PlainText']
+                temp['professional_summary'] = json_data.get('ProfessionalSummary', None)
+                temp['qualification_summary'] = json_data.get('QualificationSummary', None)
                 output.append(temp)
 
             if len(output) > 0:
