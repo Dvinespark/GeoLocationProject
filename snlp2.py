@@ -36,32 +36,64 @@ def text_matched_cvs(applicant_data, job_data):
 
     # Loop through each applicant and see if it falls on those 3
     # mark a flag if applicant falls under a same row i.e category sub-category and jobs in one row
-    category_list = []
-    sub_category_list = []
-    job_list = []
+    category_list = job_data.category.tolist()
+    sub_category_list = [item for sublist in job_data.sub_jobs.tolist() for item in sublist]
+    job_list = [item for sublist in job_data.jobs.tolist() for sub_sub_list in sublist for item in sub_sub_list]
     category_flag = False
-    sentence_list = [applicant['qualification_summary'] if applicant['qualification_summary']
-                     else applicant['professional_summary'] if applicant['professional_summary']
-    else applicant['plain_text'][0:100] for applicant in applicant_data]
     replace_flag = False  # flag for replacing first element of sentences of a job
-    for job in job_data:
-        if replace_flag:
-            sentence_list.pop(0)
-        sentence_to_match_against = job['plain_text']
-        sentence_list.insert(0, sentence_to_match_against)
-        replace_flag = True
-        sentence_embeddings = model.encode(sentence_list)
-        result = cosine_similarity(
-            [sentence_embeddings[0]],
-            sentence_embeddings[1:]
-        )
 
-        threshold = 0.8
-        matched_applicants_index = []
+    # looping through applicant
+    for applicant in applicant_info:
+        sentence = applicant['qualification_summary'] if applicant['qualification_summary'] else \
+            applicant['professional_summary'] if applicant['professional_summary'] else applicant['plain_text'][0:100]
+        if replace_flag:
+            category_list.pop(0)
+            sub_category_list.pop(0)
+            job_list.pop(0)
+        category_list.insert(0, sentence)
+        sub_category_list.insert(0, sentence)
+        job_list.insert(0, sentence)
+        sentence_embeddings1 = model.encode(category_list)
+        sentence_embeddings2 = model.encode(sub_category_list)
+        sentence_embeddings3 = model.encode(job_list)
+
+        # for category
+        result = cosine_similarity(
+            [sentence_embeddings1[0]],
+            sentence_embeddings1[1:]
+        )
+        max_value = result
         for index, value in enumerate(result.tolist()[0]):
-            if value > threshold:
-                matched_applicants_index.append(index)
-        job['best_matched_applicants'] = matched_applicants_index
+            if value == max_value:
+                applicant['best_category'] = sentence_embeddings1[index+1]
+                applicant['best_category_score'] = max_value
+                break
+
+        # for sub_category
+        result = cosine_similarity(
+            [sentence_embeddings2[0]],
+            sentence_embeddings2[1:]
+        )
+        max_value = result
+        for index, value in enumerate(result.tolist()[0]):
+            if value == max_value:
+                applicant['best_sub_category'] = sentence_embeddings2[index+1]
+                applicant['best_sub_category_score'] = max_value
+                break
+        # for jobs
+        result = cosine_similarity(
+            [sentence_embeddings3[0]],
+            sentence_embeddings3[1:]
+        )
+        max_value = result
+        for index, value in enumerate(result.tolist()[0]):
+            if value == max_value:
+                applicant['best_job'] = sentence_embeddings3[index+1]
+                applicant['best_job_score'] = max_value
+                break
+
+        replace_flag = True
+
     return job_data
 
 
